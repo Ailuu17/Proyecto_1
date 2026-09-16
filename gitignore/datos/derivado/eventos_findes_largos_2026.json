@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "anio": 2026,
+    "fecha_recoleccion": "2026-09-14T20:43:25.684717",
+    "total_findes_largos": 11,
+    "total_eventos_encontrados": 14,
+    "fuentes": {
+      "uruguay_api": [
+        "Antel Arena",
+        "Teatro Solís",
+        "Tickantel",
+        "RedTickets",
+        "Cartelera (Billboard)"
+      ],
+      "setlist_fm": true
+    }
+  },
+  "fines_de_semana_largos": [
+    {
+      "id": 1,
+      "nombre": "Año Nuevo",
+      "inicio": "2026-01-01",
+      "fin": "2026-01-04",
+      "inicio_formateado": "Jueves 01/01/2026",
+      "fin_formateado": "Domingo 04/01/2026",
+      "duracion_dias": 4,
+      "es_puente": true,
+      "estado": "pasado",
+      "feriados": [
+        "Año Nuevo"
+      ],
+      "total_eventos": 0,
+      "eventos": []
+    },
+    {
+      "id": 2,
+      "nombre": "Día de los Niños",
+      "inicio": "2026-01-03",
+      "fin": "2026-01-06",
+      "inicio_formateado": "Sábado 03/01/2026",
+      "fin_formateado": "Martes 06/01/2026",
+      "duracion_dias": 4,
+      "es_puente": true,
+      "estado": "pasado",
+      "feriados": [
+        "Día de los Niños"
+      ],
+      "total_eventos": 0,
+      "eventos": []
+    },
+    {
+      "id": 3,
+      "nombre": "Carnaval, Carnaval",
+      "inicio": "2026-02-14",
+      "fin": "2026-02-17",
+      "inicio_formateado": "Sábado 14/02/2026",
+      "fin_formateado": "Martes 17/02/2026",
+      "duracion_dias": 4,
+      "es_puente": false,
+      "estado": "pasado",
+      "feriados": [
+        "Carnaval",
+        "Carnaval"
+      ],
+      "total_eventos": 0,
+      "eventos": []
+    },
+    {
+      "id": 4,
+      "nombre": "Semana de Turismo, Semana de Turismo",
+      "inicio": "2026-04-02",
+      "fin": "2026-04-05",
+      "inicio_formateado": "Jueves 02/04/2026",
+      "fin_formateado": "Domingo 05/04/2026",
+      "duracion_dias": 4,
+      "es_puente": false,
+      "estado": "pasado",
+      "feriados": [
+        "Semana de Turismo",
+        "Semana de Turismo"
+      ],
+      "total_eventos": 0,
+      "eventos": []
+    },
+    {
+      "id": 5,
+      "nombre": "Día de los Trabajadores",
+      "inicio": "2026-05-01",
+      "fin": "2026-05-03",
+      "inicio_formateado": "Viernes 01/05/2026",
+      "fin_formateado": "Domingo 03/05/2026",
+      "duracion_dias": 3,
+      "es_puente": false,
+      "estado": "pasado",
+      "feriados": [
+        "Día de los Trabajadores"
+      ],
+      "total_eventos": 0,
+      "eventos": []
+    },
+    {
+      "id": 6,
+      "nombre": "Batalla de las Piedras",
+      "inicio": "2026-05-16",
+      "fin": "2026-05-18",
+      "inicio_formateado": "Sábado 16/05/2026",
+      "fin_formateado": "Lunes 18/05/2026",
+      "duracion_dias": 3,
+      "es_puente": false,
+      "estado": "pasado",
+      "feriados": [
+        "Batalla de las Piedras"
+      ],
+      "total_eventos": 5,
+      "eventos": [
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Asspera",
+          "lugar": "Live Era, Montevideo",
+          "fechas": [
+            "2026-05-16"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/asspera/2026/live-era-montevideo-uruguay-5b4bffd0.html",
+          "descripcion": "Gira/Tour: Back to the Bizarra Actitud Tour 2026"
+        },
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Punkzer",
+          "lugar": "Montevideo Music Box, Montevideo",
+          "fechas": [
+            "2026-05-16"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/punkzer/2026/montevideo-music-box-montevideo-uruguay-5374d719.html",
+          "descripcion": "Gira/Tour: N/D"
+        },
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: 2 Minutos",
+          "lugar": "Montevideo Music Box, Montevideo",
+          "fechas": [
+            "2026-05-16"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/2-minutos/2026/montevideo-music-box-montevideo-uruguay-43499b9b.html",
+          "descripcion": "Gira/Tour: N/D"
+        },
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Fernando Cabrera",
+          "lugar": "La Trastienda, Montevideo",
+          "fechas": [
+            "2026-05-16"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/fernando-cabrera/2026/la-trastienda-montevideo-uruguay-1b7751e0.html",
+          "descripcion": "Gira/Tour: N/D"
+        },
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Niña Lobo",
+          "lugar": "Sala del Museo, Montevideo",
+          "fechas": [
+            "2026-05-16"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/nina-lobo/2026/sala-del-museo-montevideo-uruguay-1b72fd3c.html",
+          "descripcion": "Gira/Tour: N/D"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Natalicio de Artigas y Día del Nunca Más",
+      "inicio": "2026-06-19",
+      "fin": "2026-06-21",
+      "inicio_formateado": "Viernes 19/06/2026",
+      "fin_formateado": "Domingo 21/06/2026",
+      "duracion_dias": 3,
+      "es_puente": false,
+      "estado": "pasado",
+      "feriados": [
+        "Natalicio de Artigas y Día del Nunca Más"
+      ],
+      "total_eventos": 4,
+      "eventos": [
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Los Chanchos Salvajes",
+          "lugar": "Tazu Rock Bar, Montevideo",
+          "fechas": [
+            "2026-06-20"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/los-chanchos-salvajes/2026/tazu-rock-bar-montevideo-uruguay-6b7306e6.html",
+          "descripcion": "Gira/Tour: N/D"
+        },
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Zeballos",
+          "lugar": "Antel Arena, Montevideo",
+          "fechas": [
+            "2026-06-20"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/zeballos/2026/antel-arena-montevideo-uruguay-4b770fe6.html",
+          "descripcion": "Gira/Tour: Amor fiado"
+        },
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Motor Eterno",
+          "lugar": "La Kosta, Paysandú",
+          "fechas": [
+            "2026-06-19"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/motor-eterno/2026/la-kosta-paysandu-uruguay-4b72df72.html",
+          "descripcion": "Gira/Tour: N/D"
+        },
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Big Gun",
+          "lugar": "Live Era, Montevideo",
+          "fechas": [
+            "2026-06-19"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/big-gun/2026/live-era-montevideo-uruguay-4372eb33.html",
+          "descripcion": "Gira/Tour: N/D"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Día de la Independencia",
+      "inicio": "2026-08-22",
+      "fin": "2026-08-25",
+      "inicio_formateado": "Sábado 22/08/2026",
+      "fin_formateado": "Martes 25/08/2026",
+      "duracion_dias": 4,
+      "es_puente": true,
+      "estado": "pasado",
+      "feriados": [
+        "Día de la Independencia"
+      ],
+      "total_eventos": 2,
+      "eventos": [
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Olivia Wald",
+          "lugar": "Sala del Museo, Montevideo",
+          "fechas": [
+            "2026-08-23"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/olivia-wald/2026/sala-del-museo-montevideo-uruguay-b72491e.html",
+          "descripcion": "Gira/Tour: N/D"
+        },
+        {
+          "fuente": "Setlist.fm",
+          "tipo_fuente": "historico_pasado",
+          "titulo": "Concierto: Turf",
+          "lugar": "Plaza de Toros, Colonia del Sacramento",
+          "fechas": [
+            "2026-08-22"
+          ],
+          "hora": null,
+          "precio": "Histórico / Concierto pasado",
+          "enlace": "https://www.setlist.fm/setlist/turf/2026/plaza-de-toros-colonia-del-sacramento-uruguay-372e567.html",
+          "descripcion": "Gira/Tour: 30 Años"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Día de la Raza",
+      "inicio": "2026-10-10",
+      "fin": "2026-10-12",
+      "inicio_formateado": "Sábado 10/10/2026",
+      "fin_formateado": "Lunes 12/10/2026",
+      "duracion_dias": 3,
+      "es_puente": false,
+      "estado": "programado",
+      "feriados": [
+        "Día de la Raza"
+      ],
+      "total_eventos": 2,
+      "eventos": [
+        {
+          "fuente": "Antel Arena",
+          "tipo_fuente": "cartelera_programada",
+          "titulo": "Matías Valdez",
+          "lugar": "Antel Arena",
+          "fechas": [
+            "2026-10-10"
+          ],
+          "hora": "21:00",
+          "precio": "$900 - $2500",
+          "enlace": "https://www.antelarena.com.uy/events/detail/matias-valdez-2026",
+          "descripcion": "Producido por: MONTEVIDEO MUSIC GROUP      Luego de tres Arenas agotados, MATÍAS VALDEZ regresa con un Show renovado, presentando sus nuevas canciones, los clásicos de toda su carrera, acompañado de g"
+        },
+        {
+          "fuente": "Antel Arena",
+          "tipo_fuente": "cartelera_programada",
+          "titulo": "Ian Lucas",
+          "lugar": "Antel Arena",
+          "fechas": [
+            "2026-10-11"
+          ],
+          "hora": "20:00",
+          "precio": "$1400 - $3900",
+          "enlace": "https://www.antelarena.com.uy/events/detail/ian-lucas",
+          "descripcion": "Producido por: MONTEVIDEO MUSIC GROUP      IAN LUCAS  -  TOUR 2026 El artista más convocante de su generación llega a Uruguay en el marco de su gira 2026 que recorrerá toda América Latina. Será una pr"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Día de los Difuntos",
+      "inicio": "2026-10-31",
+      "fin": "2026-11-02",
+      "inicio_formateado": "Sábado 31/10/2026",
+      "fin_formateado": "Lunes 02/11/2026",
+      "duracion_dias": 3,
+      "es_puente": false,
+      "estado": "programado",
+      "feriados": [
+        "Día de los Difuntos"
+      ],
+      "total_eventos": 1,
+      "eventos": [
+        {
+          "fuente": "Antel Arena",
+          "tipo_fuente": "cartelera_programada",
+          "titulo": "Antel Campus Party",
+          "lugar": "Antel Arena",
+          "fechas": [
+            "2026-10-30",
+            "2026-10-31"
+          ],
+          "hora": "30/10: 9:30hs y 31/10: 12hs",
+          "precio": "Desde $850",
+          "enlace": "https://www.antelarena.com.uy/events/detail/antel-campus-party-2026",
+          "descripcion": "Antel Campus Party es un evento internacional que junta a conferencias, talleres, experiencias y todas las novedades del mundo tecnológico y del gaming en una maratón de horas llenas de contenido. Si "
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Día de la Familia",
+      "inicio": "2026-12-25",
+      "fin": "2026-12-27",
+      "inicio_formateado": "Viernes 25/12/2026",
+      "fin_formateado": "Domingo 27/12/2026",
+      "duracion_dias": 3,
+      "es_puente": false,
+      "estado": "programado",
+      "feriados": [
+        "Día de la Familia"
+      ],
+      "total_eventos": 0,
+      "eventos": []
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "metadata": {
+    "anio": 2026,
+    "fecha_analisis": "2026-09-14T22:35:34.377147",
+    "pais": "Uruguay",
+    "total_destinos_100_gratuitos": 5,
+    "destinos_evaluados": [
+      "Piriápolis",
+      "Punta Ballena",
+      "Paso de los Toros",
+      "La Floresta",
+      "Salinas"
+    ],
+    "destinos_con_eventos_en_findes": 0,
+    "destinos_sin_eventos_en_findes": 5,
+    "total_coincidencias_evento_destino": 0,
+    "total_fines_semana_largos": 11
+  },
+  "destinos_100_gratuitos": [
+    {
+      "destino": "Piriápolis",
+      "departamento": "Maldonado",
+      "total_lugares": 20,
+      "categorias": {
+        "Bioparques, Termas y Naturaleza": 1,
+        "Museos, Ciencia y Planetarios": 1,
+        "Parques y Jardines Botánicos": 8,
+        "Paseos y Atracciones Generales": 7,
+        "Miradores, Faros y Paseos Históricos": 3
+      },
+      "lista_lugares": [
+        "ECFA - Reserva de Flora y Fauna Autóctona del Cerro Pan de Azúcar",
+        "Cartel de Piriápolis",
+        "Parque Municipal la Cascada",
+        "Castillo de Francisco Piria",
+        "Punta Fría",
+        "Parque Fuente Venus",
+        "Puerto de Piriápolis",
+        "Cascada",
+        "Rambla Piriapolis",
+        "Fuente del Toro",
+        "Rambla Costanera",
+        "Playa La Rinconada Piriapolis",
+        "Cerro Pan de Azúcar",
+        "Cerro del Indio",
+        "Alternatus",
+        "Sitio donde nació el primer elefante marino en Uruguay",
+        "Señora Luminosa",
+        "Virgen de los Pescadores",
+        "Rambla De Los Argentinos Y Trapani",
+        "Rambla"
+      ]
+    },
+    {
+      "destino": "Punta Ballena",
+      "departamento": "Maldonado",
+      "total_lugares": 20,
+      "categorias": {
+        "Paseos y Atracciones Generales": 6,
+        "Parques y Jardines Botánicos": 7,
+        "Miradores, Faros y Paseos Históricos": 5,
+        "Museos, Ciencia y Planetarios": 1,
+        "Bioparques, Termas y Naturaleza": 1
+      },
+      "lista_lugares": [
+        "Ballena de punta",
+        "Las Grutas",
+        "Playa Portezuelo",
+        "Playa Las Grutas",
+        "Rotonda de Punta Ballena",
+        "Escultura Cola de la Ballena Franca",
+        "Piedras del Chileno",
+        "Playa de la Laguna",
+        "Playa Solanas",
+        "Mirador de la ballena",
+        "Gruta Virgen de Lourdes",
+        "Mirador Marinas Del Este",
+        "\"La Roca\" - Espacio de Arte -",
+        "Arboretum Lussich",
+        "Mirador La Glorieta",
+        "Mirador COLA DE BALLENA",
+        "Punta de las Salinas",
+        "Plaza Gran Betaña",
+        "La Mano • Hombre emergiendo a la vida",
+        "Punta Ballena"
+      ]
+    },
+    {
+      "destino": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "total_lugares": 18,
+      "categorias": {
+        "Paseos y Atracciones Generales": 10,
+        "Parques y Jardines Botánicos": 3,
+        "Miradores, Faros y Paseos Históricos": 2,
+        "Museos, Ciencia y Planetarios": 2,
+        "Bioparques, Termas y Naturaleza": 1
+      },
+      "lista_lugares": [
+        "Paso de los Toros - departamento de Tacuarembó",
+        "Parque Batlle",
+        "Monumento al Toro",
+        "Letras De La Ciudad - PASO DE LOS TOROS -",
+        "Monumento a la Virgen María Auxiliadora",
+        "Mural urbano",
+        "Camping El Sauce",
+        "Oficina de Turismo",
+        "Paso de los Toros",
+        "Camping Parador",
+        "Reserva Acuario del Uruguay",
+        "Monumento Natural Grutas Del Palacio",
+        "Parque Eólica",
+        "Tarde en Cardozo Grande",
+        "Lagarto De Piedra",
+        "Parque Centenario",
+        "Pozo de los Deseos",
+        "Zooilógico del Futuro"
+      ]
+    },
+    {
+      "destino": "La Floresta",
+      "departamento": "Canelones",
+      "total_lugares": 18,
+      "categorias": {
+        "Parques y Jardines Botánicos": 9,
+        "Miradores, Faros y Paseos Históricos": 1,
+        "Paseos y Atracciones Generales": 7,
+        "Bioparques, Termas y Naturaleza": 1
+      },
+      "lista_lugares": [
+        "Playa La Floresta",
+        "Mirador de la Bicicasa",
+        "Zona de pescadores y playa",
+        "Rambla del Arroyo Sarandí",
+        "Plazoleta del Leonismo",
+        "Camping Municipal",
+        "Playa Las Vegas",
+        "Parque de los Pájaros",
+        "Arco de Salinas",
+        "Paisaje protegido Quebrada de los Cuervos y Sierras del Yerbal",
+        "Arroyo Solis Chico",
+        "Sendero Ñacurutú",
+        "Playa Bello Horizonte",
+        "Campamento La Floresta",
+        "Centro de Unificación Isha Judd",
+        "Jardín Botánico de Montevideo Atilio Lombardo",
+        "Balneario San Luis",
+        "Parque Nacional de Santa Teresa"
+      ]
+    },
+    {
+      "destino": "Salinas",
+      "departamento": "Canelones",
+      "total_lugares": 15,
+      "categorias": {
+        "Paseos y Atracciones Generales": 6,
+        "Parques y Jardines Botánicos": 6,
+        "Miradores, Faros y Paseos Históricos": 1,
+        "Bioparques, Termas y Naturaleza": 1,
+        "Museos, Ciencia y Planetarios": 1
+      },
+      "lista_lugares": [
+        "Arco de Salinas",
+        "Playa Salinas",
+        "Punta de las Salinas",
+        "El Chorro de Salinas",
+        "Parque de los Pájaros",
+        "Placita niños \"El Rinconcito\"",
+        "Mirador de Aves \"Sendero de los cisnes\"",
+        "Parque Franklin Delano Roosevelt",
+        "Salinas",
+        "Plaza Gran Betaña",
+        "Playa Racine",
+        "Museo Spikerman",
+        "Bracco Bosca Winery",
+        "Monte de Ombúes",
+        "Marindia- Uruguay"
+      ]
+    }
+  ],
+  "fines_de_semana_largos": [
+    {
+      "id": 1,
+      "nombre": "Año Nuevo",
+      "inicio": "2026-01-01",
+      "fin": "2026-01-04",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 2,
+      "nombre": "Día de los Niños",
+      "inicio": "2026-01-03",
+      "fin": "2026-01-06",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 3,
+      "nombre": "Carnaval, Carnaval",
+      "inicio": "2026-02-14",
+      "fin": "2026-02-17",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 4,
+      "nombre": "Semana de Turismo, Semana de Turismo",
+      "inicio": "2026-04-02",
+      "fin": "2026-04-05",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 5,
+      "nombre": "Día de los Trabajadores",
+      "inicio": "2026-05-01",
+      "fin": "2026-05-03",
+      "duracion_dias": 3,
+      "estado": "pasado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 6,
+      "nombre": "Batalla de las Piedras",
+      "inicio": "2026-05-16",
+      "fin": "2026-05-18",
+      "duracion_dias": 3,
+      "estado": "pasado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 7,
+      "nombre": "Natalicio de Artigas y Día del Nunca Más",
+      "inicio": "2026-06-19",
+      "fin": "2026-06-21",
+      "duracion_dias": 3,
+      "estado": "pasado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 8,
+      "nombre": "Día de la Independencia",
+      "inicio": "2026-08-22",
+      "fin": "2026-08-25",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 9,
+      "nombre": "Día de la Raza",
+      "inicio": "2026-10-10",
+      "fin": "2026-10-12",
+      "duracion_dias": 3,
+      "estado": "programado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 10,
+      "nombre": "Día de los Difuntos",
+      "inicio": "2026-10-31",
+      "fin": "2026-11-02",
+      "duracion_dias": 3,
+      "estado": "programado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    },
+    {
+      "id": 11,
+      "nombre": "Día de la Familia",
+      "inicio": "2026-12-25",
+      "fin": "2026-12-27",
+      "duracion_dias": 3,
+      "estado": "programado",
+      "total_destinos_gratuitos_con_evento": 0,
+      "destinos_con_evento": []
+    }
+  ],
+  "destinos_tranquilos": [
+    {
+      "destino": "Piriápolis",
+      "departamento": "Maldonado",
+      "total_lugares_gratuitos": 20,
+      "categorias": {
+        "Bioparques, Termas y Naturaleza": 1,
+        "Museos, Ciencia y Planetarios": 1,
+        "Parques y Jardines Botánicos": 8,
+        "Paseos y Atracciones Generales": 7,
+        "Miradores, Faros y Paseos Históricos": 3
+      },
+      "nota": "Sin eventos masivos registrados en fines de semana largos — ideal para escapadas tranquilas."
+    },
+    {
+      "destino": "Punta Ballena",
+      "departamento": "Maldonado",
+      "total_lugares_gratuitos": 20,
+      "categorias": {
+        "Paseos y Atracciones Generales": 6,
+        "Parques y Jardines Botánicos": 7,
+        "Miradores, Faros y Paseos Históricos": 5,
+        "Museos, Ciencia y Planetarios": 1,
+        "Bioparques, Termas y Naturaleza": 1
+      },
+      "nota": "Sin eventos masivos registrados en fines de semana largos — ideal para escapadas tranquilas."
+    },
+    {
+      "destino": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "total_lugares_gratuitos": 18,
+      "categorias": {
+        "Paseos y Atracciones Generales": 10,
+        "Parques y Jardines Botánicos": 3,
+        "Miradores, Faros y Paseos Históricos": 2,
+        "Museos, Ciencia y Planetarios": 2,
+        "Bioparques, Termas y Naturaleza": 1
+      },
+      "nota": "Sin eventos masivos registrados en fines de semana largos — ideal para escapadas tranquilas."
+    },
+    {
+      "destino": "La Floresta",
+      "departamento": "Canelones",
+      "total_lugares_gratuitos": 18,
+      "categorias": {
+        "Parques y Jardines Botánicos": 9,
+        "Miradores, Faros y Paseos Históricos": 1,
+        "Paseos y Atracciones Generales": 7,
+        "Bioparques, Termas y Naturaleza": 1
+      },
+      "nota": "Sin eventos masivos registrados en fines de semana largos — ideal para escapadas tranquilas."
+    },
+    {
+      "destino": "Salinas",
+      "departamento": "Canelones",
+      "total_lugares_gratuitos": 15,
+      "categorias": {
+        "Paseos y Atracciones Generales": 6,
+        "Parques y Jardines Botánicos": 6,
+        "Miradores, Faros y Paseos Históricos": 1,
+        "Bioparques, Termas y Naturaleza": 1,
+        "Museos, Ciencia y Planetarios": 1
+      },
+      "nota": "Sin eventos masivos registrados en fines de semana largos — ideal para escapadas tranquilas."
+    }
+  ]
+}

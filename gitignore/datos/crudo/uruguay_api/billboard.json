@@ -1,0 +1,844 @@
+{
+  "cine": [
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "One Piece: la película",
+      "type": "Animación-Aventura",
+      "trailer": "https://www.youtube.com/embed/uuQxHlCXbMo",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34528",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41766.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El heladero: dulce sabor a muerte",
+      "type": "Terror",
+      "trailer": "https://www.youtube.com/embed/yDNco9oCuCI",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34505",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41736.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El sol sale para todos",
+      "type": "Drama",
+      "trailer": "https://www.youtube.com/embed/A9Q6zgBLnsk",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34503",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41727.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Hangar rojo",
+      "type": "Drama-Thriller",
+      "trailer": "https://www.youtube.com/embed/MV7RhQbSEb0",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34504",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41728.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Hechizo de amor: La magia continúa",
+      "type": "Comedia-Drama-Fantasía",
+      "trailer": "https://www.youtube.com/embed/tXK7p_atLVA",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34509",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41735.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Oasis: Don't Look Back in Anger",
+      "type": "Documental-Musical",
+      "trailer": "https://www.youtube.com/embed/tYy_Js0qJMg",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34506",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41742.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Pepita la pistolera",
+      "type": "Drama-Thriller",
+      "trailer": "https://www.youtube.com/embed/eo4d1S9FMvc",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34508",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41733.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Rápido y furioso - 25 aniversario",
+      "type": "Acción-Thriller",
+      "trailer": "https://www.youtube.com/embed/-oJHZre7XZY",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34510",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41737.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Tadeo el explorador y la lámpara maravillosa",
+      "type": "Animación-Aventura-Fantasía",
+      "trailer": "https://www.youtube.com/embed/HFqO30rz52c",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34507",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41732.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "LS83",
+      "type": "Documental",
+      "trailer": "https://www.youtube.com/embed/VY6YqWYeBpA",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34474",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41680.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "No hay hombres buenos",
+      "type": "Comedia dramática",
+      "trailer": "https://www.youtube.com/embed/-gtJAUKuLDk",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34473",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41679.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Rebelión en la granja",
+      "type": "Animación",
+      "trailer": "https://www.youtube.com/embed/C9_LZZqoBjg",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34471",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41688.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Sólo por una noche",
+      "type": "Comedia romántica",
+      "trailer": "https://www.youtube.com/embed/l17aqzUb6e8",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34469",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41675.jpg"
+    }
+  ],
+  "musica": [
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Sabrina Díaz Felipe Ahunchain Andrés Pigatto Juan Manuel Cayota ",
+      "featured": "Hoy",
+      "venue": "El Mingus",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34524",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41761.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Varios ",
+      "featured": "",
+      "venue": "Sala Zavala Muniz - Teatro Solís",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33481",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/40360.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Porfi Baloa y sus adolescentes ",
+      "featured": "",
+      "venue": "Sala del Museo - Museo del Carnaval",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34362",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41548.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Arquero ",
+      "featured": "",
+      "venue": "La Cretina",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34379",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41568.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Orquesta Filarmónica de Montevideo ",
+      "featured": "",
+      "venue": "Teatro Solís",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34535",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41774.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Mónica Navarro ",
+      "featured": "",
+      "venue": "Sala Zavala Muniz - Teatro Solís",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34174",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41314.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Ballet Nacional del SODRE ",
+      "featured": "",
+      "venue": "Auditorio Nacional del SODRE - Sala Eduardo Fabini",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34452",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41654.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "La Saga ",
+      "featured": "",
+      "venue": "Sala del Museo - Museo del Carnaval",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33968",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41634.jpg"
+    }
+  ],
+  "videos": [
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Alpha",
+      "featured": "",
+      "genre": "Drama-Terror",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33973,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41037.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Alta fidelidad",
+      "featured": "",
+      "genre": "Comedia romántica",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?1874,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/16919.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Amor, mentiras y sangre",
+      "featured": "",
+      "genre": "Drama-Thriller-Romance",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?30100,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/36464.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Angel: Una comedia sobre el cambio del siglo",
+      "featured": "",
+      "genre": "Comedia dramática",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?31759,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/38371.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Anémona",
+      "featured": "",
+      "genre": "Drama",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34476,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41689.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Aída y vuelta",
+      "featured": "",
+      "genre": "Comedia",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33878,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/40922.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Back to Black",
+      "featured": "",
+      "genre": "Drama-Musical",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?29986,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/36311.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Buena Vista Social Club",
+      "featured": "",
+      "genre": "Documental-Musical",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?3245,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/8195.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Bugonia",
+      "featured": "",
+      "genre": "Comedia-Ciencia ficción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33123,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/40078.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Camina o muere / La larga marcha",
+      "featured": "",
+      "genre": "Suspenso-Terror",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?32858,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/39776.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El diablo viste a la moda 2",
+      "featured": "",
+      "genre": "Comedia",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33756,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/40752.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El drama",
+      "featured": "",
+      "genre": "Comedia dramática",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33667,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/40643.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El hombre de los sueños",
+      "featured": "",
+      "genre": "Comedia dramática",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?29875,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/36159.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El hombre que amaba los platos voladores",
+      "featured": "",
+      "genre": "Comedia dramática",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34190,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41333.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El veredicto",
+      "featured": "",
+      "genre": "Drama",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?3076,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/7423.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Elio",
+      "featured": "",
+      "genre": "Animación-Aventura",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?32210,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/38960.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Hokum: La maldición de la bruja",
+      "featured": "",
+      "genre": "Terror",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34058,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41145.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "La mitad que falta",
+      "featured": "",
+      "genre": "Comedia dramática",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34189,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41332.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "La voz de Hind",
+      "featured": "",
+      "genre": "Drama",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33768,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/40764.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Orgullo",
+      "featured": "",
+      "genre": "Drama",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34289,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41456.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Proyecto Fin Del Mundo",
+      "featured": "",
+      "genre": "Ciencia ficción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33549,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/40465.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Rooster",
+      "featured": "",
+      "genre": "Comedia",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34477,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41690.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Silvia Prieto",
+      "featured": "",
+      "genre": "Comedia dramática",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?2722,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/7162.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Sin salida",
+      "featured": "",
+      "genre": "Thriller",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?3020,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41617.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Song Sung Blue: sueño inquebrantable",
+      "featured": "",
+      "genre": "Drama-Romance-Musical",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?33214,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/40181.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Spider-Noir",
+      "featured": "",
+      "genre": "Acción-Ciencia ficción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34421,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41618.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Tiro de gracia",
+      "featured": "",
+      "genre": "Drama-Policial",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?2922,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/7716.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Vi el brillo del televisor",
+      "featured": "",
+      "genre": "Terror",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34247,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41408.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Vida privada (2025)",
+      "featured": "",
+      "genre": "Drama-Misterio",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34420,124",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41616.jpg"
+    }
+  ],
+  "teatro": [
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Bün Kher",
+      "featured": "",
+      "venue": "Centro Cultural H. Bosch",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34437",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41637.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Comedia existencial doméstica",
+      "featured": "",
+      "venue": "Espacio Vacío",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34491",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41709.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Cretinos - Festival Cretino",
+      "featured": "Mañana",
+      "venue": "La Cretina",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34408",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41601.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El rey de los hongos",
+      "featured": "",
+      "venue": "Teatro Circular",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34490",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41707.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El silencio es un lenguaje universal",
+      "featured": "",
+      "venue": "Alejandría Café de las Artes",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34393",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41583.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "La puerta azul",
+      "featured": "",
+      "venue": "Centro Cultural Terminal Goes",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34434",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41632.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Saraos Uranistas",
+      "featured": "",
+      "venue": "Teatro Solís",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34370",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41558.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "School of Rock, el musical",
+      "featured": "",
+      "venue": "Teatro Astral",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34498",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41721.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Los hijos de Caronte",
+      "featured": "",
+      "venue": "Teatro Fernandino - Maldonado",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34520",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41755.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Preludio final",
+      "featured": "",
+      "venue": "Alejandría Café de las Artes",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34514",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41743.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Tom en la granja",
+      "featured": "",
+      "venue": "El Galpón - Sala Cero",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34493",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41757.jpg"
+    }
+  ],
+  "cable": [
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Harry Potter y las reliquias de la muerte - Parte 1",
+      "featured": "Recomendado",
+      "channel": "HBO Family",
+      "genre": "Drama-Fantasía",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?409",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/25561.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Matrix",
+      "featured": "Recomendado",
+      "channel": "Space",
+      "genre": "Acción-Ciencia ficción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?1402",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/36706.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "La hora de la desaparición",
+      "featured": "Recomendado",
+      "channel": "HBO2",
+      "genre": "Misterio-Terror",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?32446",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/39264.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Pecados capitales",
+      "featured": "Recomendado",
+      "channel": "TNT",
+      "genre": "Suspenso-Thriller",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?2254",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/38157.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Life of Pi: una aventura extraordinaria",
+      "featured": "Recomendado",
+      "channel": "Cinecanal",
+      "genre": "Drama-Aventura",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?6760",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/10703.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Hechizo de luna",
+      "featured": "Recomendado",
+      "channel": "Film & Arts",
+      "genre": "Comedia romántica",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?2844",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/19504.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Task - Unidad Especial",
+      "featured": "Recomendado",
+      "channel": "HBO Signature",
+      "genre": "Drama-Policial",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?32797",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/39709.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Interestelar",
+      "featured": "Recomendado",
+      "channel": "HBO",
+      "genre": "Aventura-Ciencia ficción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?11847",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/16163.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Furiosa: de la saga Mad Max",
+      "featured": "Recomendado",
+      "channel": "HBO Xtreme",
+      "genre": "Acción-Ciencia ficción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?30187",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/36568.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "La llegada",
+      "featured": "Recomendado",
+      "channel": "HBO Mundi",
+      "genre": "Drama-Ciencia ficción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?15503",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/20405.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Tiburón",
+      "featured": "Recomendado",
+      "channel": "HBO Plus",
+      "genre": "Suspenso-Terror",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?3129",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/16596.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "El hombre del norte",
+      "featured": "Recomendado",
+      "channel": "Universal Cinema HD",
+      "genre": "Acción-Aventura",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?26020",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/31781.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Rojo",
+      "featured": "Recomendado",
+      "channel": "TCM",
+      "genre": "Drama-Thriller",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?20521",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/25889.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "78ª Entrega de los Premios Emmy",
+      "featured": "Recomendado",
+      "channel": "TNT",
+      "genre": "-- No aplica --",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?29451",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/41762.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Robocop (1987)",
+      "featured": "Recomendado",
+      "channel": "Studio Universal",
+      "genre": "Acción-Ciencia ficción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?2883",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/31296.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Top Gun: Maverick",
+      "featured": "Recomendado",
+      "channel": "Universal Cinema HD",
+      "genre": "Drama-Acción",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?26203",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/32024.jpg"
+    }
+  ],
+  "arte": [
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Colecciones de Luigi Andreoni y María Spangenberg",
+      "featured": "Recomendado",
+      "genre": "Técnicas varias",
+      "artist": "Arte antiguo",
+      "venue": "Museo de Artes Decorativas - Palacio Taranco",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34159",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41289.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Varios",
+      "featured": "Recomendado",
+      "genre": "Colectiva",
+      "artist": "La vida animal",
+      "venue": "Museo Figari",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34149",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41278.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Mariano Fortuny",
+      "featured": "Recomendado",
+      "genre": "Pintura",
+      "artist": "Los contrastes de la vida",
+      "venue": "Museo Nacional de Artes Visuales",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34285",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41451.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Margarita Mortarotti",
+      "featured": "Recomendado",
+      "genre": "Grabado",
+      "artist": "Mortarotti. Salones municipales (1956-1973)",
+      "venue": "Museo Municipal Juan Manuel Blanes",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34486",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41700.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Dani Umpi",
+      "featured": "Recomendado",
+      "genre": "Técnicas varias",
+      "artist": "Obra reunida",
+      "venue": "Centro Municipal de Exposiciones (Subte)",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34413",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41607.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Daniel Gallo",
+      "featured": "Recomendado",
+      "genre": "Técnicas varias",
+      "artist": "Pensar el tiempo y las cosas",
+      "venue": "Museo Nacional de Artes Visuales",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34284",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41450.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Pedro Figari",
+      "featured": "Recomendado",
+      "genre": "Pintura",
+      "artist": "Perros, gatos y papagayos, etc. La cuestión animal en la obra de Pedro Figari",
+      "venue": "Museo Figari",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34106",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41218.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Carmelo de Arzadun",
+      "featured": "Recomendado",
+      "genre": "Pintura",
+      "artist": "Retratos",
+      "venue": "Edificio Artigas, Espacio Cultural",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34416",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41610.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Cecilia Brugnini",
+      "featured": "Recomendado",
+      "genre": "Tapices",
+      "artist": "Romance entre el todo y la nada",
+      "venue": "Museo Nacional de Artes Visuales",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34283",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41449.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Varios",
+      "featured": "Recomendado",
+      "genre": "Colectiva",
+      "artist": "Somos jugando",
+      "venue": "Museo Nacional de Artes Visuales",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34282",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41448.jpg"
+    },
+    {
+      "source": "Cartelera",
+      "source_url": "https://cartelera.montevideo.com.uy",
+      "title": "Germán Cabrera",
+      "featured": "Recomendado",
+      "genre": "Cerámica",
+      "artist": "Visiones montevideanas",
+      "venue": "Museo Municipal Juan Manuel Blanes",
+      "event_link": "https://cartelera.montevideo.com.uy//averespectaculo.aspx?34110",
+      "thumbnail": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/musicdetail13/41222.jpg"
+    }
+  ]
+}

@@ -1,0 +1,2857 @@
+{
+  "metadata": {
+    "anio": 2026,
+    "fecha_analisis": "2026-09-14T22:19:46.240626",
+    "pais": "Uruguay",
+    "total_lugares_gratuitos_evaluados": 276,
+    "lugares_gratuitos_con_eventos": 0,
+    "porcentaje_con_eventos": 0.0,
+    "lugares_gratuitos_sin_eventos_tranquilos": 276,
+    "porcentaje_sin_eventos": 100.0,
+    "total_eventos_vinculados_a_espacios_gratuitos": 0
+  },
+  "fines_de_semana_largos": [
+    {
+      "id": 1,
+      "nombre": "Año Nuevo",
+      "inicio": "2026-01-01",
+      "fin": "2026-01-04",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 2,
+      "nombre": "Día de los Niños",
+      "inicio": "2026-01-03",
+      "fin": "2026-01-06",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 3,
+      "nombre": "Carnaval, Carnaval",
+      "inicio": "2026-02-14",
+      "fin": "2026-02-17",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 4,
+      "nombre": "Semana de Turismo, Semana de Turismo",
+      "inicio": "2026-04-02",
+      "fin": "2026-04-05",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 5,
+      "nombre": "Día de los Trabajadores",
+      "inicio": "2026-05-01",
+      "fin": "2026-05-03",
+      "duracion_dias": 3,
+      "estado": "pasado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 6,
+      "nombre": "Batalla de las Piedras",
+      "inicio": "2026-05-16",
+      "fin": "2026-05-18",
+      "duracion_dias": 3,
+      "estado": "pasado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 7,
+      "nombre": "Natalicio de Artigas y Día del Nunca Más",
+      "inicio": "2026-06-19",
+      "fin": "2026-06-21",
+      "duracion_dias": 3,
+      "estado": "pasado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 8,
+      "nombre": "Día de la Independencia",
+      "inicio": "2026-08-22",
+      "fin": "2026-08-25",
+      "duracion_dias": 4,
+      "estado": "pasado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 9,
+      "nombre": "Día de la Raza",
+      "inicio": "2026-10-10",
+      "fin": "2026-10-12",
+      "duracion_dias": 3,
+      "estado": "programado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 10,
+      "nombre": "Día de los Difuntos",
+      "inicio": "2026-10-31",
+      "fin": "2026-11-02",
+      "duracion_dias": 3,
+      "estado": "programado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    },
+    {
+      "id": 11,
+      "nombre": "Día de la Familia",
+      "inicio": "2026-12-25",
+      "fin": "2026-12-27",
+      "duracion_dias": 3,
+      "estado": "programado",
+      "total_lugares_gratuitos_con_evento": 0,
+      "lugares_gratuitos_con_evento": []
+    }
+  ],
+  "lugares_tranquilos_recomendados": [
+    {
+      "nombre": "Calle de los Suspiros",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "De San Pedro 127, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Calle%20de%20los%20Suspiros"
+    },
+    {
+      "nombre": "Acuario Colonia del Sacramento",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Virrey Ceballos, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Acuario%20Colonia%20del%20Sacramento"
+    },
+    {
+      "nombre": "Colonia del Sacramento",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G5X5+HX4, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Colonia%20del%20Sacramento"
+    },
+    {
+      "nombre": "Ciudad Vieja",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G4HX+CMW, Calle Exodo, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Ciudad%20Vieja"
+    },
+    {
+      "nombre": "Rambla Colonia del Sacramento",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Avenida Artigas 459, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla%20Colonia%20del%20Sacramento"
+    },
+    {
+      "nombre": "Paseo de la Brecha",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G4JX+5M8, &, Rivadavia & Virrey Ceballos, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Paseo%20de%20la%20Brecha"
+    },
+    {
+      "nombre": "Vista del atardecer.",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G4HW+MPJ, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Vista%20del%20atardecer."
+    },
+    {
+      "nombre": "Ruinas del Convento de San Francisco",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G4GX+W4C, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Ruinas%20del%20Convento%20de%20San%20Francisco"
+    },
+    {
+      "nombre": "Mirador de Colonia",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Comercio 163, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20de%20Colonia"
+    },
+    {
+      "nombre": "Puerta de la ciudadela",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Manuel de Lobo 242, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Puerta%20de%20la%20ciudadela"
+    },
+    {
+      "nombre": "Plaza Mayor",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "G4HX+397, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20Mayor"
+    },
+    {
+      "nombre": "Muelle de Colonia",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G5F4+QWP, Dr. Emilio Frugoni, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Muelle%20de%20Colonia"
+    },
+    {
+      "nombre": "Basílica del Santísimo Sacramento",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G4HX+HM9, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Bas%C3%ADlica%20del%20Sant%C3%ADsimo%20Sacramento"
+    },
+    {
+      "nombre": "Letras de Colonia",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "H44R+54X, Rbla. de las Amèricas, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Letras%20de%20Colonia"
+    },
+    {
+      "nombre": "Parque Ferrando - Colonia Del Sacramento",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "G5P9+362, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Ferrando%20-%20Colonia%20Del%20Sacramento"
+    },
+    {
+      "nombre": "Rambla de las Américas",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "G5W3+7F8, Rbla. de las Amèricas, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla%20de%20las%20Am%C3%A9ricas"
+    },
+    {
+      "nombre": "Calle de Solís",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "De Solís 56, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Calle%20de%20Sol%C3%ADs"
+    },
+    {
+      "nombre": "Zona La Boya",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "H45J+HFJ, Av. Mihanovich, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Zona%20La%20Boya"
+    },
+    {
+      "nombre": "Plaza Gran Betaña",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "22GX+R4P, 20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20Gran%20Beta%C3%B1a"
+    },
+    {
+      "nombre": "Punta de las Salinas",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "22GX+G96, Punta de, La Salina, Punta del Este",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Punta%20de%20las%20Salinas"
+    },
+    {
+      "nombre": "Puente de la barra",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "BUS - (0922, Av. Aparicio Saravia, 20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Puente%20de%20la%20barra"
+    },
+    {
+      "nombre": "Pueblo Gaucho",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Los Tilos y, 20100 Punta del Este",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Pueblo%20Gaucho"
+    },
+    {
+      "nombre": "Parque El Jagüel",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Parques de Diversiones y Juegos Familiares",
+      "detalle_tarifa": "Punta del Este: juegos infantiles de madera de acceso gratuito",
+      "direccion": "camino la Barra, Parque San Rafael, Av. Aparicio Saravia, 20000 Punta del Este",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20El%20Jag%C3%BCel"
+    },
+    {
+      "nombre": "Muelle de Mailhos",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "23R3+HWF, 20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Muelle%20de%20Mailhos"
+    },
+    {
+      "nombre": "Playa El Pendorcho",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "34HJ+M2G, 20000 Punta del Este, Departamento de Maldonado",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20El%20Pendorcho"
+    },
+    {
+      "nombre": "Plaza General Artigas",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "23P4+PFW, Plaza Gral Artigas, 20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20General%20Artigas"
+    },
+    {
+      "nombre": "Museo Ralli",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Los Arrayanes, 20000 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Museo%20Ralli"
+    },
+    {
+      "nombre": "Playa El Emir",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "23P5+RP2, 26 - Resalsero, 20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20El%20Emir"
+    },
+    {
+      "nombre": "La Glorieta",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "23Q3+698, 20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20Glorieta"
+    },
+    {
+      "nombre": "Las Grutas",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "47 de la mansa, Francisco Antonio Aime esq, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Las%20Grutas"
+    },
+    {
+      "nombre": "Ballena de punta",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Juan Díaz de Solís 4, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Ballena%20de%20punta"
+    },
+    {
+      "nombre": "Isla Gorriti",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Rambla portuaria, 20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Isla%20Gorriti"
+    },
+    {
+      "nombre": "Feria de Artesanos",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "30 - Las Focas, 20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Feria%20de%20Artesanos"
+    },
+    {
+      "nombre": "Museo Azotea de Haedo",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "20100 Punta del Este, Departamento de Maldonado",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Museo%20Azotea%20de%20Haedo"
+    },
+    {
+      "nombre": "La Mano • Hombre emergiendo a la vida",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Stop 1 Brava, Punta del Este, Av. Eduardo Victor Haedo km 162.500, 20001 La Barra, Departamento de Maldonado",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20Mano%20%E2%80%A2%20Hombre%20emergiendo%20a%20la%20vida"
+    },
+    {
+      "nombre": "Casa El Sauce",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Pascual Gattas 6, 20000 Punta del Este, Departamento de Maldonado",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Casa%20El%20Sauce"
+    },
+    {
+      "nombre": "ECFA - Reserva de Flora y Fauna Autóctona del Cerro Pan de Azúcar",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Bioparques, Termas y Naturaleza",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=ECFA%20-%20Reserva%20de%20Flora%20y%20Fauna%20Aut%C3%B3ctona%20del%20Cerro%20Pan%20de%20Az%C3%BAcar"
+    },
+    {
+      "nombre": "Cartel de Piriápolis",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "4PV3+WJQ, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cartel%20de%20Piri%C3%A1polis"
+    },
+    {
+      "nombre": "Parque Municipal la Cascada",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4PXF+5JM, Av. Gral. Jose Gervasio Artigas, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 3.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Municipal%20la%20Cascada"
+    },
+    {
+      "nombre": "Castillo de Francisco Piria",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Ruta 37 Km. 7, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Castillo%20de%20Francisco%20Piria"
+    },
+    {
+      "nombre": "Punta Fría",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "4P9C+3GP, Rambla de los Ingleses, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Punta%20Fr%C3%ADa"
+    },
+    {
+      "nombre": "Parque Fuente Venus",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4PHP+MGC, Unnamed Road, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Fuente%20Venus"
+    },
+    {
+      "nombre": "Puerto de Piriápolis",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Puerto de Piriapolis, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Puerto%20de%20Piri%C3%A1polis"
+    },
+    {
+      "nombre": "Cascada",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "4PXG+G4P, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 3.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cascada"
+    },
+    {
+      "nombre": "Rambla Piriapolis",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Armenia 4042, 20100 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla%20Piriapolis"
+    },
+    {
+      "nombre": "Fuente del Toro",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4PMR+QV5, Mario Moreno, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Fuente%20del%20Toro"
+    },
+    {
+      "nombre": "Rambla Costanera",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4P6F+J5X, Rbla. Costanera, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla%20Costanera"
+    },
+    {
+      "nombre": "Playa La Rinconada Piriapolis",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Rbla. de los Argentinos 1050, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20La%20Rinconada%20Piriapolis"
+    },
+    {
+      "nombre": "Cerro Pan de Azúcar",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "5PQR+MMH, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cerro%20Pan%20de%20Az%C3%BAcar"
+    },
+    {
+      "nombre": "Cerro del Indio",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4PCP+F92, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cerro%20del%20Indio"
+    },
+    {
+      "nombre": "Alternatus",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Parque La Cascada, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Alternatus"
+    },
+    {
+      "nombre": "Sitio donde nació el primer elefante marino en Uruguay",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Rbla. de los Argentinos y, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Sitio%20donde%20naci%C3%B3%20el%20primer%20elefante%20marino%20en%20Uruguay"
+    },
+    {
+      "nombre": "Señora Luminosa",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Rbla. de los Ingleses 6310, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Se%C3%B1ora%20Luminosa"
+    },
+    {
+      "nombre": "Virgen de los Pescadores",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "4P9C+XFG, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Virgen%20de%20los%20Pescadores"
+    },
+    {
+      "nombre": "Rambla De Los Argentinos Y Trapani",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Rbla. de los Argentinos &, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla%20De%20Los%20Argentinos%20Y%20Trapani"
+    },
+    {
+      "nombre": "Rambla",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4PQ8+QGJ, Rbla. de los Argentinos, 20200 Piriápolis, Departamento de Maldonado",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla"
+    },
+    {
+      "nombre": "Parque Nacional Cabo Polonio",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "J57P+7FQ, 27202 Departamento de Rocha",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Nacional%20Cabo%20Polonio"
+    },
+    {
+      "nombre": "Reserva de Lobos Marinos de Cabo Polonio",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Bioparques, Termas y Naturaleza",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "27200 Cabo Polonio, Departamento de Rocha",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Reserva%20de%20Lobos%20Marinos%20de%20Cabo%20Polonio"
+    },
+    {
+      "nombre": "Dunas de Cabo Polonio",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "J677+VPG, 27200 Departamento de Rocha",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Dunas%20de%20Cabo%20Polonio"
+    },
+    {
+      "nombre": "Cabo Polonio, Área Protegida",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "H6VF+M36, Cam. A Los Lobos, 27200 Cabo Polonio, Departamento de Rocha",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cabo%20Polonio%2C%20%C3%81rea%20Protegida"
+    },
+    {
+      "nombre": "Playa Sur",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "H6W7+8QQ, 27200 Cabo Polonio, Departamento de Rocha",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Sur"
+    },
+    {
+      "nombre": "Cabo Polonio",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "J57M+4MJ, Parque Nacional Cabo Polonio, 27200 Cabo Polonio, Departamento de Rocha",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cabo%20Polonio"
+    },
+    {
+      "nombre": "Estación Central Cabo Polonio",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "H6W9+89X, 27200 Cabo Polonio, Departamento de Rocha",
+      "calificacion": 3.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n%20Central%20Cabo%20Polonio"
+    },
+    {
+      "nombre": "Piedra del Franciscano",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "J6QG+VJ3, 27200 Castillos, Departamento de Rocha",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Piedra%20del%20Franciscano"
+    },
+    {
+      "nombre": "Arroyo Valizas",
+      "sitio": "Cabo Polonio",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M646+WQW, 27202 Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Arroyo%20Valizas"
+    },
+    {
+      "nombre": "Playa Portezuelo",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4X54+WX4, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Portezuelo"
+    },
+    {
+      "nombre": "Playa Las Grutas",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Playa de Las Grutas, 20003, Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Las%20Grutas"
+    },
+    {
+      "nombre": "Rotonda de Punta Ballena",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "3XM3+P7F, Carlos Páez Vilaró, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rotonda%20de%20Punta%20Ballena"
+    },
+    {
+      "nombre": "Escultura Cola de la Ballena Franca",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "3XQP+J46, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Escultura%20Cola%20de%20la%20Ballena%20Franca"
+    },
+    {
+      "nombre": "Piedras del Chileno",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "3XQP+73X, 1, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Piedras%20del%20Chileno"
+    },
+    {
+      "nombre": "Playa de la Laguna",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Unnamed Road, 20003, Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20de%20la%20Laguna"
+    },
+    {
+      "nombre": "Playa Solanas",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4W8V+WF, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Solanas"
+    },
+    {
+      "nombre": "Mirador de la ballena",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4X66+CM2, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20de%20la%20ballena"
+    },
+    {
+      "nombre": "Gruta Virgen de Lourdes",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "4WRV+C27, Laguna del Sauce, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Gruta%20Virgen%20de%20Lourdes"
+    },
+    {
+      "nombre": "Mirador Marinas Del Este",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4X36+PHG, Carlos Páez Vilaró, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20Marinas%20Del%20Este"
+    },
+    {
+      "nombre": "\"La Roca\" - Espacio de Arte -",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=%22La%20Roca%22%20-%20Espacio%20de%20Arte%20-"
+    },
+    {
+      "nombre": "Arboretum Lussich",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Bioparques, Termas y Naturaleza",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Cam. Lussich 100, 20000 Maldonado, Departamento de Maldonado",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Arboretum%20Lussich"
+    },
+    {
+      "nombre": "Mirador La Glorieta",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4X97+CWF, 20000 Punta Ballena, Departamento de Maldonado",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20La%20Glorieta"
+    },
+    {
+      "nombre": "Mirador COLA DE BALLENA",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "8RPG+9V9, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20COLA%20DE%20BALLENA"
+    },
+    {
+      "nombre": "Punta Ballena",
+      "sitio": "Punta Ballena",
+      "departamento": "Maldonado",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Departamento de Maldonado",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Punta%20Ballena"
+    },
+    {
+      "nombre": "La paloma Rocha",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "8RPM+5H9, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20paloma%20Rocha"
+    },
+    {
+      "nombre": "Playa El Cabito",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "8RPG+9V9, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20El%20Cabito"
+    },
+    {
+      "nombre": "Mirador y Pasarela Los Botes",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "8RQF+6VG, Tres Marías. La Paloma. Rocha ha, La Paloma",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20y%20Pasarela%20Los%20Botes"
+    },
+    {
+      "nombre": "Playa Bahía Grande",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "8RRX+M4Q, Puerto de, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Bah%C3%ADa%20Grande"
+    },
+    {
+      "nombre": "Parque Andresito",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "8RWV+V9H, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Andresito"
+    },
+    {
+      "nombre": "Centro Cultural La Paloma, Rocha.",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "8RRV+GVR, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Centro%20Cultural%20La%20Paloma%2C%20Rocha."
+    },
+    {
+      "nombre": "Playa Bahía Chica",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "8RPX+J78, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Bah%C3%ADa%20Chica"
+    },
+    {
+      "nombre": "Paseo Marítimo La Paloma",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "8RRX+M22, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Paseo%20Mar%C3%ADtimo%20La%20Paloma"
+    },
+    {
+      "nombre": "Playa Los Botes",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "27001 La Paloma, Departamento de Rocha",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Los%20Botes"
+    },
+    {
+      "nombre": "Playa Balconada. La Paloma departamento de Rocha",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "8RMP+MJ6, La Paloma, Departamento de Rocha",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Balconada.%20La%20Paloma%20departamento%20de%20Rocha"
+    },
+    {
+      "nombre": "Palito en la Arena",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "8QQW+C7, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Palito%20en%20la%20Arena"
+    },
+    {
+      "nombre": "La Chacra de Marilyn",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Ruta 15. Km 6.5 Camino vecinal.BalnearioLa, La Paloma",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20Chacra%20de%20Marilyn"
+    },
+    {
+      "nombre": "La Laguna",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Paisaje protegido Laguna de Rocha, 27001 Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20Laguna"
+    },
+    {
+      "nombre": "Playa Zanja Honda",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Av. Anaconda, 27000 La Paloma, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Zanja%20Honda"
+    },
+    {
+      "nombre": "Gruta de la Llorona",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "7CCF+9FG, 97000 La Paloma, Departamento de Durazno",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Gruta%20de%20la%20Llorona"
+    },
+    {
+      "nombre": "Valle De La Luna",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "CVMP+CGQ, 27400 Rocha, Departamento de Rocha",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Valle%20De%20La%20Luna"
+    },
+    {
+      "nombre": "Camping El Palomar",
+      "sitio": "La Paloma",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "9R5M+3GF, Unnamed Road, 27400 La Paloma, Departamento de Rocha",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Camping%20El%20Palomar"
+    },
+    {
+      "nombre": "Rambla De La Pedrera",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "CV5H+V9J, 27400 La Pedrera, Departamento de Rocha",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla%20De%20La%20Pedrera"
+    },
+    {
+      "nombre": "Escalera al Peñon de La Pedrera",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "CV5H+56X, Rocha, 27400 La Pedrera, Departamento de Rocha",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Escalera%20al%20Pe%C3%B1on%20de%20La%20Pedrera"
+    },
+    {
+      "nombre": "Diamante de La Pedrera",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "ruta 10, km 226.800, 27400 La Pedrera, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Diamante%20de%20La%20Pedrera"
+    },
+    {
+      "nombre": "Mirador La Pedrera",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Rambla 8, 27400 La Pedrera, Departamento de Rocha",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20La%20Pedrera"
+    },
+    {
+      "nombre": "Sendero “Barra de la Laguna”",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "8P9H+WQC, Laguna de Rocha, 27004 La Pedrera, Departamento de Rocha",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Sendero%20%E2%80%9CBarra%20de%20la%20Laguna%E2%80%9D"
+    },
+    {
+      "nombre": "Playa Las Barrancas",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "CV2F+P24, 27400 La Pedrera, Departamento de Rocha",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Las%20Barrancas"
+    },
+    {
+      "nombre": "Escalera al cielo la pedrera",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "CV5C+9VR, 27400 La Pedrera, Departamento de Rocha",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Escalera%20al%20cielo%20la%20pedrera"
+    },
+    {
+      "nombre": "Mirador de las Cárcavas",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "CVHJ+V3P, Calle al mirador, 27400 Punta Rubia, Departamento de Rocha",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20de%20las%20C%C3%A1rcavas"
+    },
+    {
+      "nombre": "Laguna de Rocha",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "8QQG+P78, 27000 Rocha, Departamento de Rocha",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Laguna%20de%20Rocha"
+    },
+    {
+      "nombre": "La Riviera",
+      "sitio": "La Pedrera",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "FM3F+CQV, Cam. del Pescador, 27000 La Riviera, Departamento de Rocha",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20Riviera"
+    },
+    {
+      "nombre": "Cerro Artigas",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "JQFM+XC4, Escalera al Monumento, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cerro%20Artigas"
+    },
+    {
+      "nombre": "Minas",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "J. Batlle y Ordóñez 704, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Minas"
+    },
+    {
+      "nombre": "PlazaLibertad",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "JQC6+XQ6, Plaza Libertad, Minas, Departamento de Lavalleja",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=PlazaLibertad"
+    },
+    {
+      "nombre": "Parque de Ose",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "JQ6H+935, Unnamed Road, Minas, Departamento de Lavalleja",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20Ose"
+    },
+    {
+      "nombre": "Laguna De Los Cuervos",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Arequita, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Laguna%20De%20Los%20Cuervos"
+    },
+    {
+      "nombre": "Salto del Penitente",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "JWHX+42C, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Salto%20del%20Penitente"
+    },
+    {
+      "nombre": "Fuente del Puma",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "HMHM+5M6, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Fuente%20del%20Puma"
+    },
+    {
+      "nombre": "Catedral de la Inmaculada Concepción de Minas",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "JQC7+FFR, José Enrique Rodó, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Catedral%20de%20la%20Inmaculada%20Concepci%C3%B3n%20de%20Minas"
+    },
+    {
+      "nombre": "Parque de Minas - Hotel Vacacional",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "HRF4+RMG, Ent. al Parque, 30000 San Francisco de las Sierras, Departamento de Lavalleja",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20Minas%20-%20Hotel%20Vacacional"
+    },
+    {
+      "nombre": "Reserva Natural Salus",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Bioparques, Termas y Naturaleza",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Ruta 8 km 109, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Reserva%20Natural%20Salus"
+    },
+    {
+      "nombre": "Represa Stewart Vargas",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "12300, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Represa%20Stewart%20Vargas"
+    },
+    {
+      "nombre": "Valle de Domos - MINAS",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "JRQP+6Q5, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Valle%20de%20Domos%20-%20MINAS"
+    },
+    {
+      "nombre": "Letras Monumentales MINAS",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "8 Bdier. Gral. Lavalleja 207, 30000 Departamento de Lavalleja",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Letras%20Monumentales%20MINAS"
+    },
+    {
+      "nombre": "Cartel de Minas",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "JP52+H56, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 3.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cartel%20de%20Minas"
+    },
+    {
+      "nombre": "Rincón Indígena - Cascada Escondida",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "HRG3+WHV, Ent. al Parque, 30000 Departamento de Lavalleja",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rinc%C3%B3n%20Ind%C3%ADgena%20-%20Cascada%20Escondida"
+    },
+    {
+      "nombre": "Monte De Ombúes",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "PP6J+2GJ, 30000 Vejigas, Departamento de Lavalleja",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Monte%20De%20Omb%C3%BAes"
+    },
+    {
+      "nombre": "Mirador de Minas",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "JPG5+2PF, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20de%20Minas"
+    },
+    {
+      "nombre": "Río Santa Lucía",
+      "sitio": "Minas",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "PP88+8J2, 30000 Minas, Departamento de Lavalleja",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=R%C3%ADo%20Santa%20Luc%C3%ADa"
+    },
+    {
+      "nombre": "Obelisco de Villa Serrana",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M2J7+4PC, Arrayán, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 3.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Obelisco%20de%20Villa%20Serrana"
+    },
+    {
+      "nombre": "Baño de la India",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M2C9+RXH, Tembetarii, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Ba%C3%B1o%20de%20la%20India"
+    },
+    {
+      "nombre": "Cartel Villa Serrana",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M2V9+W6F, Arquitecto Julio Vilamajó, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cartel%20Villa%20Serrana"
+    },
+    {
+      "nombre": "Zona de Picnic - Villa Serrana",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "M2H6+79X, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Zona%20de%20Picnic%20-%20Villa%20Serrana"
+    },
+    {
+      "nombre": "Cerro Guazubirá",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "MXGW+RM8, Cam. Cerro Guazuvira, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cerro%20Guazubir%C3%A1"
+    },
+    {
+      "nombre": "Lo de Mario - Cabalgatas en Villa Serrana",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Av Bernasconi esquina, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Lo%20de%20Mario%20-%20Cabalgatas%20en%20Villa%20Serrana"
+    },
+    {
+      "nombre": "Cumbre de los Reyes",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "MX3W+95, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cumbre%20de%20los%20Reyes"
+    },
+    {
+      "nombre": "Letras Villa Serrana",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M2C7+778, Coronilla, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Letras%20Villa%20Serrana"
+    },
+    {
+      "nombre": "Cruz de la estación Penitente",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "JW9F+RG, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cruz%20de%20la%20estaci%C3%B3n%20Penitente"
+    },
+    {
+      "nombre": "Parque La Guarida",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "M2G2+C5, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20La%20Guarida"
+    },
+    {
+      "nombre": "Villa serrana",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M2J6+68P, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Villa%20serrana"
+    },
+    {
+      "nombre": "Experiencias/Cabalgatas Conscientes/Tiempo con Caballos/Senderismo Interpretativo/Campamentos y Retiros/Astroturismo",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Chalchal 1104, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Experiencias/Cabalgatas%20Conscientes/Tiempo%20con%20Caballos/Senderismo%20Interpretativo/Campamentos%20y%20Retiros/Astroturismo"
+    },
+    {
+      "nombre": "Cabaña El Refugio / Cabalgatas",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M28F+3GH, Tembetarii, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Caba%C3%B1a%20El%20Refugio%20/%20Cabalgatas"
+    },
+    {
+      "nombre": "Cabalgatas Ale Villa Serrana",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Tembetarii, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cabalgatas%20Ale%20Villa%20Serrana"
+    },
+    {
+      "nombre": "Rincón de la buena vista",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M2C4+956, Calle del Balcon, 30000 Villa Serrana, Departamento de Lavalleja",
+      "calificacion": 3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rinc%C3%B3n%20de%20la%20buena%20vista"
+    },
+    {
+      "nombre": "Geoparque Manantiales Serranos",
+      "sitio": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "JM3F+RX6, 30100 Solís de Mataojo, Departamento de Lavalleja",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Geoparque%20Manantiales%20Serranos"
+    },
+    {
+      "nombre": "Centro Termal Guaviyú",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "5457+8CR, 60200 Quebracho, Departamento de Paysandú",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Centro%20Termal%20Guaviy%C3%BA"
+    },
+    {
+      "nombre": "Saladero Guaviyú",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Parque Saladero Guaviyu, Unnamed Rd,, 60200 Departamento de Paysandú",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Saladero%20Guaviy%C3%BA"
+    },
+    {
+      "nombre": "Cartel de Terma Guaviyu",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "5457+GM5, 60200 Termas de Guaviyu, Departamento de Paysandú",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cartel%20de%20Terma%20Guaviyu"
+    },
+    {
+      "nombre": "Meseta de Artigas",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "500000, Chapicuy, Departamento de Paysandú",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Meseta%20de%20Artigas"
+    },
+    {
+      "nombre": "CIELO TERMAL",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Calle Los Pinos esquina, calle Anacahuita S/N, 60000 Termas de Guaviyu, Departamento de Paysandú",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=CIELO%20TERMAL"
+    },
+    {
+      "nombre": "Isla Guaviyú",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "7X68+FGM, Departamento de Paysandú",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Isla%20Guaviy%C3%BA"
+    },
+    {
+      "nombre": "Gruta del Padre Pío",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G4C7+8FM, 50000 Daymán, Departamento de Paysandú",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Gruta%20del%20Padre%20P%C3%ADo"
+    },
+    {
+      "nombre": "Cabañas La Victoria",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Termas de Guaviyu",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Caba%C3%B1as%20La%20Victoria"
+    },
+    {
+      "nombre": "Alojamiento LA FUENTE",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "60200 Termas de Guaviyu, Departamento de Paysandú",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Alojamiento%20LA%20FUENTE"
+    },
+    {
+      "nombre": "Camping Guaviyu",
+      "sitio": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "5446+VH3, 60200 Termas de Guaviyu, Departamento de Paysandú",
+      "calificacion": 3.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Camping%20Guaviyu"
+    },
+    {
+      "nombre": "Parque Termal Agua Clara",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Rbla. de Circunvalación s/n, 50000 Termas del Dayman, Departamento de Salto",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Termal%20Agua%20Clara"
+    },
+    {
+      "nombre": "Estancia La Aurora",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G4F9+FQ3, Departamento de Paysandú limite entre el, Daymán, Departamento de Salto",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Estancia%20La%20Aurora"
+    },
+    {
+      "nombre": "Plaza \" Tierra de Campeones\"",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "G3WR+XR5, circunvalacioón Edinson Cavani, 50000 Termas del Dayman, Departamento de Salto",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20%22%20Tierra%20de%20Campeones%22"
+    },
+    {
+      "nombre": "Parque costanera Dayman",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Termas de Dayman 89, 50000 Termas del Dayman, Departamento de Salto",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20costanera%20Dayman"
+    },
+    {
+      "nombre": "Parque Acuático Acuamanía",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "G3VQ+6M, S/N, 50000 Termas del Dayman, Departamento de Salto",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Acu%C3%A1tico%20Acuaman%C3%ADa"
+    },
+    {
+      "nombre": "Spa Thermal Daymán",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Termas del Daymán, 50000 Termas del Dayman, Departamento de Salto",
+      "calificacion": 3.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Spa%20Thermal%20Daym%C3%A1n"
+    },
+    {
+      "nombre": "Escultura del mate",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "G3RR+PXW, Timbó, 50000 Termas del Dayman, Departamento de Paysandú",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Escultura%20del%20mate"
+    },
+    {
+      "nombre": "Cuevas de San Antonio",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "M249+J6J, Unnamed Road, 50000 Salto, Departamento de Salto",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cuevas%20de%20San%20Antonio"
+    },
+    {
+      "nombre": "La Buena Rienda - Cabalgatas Guiadas",
+      "sitio": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "cerca de, Ruta 3-General Jose Artigas, 50000 Termas del Dayman, Departamento de Salto",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20Buena%20Rienda%20-%20Cabalgatas%20Guiadas"
+    },
+    {
+      "nombre": "Paso de los Toros - departamento de Tacuarembó",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "5FJX+7RW, Brigadier Gral. Fructuoso Rivera, 97007 Centenario, Departamento de Durazno",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Paso%20de%20los%20Toros%20-%20departamento%20de%20Tacuaremb%C3%B3"
+    },
+    {
+      "nombre": "Parque Batlle",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "5FMX+8WJ, de los toros, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Batlle"
+    },
+    {
+      "nombre": "Monumento al Toro",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "5FMX+3FF, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Monumento%20al%20Toro"
+    },
+    {
+      "nombre": "Letras De La Ciudad - PASO DE LOS TOROS -",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "45100, Paso de los Toros, Departamento de Durazno",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Letras%20De%20La%20Ciudad%20-%20PASO%20DE%20LOS%20TOROS%20-"
+    },
+    {
+      "nombre": "Monumento a la Virgen María Auxiliadora",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "5FMX+8JF, Dr. Luis Alberto de Herrera, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Monumento%20a%20la%20Virgen%20Mar%C3%ADa%20Auxiliadora"
+    },
+    {
+      "nombre": "Mural urbano",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "5FPQ+JVR, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mural%20urbano"
+    },
+    {
+      "nombre": "Camping El Sauce",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "5FHX+P4X, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Camping%20El%20Sauce"
+    },
+    {
+      "nombre": "Oficina de Turismo",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "5FJX+X8H, Dr. Luis Alberto de Herrera, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Oficina%20de%20Turismo"
+    },
+    {
+      "nombre": "Paso de los Toros",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "45100 Departamento de Tacuarembó",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Paso%20de%20los%20Toros"
+    },
+    {
+      "nombre": "Camping Parador",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "5GJ2+G6H, 45100 Paso de los Toros, Departamento de Durazno",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Camping%20Parador"
+    },
+    {
+      "nombre": "Reserva Acuario del Uruguay",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Bioparques, Termas y Naturaleza",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "5H8C+VWW, 45100 Rincón del Bonete, Departamento de Durazno",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Reserva%20Acuario%20del%20Uruguay"
+    },
+    {
+      "nombre": "Monumento Natural Grutas Del Palacio",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "trazado antiguo km 235, 85000 Trinidad, Departamento de Flores",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Monumento%20Natural%20Grutas%20Del%20Palacio"
+    },
+    {
+      "nombre": "Parque Eólica",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "CHHP+6R, 45100 Cardozo, Departamento de Tacuarembó",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20E%C3%B3lica"
+    },
+    {
+      "nombre": "Tarde en Cardozo Grande",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "9M69+2JR, Cardozo, 45100 Departamento de Tacuarembó",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Tarde%20en%20Cardozo%20Grande"
+    },
+    {
+      "nombre": "Lagarto De Piedra",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "VR7C+XPW, 85000 Departamento de Soriano",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Lagarto%20De%20Piedra"
+    },
+    {
+      "nombre": "Parque Centenario",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Antonio J. Caorsi, 85000 Trinidad, Departamento de Flores",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Centenario"
+    },
+    {
+      "nombre": "Pozo de los Deseos",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Irisarry 9001, 97000 Santa Bernardina, Departamento de Durazno",
+      "calificacion": 4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Pozo%20de%20los%20Deseos"
+    },
+    {
+      "nombre": "Zooilógico del Futuro",
+      "sitio": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "C4PC+RVX, 85000 Trinidad, Departamento de Flores",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Zooil%C3%B3gico%20del%20Futuro"
+    },
+    {
+      "nombre": "Parque José Enrique Rodó",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "3RPJ+JWM, Av. Julio Herrera y Reissig, 11200 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Jos%C3%A9%20Enrique%20Rod%C3%B3"
+    },
+    {
+      "nombre": "Jardín Botánico de Montevideo Atilio Lombardo",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Entrada libre y gratuita (Intendencia)",
+      "direccion": "Av. 19 de Abril 1181, 11700 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Jard%C3%ADn%20Bot%C3%A1nico%20de%20Montevideo%20Atilio%20Lombardo"
+    },
+    {
+      "nombre": "Parque Rivera",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Parque público municipal sin costo de entrada",
+      "direccion": "Av. Italia, 11400 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Rivera"
+    },
+    {
+      "nombre": "Fuente de los Candados",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Av. 18 de Julio 1249, 11100 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Fuente%20de%20los%20Candados"
+    },
+    {
+      "nombre": "Palacio Salvo",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Pl. Independencia 848, 11100 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Palacio%20Salvo"
+    },
+    {
+      "nombre": "Rambla de Punta Carretas",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Edificio Torres del Nuevo Mundo, Rbla. Mahatma Gandhi 75, 11300 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla%20de%20Punta%20Carretas"
+    },
+    {
+      "nombre": "Rosedal del Prado",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4QRV+3MX, y, Avenida Buschental & Av Delmira Agustini, 11700 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rosedal%20del%20Prado"
+    },
+    {
+      "nombre": "Letras de Montevideo",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "3VQ6+RGQ, Rbla. República del Perú, 11300 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Letras%20de%20Montevideo"
+    },
+    {
+      "nombre": "Parque de la Rambla",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "3RCP+QGW, 11300 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20la%20Rambla"
+    },
+    {
+      "nombre": "Fuente Iluminada",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "4R3R+J87, Av. Dr. Américo Ricaldoni, 11600 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Fuente%20Iluminada"
+    },
+    {
+      "nombre": "Lago del Prado",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "4QVV+86V, 11900 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Lago%20del%20Prado"
+    },
+    {
+      "nombre": "Patio Andaluz",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "3RPJ+7H6, 11200 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Patio%20Andaluz"
+    },
+    {
+      "nombre": "Plaza Virgilio, Monumento a la Armada Nacional",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Rambla República de México 5535, 11400 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20Virgilio%2C%20Monumento%20a%20la%20Armada%20Nacional"
+    },
+    {
+      "nombre": "Fortaleza del Cerro de Montevideo \"General Artigas\"",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "José Batlle y Ordóñez S/N, Cerro de Montevideo, 12802 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Fortaleza%20del%20Cerro%20de%20Montevideo%20%22General%20Artigas%22"
+    },
+    {
+      "nombre": "Punta Brava",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "3R9R+M38, Vehicular Peatonal, 11200 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Punta%20Brava"
+    },
+    {
+      "nombre": "Fuente Le Source",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "3RPJ+F43, Dr. Antonio Maria Rodriguez, 11200 Montevideo, Departamento de Montevideo",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Fuente%20Le%20Source"
+    },
+    {
+      "nombre": "Un Sol Para Atlántida, homenaje a Carlos Paez Vilaró",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "66GM+H58, Ruta 10, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Un%20Sol%20Para%20Atl%C3%A1ntida%2C%20homenaje%20a%20Carlos%20Paez%20Vilar%C3%B3"
+    },
+    {
+      "nombre": "Playa de Atlántida",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "66FP+2RG, Ruta 10, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20de%20Atl%C3%A1ntida"
+    },
+    {
+      "nombre": "Parque Azul",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "66FW+GXV, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Azul"
+    },
+    {
+      "nombre": "Piedra Lisa",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "66CX+232, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Piedra%20Lisa"
+    },
+    {
+      "nombre": "Mirador Municipal",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Rbla. Pdte. Tomás Berreta y, C14 Atlántida, Departamento de Canelones",
+      "calificacion": 4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20Municipal"
+    },
+    {
+      "nombre": "Edificio El Planeta",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "66GP+69X, 15300 Atlántida, Departamento de Canelones",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Edificio%20El%20Planeta"
+    },
+    {
+      "nombre": "El Águila",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "66HC+P92, C. 3, 15200 Villa Argentina, Departamento de Canelones",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=El%20%C3%81guila"
+    },
+    {
+      "nombre": "Plaza Varela",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "66GQ+6MH, República De Chile, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20Varela"
+    },
+    {
+      "nombre": "Isla de la Sirena",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "668Q+FH8, Atlántida, Departamento de Canelones",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Isla%20de%20la%20Sirena"
+    },
+    {
+      "nombre": "Plaza Artigas",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "66GQ+77W, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20Artigas"
+    },
+    {
+      "nombre": "Pinares Beach",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "67C3+CC7, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Pinares%20Beach"
+    },
+    {
+      "nombre": "Playa brava",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "669V+QF9, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20brava"
+    },
+    {
+      "nombre": "Letras \"Atlántida\"",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "66MM+3H9, Ruta Interbalnearia Gral. Líber Seregni, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Letras%20%22Atl%C3%A1ntida%22"
+    },
+    {
+      "nombre": "Parque de los Pájaros",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "65GM+MC4, 15100 Marindia, Departamento de Canelones",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20los%20P%C3%A1jaros"
+    },
+    {
+      "nombre": "Estación Atlántida",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Diagonal 3 9002, 15200 Estación Atlántida, Departamento de Canelones",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Estaci%C3%B3n%20Atl%C3%A1ntida"
+    },
+    {
+      "nombre": "La casa del miedo",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Gral. Artigas Y, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20casa%20del%20miedo"
+    },
+    {
+      "nombre": "Plaza El jardin 27",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "66HX+6XJ, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20El%20jardin%2027"
+    },
+    {
+      "nombre": "Feria Artesanal",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "66GQ+9CF, Calle montevideo, 15200 Atlántida, Departamento de Canelones",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Feria%20Artesanal"
+    },
+    {
+      "nombre": "Arco de Salinas",
+      "sitio": "Atlántida",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "65F5+PXQ, 15100 Salinas, Departamento de Canelones",
+      "calificacion": 4.1,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Arco%20de%20Salinas"
+    },
+    {
+      "nombre": "Playa La Floresta",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "68QF+3C7, 15400 La Floresta, Departamento de Canelones",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20La%20Floresta"
+    },
+    {
+      "nombre": "Mirador de la Bicicasa",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "68PH+HRG, 15400 La Floresta, Departamento de Canelones",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20de%20la%20Bicicasa"
+    },
+    {
+      "nombre": "Zona de pescadores y playa",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Sebastian Elcano 145, 15400 La Floresta, Departamento de Canelones",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Zona%20de%20pescadores%20y%20playa"
+    },
+    {
+      "nombre": "Rambla del Arroyo Sarandí",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "68PP+H78, 15400 La Floresta, Departamento de Canelones",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Rambla%20del%20Arroyo%20Sarand%C3%AD"
+    },
+    {
+      "nombre": "Plazoleta del Leonismo",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "68RJ+4RX, Av. 18 de Julio, 15400 La Floresta, Departamento de Canelones",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plazoleta%20del%20Leonismo"
+    },
+    {
+      "nombre": "Camping Municipal",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Sarandi 1512, 15400 La Floresta, Departamento de Canelones",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Camping%20Municipal"
+    },
+    {
+      "nombre": "Playa Las Vegas",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "68P3+RJC, 15400 La Floresta, Departamento de Canelones",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Las%20Vegas"
+    },
+    {
+      "nombre": "Paisaje protegido Quebrada de los Cuervos y Sierras del Yerbal",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Bioparques, Termas y Naturaleza",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Camino Quebrada De Los Cuervos km. 25, Departamento de Treinta y Tres",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Paisaje%20protegido%20Quebrada%20de%20los%20Cuervos%20y%20Sierras%20del%20Yerbal"
+    },
+    {
+      "nombre": "Arroyo Solis Chico",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "67WW+5QP, 15300 Parque del Plata, Departamento de Canelones",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Arroyo%20Solis%20Chico"
+    },
+    {
+      "nombre": "Sendero Ñacurutú",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "7822+28C, 15400 La Floresta, Departamento de Canelones",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Sendero%20%C3%91acurut%C3%BA"
+    },
+    {
+      "nombre": "Playa Bello Horizonte",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "69C3+JCW, 15400 Bello Horizonte, Departamento de Canelones",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Bello%20Horizonte"
+    },
+    {
+      "nombre": "Campamento La Floresta",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Rivera entre Artigas y Treinta y Tres, 16200 La Floresta, Departamento de Canelones",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Campamento%20La%20Floresta"
+    },
+    {
+      "nombre": "Centro de Unificación Isha Judd",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Rambla General Artigas, esquina Alfonsina Storni, Costa Azul, 16202 La Floresta",
+      "calificacion": 4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Centro%20de%20Unificaci%C3%B3n%20Isha%20Judd"
+    },
+    {
+      "nombre": "Balneario San Luis",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Presidente Roosevelt, 15400 San Luis, Departamento de Canelones",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Balneario%20San%20Luis"
+    },
+    {
+      "nombre": "Parque Nacional de Santa Teresa",
+      "sitio": "La Floresta",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Ruta Nacional Nº 9, 27100 Rocha, Departamento de Rocha",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Nacional%20de%20Santa%20Teresa"
+    },
+    {
+      "nombre": "Playa Salinas",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "6577+F57, 15100 Salinas, Departamento de Canelones",
+      "calificacion": 4.5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Salinas"
+    },
+    {
+      "nombre": "El Chorro de Salinas",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "6597+PJJ, 15100 Salinas, Departamento de Canelones",
+      "calificacion": 3.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=El%20Chorro%20de%20Salinas"
+    },
+    {
+      "nombre": "Placita niños \"El Rinconcito\"",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "65GP+G7H, Av. del Coral, 15100 Salinas, Departamento de Canelones",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Placita%20ni%C3%B1os%20%22El%20Rinconcito%22"
+    },
+    {
+      "nombre": "Mirador de Aves \"Sendero de los cisnes\"",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "7535+2PJ, Cardenal, 15100 Ceramicas Salinas, Departamento de Canelones",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20de%20Aves%20%22Sendero%20de%20los%20cisnes%22"
+    },
+    {
+      "nombre": "Parque Franklin Delano Roosevelt",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Bioparques, Termas y Naturaleza",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Av. a la Playa 16, 15000 Ciudad de la Costa, Departamento de Canelones",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20Franklin%20Delano%20Roosevelt"
+    },
+    {
+      "nombre": "Salinas",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "65H5+5JM, 15100 Salinas, Departamento de Canelones",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Salinas"
+    },
+    {
+      "nombre": "Playa Racine",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "4XMX+X7C, 15000 Ciudad de la Costa, Departamento de Canelones",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Racine"
+    },
+    {
+      "nombre": "Museo Spikerman",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Treinta y Tres &, 90000 Canelones, Departamento de Canelones",
+      "calificacion": 4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Museo%20Spikerman"
+    },
+    {
+      "nombre": "Bracco Bosca Winery",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Carretera Sosa Diaz km 43.000 Piedra del Toro, Municipio de, Salinas, Departamento de Canelones",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Bracco%20Bosca%20Winery"
+    },
+    {
+      "nombre": "Marindia- Uruguay",
+      "sitio": "Salinas",
+      "departamento": "Canelones",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Av. Curuzú Cuatiá 6105-6119, 15100 Marindia, Departamento de Canelones",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Marindia-%20Uruguay"
+    },
+    {
+      "nombre": "Parque Público Punta del Diablo.",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Indicación de acceso libre en Google Maps ('parque público')",
+      "direccion": "calle 28 entre 13 y 3-Punta del Diablo,",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20P%C3%BAblico%20Punta%20del%20Diablo."
+    },
+    {
+      "nombre": "Sombráculo Parque Santa Teresa",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Parque Nacional y playas de libre acceso público",
+      "direccion": "XCXW+2H9, Parque Nacional Sta Teresa, Rocha,, Punta del Diablo",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Sombr%C3%A1culo%20Parque%20Santa%20Teresa"
+    },
+    {
+      "nombre": "Feria de Artesanos Punta del Diablo",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Ute 2 1999, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Feria%20de%20Artesanos%20Punta%20del%20Diablo"
+    },
+    {
+      "nombre": "cartel foto recuerdo PUNTA DEL DIABLO",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "XF46+7Q7, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=cartel%20foto%20recuerdo%20PUNTA%20DEL%20DIABLO"
+    },
+    {
+      "nombre": "Servicio de Parques del Ejército",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XCXW+J38, 9 Km 302, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Servicio%20de%20Parques%20del%20Ej%C3%A9rcito"
+    },
+    {
+      "nombre": "Homenaje al Surfista",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "2FFC+Q3G, 27100 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Homenaje%20al%20Surfista"
+    },
+    {
+      "nombre": "Playa Celina",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XFX9+MC, 27100 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Celina"
+    },
+    {
+      "nombre": "Monumento a Artigas",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "XF48+685, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Monumento%20a%20Artigas"
+    },
+    {
+      "nombre": "KiteBro",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "XF66+Q7J, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=KiteBro"
+    },
+    {
+      "nombre": "Mi lugar en el mundo",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XCV4+55, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 3,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mi%20lugar%20en%20el%20mundo"
+    },
+    {
+      "nombre": "Cerro del Rivero",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XF87+Q36, 27200 Santa Teresa, Departamento de Rocha",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cerro%20del%20Rivero"
+    },
+    {
+      "nombre": "La Playa Grande",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XF53+336, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=La%20Playa%20Grande"
+    },
+    {
+      "nombre": "Parque de esculturas",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XC8Q+J8, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 2,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Parque%20de%20esculturas"
+    },
+    {
+      "nombre": "El Potrerillo - Laguna Negra",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "XCP2+P9, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=El%20Potrerillo%20-%20Laguna%20Negra"
+    },
+    {
+      "nombre": "Plaza los mochileros",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "2FF7+CHH, 27100 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Plaza%20los%20mochileros"
+    },
+    {
+      "nombre": "Placa do Mobinho",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "Simón Bolívar 378, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Placa%20do%20Mobinho"
+    },
+    {
+      "nombre": "Bosque de la Viuda",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "WCWM+XQH, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Bosque%20de%20la%20Viuda"
+    },
+    {
+      "nombre": "Semillas del Sol",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "XC6V+HJH, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Semillas%20del%20Sol"
+    },
+    {
+      "nombre": "ingreso playa de la viuda",
+      "sitio": "Punta del Diablo",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XF25+XQ2, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": null,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=ingreso%20playa%20de%20la%20viuda"
+    },
+    {
+      "nombre": "Invernaculo Parque Sta Teresa",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XCXV+7R2, Parque Nacional Sta Teresa, Rocha,, Punta del Diablo",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Invernaculo%20Parque%20Sta%20Teresa"
+    },
+    {
+      "nombre": "Pajarera del Parque Santa Teresa",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Parque Nacional y playas de libre acceso público",
+      "direccion": "Ruta Nacional 9, 27100 Rocha, Departamento de Rocha",
+      "calificacion": 4.7,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Pajarera%20del%20Parque%20Santa%20Teresa"
+    },
+    {
+      "nombre": "Cerro Chato",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Rocha, 27204, Parque Santa Teresa, 27100",
+      "calificacion": 4.8,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Cerro%20Chato"
+    },
+    {
+      "nombre": "Santa teresa",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Paseos y Atracciones Generales",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "GMGQ+326, Sta. Teresa, 27000 Rocha, Departamento de Rocha",
+      "calificacion": 5,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Santa%20teresa"
+    },
+    {
+      "nombre": "Vista Playa La Moza",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Unnamed Road 27204, 27100 Departamento de Rocha",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Vista%20Playa%20La%20Moza"
+    },
+    {
+      "nombre": "Mirador de Aves Parque de Santa Teresa",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "XCWW+PM9, 27200 Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Mirador%20de%20Aves%20Parque%20de%20Santa%20Teresa"
+    },
+    {
+      "nombre": "El Potrerillo De Santa Teresa",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Paseo público sin costo de entrada registrado",
+      "direccion": "29H4+R7V, Unnamed Road, Punta del Diablo, Departamento de Rocha",
+      "calificacion": 4.9,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=El%20Potrerillo%20De%20Santa%20Teresa"
+    },
+    {
+      "nombre": "El Chorro",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "2FC6+VMM, 27100 Departamento de Rocha",
+      "calificacion": 4.4,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=El%20Chorro"
+    },
+    {
+      "nombre": "Playa Laguna Negra",
+      "sitio": "Santa Teresa",
+      "departamento": "Rocha",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Espacio público natural o mirador de libre acceso",
+      "direccion": "Unnamed Road, 27204, Departamento de Rocha",
+      "calificacion": 4.6,
+      "enlace_maps": "https://www.google.com/maps/search/?api=1&query=Playa%20Laguna%20Negra"
+    },
+    {
+      "nombre": "Jardín Botánico de Montevideo",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Entrada libre y gratuita (Intendencia)"
+    },
+    {
+      "nombre": "Planetario de Montevideo",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Funciones públicas gratuitas"
+    },
+    {
+      "nombre": "Museo Juan Manuel Blanes y Jardín Japonés",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Museos, Ciencia y Planetarios",
+      "detalle_tarifa": "Museo y jardín de acceso libre"
+    },
+    {
+      "nombre": "Rambla de Montevideo",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Paseo costero público sin costo"
+    },
+    {
+      "nombre": "Parque Rodó (Espacio Público)",
+      "sitio": "Montevideo",
+      "departamento": "Montevideo",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Parque y lago de libre acceso"
+    },
+    {
+      "nombre": "Barrio Histórico de Colonia",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Paseo peatonal a cielo abierto sin costo"
+    },
+    {
+      "nombre": "Rambla de Colonia del Sacramento",
+      "sitio": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "categoria": "Parques y Jardines Botánicos",
+      "detalle_tarifa": "Paseo costero de libre acceso"
+    },
+    {
+      "nombre": "Cerro San Antonio y Mirador",
+      "sitio": "Piriápolis",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Mirador panorámico de acceso libre"
+    },
+    {
+      "nombre": "Puerto de Punta del Este",
+      "sitio": "Punta del Este",
+      "departamento": "Maldonado",
+      "categoria": "Miradores, Faros y Paseos Históricos",
+      "detalle_tarifa": "Paseo y avistamiento costero gratuito"
+    },
+    {
+      "nombre": "Bioparque Municipal de Durazno",
+      "sitio": "Durazno",
+      "departamento": "Durazno",
+      "categoria": "Bioparques, Termas y Naturaleza",
+      "detalle_tarifa": "Acceso libre y gratuito"
+    }
+  ]
+}

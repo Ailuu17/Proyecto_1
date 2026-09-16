@@ -1,0 +1,754 @@
+{
+  "search_metadata": {
+    "id": "6aa95f1312eb1434127421e2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3tTcCDXTo3aLUZuBB18fRJ6LXThdx9uq-FSdcrGCIKw/6aa95f1312eb1434127421e2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3tTcCDXTo3aLUZuBB18fRJ6LXThdx9uq-FSdcrGCIKw/6aa95f1312eb1434127421e2.md",
+    "created_at": "2026-09-15 15:06:59 UTC",
+    "processed_at": "2026-09-15 15:06:59 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Cabo+Polonio+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/3tTcCDXTo3aLUZuBB18fRJ6LXThdx9uq-FSdcrGCIKw/6aa95f1312eb1434127421e2.html",
+    "prettify_html_file": "https://serpapi.com/searches/3tTcCDXTo3aLUZuBB18fRJ6LXThdx9uq-FSdcrGCIKw/6aa95f1312eb1434127421e2.prettify",
+    "total_time_taken": 0.96
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Cabo Polonio Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Cabo Polonio Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Parque Nacional Cabo Polonio",
+      "place_id": "ChIJFSDPNvJBc5URmq4nDyTt_hc",
+      "data_id": "0x957341f236cf2015:0x17feed240f27ae9a",
+      "data_cid": "1729080046085713562",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957341f236cf2015%3A0x17feed240f27ae9a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957341f236cf2015%3A0x17feed240f27ae9a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3867885,
+        "longitude": -53.813765599999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFSDPNvJBc5URmq4nDyTt_hc",
+      "provider_id": "/g/11b6svx4g7",
+      "rating": 4.8,
+      "reviews": 3859,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque nacional"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "national_park"
+      ],
+      "address": "J57P+7FQ, 27202 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Servicios en el lugar"
+          ]
+        },
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario público"
+          ]
+        },
+        {
+          "payments": [
+            "Pagos móviles mediante NFC",
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños",
+            "Rutas de senderismo adecuadas para niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "service_options": {
+        "servicios_en_el_lugar": true
+      },
+      "user_review": "\"Muy recomendable visitar el cabo, siempre con responsabilidad ambiental!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnVXGCb2uJsjiYboUrVEVxh-UD7RFgFVfKDkUZrE5Qn1yhhwiDylyJ2cbT1-qt8BcV0g72bkq582c07CK_la-xC7NoWqgRTpMAVlGjVP0IV4UkYK2r8_Fa27z75xzzUyqm_LhjJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BizZaHicHcTRroIgAADQLyKRrsO19VCa3avVygndenHJDFICFVrqD_YN_U1b5-G8X8LaxswcR4rphGvNZfkwZce0sqWyE6bvDm8MYAYYZ_Gb7rOjov_roECP2FS3U6FJR1e0F4CEOI14RK9JWJNzt_IOyh2EeN7CQQ4xYkXmgtb6S0Yhx6ioW89HDOIgyeUF9AHe6WPL06zZLqhcV3QP_-gPqU8J6vw8uiA8Yq8fRzK093wjqnj-dCGEQHxnQH0AUDREVg"
+    },
+    {
+      "position": 2,
+      "title": "Reserva de Lobos Marinos de Cabo Polonio",
+      "place_id": "ChIJCzGaLPVqc5URIC8iHLZY_w0",
+      "data_id": "0x95736af52c9a310b:0xdff58b61c222f20",
+      "data_cid": "1008622380733574944",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95736af52c9a310b%3A0xdff58b61c222f20&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95736af52c9a310b%3A0xdff58b61c222f20&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4061805,
+        "longitude": -53.7776997
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJCzGaLPVqc5URIC8iHLZY_w0",
+      "provider_id": "/g/11fx7mr6_l",
+      "rating": 4.8,
+      "reviews": 117,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Refugio de vida salvaje"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "wildlife_refuge"
+      ],
+      "address": "27200 Cabo Polonio, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "http://turismorocha.gub.uy/atractivos/naturaleza/reserva-de-lobos-marinos",
+      "extensions": [
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Hermoso lugar natural de Uruguay, vale la pena visitarlo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZ5BVENoI8vBE4ewxuLakVF8n7O3n6PkfyH5yYMYdlMzRYmhJmj5JASs4bP05o_IJPZOvL3wi9K4iPvXfUMjcx9faSerKB7prFvMcVLk7JKz6ajxKVHOxFLlrtgdXGCuxtFcTy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6l7Ky3icHcRJDoIwAADAFyEYQNTEgxiQVRoXFC4GSwFZWkILFD7oG_yNiXOY76dgrKVbUawLeZETkteop6iDBDOE2QKSRsxbKkAqUHFvncH13sSqHhonYq8H3VDQyHsvqUJzjbVAxitQZZOlTpEfpbU_n6OmcJpSdfYXqryApJKn7YA4GDx5fG9c5Q2GR3bzS8g3WXJBnatrbWcOPgy9SnPceZWU3A2tgJte3bE8fRwPPWcmvE67cSlJklD8hwL-AXLbRZc"
+    },
+    {
+      "position": 3,
+      "title": "Dunas de Cabo Polonio",
+      "place_id": "ChIJQ6_oI9hBc5URD-hFxeAkPzY",
+      "data_id": "0x957341d823e8af43:0x363f24e0c545e80f",
+      "data_cid": "3908883549381847055",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957341d823e8af43%3A0x363f24e0c545e80f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957341d823e8af43%3A0x363f24e0c545e80f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3853,
+        "longitude": -53.7856725
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQ6_oI9hBc5URD-hFxeAkPzY",
+      "provider_id": "/g/11b60xsbqj",
+      "rating": 4.8,
+      "reviews": 40,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Reserva natural"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "nature_preserve"
+      ],
+      "address": "J677+VPG, 27200 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Recomiendo visitar las dunas si van a Cabo Polonio.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmr8iGvX1gQ6aObP7UKsVwNFO4XiTVPEhlUYt-9CiEEmYlpOghkBV5yHiY1YMem9HaTs7h48nzeH643P123RC7SfEJ5sc5sHuUmUutOLDoQXZpZMTHpnD1Shf518TBuiz9mSMvq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4HRuqnicHcTdboIwGADQJ6pQAYElu5jKbLYxUAoD71xT20b6o1_RzBfcM_g2S3YuzuNXeu_gKQhGGc2EtWLkE_ALs8Zz42fM6kA4QAwQBC9kV9MvfcnU5tpjsV0cqu86bd-hu32-VnGvaFcXcmwHj_KVKgo9jK4S8rTskh-iBjyUXOfkQCGVcWbunCziqMbzaLdKm2PxlgBLgEytbidffazttt-7fUmJM2vcyGOCM7qc1D3XTXk9P99wGIZI_s-Q-QMWhkPX"
+    },
+    {
+      "position": 4,
+      "title": "Cabo Polonio",
+      "place_id": "ChIJIRAI5Hxqc5URNfjPNdXVWHw",
+      "data_id": "0x95736a7ce4081021:0x7c58d5d535cff835",
+      "data_cid": "8960146570361174069",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95736a7ce4081021%3A0x7c58d5d535cff835&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95736a7ce4081021%3A0x7c58d5d535cff835&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4029824,
+        "longitude": -53.7817739
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIRAI5Hxqc5URNfjPNdXVWHw",
+      "provider_id": "/g/11cltgnjn2",
+      "rating": 4.8,
+      "reviews": 114,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "H6W9+R75, 27200 Cabo Polonio, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Sanitario público"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"El mejor lugar de Uruguay, imposible perdértelo!!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkQwzPhCmUh5ruxxu5kkDGbw8qCU76z9EwyRAmswNTAi8qVkdu73gF8L0Ub6UryG1UpEvpZSEYWau2uWoQ_pOwULLabqP2LgXoXTY9M7AphxCBK-9d8_oDItMSggmjcMsvHjprE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SAyBcXicHcRdDoIgAADgE5FaK7WtBzP7WVqWktVLS3KQpqBAqBfsDN2mre_h-36IEIxPNe1FRgNMKX5lkmcNopXIKjFAtNQw4wBxwDVnfQzjpDioPiRuCcm4kW0rx0WxWKXKql1oTnrbU93RKbnaxc7Tqk_FQ5ojvLR8HaYT2HQrAzLvza6Rd0nucigTerixvYK-f0_rcOjjMz3HFzswHUZad74F9sO60cVGBBHGZY4C_l7nrPFmytB1HZD_CFQ_8c9GIA"
+    },
+    {
+      "position": 5,
+      "title": "Cabo Polonio, Área Protegida",
+      "place_id": "ChIJkWlFzpRrc5URdYyiHeo7Vvk",
+      "data_id": "0x95736b94ce456991:0xf9563bea1da28c75",
+      "data_cid": "17966613640146750581",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95736b94ce456991%3A0xf9563bea1da28c75&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95736b94ce456991%3A0xf9563bea1da28c75&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.405825899999996,
+        "longitude": -53.7773506
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkWlFzpRrc5URdYyiHeo7Vvk",
+      "provider_id": "/g/11smtwtkpx",
+      "rating": 4.7,
+      "reviews": 15,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "H6VF+M36, Cam. A Los Lobos, 27200 Cabo Polonio, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Divino lugar\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk058rtPE450D8MUUkwLN7V84dXNnt8iFHMwGFzf4s4ktQz4PPMhKDM_R0U16NnCLBqNoOpOi8SBGd_MkEhmTGYAKdYek2EN9fJFzfPXxuP0QnFTHJmZaQdp2EKPksoDL-l7o2F=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/W4CDA3icHcvbDoIgAADQLyLJqKith8zbUghLu720piYNBQuarR_sG_qbWi_n7Xze3JhWTy2r5oNepVRVlw9d3nMlTSlNL1eNVbUa5Bpoax6uWboTcIjvhnloCF1Mskx0MR1vMSr2VBp89UPSBf7rgjQSJnkhxgiPXHJaw6w_onIROzeqVu3qijdOUJyI8HiTBod5VBxKYXt0cln-Nts_Hwwm0k_DZXM8J0VrexETWrkxqMfK9mddH0II-N8cyC-kr0Li"
+    },
+    {
+      "position": 6,
+      "title": "Faro de Cabo Polonio",
+      "place_id": "ChIJHRPn2Ypqc5UR989Ke4VIf2E",
+      "data_id": "0x95736a8ad9e7131d:0x617f48857b4acff7",
+      "data_cid": "7025413681857613815",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95736a8ad9e7131d%3A0x617f48857b4acff7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95736a8ad9e7131d%3A0x617f48857b4acff7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4052801,
+        "longitude": -53.7779156
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJHRPn2Ypqc5UR989Ke4VIf2E",
+      "provider_id": "/g/121zcc56",
+      "rating": 4.8,
+      "reviews": 966,
+      "unclaimed_listing": true,
+      "type": "Mirador",
+      "types": [
+        "Mirador"
+      ],
+      "type_id": "observation_deck",
+      "type_ids": [
+        "observation_deck"
+      ],
+      "address": "H6VC+VRP, 27200 Cabo Polonio, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del jue",
+      "hours": "Cerrado · Abre a las 10 a. m. del jue",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "10 a. m.–12 p. m., 3–5 p. m.",
+        "viernes": "10 a. m.–12 p. m., 3–5 p. m.",
+        "sábado": "10 a. m.–12 p. m., 3–5 p. m.",
+        "domingo": "10 a. m.–12 p. m., 3–5 p. m.",
+        "lunes": "Cerrado"
+      },
+      "website": "https://turismorocha.gub.uy/atractivos/faros/faro-de-cabo-polonio",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"El faro de Cabo Polonio es uno de los lugares mas lindo del lugar.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUXL-sciMWNEEa74dod4mUK7GvE6z6gEQR2ZD98Z8UOcGZEvjA32_K-yRycvT1QDd5EftM5C0hH8mFtSBNIY1tKAOskAJUGXNeQPqZixHoM7BgFozQXnskUjwHodfywhO0xeA4fg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SdhRj3icHcRRboIwAADQE1WKguASP6oWUAQEbUR-jCmlVYG6tYJ4wx1ht1ni-3h_v0Lrh_oyjFpMRlxKXrOnYj9Utpq1ekRlY_CHAlQBZaAg2x2ONcm3QNFrdIwxvjhWKUurIaHjd3j6nnKcZuNiNXMLlyTUL3B3Q5PxOQRDNtDuYKar0saVjuwlFIHbeHq_iNcnU4coUXe0IX4es3T3XVxfgYycBffkO81bdSe3PpBlNfQigS-GrIrPexNCCMRnCtp_TCBEhA"
+    },
+    {
+      "position": 7,
+      "title": "Playa Sur",
+      "place_id": "ChIJbWjpTGFqc5URED9E-RT9yE8",
+      "data_id": "0x95736a614ce9686d:0x4fc8fd14f9443f10",
+      "data_cid": "5749123190861610768",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95736a614ce9686d%3A0x4fc8fd14f9443f10&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95736a614ce9686d%3A0x4fc8fd14f9443f10&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4041567,
+        "longitude": -53.785525
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJbWjpTGFqc5URED9E-RT9yE8",
+      "provider_id": "/g/11b76gmyjy",
+      "rating": 4.8,
+      "reviews": 1067,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "H6W7+8QQ, 27200 Cabo Polonio, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Es un de las mejores playa de Uruguay en el Parque Nacional Cabo Polonio\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRoxLYx-3cXQuSOtKhwQl4EUtmYTVyzWzRyy794jhslBctKtR8tJ4mK_nb2rny1m4mHbGAypFFnZeo7o3dhQ0BvzThTUj0y_vkL8B-ogP4hZFKIAF0OT5vbFAD9I9I4x_KDs4a=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gLZiBXicHcTdDoIgGADQJyIpaWVbF7qijLbS6PfGJTlZCbj4MvEFe4bepq1zcb4fCVDbiedV0u-VxpRV8bLFUxgNhYaeMMora4uERdYLl-mWH1Vq2vW5Rb44Ja_dBph8JxWZ70Gd-cF1xy51bhSQu7RVJIBBOoYVUSzT-eCpXV8RtcwXoasp1ZfCjIx_kwmOmo5Lvr9jlzWP9ThCptwSeaEsDine8GGT03AWxEFM2ozNLLlO332MMZL_BdI_9A9FJQ"
+    },
+    {
+      "position": 8,
+      "title": "Cabo Polonio",
+      "place_id": "ChIJ-z-KHwBBc5URxxgcZkuGzMc",
+      "data_id": "0x957341001f8a3ffb:0xc7cc864b661c18c7",
+      "data_cid": "14397029767190419655",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957341001f8a3ffb%3A0xc7cc864b661c18c7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957341001f8a3ffb%3A0xc7cc864b661c18c7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3871502,
+        "longitude": -53.8158588
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-z-KHwBBc5URxxgcZkuGzMc",
+      "provider_id": "/g/11vwsvqy_6",
+      "rating": 5,
+      "reviews": 6,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "J57M+4MJ, Parque Nacional Cabo Polonio, 27200 Cabo Polonio, Departamento de Rocha",
+      "country": "Uruguay",
+      "website": "https://turismorocha.gub.uy/pt/atracoes/natureza/reserva-de-lobos-marinhos-em-cabo-polonio-rocha-uruguai",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Amo los faros y el del Cabo particularmente me llena de emoción.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnbDDqSGREgtHLF-OcyMFzGcjy4PmA2aAdJ_TNbK1fSRkdDwFLVWdnkS-s_nv0qdUDTuDBcFZLZMFcAKuhIMAm-M5uN7NM0E761NRaZZYd3kIrjS3ZAqg2R4c32inMiR2Phz9EM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AhLDhXicHcTdboIwGADQJ6oUcDMu8aKm1D_KSMGZ9cboV2wVKWLLjL6gz-DbmOxcnNfTeH9xX0FwNvFAt60-V72rrtBaX1k_gLYJ9MUhcMgFZC7ycmP3lHbFTCTaz1OGvuHO2WMGp_swb0i0I2q5LbP9KjwUolb0xtKfjbJ1gdzW_uFOrWnZ0ykwmUrOgKx6s-CkQfyjz0YZx8noM8zETspfFdeL66mIJel0JIYQR0fLjyLKzWOc8MktxBgj8z8g-wYTiUMj"
+    },
+    {
+      "position": 9,
+      "title": "Ingreso Cabo Polonio",
+      "place_id": "ChIJm64lWwxDc5URpEYiI3TP_yw",
+      "data_id": "0x9573430c5b25ae9b:0x2cffcf74232246a4",
+      "data_cid": "3242538354442651300",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9573430c5b25ae9b%3A0x2cffcf74232246a4&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9573430c5b25ae9b%3A0x2cffcf74232246a4&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3815253,
+        "longitude": -53.844595
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJm64lWwxDc5URpEYiI3TP_yw",
+      "provider_id": "/g/11h6q7rbv6",
+      "rating": 4.5,
+      "reviews": 187,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "J594+95J, 27200 Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario público"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"En temporada alta salen los camiones cada 30 minutos para el Cabo Polonio.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlyy1JO-udM5UeDE-xT-JiKLQ4mesu3Qqw-w6IA_2hKVaKyfOPGw8Z5mD42sf2fzFdtt_XId_CvJq457m4hKNrMgUVILQ0-l6bvNqGUKRN7Xl0Y2TSPWF8ZbFvb-xJeWiJ6Qds=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KhRAQHicHcRREoFAGADgE_1aqRgzHgyiXVKU0kuj2lozW8luJQd0B7cx43v4vh8m5UPMFYWzyaio64LTVtBnWleSVnKU1qVSPASkAoSy3J0cL-DDMMZHaLOD7tP1Bl4e4DvZu1pJRTtxmx56w1rGKiOXGxnyo7PtZ5FerjVV5Gr-NjMp49DK4lWHG02flhoj9vNQ-Bdr7yLgRtLZzdYnJ3sacnRVvbMTmLMoMbsEXpgGd2y4mVj0Y4QQsP8pVD-5SUMP"
+    },
+    {
+      "position": 10,
+      "title": "Estación Central Cabo Polonio",
+      "place_id": "ChIJkWPTyNtrc5URoz-3zUoKU8c",
+      "data_id": "0x95736bdbc8d36391:0xc7530a4acdb73fa3",
+      "data_cid": "14362834953009840035",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95736bdbc8d36391%3A0xc7530a4acdb73fa3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95736bdbc8d36391%3A0xc7530a4acdb73fa3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4041302,
+        "longitude": -53.7815101
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkWPTyNtrc5URoz-3zUoKU8c",
+      "provider_id": "/g/11kk6_nqqd",
+      "rating": 3.8,
+      "reviews": 5,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "H6W9+89X, 27200 Cabo Polonio, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Es un rancho cercano a la estación central\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkCXyT6aTzK3cZaAdS-uB-oTYvmDUNA2fb3tGYgHj7jPlvVMp8m-8Cpt3GJfl6avIlHp1GxZYzs6O2su51wEecBtxOpx3gt1IMbrXfHKnj9p36t57MvRkf44gzSnsQWMq8d_unItg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LkBy-XicHcTdEoFAGADQJ1qVJTHjIjEVk79CuTFZtU223WW_kt7QI3gbM87F-X4KAKkmmsYK3KNCUJbVKnsSwSHj0COi0qhUiCikNNvbb6PT3YnfkZlG3QqTc2rfQlTPkIiSppof1nY_v2JwE-qVo3LLmmMgrQpZjgTsLnNmpo3PPGm47TnplLnpq3povBYZmUG7kS2mYPjB9Rnn3oqXY4lNGI6CZn_PBwPahVztTsHDul1q7gOdvgxd11HxnyD-A_edRfA"
+    },
+    {
+      "position": 11,
+      "title": "Playa Victoria",
+      "place_id": "ChIJubN-Y2Jqc5URDipkw9J9ejY",
+      "data_id": "0x95736a62637eb3b9:0x367a7dd2c3642a0e",
+      "data_cid": "3925588369381534222",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95736a62637eb3b9%3A0x367a7dd2c3642a0e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95736a62637eb3b9%3A0x367a7dd2c3642a0e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.400150499999995,
+        "longitude": -53.7811449
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJubN-Y2Jqc5URDipkw9J9ejY",
+      "provider_id": "/g/11c2q77mft",
+      "rating": 4.7,
+      "reviews": 121,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "H6X9+WGQ, 27202 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 7 p. m.",
+      "hours": "Abierto · Cierra a las 7 p. m.",
+      "operating_hours": {
+        "martes": "8:26 a. m.–7 p. m.",
+        "miércoles": "8:26 a. m.–7 p. m.",
+        "jueves": "8:26 a. m.–7 p. m.",
+        "viernes": "8:26 a. m.–7 p. m.",
+        "sábado": "Cerrado",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "8:26 a. m.–7 p. m."
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Hermoso lugar para ir un finde semana a compartir con la naturaleza\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldh1krMnLXzLsekUXo4mz4iFLxQPuyGVrqHZ52mVIcREbcQbpD_xo9wr_XNmvhLBDe2TzmpwmnOafc7J9GqUSJBdL5-qIogOeUAp5_U-LwJyDeoGA8MkMbqC5I4UwVu-LQM0wG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WQYMU3icHcRJDoIwAADAF1VQIS6JBxRFSFFRi8QLkVKpgS5QsMoHfYO_MXEO8_3QtpVqbhgVHQ8KIYqKdIo0WPCW8HaABTMKqQBWQBnO9ng4X6qcDssm5DDpoSIlSoTFeuuxga_o0L29uKm3V3vEYh8f1xmOMummLzHTTZrs2JPCpUtG555Jzfj-dseTYObV6BQsc2iD2hfFniBH2ikCUAdvlwjPmYZlmNUr27eQjjsAo9DU3kIPTdME9D8G_AcON0Wo"
+    },
+    {
+      "position": 12,
+      "title": "Arroyo Valizas",
+      "place_id": "ChIJB_kQ2ARBc5URp5avqpAUo8Y",
+      "data_id": "0x95734104d810f907:0xc6a31490aaaf96a7",
+      "data_cid": "14313306652285048487",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95734104d810f907%3A0xc6a31490aaaf96a7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95734104d810f907%3A0xc6a31490aaaf96a7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3426366,
+        "longitude": -53.7880526
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJB_kQ2ARBc5URp5avqpAUo8Y",
+      "provider_id": "/g/11clwpmk3g",
+      "rating": 4.6,
+      "reviews": 482,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "M646+WQW, 27202 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "099 318 393",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Fuimos navegando hasta el Bosque de Ombues\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl87Ar_3ah3UzJlV_uEi_5M4agMPgS2ZjkbiJnI4Vmf9XcWOA3ogLXOL5qQ4BtHtPNRqdrRTtdRpGt6VhaWlPKGxTk_PWctd0WnfQ1hvOhe97tpzgKJu58Tz8oWFn4TpepvG9hk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/B52ZPXicHcTdboIwGADQJ0JQYMISLzBxOPyhskqNN4SV2iq1rfTDGV7QZ9jbmHguzv9TABj76bpS-COuNZest6yjWgFTMKL66nJjHWod6ybLAmEio2nSVX4t_P2QybLqF-cq3AQ13yD-Mzle2t9zpr6D8nqKD5Tkia_5-pCvw9sumMMS0La4NV2BoSlMCh-lqIlEq_SB2woRCo1H1Gk3FvdcsHgKZuCrrA8jPESafKkAG2buaSza2d_Y8zxHvKeOegGAGEWQ"
+    }
+  ]
+}

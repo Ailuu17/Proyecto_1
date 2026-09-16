@@ -1,0 +1,841 @@
+{
+  "search_metadata": {
+    "id": "6aa95f1ea7d784ea4e286085",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4oeoFadyETIWmHzqKx4JZzqc9Yavyr6NDnei5Q0bwso/6aa95f1ea7d784ea4e286085.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4oeoFadyETIWmHzqKx4JZzqc9Yavyr6NDnei5Q0bwso/6aa95f1ea7d784ea4e286085.md",
+    "created_at": "2026-09-15 15:07:10 UTC",
+    "processed_at": "2026-09-15 15:07:10 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Las+Termas+del+Daym%C3%A1n+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/4oeoFadyETIWmHzqKx4JZzqc9Yavyr6NDnei5Q0bwso/6aa95f1ea7d784ea4e286085.html",
+    "prettify_html_file": "https://serpapi.com/searches/4oeoFadyETIWmHzqKx4JZzqc9Yavyr6NDnei5Q0bwso/6aa95f1ea7d784ea4e286085.prettify",
+    "total_time_taken": 0.81
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Las Termas del Daymán Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Las Termas del Daymán Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Termas del Daymán",
+      "place_id": "ChIJ2WkhSVHZrZURPsPkuYjXoI0",
+      "data_id": "0x95add951492169d9:0x8da0d788b9e4c33e",
+      "data_cid": "10205393737855845182",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add951492169d9%3A0x8da0d788b9e4c33e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add951492169d9%3A0x8da0d788b9e4c33e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.458449899999998,
+        "longitude": -57.907766099999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ2WkhSVHZrZURPsPkuYjXoI0",
+      "provider_id": "/g/1q5bm__nj",
+      "rating": 4.5,
+      "reviews": 8364,
+      "unclaimed_listing": true,
+      "type": "Piscinas termales",
+      "types": [
+        "Piscinas termales"
+      ],
+      "address": "km. 487, Ruta 3-General Jose Artigas, Salto, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "8 a. m.–10 p. m.",
+        "miércoles": "8 a. m.–10 p. m.",
+        "jueves": "8 a. m.–10 p. m.",
+        "viernes": "8 a. m.–10 p. m.",
+        "sábado": "8 a. m.–10 p. m.",
+        "domingo": "8 a. m.–10 p. m.",
+        "lunes": "8 a. m.–10 p. m."
+      },
+      "phone": "4736 9711",
+      "website": "http://www.termasdayman.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn7IPYUO4jyIK7zS0-WjLMtTjTiJmQFph0W3ceZMYtB3VuYz6P_E2fGY_M_yC02Z1amFEQcgFyvvBF2EGLUKXe-ehMNOrr-yne1k_QUc7fI3tIKt-egq3Dzvmmj6EpHqhUaAYCe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4rwSDXicHcRLDoIwFADAE1UKNZKYuPADioiCglg3xDTPVrQFacXABT2DtzFxFvP9CGNqPbashyADXlX8AS8NDauUAWUGrJIWrzViGmlrutrHaa7cIKbZblh2Qej2B4zychOZtExva5n4tcA5YXCOqJmR44v2o7jwnOuSFlHRzbFzti_S9xLG_a5tZ77jLTdZeAIEItrumgZ1Cux7kWTMvQbEBKFBwJ9k0bdSliOvXj1FdpnSOUzeNsYYif8MqR8UW0Qy"
+    },
+    {
+      "position": 2,
+      "title": "Complejo Municipal Termas del Daymán",
+      "place_id": "ChIJq6qqRlHZrZURauxXag5yB-U",
+      "data_id": "0x95add95146aaaaab:0xe507720e6a57ec6a",
+      "data_cid": "16503284765761727594",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add95146aaaaab%3A0xe507720e6a57ec6a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add95146aaaaab%3A0xe507720e6a57ec6a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.4592936,
+        "longitude": -57.90768
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJq6qqRlHZrZURauxXag5yB-U",
+      "provider_id": "/g/11c0pzh587",
+      "rating": 4.5,
+      "reviews": 238,
+      "unclaimed_listing": true,
+      "type": "Centro acuático",
+      "types": [
+        "Centro acuático",
+        "Parque acuático"
+      ],
+      "address": "G3RR+7WP, Ruta 3-General Jose Artigas, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 11 p. m.",
+      "hours": "Abierto · Cierra a las 11 p. m.",
+      "operating_hours": {
+        "martes": "7 a. m.–11 p. m.",
+        "miércoles": "7–11 p. m.",
+        "jueves": "7 a. m.–11 p. m.",
+        "viernes": "7 a. m.–11 p. m.",
+        "sábado": "7 a. m.–11 p. m.",
+        "domingo": "7 a. m.–11 p. m.",
+        "lunes": "7 a. m.–11 p. m."
+      },
+      "phone": "4736 9711",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWncQ--l_5LhR4E1MDRofxbf7VAlCn9k7RpQAHc86L6ibsNdYZckXEmR-pT8aC6Kmom60oABIl2Q3gELsp2Jx2caDpcPJlokdU7phe8i_t4DHW7yCgEfJQibBeP-AdI9Zkwdja-3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qeYve3icHcTdboIwGADQJ_oEQQGX7KICCTK2QOPP5o2Bj9IipW3WLuoT-gx7myU7F-f3KZwz9sXzpAgXXGsu2Y9l36iVY8otUM8eNxbQgvVIQev9SWEDIC_rStBVvnzPqB7u3RAfiUzVZoqpaUiBSVRFY2c_-q8zTp_5TMHskzaN3mY9R74m250MmpDnlTVBeQ-wzQzWpdRTf4iNYMl4causOMWPlOdD2YzdltVA-t3mPN36awvh623p-z6I_xHUH9jCQ1E"
+    },
+    {
+      "position": 3,
+      "title": "Parque Termal Agua Clara",
+      "place_id": "ChIJ6dCkoVDZrZURGulDYlnL1VY",
+      "data_id": "0x95add950a1a4d0e9:0x56d5cb596243e91a",
+      "data_cid": "6257130842062317850",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add950a1a4d0e9%3A0x56d5cb596243e91a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add950a1a4d0e9%3A0x56d5cb596243e91a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.4573178,
+        "longitude": -57.905390399999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ6dCkoVDZrZURGulDYlnL1VY",
+      "provider_id": "/g/1w6r9gdr",
+      "rating": 4.5,
+      "reviews": 3025,
+      "type": "Piscinas termales",
+      "types": [
+        "Piscinas termales"
+      ],
+      "address": "Rbla. de Circunvalación s/n, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "8 a. m.–10 p. m.",
+        "miércoles": "8 a. m.–10 p. m.",
+        "jueves": "8 a. m.–10 p. m.",
+        "viernes": "8 a. m.–10 p. m.",
+        "sábado": "8 a. m.–10 p. m.",
+        "domingo": "8 a. m.–10 p. m.",
+        "lunes": "8 a. m.–10 p. m."
+      },
+      "phone": "4736 9057",
+      "website": "https://parquetermalaguaclara.com.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqukfsOEXt1Recx0QDLQlI2PNT_h44fy9I3uCdnnQdMfvA1bo6PXSY5rz8_zRSQtjNudsL8g1cCcogW0ts0FolPpwIg45wW_ba0v-KX40sqFCqEw8Mtzir3ROVL9yJXXiBAv4o=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nRnudXicHcRREoFAGADgE602LRMzHpKMCBWj9dSw1YbsVv9WdEFncBszvofv-8mVKmGqaUVuDLiUvEgbSGsmhUqFGjD51HgJiAECzVqF_jF6Vs0jg71DlR6m7IWDhRcU7tDfHeOckOw9cY3GToQIkm3WWvpVjn16OI_q3oz78BCo-65JwDO5zmwmeYQV4KUs_LJzORl1UXy94BZtKMFQLe3K6cyt6m-1Ee5P3uS9pvQ2t1oiZ52OMUb5f4bED6KORTo"
+    },
+    {
+      "position": 4,
+      "title": "Parque Aquático Termas de Salto Grande",
+      "place_id": "ChIJEQqqQ7HGrZURAFQobgJ9eTE",
+      "data_id": "0x95adc6b143aa0a11:0x31797d026e285400",
+      "data_cid": "3565018029432001536",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95adc6b143aa0a11%3A0x31797d026e285400&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95adc6b143aa0a11%3A0x31797d026e285400&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.2740971,
+        "longitude": -57.909232599999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJEQqqQ7HGrZURAFQobgJ9eTE",
+      "provider_id": "/g/1z44b6kc6",
+      "rating": 4.2,
+      "reviews": 4296,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque acuático"
+      ],
+      "address": "Parque del Lago s/n, Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "10 a. m.–6 p. m."
+      },
+      "phone": "094 304 420",
+      "website": "http://www.parqueaquatico.com.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdMXMQZrxeW7tsSVOWf04A65YHtBz3gdeLyeY6A7rJUpN4shcset9ItsViA1WLhbJWEDrbVGKvA3VMQuLq5dIdxkTr-IvGl5z2BMZL3rJedNpBcjmEVtfPC2w_Cii58mU4Zv_4wA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/htvvk3icHcRbcoIwFADQFUVQQFtn_AjqKAhWrSbKjzMmkaC8mnsFdIddQnfTGc_H-fvViDWMLSvXTi-tqjRXD1BGVCWqEnuiKqy0BiKAgEWXu82e32V8jLeJ6RQfIXyzL361XTr0Tkv0X04qVfRUpyEdmfBQr13QAhR-Bggso30e6UvI5zNzYYtVQx0Wbx_RjycD2d33hgTNIvdeAz9OIseESq5rX9yKOcPrZjpoz9Ms8z6Kg5s0Z7elk7Zv2zbR7wUp_wEHP0V7"
+    },
+    {
+      "position": 5,
+      "title": "Gruta del Padre Pío",
+      "place_id": "ChIJQe08tRvZrZURdWboEjjG-pk",
+      "data_id": "0x95add91bb53ced41:0x99fac63812e86675",
+      "data_cid": "11095398576118326901",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add91bb53ced41%3A0x99fac63812e86675&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add91bb53ced41%3A0x99fac63812e86675&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.479165799999997,
+        "longitude": -57.8863163
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQe08tRvZrZURdWboEjjG-pk",
+      "provider_id": "/g/11b6b3mpvd",
+      "rating": 4.7,
+      "reviews": 578,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de culto"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "place_of_worship"
+      ],
+      "address": "G4C7+8FM, 50000 Daymán, Departamento de Paysandú",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Más que una atracción turística, es un lugar para sentir tranquilidad.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJvB2HxaW2TfgPHuPT0BQArL7f1vmtbGgVf4M-X38OgchrbEItI28tzxMSAEZiVrHWuYLL8VRpefTeSqFBjzKh38MPrbTmNq5Xl_SONaCN1KCi2uNWLMwczsfaa65vq6I3sX25=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/URvtynicHcTbboIwAADQLyqXMpSY7AGIGyggkwaYLwaaXlCubUHDD_oN_s2SnYfzfnGlRrnT9ZZbGhsG1pJZEoGHXpFeaXjodDZKgCWQuhucU1TcD4sHg2dVQERZGswpMrwfV0Rbai6dqr9ZTj9iUFrOiWEu6n2oQuio9Rln7v7S5CIo5t8ocvLzSCgi2fTl3dYjt5w4FTXqksku22t2Sio_MY9-A-ekiOIHXiWtqo29TJvQkiW0Px-mYRiA_49B_wc_KkRA"
+    },
+    {
+      "position": 6,
+      "title": "Estancia La Aurora",
+      "place_id": "ChIJ8yJ6AgXZrZUR69XRpCM6fuw",
+      "data_id": "0x95add905027a22f3:0xec7e3a23a4d1d5eb",
+      "data_cid": "17041121964780017131",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add905027a22f3%3A0xec7e3a23a4d1d5eb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add905027a22f3%3A0xec7e3a23a4d1d5eb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.4763684,
+        "longitude": -57.8805937
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ8yJ6AgXZrZUR69XRpCM6fuw",
+      "provider_id": "/g/1tw1f_xb",
+      "rating": 4.6,
+      "reviews": 411,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Mirador"
+      ],
+      "address": "G4F9+FQ3, Departamento de Paysandú limite entre el, Daymán, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqFlohCSLr_cFxZxNehNmQ0bgQJPwgYXTXL3DjtaxnX4c4rHrwlCOKsqp6hZBuuzGi3rqUSvz51kOvuyi52vl6hST6932qrqcCtEmh1QRk_zHl9hx1Q3KfQpB-2fHnSIODN3DV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PfG2T3icHcRZjoIwGADgE1WWKokmPiiMg0vACo7oi5lpsL9jaenCIhf0DHMbk_kevr8XWFubmeNwwCMmJeNlY0pNpbClsCMqK4fVBlGDjLOID_v8VKkVlxBmO32lq_7SJyUkFXF_GNnsO3Yu8mKHo1_73YtiTMc61h0P061RdQCXZdMMn3es1TFrh4n3SNvmeZ_4LQ8gy4Mp9pVWNLQfFXjk8LgOMZ9C7xG8vZF6ifxbLLJ1GiU4-pp3nuu6CP6nSLwBIw9F4A"
+    },
+    {
+      "position": 7,
+      "title": "Plaza \" Tierra de Campeones\"",
+      "place_id": "ChIJw_LzMlbZrZUR3IMBjWK5VI4",
+      "data_id": "0x95add95632f3f2c3:0x8e54b9628d0183dc",
+      "data_cid": "10256026084353082332",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add95632f3f2c3%3A0x8e54b9628d0183dc&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add95632f3f2c3%3A0x8e54b9628d0183dc&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.452612499999997,
+        "longitude": -57.907890599999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJw_LzMlbZrZUR3IMBjWK5VI4",
+      "provider_id": "/g/11bw21yxy9",
+      "rating": 4.3,
+      "reviews": 125,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "G3WR+XR5, circunvalacioón Edinson Cavani, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_W8yToDjlnepmGy7QQ3Yc7i0LXEafmBmYwem9nFg3FbC7DubwfSJstWqOTWHTizrPzOZD9G8rcFq4maBqoimlbFbl4OBK3tTY0GThwEEKf2KripzOU8lEViXo_-4Ucf0RYEdmCA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fFjHTXicHcTbCoIwAADQL5quFNSgh8xpZGCXldlL5Jq62kXdQvIP-4T-Jug8nO-nMabVM9vmjWPVStWcvjTtiZKGSmMRJey61YBooO3Far_F-fOa-2-sogeXtBXJ29vtnIJ4DG7O6FaJUBQDFYGMaycul170KofqsNYm7zKcrzAb--2YXaIg8XsSd664hZ1igpdxyd0sTB2DC5jgZkAoraZpz9oxO_ocndhZXYF7JBXcF-gulov5MIEQguY_AfIHYilGIw"
+    },
+    {
+      "position": 8,
+      "title": "Termas Casa De Piedra",
+      "place_id": "ChIJnZrd4vvbrZURFxBnEMYiQn0",
+      "data_id": "0x95addbfbe2dd9a9d:0x7d4222c610671017",
+      "data_cid": "9025814837277954071",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95addbfbe2dd9a9d%3A0x7d4222c610671017&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95addbfbe2dd9a9d%3A0x7d4222c610671017&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.448078499999998,
+        "longitude": -57.9108252
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJnZrd4vvbrZURFxBnEMYiQn0",
+      "provider_id": "/g/11c6cff46t",
+      "rating": 4.6,
+      "reviews": 693,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero"
+      ],
+      "address": "Los Molles 220, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "phone": "4736 9866",
+      "website": "https://www.casadepiedra.com.uy/",
+      "description": "Hotel informal con piscina termal. Hotel tranquilo con apartamentos funcionales, bungalós y cabañas, una piscina termal y estanques.",
+      "amenities": [
+        "Piscina",
+        "Estacionamiento gratuito",
+        "Desayuno incluido",
+        "Aire acondicionado"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFxaH7WEdzdyfNuba0D8przqLujKnGNp1VouNaUu0NCZsUHCU5kw9QvS27MYN6dwN9Lfy7NpvnusiXgKQ5PG4AJa_boA2ofcJ6chKWOqY_i8fudme97f7mXj7CPYZm1SCIL-dzeTu1vmEZi5wrbfzEnloEjEqEpW1zwb1m34f6JS-8fiNRrcRbk6w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5tSYn3icHcRLcoIwAADQEyFEgUBnumAw1QJNVWoRNg6_8BGS8AkIN-1VuupM3-L9_JbjyIcXWW7K3aZgrGhyMeR9yuiY03GTslYu-CDxnj0X2fIydV--PeMjDFC2ZgvBIomVvcH7tfNE7dID5uCbCRxfhYLtaLge7av2mM3z5G_hR4j1bMamRxaI-UTFUN0K96ydDqrlxPeEWVtGUkdPSzf47MJ7ZRCRtbkJCWxvNbRPYdQC3373pGzNvwSYWhRV2twnZEW0YahGHeIBWOcEtDuV6I4vGaTClz69JA99fp2BoihS-X8q0T81V1ea"
+    },
+    {
+      "position": 9,
+      "title": "Parque costanera Dayman",
+      "place_id": "ChIJY9qSZ9PZrZURjOQ8DjH4Y8Q",
+      "data_id": "0x95add9d36792da63:0xc463f8310e3ce48c",
+      "data_cid": "14151427343704188044",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add9d36792da63%3A0xc463f8310e3ce48c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add9d36792da63%3A0xc463f8310e3ce48c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.4594632,
+        "longitude": -57.908407399999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJY9qSZ9PZrZURjOQ8DjH4Y8Q",
+      "provider_id": "/g/11mwyw3hg7",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "Termas de Dayman 89, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQPpzDv6bcY1rtvVDAOO2r0MVtEBVl1JpEjj3uCiFEt3UTKQ7QuHyqZvhPuLTQ4rRs59FJ-tnvJCMMhSTTUj8un9wx98cg-Dab-wt59jE9bLOwjNqWT6X38vcHpp6-8JocViPtfA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PYPrJXicHcTdboIwGADQJ6qAKFKTXaBgCMoAV_HnThqkNqyt9GvZ9oY-gm-zxHNxXk8GoPTScXrmTzopu741uh2oFNAKmFD57XRKI6qRdqJ0X5KjqEr1F9ugoWdvAFvHUVFMBzevIVnVvZephHPfrO-bBPwD2VaLyqS_j4tlpdmRajbs9RxvMgTCZus8Z1-EHHhoBB5_cEg7FF8bNMIc8wQ3u2Lkn48jCU5-aGmqVIDCTNL6XsIt-hg913URe0-R-AfnaEUF"
+    },
+    {
+      "position": 10,
+      "title": "Termas Sol y Luna",
+      "place_id": "ChIJo1ZNefnbrZURQNO-c7pL5WE",
+      "data_id": "0x95addbf9794d56a3:0x61e54bba73bed340",
+      "data_cid": "7054127655523636032",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95addbf9794d56a3%3A0x61e54bba73bed340&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95addbf9794d56a3%3A0x61e54bba73bed340&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.4448351,
+        "longitude": -57.9086851
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJo1ZNefnbrZURQNO-c7pL5WE",
+      "provider_id": "/g/1hc5hcqt1",
+      "rating": 4.4,
+      "reviews": 777,
+      "price": "ILS 152",
+      "extracted_price": 152,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero",
+        "Alojamiento"
+      ],
+      "address": "LOS MOLLES 400 mts, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "phone": "098 252 283",
+      "description": "Cabañas sencillas y baños termales. Cabañas sencillas con cocina integrada y chimenea de leña, además de baños termales y barbacoa.",
+      "amenities": [
+        "Piscina",
+        "Estacionamiento gratuito",
+        "Wi-Fi gratis",
+        "Aire acondicionado"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFtuxp-ZQz13BIhxKP3uF2UeVmePyXCeW6lKlXVP_9jBfCYGNyyklNDvvwc8WQRlR0jTKJdJF64GhciflP8wCPWLPSZAGovQxT8orig82MZDAvtJn65X1WO7YZ-OpG7-rhT_s9t4xXXI1aes2LQX8Eb66iNPjQfOZZSOqVFkIpAvTXUSfO-y4iX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oP9jRHicHcRLcoIwAADQE0W-RexMFwiF4VMIghDZOC0GAkZCIfy8aW_SZWf6Fu_nl3Dej6-CQImyqxmrKZ5GPJSs47jju5I9hLofQT-wdROM4KZaxObT2oMifkrK0SWrD5XJls84e2C4IRPnGvUpyuD10B4r8-KE23anoTXPS6nn8YmexDb1vZtna6pDyqaiUF9MmAcwKQyHzfGa6mxoal3-KCxj5l6nvSApj_aXAkS9swcDSa_jgasrQq70iUc5iJH-_qVpTQjbuIqKIom-M_vu9saconNSRWBTG_S2SKIoAvJ_Cbo_5N9VOQ"
+    },
+    {
+      "position": 11,
+      "title": "Spa Thermal Daymán",
+      "place_id": "ChIJW2EWMVHZrZURNIYjXNvEvfo",
+      "data_id": "0x95add9513116615b:0xfabdc4db5c238634",
+      "data_cid": "18067813726503011892",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add9513116615b%3A0xfabdc4db5c238634&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add9513116615b%3A0xfabdc4db5c238634&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.4577621,
+        "longitude": -57.908671399999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJW2EWMVHZrZURNIYjXNvEvfo",
+      "provider_id": "/g/11btxcsj15",
+      "rating": 3.9,
+      "reviews": 224,
+      "type": "Spa terapéutico",
+      "types": [
+        "Spa terapéutico",
+        "Spa"
+      ],
+      "address": "Termas del Daymán, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–10 p. m.",
+        "miércoles": "10 a. m.–10 p. m.",
+        "jueves": "10 a. m.–10 p. m.",
+        "viernes": "10 a. m.–10 p. m.",
+        "sábado": "10 a. m.–10 p. m.",
+        "domingo": "10 a. m.–10 p. m.",
+        "lunes": "Cerrado"
+      },
+      "phone": "4736 9280",
+      "website": "https://instagram.com/spathermaldayman?utm_medium=copy_link",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlIIAdLx2mf8LEHqWlTdedpDR9J5X9L8bbtW6Xj4dsBoDc0UczekON7lsCJFWkf39oJkoN2hqT877FNg2-vq-Paen61OlD3mOEi10DAclyutcu75-Ff1nnSMe4T0mNFPvAIPu7u=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5Owm_3icHcRJDoIwAADAFxXKZsHEA4pECAJRDFy1FFBKC7bF5YO-wd-YOIf5fjopR7HUddpZWst5S4kS5I45k4RJDfNBb0cBsABC93eHvChpFPl18jSHxk22u6mkRU3qMTh4sVN5iXu5yHJR3exarHmA4Qm_SZ-liIpNHJZ9Y3k87nlqdlPhIhSmrQnmCeRnwhZGRgNryLZXAwY-pi8lsUIOCBuDseOe2AUc0jCf_ShXSK0eBoQQdP8xYD_4a0My"
+    },
+    {
+      "position": 12,
+      "title": "Termas de San Nicanor",
+      "place_id": "ChIJ1_fXW7V5rpURZHzQv6DAKXk",
+      "data_id": "0x95ae79b55bd7f7d7:0x7929c0a0bfd07c64",
+      "data_cid": "8730721149279829092",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae79b55bd7f7d7%3A0x7929c0a0bfd07c64&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae79b55bd7f7d7%3A0x7929c0a0bfd07c64&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.534687499999997,
+        "longitude": -57.800062499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ1_fXW7V5rpURZHzQv6DAKXk",
+      "provider_id": "/g/120yl5df",
+      "rating": 4.4,
+      "reviews": 183,
+      "type": "Piscinas termales",
+      "types": [
+        "Piscinas termales"
+      ],
+      "address": "55000 Daymán, Departamento de Paysandú",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–10 p. m.",
+        "miércoles": "10 a. m.–10 p. m.",
+        "jueves": "10 a. m.–10 p. m.",
+        "viernes": "10 a. m.–10 p. m.",
+        "sábado": "10 a. m.–10 p. m.",
+        "domingo": "10 a. m.–10 p. m.",
+        "lunes": "10 a. m.–10 p. m."
+      },
+      "phone": "4730 2209",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkM_T7suUUmoV6ZW5LwauQN3ooqnuo7vK3HokrW_pJVFw4oCzSLYYZgTmeAuy1U-eNNca048GfV6BA52I_4OYxktoIrDet5ja6m9nxR-mgEoAtaqo0XC0e85No34EO9gsR1D6IX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WYWjNHicHcRJDoIwFADQE1WKDA6JC5xxQEUGcUNIU0vE9iNtRb2gZ_A2Jr7F-35KpWo5NIxbaXUYALtRLWlDQCgqVIcAN1gtEZFIGt4y3Edptc2jntRxzCFxz6mzaQt9CCyAu9DQe6ytJVRNmterZN7aMHkfN1l2ZhGnnn6ZMaJBQAps9xeXxB17TtfP7V32rBT4zZQq51q4fCCeIeJsBp4q7oBPE0z7TgCWPdsNmAzNqeufRq2JMUblf4LED5pBREE"
+    },
+    {
+      "position": 13,
+      "title": "Parque Acuático Acuamanía",
+      "place_id": "ChIJF5ItPVTZrZURMMSeIzDP1YM",
+      "data_id": "0x95add9543d2d9217:0x83d5cf30239ec430",
+      "data_cid": "9499726794670916656",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add9543d2d9217%3A0x83d5cf30239ec430&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add9543d2d9217%3A0x83d5cf30239ec430&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.4569315,
+        "longitude": -57.9102374
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJF5ItPVTZrZURMMSeIzDP1YM",
+      "provider_id": "/g/1tf257y3",
+      "rating": 4.5,
+      "reviews": 5284,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Tobogán de verano",
+        "Piscinas",
+        "Parque acuático"
+      ],
+      "address": "G3VQ+6M, S/N, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Temporarily closed",
+      "hours": "Temporarily closed",
+      "phone": "091 693 222",
+      "website": "https://acuamania.uy/",
+      "description": "Parque acuático al aire libre y plantas. Parque acuático al aire libre que cuenta con toboganes, piscinas y chapoteaderos rodeados de vegetación.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuFLuOEmcXnhugLRlDxM5rHJOodyNZPCWJMD8F27zDjmzldGtSzaU8qFu_EGH9kuKg8NuWRQcix84pMPYEgmhAsrvoG6XSOvduRDznjqQ9CcPL2V6DmeYQ-Q2cpE9tJGf2Zok8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZbjOiHicHcRJDoIwAADAF1UQt2LiwVCWIMjignoxpmCr0hZp68IHfYO_MXEO8_1QpRo5NYyaDnpECFJXWlYtFlxVXPWwYAZpJMASSGMe5Om6YNqLdOIyvONUkyiv0SsetUGYiPK9PKROEcYIetakQ1fW1aWvVt1pA--ePrp-YN_0gsClLvIMX15w2MTp3iWMzmX7EP54t0oepc5Rx6_3zHZwGlnbMWLVPgOZhRvXVqF_tg7iBmfPvmmagP7HgP8A1M5Fdw"
+    },
+    {
+      "position": 14,
+      "title": "Oasis del Daymán",
+      "place_id": "ChIJM2y-dFfZrZURRwnkMNMd5IE",
+      "data_id": "0x95add95774be6c33:0x81e41dd330e40947",
+      "data_cid": "9359638718478289223",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add95774be6c33%3A0x81e41dd330e40947&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add95774be6c33%3A0x81e41dd330e40947&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.453637299999997,
+        "longitude": -57.906875899999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJM2y-dFfZrZURRwnkMNMd5IE",
+      "provider_id": "/g/11bycj7_15",
+      "rating": 4.5,
+      "reviews": 431,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero",
+        "Hotel"
+      ],
+      "address": "C. 2, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "phone": "099 377 919",
+      "website": "http://www.oasisdeldayman.com/",
+      "amenities": [
+        "Aire acondicionado"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnO-WGHPLb_9OxebOuPjIpi48s4jAoQdoyoveHH2rUT5LxsvWgcNG7kypHxRdlRQI1Zk9JjPocpN03yhZ0XoCeuVlrPuxGy-gKliRRQeaUox8nwQNKfQRc4thzXa0q-ZEhztF38zg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WNGZNHicHcRRbsIgGADgE2HRdlldsgezbMVpWiC6mr4sigysyI-FKu0Nd4TdxmTfw_f3q0Nw_iVJjE4nCkAZ2XvZCbBB2jARcEmU80h45JMF4XRT2wrVBaHrw_e8ivJQ9bRdulOW-6xdADvCADdJyKzbbp7W0d9qJcri-Tw4EvnRcLacNuf5Z0tBuBKng27wDt5k_2U62sdiQGplTpwzud9CzO2dlasfxkUW9Ljb4ytq3vUYPtJ8VK_3KcYY6f8Fsg93kUcw"
+    },
+    {
+      "position": 15,
+      "title": "Escultura del mate",
+      "place_id": "ChIJxzCtfHvZrZUR5boatLPRYbk",
+      "data_id": "0x95add97b7cad30c7:0xb961d1b3b41abae5",
+      "data_cid": "13358188539508603621",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add97b7cad30c7%3A0xb961d1b3b41abae5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add97b7cad30c7%3A0xb961d1b3b41abae5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.458198999999997,
+        "longitude": -57.907579
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJxzCtfHvZrZUR5boatLPRYbk",
+      "provider_id": "/g/11kr8vnskw",
+      "rating": 5,
+      "reviews": 6,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "G3RR+PXW, Timbó, 50000 Termas del Dayman, Departamento de Paysandú",
+      "country": "Uruguay",
+      "website": "https://www.facebook.com/profile.php?id=100022590403076&mibextid=LQQJ4d",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKxciXorMsGYmEHks8_vbiO6lzT1oKDClnyD7_dMUZ_W6Z0AaYkTzCxbI5pE2OvIChuCiSaR70gwP3oA5asPbSbp9PviXhGtQCIc-J_PTZDUlfepLcndZjC73OqWvB0hzHzMbV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8Cm6VHicHcThEoEwAADgJ5pGR7jzI8spdA0R_enapKXZxib0gp7B27jz_fi-H2aM0mPL4szulFKWvHjo4k6lMIUwHSqvVqk0oBpoy_U3OE7q5YtWB3kP9fx4nfm1HmYNqaIBb-OuXHqIi7fnZKdwl2bJIIVufqzjFr1I0FezXtQEiD1Qtc03Diyf2JZuP9eYbIka4aY6sLlZo4CCRYbj1Nvxc6FWVJzSC3Ls6JY0U8havw3JfvLsQggB-0-B-AHHFUWS"
+    },
+    {
+      "position": 16,
+      "title": "La Buena Rienda - Cabalgatas Guiadas",
+      "place_id": "ChIJY1DkOwDbrZUR4FLyrlcAKks",
+      "data_id": "0x95addb003be45063:0x4b2a0057aef252e0",
+      "data_cid": "5416141878463714016",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95addb003be45063%3A0x4b2a0057aef252e0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95addb003be45063%3A0x4b2a0057aef252e0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.449964599999998,
+        "longitude": -57.9142009
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJY1DkOwDbrZUR4FLyrlcAKks",
+      "provider_id": "/g/11zbq1c1ff",
+      "rating": 5,
+      "reviews": 1,
+      "type": "Servicio de paseo a caballo",
+      "types": [
+        "Servicio de paseo a caballo"
+      ],
+      "address": "cerca de, Ruta 3-General Jose Artigas, 50000 Termas del Dayman, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "Cerrado",
+        "lunes": "10 a. m.–6 p. m."
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1ZiWXHxmHWFImxYUlPJPrQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=242.09502&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BGQmznicHc3BDcIgFADQbbgJlGhiTYg3Uz3Vg6l6MZRS-AkUAljqNq7lNhoXeO_zNjmHtCMk5ahUnkGVAIuyaRUE1t5rq0SAhKV3ZK5INk_XTwLsPojJw8CrO3TXZnFNdzi65Xax7amNZyT7h7SgpsyTElEarMtPjH7AOiRU-JYiw2uGXqJwtmaY1hvKUIAsDafov4x-5hWlX4XLOao"
+    },
+    {
+      "position": 17,
+      "title": "Bungalows Archi",
+      "place_id": "ChIJubWOz1DZrZURwjVbR-j2jNI",
+      "data_id": "0x95add950cf8eb5b9:0xd28cf6e8475b35c2",
+      "data_cid": "15171772722194363842",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add950cf8eb5b9%3A0xd28cf6e8475b35c2&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add950cf8eb5b9%3A0xd28cf6e8475b35c2&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.457487099999998,
+        "longitude": -57.9071311
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJubWOz1DZrZURwjVbR-j2jNI",
+      "provider_id": "/g/1q62br75q",
+      "rating": 4.5,
+      "reviews": 535,
+      "price": "ILS 182",
+      "extracted_price": 182,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero"
+      ],
+      "address": "Jacarandá, 50000 Termas del Dayman, Departamento de Paysandú",
+      "country": "Uruguay",
+      "phone": "4736 9512",
+      "description": "Hotel tranquilo con área para barbacoa. Hotel tranquilo con habitaciones sencillas con cocina integrada, área para barbacoa y mesas para pícnic.",
+      "amenities": [
+        "Aire acondicionado"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJj_mES_pr_JwgyCvWDcr0_RGuIHrsZUnZ9QjSAiukVdYydTXaqLTCvTJJ8rVO_zPKPU56APV0v4-FjDRAEr42Yt7XSnFLut6w--qu8VjS_8x-1dIdf6U5E2fr5yC-1Y8o8joL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GN0X43icHcTbboIwGADgJ_qlOGHVZBcEcYokIifFm2YpCOuwxR5A9oI-g2-zZN_F93q2WvdqZVld-zZrhGi62qhaUsF1zfWMipvV9AqoAmV52yTOTl3IyC1ISS9JODaTP5zWVCKSfJrdVqpLzi_LI0u9b_NTVOVUZeeve5T5QxaGWBYH8hvv49xxvbhAwwI2bJ14gVzMS_1-TvkmMtodAe4GFywl-AF2tauubu4E86t0Jh_sEgvMRPQx2gghaP-nwP8Ap0REKA"
+    },
+    {
+      "position": 18,
+      "title": "Termas del Dayman",
+      "place_id": "ChIJV5yp6f3brZURWSa7jPZ_tU8",
+      "data_id": "0x95addbfde9a99c57:0x4fb57ff68cbb2659",
+      "data_cid": "5743637596680693337",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95addbfde9a99c57%3A0x4fb57ff68cbb2659&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95addbfde9a99c57%3A0x4fb57ff68cbb2659&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.4530395,
+        "longitude": -57.9085518
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJV5yp6f3brZURWSa7jPZ_tU8",
+      "provider_id": "/m/0gyx3k0",
+      "address": "50000 Departamento de Salto",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7qXXnCqBsmZKVr029qU6d86ALzqens1RSc0PAoD4nDxeQu7VcsEqL-OvkUUVLjc8dIVwWTMRTSRaDmMnp-kkm22KO-rUvY_XXr4WBvTT2CtBcrHF4uZflDi68RiAPnPiuom0x=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hstRNXicHcTbDsEwAADQL6rVLDMSD7sQYmKqu_AiUrXN1na9bMQP-gZ_I3EezvdTGdPpuWW11WRUClG2tNdUEcEN5WZEBLPKTgOigbb8NUpw3k5lUfBQBpqdt5mC9kym7s1z_fgtKddjdCQw8UXk8OhFD_00I3opY7AfmjTN4gfxbpvsmeMdwkd0jdiOd6BpmG1v90Clw-lSFMrJgwFjOzQBUeuV05_vbVS7Hqr9hCd1Lxh8LZ5jCCGo_hPAf1vERMI"
+    },
+    {
+      "position": 19,
+      "title": "Termas y Parque Acuático del Ayuí",
+      "place_id": "ChIJe0_2q_7ArZURM1znDb-P0QY",
+      "data_id": "0x95adc0feabf64f7b:0x6d18fbf0de75c33",
+      "data_cid": "491331885094886451",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95adc0feabf64f7b%3A0x6d18fbf0de75c33&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95adc0feabf64f7b%3A0x6d18fbf0de75c33&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.2555835,
+        "longitude": -57.956172599999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJe0_2q_7ArZURM1znDb-P0QY",
+      "provider_id": "/g/11c1rvxg37",
+      "rating": 4.5,
+      "reviews": 4107,
+      "type": "Piscinas termales",
+      "types": [
+        "Piscinas termales",
+        "Recinto ferial",
+        "Reserva natural",
+        "Baño exterior",
+        "Piscina al aire libre",
+        "Área de descanso",
+        "Mirador",
+        "Piscina",
+        "Parque acuático"
+      ],
+      "address": "Av. Chico Mendes Paso del Zorro S/N, Lago Salto Grande, E3202 Concordia, Entre Ríos, Argentina",
+      "country": "Argentina",
+      "open_state": "Abierto · Cierra a las 7 p. m.",
+      "hours": "Abierto · Cierra a las 7 p. m.",
+      "operating_hours": {
+        "martes": "9 a. m.–7 p. m.",
+        "miércoles": "9 a. m.–7 p. m.",
+        "jueves": "9 a. m.–7 p. m.",
+        "viernes": "9 a. m.–9 p. m.",
+        "sábado": "9 a. m.–9 p. m.",
+        "domingo": "9 a. m.–9 p. m.",
+        "lunes": "9 a. m.–7 p. m."
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhQ6F0L72BqelQSV61hJmVpSZbFg1KGne_PxPuA-q1g5kp1T9F034TsMWpJIzxJ4R_7iqWk4BZ4XVDbSjyS_5R2dpvzE6ykqfrIG-bsymjvK-aXafEUrOvEK0uOKdNFxOWF_85=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J3eFf3icHcRJDoIwAADAF1VaBVwSDxopCioICMYLAaytshUKCH7QN_gbE-cw3w9rGi4WkpSxyYiWJc1IK0idlEVDimaUlLlEuQCJAEJabR3bC1J2UjHcT8frimQn11cRM3Kfu9cYU2TqBQnt3m5XoEJUSTny5hhOZE8cAm7s3r0hO-H0UQWpvL7KF38Tu8_BDRVnfOPdW1OHtLrXOx3EYsifnQmiS3TXzrXVaSZsLfN2xL0V4HCmLF8IQgjY_wQUP_Z-Q-o"
+    },
+    {
+      "position": 20,
+      "title": "Cuevas de San Antonio",
+      "place_id": "ChIJIzK5-HLDrZUR-1QP6NveFiM",
+      "data_id": "0x95adc372f8b93223:0x2316dedbe80f54fb",
+      "data_cid": "2528453276887635195",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95adc372f8b93223%3A0x2316dedbe80f54fb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95adc372f8b93223%3A0x2316dedbe80f54fb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.3434192,
+        "longitude": -57.981976499999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIzK5-HLDrZUR-1QP6NveFiM",
+      "provider_id": "/g/11f9w7pf1v",
+      "rating": 4.3,
+      "reviews": 192,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "M249+J6J, Unnamed Road, 50000 Salto, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkW-bnSi2iYzyiOSpVWrBElSWvnJ0fqDwLv3w5W6lqdTLXkUqGcmNxUr12kFhNG4tOHxHvPfOjU544EO9lmphxLaEgG5p0CV-txYlRE9qDckr97CQ7jeQ5_RKVZbwpTAp6GSY8vuQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zfKe53icHcRdEoFAAADgE60Whcx4IKmhkX5XXgwrbdq2rV0VN3QEtzHje_i-HyIlF3NFoWQ8yKoqo-lTpA2umEyZHOCqVDIuABZAKEvbP4SoQODKgnyUJ-9X7gY8Rs3KpAFq2Rbe63XntONOQxNa30LnWES1hct9HzXDUbEhe0uVrt3b7eHuPiJNVU1XpyUnvXMxM0vj0IiB7BPqm3q9xkWjTw1v-kg97ezv4tO14-GST6wgmbVPb9ENIYSA_MeA_QBLeUXY"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Las+Termas+del+Daym%C3%A1n+Uruguay&start=20&type=search"
+  }
+}

@@ -1,0 +1,1009 @@
+{
+  "search_metadata": {
+    "id": "6aa89971868180fc1e8c00c7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rCh1lLDVn-12KRnWy_8_9qy7VvXFpkn9uLNMMRw-1pI/6aa89971868180fc1e8c00c7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rCh1lLDVn-12KRnWy_8_9qy7VvXFpkn9uLNMMRw-1pI/6aa89971868180fc1e8c00c7.md",
+    "created_at": "2026-09-15 01:03:45 UTC",
+    "processed_at": "2026-09-15 01:03:45 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Punta+del+Diablo+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/rCh1lLDVn-12KRnWy_8_9qy7VvXFpkn9uLNMMRw-1pI/6aa89971868180fc1e8c00c7.html",
+    "prettify_html_file": "https://serpapi.com/searches/rCh1lLDVn-12KRnWy_8_9qy7VvXFpkn9uLNMMRw-1pI/6aa89971868180fc1e8c00c7.prettify",
+    "total_time_taken": 0.88
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Punta del Diablo Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Punta del Diablo Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Parque Público Punta del Diablo.",
+      "place_id": "ChIJhUQBzHAtc5URwHwcewluc14",
+      "data_id": "0x95732d70cc014485:0x5e736e097b1c7cc0",
+      "data_cid": "6805904448886176960",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d70cc014485%3A0x5e736e097b1c7cc0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d70cc014485%3A0x5e736e097b1c7cc0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.033657999999996,
+        "longitude": -53.5510337
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhUQBzHAtc5URwHwcewluc14",
+      "provider_id": "/g/11bwq9622z",
+      "rating": 4.3,
+      "reviews": 318,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "park"
+      ],
+      "address": "calle 28 entre 13 y 3-Punta del Diablo,",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9 a. m. del mar",
+      "hours": "Cerrado · Abre a las 9 a. m. del mar",
+      "operating_hours": {
+        "lunes": "9 a. m.–8 p. m.",
+        "martes": "9 a. m.–8 p. m.",
+        "miércoles": "9 a. m.–8 p. m.",
+        "jueves": "9 a. m.–8 p. m.",
+        "viernes": "9 a. m.–8 p. m.",
+        "sábado": "9 a. m.–8 p. m.",
+        "domingo": "9 a. m.–8 p. m."
+      },
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Cancha de básquetbol",
+            "Columpios",
+            "Toboganes"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "user_review": "\"Hermoso lugar para tomar sombra, parrillas para compartir.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlH6r0rKFDMHX5OJyY0tXD5ShbclwRVc8Ok1nuMX-w18_G9tUs5g9YiOExh-cBmxqg4LHhCMccCRmW5BF8UjvXajtUrKQTo_pyKrLpg659k5bDvhyrgKOSTXmHJR6dMyxrEpZC7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FjGxxXicHcRBjoIwFADQE1VKnCJM4mIEtREJiqDVjdEvaVWgta0CJ5wzeBsT3-K9_4W1yvw6TiWGAy4lr8qnKTXIxpaNHYCsHa4MAoOM80ezVb6rqKexjmdRQhlJF_0eWxaRjThD1WZb8NO72zwThlrXP84DWxjCg_01nXYCwaTuHvxnSUWYAIRZvSOTmV_cXux0s4WO17k8qj7WS8U9EtzJOXqJXvM43eSspovMuyR9p6fqEI7GrYsxRuI7oOYDOx1E0Q"
+    },
+    {
+      "position": 2,
+      "title": "Sombráculo Parque Santa Teresa",
+      "place_id": "ChIJSabtyVItc5URklRKdmCYG0A",
+      "data_id": "0x95732d52c9eda649:0x401b9860764a5492",
+      "data_cid": "4619453382867440786",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d52c9eda649%3A0x401b9860764a5492&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d52c9eda649%3A0x401b9860764a5492&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.002462,
+        "longitude": -53.5535243
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJSabtyVItc5URklRKdmCYG0A",
+      "provider_id": "/g/11c1p63gdd",
+      "rating": 4.7,
+      "reviews": 249,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XCXW+2H9, Parque Nacional Sta Teresa, Rocha,, Punta del Diablo",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–8 p. m.",
+        "martes": "8 a. m.–8 p. m.",
+        "miércoles": "8 a. m.–8 p. m.",
+        "jueves": "8 a. m.–8 p. m.",
+        "viernes": "8 a. m.–8 p. m.",
+        "sábado": "8 a. m.–8 p. m.",
+        "domingo": "8 a. m.–8 p. m."
+      },
+      "phone": "4477 2101",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"De los mejores lugares en el Uruguay\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRLTGvQIfFMPmII70eCCqQAOcxdeKIs6e5xX0luqID_sTXU8jCWfUYVL0wYuJsmqUewDVAIAu0kLh4wmaQYJQHyd4_Mu22G7Hl2GGpq8zwO9Qcllo35vcYmfspMLnERqoAVht0Cg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/We3zt3icHcTdboIwGADQJ0I61PmTeNHgBnUQLQGUK7PUQjNbSve1Vn1DH8G3MfFcnOdDWDvAMgylGI86rTvJHfB_pnvLeztiWoXdAAGDAEKcFrtyfy6yMrlQ0n7nO0XIDPE4NhRv2fXEfwh88un1gKQzZH2E8lDN_-J9WzV1hnzjNqBMxf26xgQ7dM7ExKtf2mxoejtNjrmLomSWyihJBjO_--2CMin1eHphjWphyLP-qzAa18KiuFv5D4RQIN6zoH8B8rdFvQ"
+    },
+    {
+      "position": 3,
+      "title": "Feria de Artesanos Punta del Diablo",
+      "place_id": "ChIJ8XpLmrwtc5URqe0dyZhEL9U",
+      "data_id": "0x95732dbc9a4b7af1:0xd52f4498c91deda9",
+      "data_cid": "15361572276983950761",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732dbc9a4b7af1%3A0xd52f4498c91deda9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732dbc9a4b7af1%3A0xd52f4498c91deda9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0452678,
+        "longitude": -53.5370286
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ8XpLmrwtc5URqe0dyZhEL9U",
+      "provider_id": "/g/1hm3crnhl",
+      "rating": 4.3,
+      "reviews": 3839,
+      "unclaimed_listing": true,
+      "type": "Feria artesanal",
+      "types": [
+        "Feria artesanal",
+        "Mercado"
+      ],
+      "type_id": "handicraft_fair",
+      "type_ids": [
+        "handicraft_fair",
+        "market"
+      ],
+      "address": "Ute 2 1999, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Cierra pronto · 11 p. m. · Abre a las 10 a. m. del mar",
+      "hours": "Cierra pronto · 11 p. m. · Abre a las 10 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–11 p. m.",
+        "martes": "10 a. m.–10 p. m.",
+        "miércoles": "10 a. m.–10 p. m.",
+        "jueves": "10 a. m.–10 p. m.",
+        "viernes": "10 a. m.–10 p. m.",
+        "sábado": "10 a. m.–10 p. m.",
+        "domingo": "10 a. m.–4 p. m."
+      },
+      "phone": "4477 2045",
+      "extensions": [
+        {
+          "payments": [
+            "Pagos móviles mediante NFC",
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Es un lindo paseo que complementa la vuelta por el centro del pueblo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRu4fch8EtZYIEUQGApSi7_hBj1Hcb9tcTOYKwti4_XCDasLaGInHRbiTk6x1FNioibAis9R_6exnM2F4FdXfV-dUQTq60s70j97VxHzqZuqm68_YHcxd-QQQYlhQxziEzIo3DlA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3b3A83icHcTbDoIgAADQLyKxnGZbD1YaritmF3txiSaUggYu5h_2Cf1NW-fhfD9UqUZODKOio0EpRFkVnSxeRHBVcDUgojbKRgIigTQ8FO3jcx111p3Qsa-uSegf8dJrDsxJ6exhIpK5isS7ZPVWzEov88VNrm_LkKMoY_HT1mawZYJlHpNulNqF5pthYAX55X4C-RHHrQ2lAx-uc9Kob69dW9vjNEFE5wBjnFQU6575fShGi8qbvk0IIaD_CeA_8_5FhQ"
+    },
+    {
+      "position": 4,
+      "title": "cartel foto recuerdo PUNTA DEL DIABLO",
+      "place_id": "ChIJo-FgCAAtc5URimENzopeK9o",
+      "data_id": "0x95732d000860e1a3:0xda2b5e8ace0d618a",
+      "data_cid": "15720762874522329482",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d000860e1a3%3A0xda2b5e8ace0d618a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d000860e1a3%3A0xda2b5e8ace0d618a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0443308,
+        "longitude": -53.5380681
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJo-FgCAAtc5URimENzopeK9o",
+      "provider_id": "/g/11z001lz44",
+      "rating": 5,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XF46+7Q7, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmo6h6DqdRHT65wk4z26pd_Re-SvHnxw1pwS67Hs9iWz7GHxlKHIVAYuRAxR_n5N9VyhfYM0qu2PNDfANT7t_nA30G9Ipmbotj9Fki8VPXHuZo3PhrD1_93bvu5dEfe44F7UY4UFpHJS4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1zfAHnicHcTBboMgAADQL6JiRR1LdiBxlm6ZMWjt3MWkitKpQAtU14_cfX_TZO_w_n6Ftdo8e94kgs2g1DBxZ_i1VdJyaTetmr1BG9AaYDxCWV4ex1lFIkouHaNlFC4jum8j3TWMg-JG5br4eimimBp8Pt7jHV2nd7qvSO0YWVkjwwxXP6KvP-DFbfMs6UlWxraRJIA7vNfzSdlvnI7npyr_pO5LBbm4Jn6Dg9PNhd1rzxFK40ONDqmmbwV6WXwIIRD_t0A-ADVbRfg"
+    },
+    {
+      "position": 5,
+      "title": "Servicio de Parques del Ejército",
+      "place_id": "ChIJp5--Oq3SDJURgbyl_ZBcv5o",
+      "data_id": "0x950cd2ad3abe9fa7:0x9abf5c90fda5bc81",
+      "data_cid": "11150732980193180801",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950cd2ad3abe9fa7%3A0x9abf5c90fda5bc81&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950cd2ad3abe9fa7%3A0x9abf5c90fda5bc81&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.9981751,
+        "longitude": -53.5666869
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJp5--Oq3SDJURgbyl_ZBcv5o",
+      "provider_id": "/g/11g6jvpnyw",
+      "rating": 4.6,
+      "reviews": 1166,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque nacional"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "national_park"
+      ],
+      "address": "XCXW+J38, 9 Km 302, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–6 p. m.",
+        "martes": "8 a. m.–6 p. m.",
+        "miércoles": "8 a. m.–6 p. m.",
+        "jueves": "8 a. m.–6 p. m.",
+        "viernes": "8 a. m.–6 p. m.",
+        "sábado": "8 a. m.–6 p. m.",
+        "domingo": "8 a. m.–6 p. m."
+      },
+      "phone": "4477 2103",
+      "website": "https://www.serviciodeparquesdelejercito.com.uy/",
+      "extensions": [
+        {
+          "service_options": [
+            "Servicios en el lugar"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "offerings": [
+            "Parrillada"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Cancha de voleibol",
+            "Columpios",
+            "Mesas de pícnic",
+            "Parrilla para barbacoa",
+            "Sanitario público",
+            "Toboganes"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños",
+            "Rutas de senderismo adecuadas para niños"
+          ]
+        },
+        {
+          "parking": [
+            "Estacionamiento en el lugar",
+            "Estacionamiento gratuito",
+            "Estacionamiento gratuito en la calle",
+            "Estacionamiento pagado"
+          ]
+        }
+      ],
+      "service_options": {
+        "servicios_en_el_lugar": true
+      },
+      "user_review": "\"De los mejores lugares para veranear en Uruguay.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnnz8z4H2uDrg_ksH-He6NfbW0ZhZt5xaUZi--Qn8s38YNRhqB2oB4rq7zAxWPkVeqSOrIAQFbwlgev8kRMos5A_rbbMqpHveeeR1v_XHL0vTLDJme1RAc5S9Mj4a1iIieaBXRs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cVFftXicHcTRboIwFADQL6oUBceW7KHELHURp1WH44VAc20Z2EJvRcMP7hv2N0t2Hs7vj_a-x5cg6PRipqxVHdwQnLTGg_Ezaa-B6pFIJBgwLnbH3JgpmSI-v62cKlvkhMNye6lzWujCx4_qVDSE7E2Ci-RrK_SQzm0aueFpYo98137CcPhwa7Z_q--dgjFpRWYxZqWr62zo-QgAIhzLM9_Q8bhZvV8hFEzGh-fsO6rCZt1AlZ4Fvt5DSinR_0ti_gCMu0UG"
+    },
+    {
+      "position": 6,
+      "title": "Homenaje al Surfista",
+      "place_id": "ChIJMzLzeADTDJURyBerE3wVLmc",
+      "data_id": "0x950cd30078f33233:0x672e157c13ab17c8",
+      "data_cid": "7434903657485375432",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950cd30078f33233%3A0x672e157c13ab17c8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950cd30078f33233%3A0x672e157c13ab17c8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.9755538,
+        "longitude": -53.5298119
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJMzLzeADTDJURyBerE3wVLmc",
+      "provider_id": "/g/11wx91cvn3",
+      "rating": 4.3,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "2FFC+Q3G, 27100 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"No sabia que quienes representaban a los surfistas son solo los hombres.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwwDjbK2H9ChwRfCyf1oOkZ7T1XPlVoLxjDs98o1Kj75CAb9R3KXi_NoyRfI7dT4-r7TD2UKW9vYWnj_jz-OCPvmO6OBkRGD-mF9mM4iP20PNLi504kJvHT4mBrYqSW3mJuUkqZQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/12MzX3icHcTbEoFAAADQL1ptF7JmPKiGCK21VF7MSLetbWlT-EOf4G_MOA_n-8nb9iYnilLl-iATIquSh0yaWNRtUreDWHAlu0kQSyCVmUswDXjfO-ziaS6y856k9itVhV-eTKqGuDqK9ZM5Eo2F6jFzaM8uiOheWJy34kXSpXmlBmhM6mgHL0BdFNTszN7At3HH_ZFvlWThAD5HfGMUWIN4uy6G0ChXnUsNbjXRfR_ofPU4lPfTbtqrEEKQ_49B_QOBHEPG"
+    },
+    {
+      "position": 7,
+      "title": "Playa Celina",
+      "place_id": "ChIJdx9BabUtc5URjXlLExkrfWU",
+      "data_id": "0x95732db569411f77:0x657d2b19134b798d",
+      "data_cid": "7313048756617443725",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732db569411f77%3A0x657d2b19134b798d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732db569411f77%3A0x657d2b19134b798d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.000768,
+        "longitude": -53.5314397
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJdx9BabUtc5URjXlLExkrfWU",
+      "provider_id": "/g/11txf105p8",
+      "rating": 4.6,
+      "reviews": 15,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XFX9+MC, 27100 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"El agua no es muy fría, las olas son tranquilas, la arena no quema.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrYQBDC5Qqn9pFiqka_tXAKClOOzXWQ5VWPj0GCPTvWRX7cnKaShoIrf-LguIy2GF32WcnqhCarJdHWdrOG5btOw5C5kKK3om8lHxLtJUokHfO0cW77TwqrE7LqC7JzqKpTggx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xbVCNXicHcRdTsIwAADgE5VVlqZi4gMW2FiXdMNJ55MZZbSy0q4_OOSCnsHbmPg9fL8_KsYxPCWJVulMWit1fw29F9bE3sSZsJdEjgGIAEKyzHdVw7V_r19WBNXOLMbNpxu6j9guKdGM3Vteoz2vzjAjVfPFdy0Whnavym79CZTyuv2eZ5t0zoVxinS-OOb86FmGDpFNiKCB0tReHnV-K2PxZof8xKDgGDeT82tcOoKLu6NjI-XteXqAEAL1vwDmD3SfRQs"
+    },
+    {
+      "position": 8,
+      "title": "Entrada principal playa de la viuda",
+      "place_id": "ChIJg1fgLQAtc5URmtcV25PSJ6U",
+      "data_id": "0x95732d002de05783:0xa527d293db15d79a",
+      "data_cid": "11900712072827492250",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d002de05783%3A0xa527d293db15d79a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d002de05783%3A0xa527d293db15d79a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.048242699999996,
+        "longitude": -53.5401096
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJg1fgLQAtc5URmtcV25PSJ6U",
+      "provider_id": "/g/11yqlx_dss",
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XF25+PX2, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "title": "Monumento a Artigas",
+      "place_id": "ChIJZ-hXA7stc5URv92xTUpt2sQ",
+      "data_id": "0x95732dbb0357e867:0xc4da6d4a4db1ddbf",
+      "data_cid": "14184770142255308223",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732dbb0357e867%3A0xc4da6d4a4db1ddbf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732dbb0357e867%3A0xc4da6d4a4db1ddbf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0444952,
+        "longitude": -53.534143699999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZ-hXA7stc5URv92xTUpt2sQ",
+      "provider_id": "/g/11c6d9_wlq",
+      "rating": 4.4,
+      "reviews": 151,
+      "unclaimed_listing": true,
+      "type": "Museo marítimo",
+      "types": [
+        "Museo marítimo"
+      ],
+      "type_id": "maritime_museum",
+      "type_ids": [
+        "maritime_museum"
+      ],
+      "address": "XF48+685, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Hermoso lugar, que homenajea a un pensador y  héroe Latinoamericano.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlbbe-RbM0zE8oRFSjYdXBXPstkFbaaqJX6xnV4twTxlMluCzRzrt-_A1EspwyCDuuStHS1e_WqmrgKPvFA4kh_OPO5ZV7Q0m0YR8wzoO-JfJnZcYm-u4J2WpfHUE9hl1_1ufON=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dad6fHicHcRLjoIwAADQE1Vaxc9M4gIVQjAOWJSPGyK10GhpkbaiXNAzzG1MfIv3_2Zat-rXsjibjGopa06Noh2RQlOhR0Q2Vt0qQBRQluPj6JDysqQAlzs4uAuJvfiaX7JVFil988rz-R5ks6dIbN0fnnzHzXrAQ6dB4SBXtf1rvTEm1n6MaJHem67eRg_PsW-sCKNwekrme9jAHC_6QYYgqAJxInkDjB2M07byj-4P46hApgr_lj2CEAL2nQDxAeuFRaE"
+    },
+    {
+      "position": 10,
+      "title": "KiteBro",
+      "place_id": "ChIJ61wypnEtc5URikTTBmAWFlo",
+      "data_id": "0x95732d71a6325ceb:0x5a16166006d3448a",
+      "data_cid": "6491400514588329098",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d71a6325ceb%3A0x5a16166006d3448a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d71a6325ceb%3A0x5a16166006d3448a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0380356,
+        "longitude": -53.53937
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ61wypnEtc5URikTTBmAWFlo",
+      "provider_id": "/g/11q1jybzj1",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XF66+Q7J, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "phone": "099 783 851",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkzUZ3YUj2GqkhocUmerN1XB018GoXb6Nub5xjnMwpSLhiY2PTrm-Y9LIx5N69HMxL0kGZLFwn6qMutWZtIKTIF2SgxHzHR2j1whugs_Rm7UZd1pZLknmJURFEhrOJAHpplmOE6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K_ZysHicHcRdboIwAADgE1VajKhL9qCJULCgQRqlL0voSCvQH2kJxAvuDLvNkn0P3--P9N66jyAY5HoljBFDO7l25Eb7VvsVNyoQ1gHugAsOuLxW9_5N2bqmXZi8emk4Ve1YoMcRol1iHk1UTM1m6XQ-2xuRzzq8VqMC9Z6ky6aI9jhfCOwTRuJZR6988nfm03OVxuFNLPiNy7BDs5yE-yrVlrJvZBnptcpoGZ_keMkO2NpBXU7R54wghED-z4H-A3nDRQU"
+    },
+    {
+      "position": 11,
+      "title": "Mi lugar en el mundo",
+      "place_id": "ChIJ57H1UQDNDJURX64n8nJQ0aU",
+      "data_id": "0x950ccd0051f5b1e7:0xa5d15072f227ae5f",
+      "data_cid": "11948419741009817183",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ccd0051f5b1e7%3A0xa5d15072f227ae5f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ccd0051f5b1e7%3A0xa5d15072f227ae5f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0070656,
+        "longitude": -53.5945745
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ57H1UQDNDJURX64n8nJQ0aU",
+      "provider_id": "/g/11yx7l9d6r",
+      "rating": 3,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "XCV4+55, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "title": "Cerro del Rivero",
+      "place_id": "ChIJt6dTyWMtc5UR90ufg-JHT8s",
+      "data_id": "0x95732d63c953a7b7:0xcb4f47e2839f4bf7",
+      "data_cid": "14650007151055948791",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d63c953a7b7%3A0xcb4f47e2839f4bf7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d63c953a7b7%3A0xcb4f47e2839f4bf7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0330875,
+        "longitude": -53.5373594
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJt6dTyWMtc5UR90ufg-JHT8s",
+      "provider_id": "/g/11fvw989wz",
+      "rating": 4.8,
+      "reviews": 123,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XF87+Q36, 27200 Santa Teresa, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Excelente lugar para fotografía y estadía muy buen lugar\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTTjXJKvbhpbnBGfkb2kJE4F_zmiWz_btXd6DONOxvABDxiUV4uHSWlwnJx_WJ2Y8NDewmFRgMwQpDdB2sQzKoB6c2NDM42M9gDYi7iW503kkmeOdnwLO211-SS6aromJRIAEy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hVpsHXicHcRRToMwAADQE3VAh0xN_IB0c-sEHKDdvoiUrrDSlqzdilzQM3gbE9_H-_3prB3Ns-cN3XLBteYDuxl2pVpZpuyCaunx0QBqgPHibfFeEVFVlyPe35tubFTyehYNFHgdbupZ9mSuG3tsI5Rn-XSPEzT1H5_hbVuSwSk81QTD02OGmJObgqfuMKI2geYw73USUZihNITpE0enftWTB38phGR5q9xbDoMAlGX0ddUSF7t4_f3iAt_3Qfc_BeoPp5JEgw"
+    },
+    {
+      "position": 13,
+      "title": "La Playa Grande",
+      "place_id": "ChIJAQAAAJwtc5URIblA2Q6dSdI",
+      "data_id": "0x95732d9c00000001:0xd2499d0ed940b921",
+      "data_cid": "15152815108364744993",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d9c00000001%3A0xd2499d0ed940b921&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d9c00000001%3A0xd2499d0ed940b921&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.042331499999996,
+        "longitude": -53.5473527
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJAQAAAJwtc5URIblA2Q6dSdI",
+      "provider_id": "/g/11cll14v3f",
+      "rating": 4.7,
+      "reviews": 20,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de culto"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "place_of_worship"
+      ],
+      "address": "XF53+336, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"100% recomendable\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmM2mEhOFiVH21GhK-zZpTZL_byneW6eOPu1GivyP2LaTSncACwUz6rCJ_GZxt_flRzxqt6J1lP3paTMgSAHfvPwupGY8jHK0Rc0cdqFxkR709y9vZ9T2D2OWArKPT8yoj3YBa40A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RO08EXicHcRdboIwAADgE1VKWZgs8aFzChENDVaJvBBWK9VBW2n5veGOsNss8Xv4_n6Ftdp8OE4tvEWlVFXzzvCWKWm5tAumGqfSBjADjIOjlNCsOaBmI5Lt_RwhNxQxmHNN833xPUme-TwhnRve-4mgfUmPkuH1cJr9dr0rwny0xa1O5_Fp_Z1bE0-X9FAdcXTrydDp8LJ8RDFMGWTX53b8Sd9hMAV9HlD0hZIMtzGhy0k9vMtn-QbxanAhhEC8ZkD-AwtbRQ4"
+    },
+    {
+      "position": 14,
+      "title": "Parque de esculturas",
+      "place_id": "ChIJFwAVMwAtc5URyZS7wLeMXZI",
+      "data_id": "0x95732d0033150017:0x925d8cb7c0bb94c9",
+      "data_cid": "10546740623211992265",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d0033150017%3A0x925d8cb7c0bb94c9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d0033150017%3A0x925d8cb7c0bb94c9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.033066999999996,
+        "longitude": -53.5611069
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFwAVMwAtc5URyZS7wLeMXZI",
+      "provider_id": "/g/11y4nbm25l",
+      "rating": 2,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XC8Q+J8, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "title": "El Potrerillo - Laguna Negra",
+      "place_id": "ChIJ24dAXwDNDJURVrz-2RTQ9ow",
+      "data_id": "0x950ccd005f4087db:0x8cf6d014d9febc56",
+      "data_cid": "10157534797556005974",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ccd005f4087db%3A0x8cf6d014d9febc56&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ccd005f4087db%3A0x8cf6d014d9febc56&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0132,
+        "longitude": -53.599053999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ24dAXwDNDJURVrz-2RTQ9ow",
+      "provider_id": "/g/11wpqctktx",
+      "rating": 4,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XCP2+P9, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Esa visita guiada debe estar muy buena.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk9nsEB70zI70Juf0ynNApNoCwwjJ8W3QCxfmdXRYpDLCkg_51RuNmAUu_rpoNZuxVAOUmGaCh-J70Cb-zeuUVImhLf9QYBndZQ8lLoCOoS901dprVVae-hkRk_jB-nWPm0XuqmvA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ij1zHXicHcTdCoIwGADQJ1p-EmEGXcwVlYilpVY3Ujod6X5yLqs37BF6m6Bzcb4f1vdKzyyrZeNRLWXdUqNpV0jRU9GPCsmtWmlUaKQtvI53h6xxhV56Drw3DvimgpcIsQolGYabP83GEXlWvDzGJ7UISFPnEzs2IceJyTslw7N5pnib8NWFMOQ7QK7oTU2SbjgLKjc6eaI8R9M2kGQr9y7YperS9EIRa-Imv3lIZDsOR3PnDzwfbABA7H-BxA_66UW2"
+    },
+    {
+      "position": 16,
+      "title": "Plaza los mochileros",
+      "place_id": "ChIJMw0ddQDTDJURa2oMeoeliQM",
+      "data_id": "0x950cd300751d0d33:0x389a5877a0c6a6b",
+      "data_cid": "254916855209945707",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950cd300751d0d33%3A0x389a5877a0c6a6b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950cd300751d0d33%3A0x389a5877a0c6a6b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.976444,
+        "longitude": -53.5360273
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJMw0ddQDTDJURa2oMeoeliQM",
+      "provider_id": "/g/11x1qfn03h",
+      "rating": 4,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "2FF7+CHH, 27100 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmF00L-JqCmPNYvUOv_-bBKCLhRJGjIyk081mo556EvxuRuQexn8ffRXI9o_T9vTImct6XeXmGM4vgNMF3WMkmSqdUaLuG5zg0Mo9p62GeluMMBZlmGw2iOxV2A3pXF0GEtHGPJfA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RLlkXXicHcRdboIwAADgE1UqDCJLfEAjFaSAiJPtxcxaipNSWH9g3tAj7DZL9j18v89GqV6-WlbbODMmBGuplvSbiE7RTs2I4BbrJSASSCvYFnl54iGECYiHNc_Td3PMzBlcVrt10hQx-op-7nAx58J1vY2ZdKH3dOoWdV1UkS_OpW_KiBPlVbTiCL8YluLQOeE7PwzX42eikftgEAu_92xEW43x6qPlaLRv2fRmB05fhRBt1BblcR0sxzmEEDT_E9D9AaWrRHY"
+    },
+    {
+      "position": 17,
+      "title": "Placa do Mobinho",
+      "place_id": "ChIJh_OIfAAtc5URVXoO1jepZ7I",
+      "data_id": "0x95732d007c88f387:0xb267a937d60e7a55",
+      "data_cid": "12855429718631938645",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d007c88f387%3A0xb267a937d60e7a55&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d007c88f387%3A0xb267a937d60e7a55&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.052262999999996,
+        "longitude": -53.5489203
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJh_OIfAAtc5URVXoO1jepZ7I",
+      "provider_id": "/g/11ynvc71xk",
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Simón Bolívar 378, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lie3owpfk2plD9eBmZWZ6A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=17.713821&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Y4x7LXicHc1NCsIwEEDh22RnflqwrTCI4h2EbiRNp0kwbYYmNnobr-VtFNcPvvd5u5wpHYRIeUXMm8dC_okh7UhzG6MNqMknbuIsNiWye8zDon04kl6iHyF4rGOh6V5RuHR4nvtrvz8xM9zMLy0ZEurVOG7LT1zjyC0lVqCVzEFXsZcuoBreqLqtFCOfjQPJ_pcpbqCk_AKQVzm7"
+    },
+    {
+      "position": 18,
+      "title": "Bosque de la Viuda",
+      "place_id": "ChIJeesnE_gzc5URoNJUhI4_VD0",
+      "data_id": "0x957333f81327eb79:0x3d543f8e8454d2a0",
+      "data_cid": "4419227015695356576",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957333f81327eb79%3A0x3d543f8e8454d2a0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957333f81327eb79%3A0x3d543f8e8454d2a0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0525547,
+        "longitude": -53.5655242
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJeesnE_gzc5URoNJUhI4_VD0",
+      "provider_id": "/g/11j0qs2qq1",
+      "rating": 4.4,
+      "reviews": 7,
+      "unclaimed_listing": true,
+      "type": "Bosque nacional",
+      "types": [
+        "Bosque nacional"
+      ],
+      "type_id": "national_forest",
+      "type_ids": [
+        "national_forest"
+      ],
+      "address": "WCWM+XQH, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl0yU8ifDm12FU7HcJnzcdpsWctFTJ98L98NdLrfDngc0Ydpk4MoXm2jU_Vbp_uFLgBEbOzKkiW6keSwiewdwnlYWj_rQ2oLM-4lcnBYTsPlY1WpTKkkAtCDNiCB38hFt0vzfD1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oM2vM3icHcTdDoIgGADQJyLRWllbF5m5VvavkVdufSIaCEwoly_YM_Q2bZ2L8_1U1mozcxxRDQdMKSbo09AWlLRU2gGoxmHaIDDIOIv1-ZgQgd-pX5dh43pROlnDRvZQaEPARslm6sdTf1_EbRlKBjgrNB_t1K3xHml-vev8GcUsWN0P_ZbXZMzppatpV3RSZOSRtydPxTs0EiCDLDFHkblEJ1vOF3YZ7utlMPSryOJXX4buvHMxxqj6D0j-AKPtRXg"
+    },
+    {
+      "position": 19,
+      "title": "Semillas del Sol",
+      "place_id": "ChIJFVfu-tAtc5URNPf_Hns2ooQ",
+      "data_id": "0x95732dd0faee5715:0x84a2367b1efff734",
+      "data_cid": "9557261261662582580",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732dd0faee5715%3A0x84a2367b1efff734&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732dd0faee5715%3A0x84a2367b1efff734&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.038570199999995,
+        "longitude": -53.55589
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFVfu-tAtc5URNPf_Hns2ooQ",
+      "provider_id": "/g/11px87ffrc",
+      "rating": 4.9,
+      "reviews": 8,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XC6V+HJH, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 12 a. m. del mar",
+      "hours": "Cerrado · Abre a las 12 a. m. del mar",
+      "operating_hours": {
+        "lunes": "Cerrado",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Cerrado",
+        "domingo": "Cerrado"
+      },
+      "phone": "098 831 470",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OjW5UNF3kReJWJyPW9z7KQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=303.33942&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/clL26HicHc3NDcIgGADQbbgJtGi0JsSbh5r4l5geDaVfAaWFFCzWaVzLbTQu8N7nrWP0YU1IiANAHA0kb55gw8wLrJxTFoQ3AUvXkTEjUT-6uhfGbrzonWn44VYtLvstu5-hrMrpWBWv5e6EZH2V1kAfeQAxSI1V-omDa7DyASW-okjzIkeTSJxRhhkr5jnyJkrNKfovrRt5RukXVHQ5Fw"
+    },
+    {
+      "position": 20,
+      "title": "ingreso playa de la viuda",
+      "place_id": "ChIJvfLWcwAtc5URRsYC2LcoxUA",
+      "data_id": "0x95732d0073d6f2bd:0x40c528b7d802c646",
+      "data_cid": "4667181358907573830",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d0073d6f2bd%3A0x40c528b7d802c646&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d0073d6f2bd%3A0x40c528b7d802c646&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0476056,
+        "longitude": -53.540598499999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJvfLWcwAtc5URRsYC2LcoxUA",
+      "provider_id": "/g/11mry5crfc",
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "XF25+XQ2, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Punta+del+Diablo+Uruguay&start=20&type=search"
+  }
+}

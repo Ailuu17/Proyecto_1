@@ -1,0 +1,758 @@
+{
+  "search_metadata": {
+    "id": "6aa95f16cc56d3803515cd56",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rjXeENSI9AGAb56hr5-x3_hw6ippsRpm_pX8OZTXpTY/6aa95f16cc56d3803515cd56.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rjXeENSI9AGAb56hr5-x3_hw6ippsRpm_pX8OZTXpTY/6aa95f16cc56d3803515cd56.md",
+    "created_at": "2026-09-15 15:07:02 UTC",
+    "processed_at": "2026-09-15 15:07:02 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+La+Pedrera+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/rjXeENSI9AGAb56hr5-x3_hw6ippsRpm_pX8OZTXpTY/6aa95f16cc56d3803515cd56.html",
+    "prettify_html_file": "https://serpapi.com/searches/rjXeENSI9AGAb56hr5-x3_hw6ippsRpm_pX8OZTXpTY/6aa95f16cc56d3803515cd56.prettify",
+    "total_time_taken": 0.7
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades La Pedrera Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades La Pedrera Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Rambla De La Pedrera",
+      "place_id": "ChIJW-w4FM6ddJURANPAPhA5lx4",
+      "data_id": "0x95749dce1438ec5b:0x1e9739103ec0d300",
+      "data_cid": "2204293284556231424",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749dce1438ec5b%3A0x1e9739103ec0d300&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749dce1438ec5b%3A0x1e9739103ec0d300&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5902903,
+        "longitude": -54.1216088
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJW-w4FM6ddJURANPAPhA5lx4",
+      "provider_id": "/g/11g6rcyvn2",
+      "rating": 4.7,
+      "reviews": 3490,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Mirador"
+      ],
+      "address": "CV5H+V9J, 27400 La Pedrera, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "091 259 234",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwyPw9aOPuGEweYKBNe_SCMIZis2N944A9GXRip6XxcVPKa_s48eRxFefsl_4lu1gpM6uwMMbQrUBrrJV1PsohraG8oeKmriVJDL6EKDVEIBY43OpRxjmgfMqLY6eIjj2qkl9F=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nyK9FXicHcTRboIwFADQL0JAGyJL9iATGWK1w42JLwSba4EVWnshZV-4b9jfLNl5OL8_zThqfHJd2awWQikhYUIwXA0jDOOCq94VGh2ODrqb15y9fw72m9mwPrEpiS2UWXSE6vxC02uLy2NIyCZMLnmrg8vMC5bVFZI15PMO7igrIidfaBpMltLbm_mIjNkXPkPVmDpZK8h60xb77SGIs20Rp1FJViedz10v7vRxKANIu275-JLh7tn6nuc5zf_cGf4Ai4FFGA"
+    },
+    {
+      "position": 2,
+      "title": "Valle De La Luna",
+      "place_id": "ChIJIVnBQ1WfdJURilzojQdv_EU",
+      "data_id": "0x95749f5543c15921:0x45fc6f078de85c8a",
+      "data_cid": "5043027760984382602",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749f5543c15921%3A0x45fc6f078de85c8a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749f5543c15921%3A0x45fc6f078de85c8a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.566411699999996,
+        "longitude": -54.1136359
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIVnBQ1WfdJURilzojQdv_EU",
+      "provider_id": "/g/11gxmsf4l2",
+      "rating": 4.4,
+      "reviews": 506,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "CVMP+CGQ, 27400 Rocha, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "https://m.facebook.com/parquesantaisabel/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnM5Nk8f62GqGyf1d83ammGKCUPxSC1L7bP-ybw2r_0-z8P7lL7mciW9kxpjRB9Ss7oTY7NB7hgpXTS3EHVZ2FwB0kL9mIZsypLuL3tJJFL3INU6bHQXhkvKvMT6fd_-PEy91wD5g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2cKQ53icHcRLcoIwAADQE0UCGQl0pgvxA2pkouB340iEpIWQ1EQRb-gRepvO9C3e71tYq82H4zQCDbhSvCnvprwx1dqytQOmpMO1AcwA44ySDc337WqY1kHle_FP3FfuNUAXKePleEuf2dgluKCgLzrvdobgFVDcECzZ1z6sn_p7E4WZwSo_4jTCgutDnqFpsjt5sy6CNQnl_GR6Te4E2cViRtA83fpFsj6I-rF8rHK_up4Bnfah202G_LNzIYRA_M9A-wdGJUN4"
+    },
+    {
+      "position": 3,
+      "title": "Escalera al Peñon de La Pedrera",
+      "place_id": "ChIJLQs1ac6ddJUR89WIJeRnNNk",
+      "data_id": "0x95749dce69350b2d:0xd93467e42588d5f3",
+      "data_cid": "15651248834599245299",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749dce69350b2d%3A0xd93467e42588d5f3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749dce69350b2d%3A0xd93467e42588d5f3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5920014,
+        "longitude": -54.121904
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJLQs1ac6ddJUR89WIJeRnNNk",
+      "provider_id": "/g/11hbnv188w",
+      "rating": 4.8,
+      "reviews": 46,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "CV5H+56X, Rocha, 27400 La Pedrera, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_u9l6jKREI0j30dQOZ2gs-W4ibV5ZmZkDIIw6vl5tU5hztmyondiHpD29ZUYo2ylUPV1gKP9-dGVkeIliOjsK0Atkwdo4Q922a_VKMutrf9EiAnS3F2aGfhGC460CMqUTKFBf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5Ui2_nicHcRJDoIwAADAF1VKWZKaeEBRJA0RFzByIcrSAqVFWyT6Qd_gb0ycw3w_TOtBzQ2DM2tGpaS8GlX1KKTQldCzQvYGHRQoFFCGtz3EpzPPR8zdlhzWIWwtWO53GaIKnO3mljpZn3V-GE7ukzs6cdhb9y8pymY7-AhnyUWiF0_i1KQkxqAM0q4KebNrFYGe7qZS2nuM0DVPSTTqR43XjSeO1gZdg5oFK9uFq-ienMhmWS8mE0II2P8CiB80p0O2"
+    },
+    {
+      "position": 4,
+      "title": "Diamante de La Pedrera",
+      "place_id": "ChIJgUKhaEicdJURgD0xK3Jx1o8",
+      "data_id": "0x95749c4868a14281:0x8fd671722b313d80",
+      "data_cid": "10364596327604632960",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749c4868a14281%3A0x8fd671722b313d80&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749c4868a14281%3A0x8fd671722b313d80&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6060271,
+        "longitude": -54.1369282
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJgUKhaEicdJURgD0xK3Jx1o8",
+      "provider_id": "/g/11dzstnth8",
+      "rating": 4.6,
+      "reviews": 21,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Pabellón para playa"
+      ],
+      "address": "ruta 10, km 226.800, 27400 La Pedrera, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "099 700 731",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-gcUEC8Y_-o9PL_vqsaaaew9_GYCfPe3rdJtJiAIBTjKD7PwI5ih_R06imIwK5xdUL_HjMDT9pV8k6WVHeWvaS-DhOmRos_XyvZ3XCJE3sokCtfVwnw20HrWqxlIUBTrAp0UnM64PCL8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0Ce-nXicHcRLjoIwAADQE1U6ogyYuMBiBhBjg3x0Ng2plaLQIq1UL-ne25j4Fu_94lr3amFZLbcntZR1y-6KDVQKzYSeUNlZda8AVUBZfpjirBSgpvkauUcCpIcTMt5UVVXMeOTviM6Y2cMp1nHjR6vssgl-sYnmDScpdJouMpv545QnJLxsg8zrC_fqlEXIyrHag4DvulQqcniO__YBxWtbySvS58IIM4XhUN4ebZSvssHvYS62zgyjxF2aHwgh4N8pEB9Pz0bc"
+    },
+    {
+      "position": 5,
+      "title": "Mirador La Pedrera",
+      "place_id": "ChIJD9uw-bKddJURTbun_dOeTuM",
+      "data_id": "0x95749db2f9b0db0f:0xe34e9ed3fda7bb4d",
+      "data_cid": "16379203528123988813",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749db2f9b0db0f%3A0xe34e9ed3fda7bb4d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749db2f9b0db0f%3A0xe34e9ed3fda7bb4d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5913665,
+        "longitude": -54.1217885
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJD9uw-bKddJURTbun_dOeTuM",
+      "provider_id": "/g/11ng0yrgc6",
+      "rating": 4.9,
+      "reviews": 59,
+      "unclaimed_listing": true,
+      "type": "Mirador",
+      "types": [
+        "Mirador"
+      ],
+      "address": "Rambla 8, 27400 La Pedrera, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWny8tKR0r1u63ocjpXsryjdmSYyFNXalFRUaJx4Uv9-Z0nyFm0ZaIZSbzbwXcAUS3foK3ayz9Rc7Qy05EoKGZJMckZhSZfcRJmNS0crXXKbQHGiNCYqq9Hm1yn90IXuTygQM-w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tjNv_XicHcTdboIwGADQJ6p8BH_GEi_MIiJEMlrJau_gE0FHW6RlrD6g77C3WeK5OH_P1trevHte1wazRuumq0dTD6iVrZWdoZZe0xuChhhvE9PP45dybzalMPjjMtB467kZ3O0s2clFGS-7iBZl8jsvfkIiQLlIgij3glWPauK4KVhw0WlQukdIcZU7WGx1uhPJAb9Fy8QFaSIzBjhwnlZ5vLtmH6f7PYyl71QIez4eXZMfyLSefAAg7Wsk6h983EUR"
+    },
+    {
+      "position": 6,
+      "title": "Sendero “Barra de la Laguna”",
+      "place_id": "ChIJJ1zP5m-QdJURLtw9H9M7xPw",
+      "data_id": "0x9574906fe6cf5c27:0xfcc43bd31f3ddc2e",
+      "data_cid": "18213748570941414446",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9574906fe6cf5c27%3A0xfcc43bd31f3ddc2e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9574906fe6cf5c27%3A0xfcc43bd31f3ddc2e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6801944,
+        "longitude": -54.270614599999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJJ1zP5m-QdJURLtw9H9M7xPw",
+      "provider_id": "/g/11gf3h7jpq",
+      "rating": 4.7,
+      "reviews": 571,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "8P9H+WQC, Laguna de Rocha, 27004 La Pedrera, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk2zZrWgAwhTTBD_Hr43RVdv0bJ4ENaJp93LOyA2paVasgIjwWK7defJ5Ojd92fQpDTQpPH-e5rsaUrqjNK0deLP9WXbsVPSuzJu-p_HV7e57ZrcAOaCtsOZuSMyxDuGfLqr0Xy9Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EuO1xXicHcRBjoIwFADQE1UqSAgmLnCYDCIKKAOGjamllKBC7W9FvKFH8DYmvsV7vxqlBMwN49JYE973_MI0MEn7TrFOTWh_NbgARAGB4QW7JCvO5rOUBfeGJsuW_jGQM2uXV3d8Cme_WxIK14ri0TMFyQnwVTsUa6didWjHbeWadSr8LBVJgJgtgfzLW7td44pFiVscTpAne_0MNRLHIHeY7ZSSejH5URCXer8ZH77-q6ObxIfRTRfDFGOMmu8UdR_qfUWv"
+    },
+    {
+      "position": 7,
+      "title": "Escalera al cielo la pedrera",
+      "place_id": "ChIJ_5HGPwCddJURQsUo2TPH0d8",
+      "data_id": "0x95749d003fc691ff:0xdfd1c733d928c542",
+      "data_cid": "16127890766091044162",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749d003fc691ff%3A0xdfd1c733d928c542&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749d003fc691ff%3A0xdfd1c733d928c542&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5915049,
+        "longitude": -54.127847499999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ_5HGPwCddJURQsUo2TPH0d8",
+      "provider_id": "/g/11z3p1zvyn",
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "CV5C+9VR, 27400 La Pedrera, Departamento de Rocha",
+      "country": "Uruguay",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IUiNUJ8mVCAN5RvvHyzLcg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=245.45844&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9aj-w3icHc1RCsIgGADg2_iWuuFgBRLRS0XsIViv4ZzpD05lmrZO07W6TdEFvu_zNimFuCEkplmplEGVAE9l4yoIrL3XVokAEUs_kVyRZB7T4ATYbRDOw8iPPXT9qZ2u-13XXHI-LK-z1EgON2lBucSjErM0WJefOPsR6xBR4S1Fhq9rtIjCa9Zg1rSMoQBJGk7Rf7n7zCtKv3epOZE"
+    },
+    {
+      "position": 8,
+      "title": "Playa Las Barrancas",
+      "place_id": "ChIJB7kMeACddJURgD7Amrl2Ep0",
+      "data_id": "0x95749d00780cb907:0x9d1276b99ac03e80",
+      "data_cid": "11318239353072795264",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749d00780cb907%3A0x9d1276b99ac03e80&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749d00780cb907%3A0x9d1276b99ac03e80&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5982487,
+        "longitude": -54.127426199999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJB7kMeACddJURgD7Amrl2Ep0",
+      "provider_id": "/g/11yxyyxtwt",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "CV2F+P24, 27400 La Pedrera, Departamento de Rocha",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlb059TlGNuNAIcQ7cphRGyAFx5MrklVefC888vxh2XXyQPDtEmrzVRzoaW9GBeObdkZDjCnwDHbB0gBJeNTS9kdnRoRy-L-cph-yb3arHJS5rss4O1JolNFLSTdSN06-D4KQi5LaqdavAL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pwRTeXicHcxLcoIwAADQE0XihwrOuACpUMQggVGnOwgpscQEkyjiJV17GzvdvOV7PZkxnV5YFmfTUSNlw-lVU0WkMFSYEZFnq-k0IBpoy4vwrjjwCtpuwUN0Rd4XyeakYzgcvPXd3qqW7-nPynGc251Njsch2wXm86wee_yQ5cENfZpWdfsd_K5EH0SVDxs_pqjI3bYWWOIBJOCvA0M1LVUU57bSepaOY8nROsmLOkfwAwSzTXayk_JSlzcvWfZjCCFg_xIg3p7ZRug"
+    },
+    {
+      "position": 9,
+      "title": "La Laguna",
+      "place_id": "ChIJu9EMU7ybdJUR6ia4K8tf6rg",
+      "data_id": "0x95749bbc530cd1bb:0xb8ea5fcb2bb826ea",
+      "data_cid": "13324567773745522410",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749bbc530cd1bb%3A0xb8ea5fcb2bb826ea&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749bbc530cd1bb%3A0xb8ea5fcb2bb826ea&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.66027,
+        "longitude": -54.218626699999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJu9EMU7ybdJUR6ia4K8tf6rg",
+      "provider_id": "/g/11m9khyy4m",
+      "rating": 4.6,
+      "reviews": 91,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Paisaje protegido Laguna de Rocha, 27001 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "099 251 295",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm_JAn9X4xcryGCucHxYiFuaCGgEtZ7U5QCNTuW0iAYmq_da5OfsQ2fgNHfLzy4WaGtY01EA5Yc6KSN0WtwduLV-ZHT7izBBZKGClB0mVdifi47U9LAN4bCAyfcDq9LzaHersov=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5toLT3icHcRRToMwAADQE3V0ChJM_CjdRuMIijIY_BBWaGkCFGgrgwt6ht3GxPfxHr-t1qN6tayufd5xKXnXGNXMVA66GfSOyt7iowJUAWUh8vWZZH35jgbvat_pvAbYUHLPxclUOOBHXbgXJ8ZRYjIoUN5PZV05H0zFT4xHhIXbamdVoHO4PyInpy_n7whmeqlNmIKCJK7YfL84B7jzYZ_WggnbvXghiuwbRiujh8kLt4o0s5I_b8seQgja_ykY_gBWaURg"
+    },
+    {
+      "position": 10,
+      "title": "Mirador de las Cárcavas",
+      "place_id": "ChIJf_T_TwCfdJURN6dbj-hRiYk",
+      "data_id": "0x95749f004ffff47f:0x898951e88f5ba737",
+      "data_cid": "9910542514284898103",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749f004ffff47f%3A0x898951e88f5ba737&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749f004ffff47f%3A0x898951e88f5ba737&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5702932,
+        "longitude": -54.1198037
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJf_T_TwCfdJURN6dbj-hRiYk",
+      "provider_id": "/g/11nt9gq91w",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "CVHJ+V3P, Calle al mirador, 27400 Punta Rubia, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      }
+    },
+    {
+      "position": 11,
+      "title": "Mirador COLA DE BALLENA",
+      "place_id": "ChIJV5kC6XGbdJURWXF4UkT5V30",
+      "data_id": "0x95749b71e9029957:0x7d57f94452787159",
+      "data_cid": "9031961649551536473",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749b71e9029957%3A0x7d57f94452787159&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749b71e9029957%3A0x7d57f94452787159&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6635555,
+        "longitude": -54.1730941
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJV5kC6XGbdJURWXF4UkT5V30",
+      "provider_id": "/g/11s78l7z2z",
+      "rating": 4.6,
+      "reviews": 44,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "8RPG+9V9, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-J-pzfoK-dzD9X3pOzmMSB8X90gXXhRmEnKgZqHsCDn7cMJtuWSnXYyh4ciNX6PYaFFqhzVEZy0oB1Mfzn3zTh7HRu-gBV5Kw8UUCeD_DeVpupW3us9ih86KZXaT4IexlqiedcA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6uPGhXicHcRRDoIgAADQE6E0K7Wtj8ya5axmpuRPa4TgpoABs7hhR-g2bb2P9_0wraVauG7HPIcKQTtiFHliwTXh2sGid6lUACug3FWSn4qKgz2QthEpeNg4RJ482j47RwEKIUWI5f2Gp7QeErWOuY-zvTbVmaPrm01xe0Dz0_W-3Q7Mlpv6DUU0yRrLPVswP8kNoFE5S8fgclmT-BaTUhpZeUaFLQvmaY3uxXRHXt3QkgdeLccJhBCw_xjwHwDgRcw"
+    },
+    {
+      "position": 12,
+      "title": "Entrada a Mirador Cárcavas de Punta Rubia",
+      "place_id": "ChIJ2_A3BgCfdJURTqbb4Q78YGM",
+      "data_id": "0x95749f000637f0db:0x6360fc0ee1dba64e",
+      "data_cid": "7161000548368098894",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749f000637f0db%3A0x6360fc0ee1dba64e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749f000637f0db%3A0x6360fc0ee1dba64e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5700465,
+        "longitude": -54.1227107
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ2_A3BgCfdJURTqbb4Q78YGM",
+      "provider_id": "/g/11wy3zjkc_",
+      "rating": 4.6,
+      "reviews": 28,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Gral. (Pta.rubia) Lavalleja 9999, 27400 Punta Rubia, Departamento de Rocha",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbiURUM7cI2Wp6YLXsKdm6yO3YzbheUYNQKTWNZqlWkgM21AHM2irqvfnZRYy-i6KZEszH5UeB9kz6WGgft5ngQCESxJ5IZzRdXcnsspIWwmBbiBqiAf23tXPPXGLBuYUFmhVj=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QlJ-a3icHcRRboIwGADgE1UQAmYmewDjBBGHzK6UR2ppO2kB_zonF_QM3maJ38P3fEhrB1g6Tif9meh70fEr8AvrjeXGzlivHTEAYoDAiZKyOBLdKFzifMFSjwwh3VWQnXR4__Tp1EiO6f6QHcm-HjtyFrk3j5LcU5fxtzV1Se9IhVm9hikJMI_fzlNINqK1gRGH1frrbxuk9VSeKmYAhpTcdNyoeFRR6_m2Kopqs4uvFH9o-f3zfpu7rovka4bMP5V-RYk"
+    },
+    {
+      "position": 13,
+      "title": "Laguna de Rocha",
+      "place_id": "ChIJuw9tAwCbdJURiYi7vZvBRNo",
+      "data_id": "0x95749b00036d0fbb:0xda44c19bbdbb8889",
+      "data_cid": "15727908673331890313",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749b00036d0fbb%3A0xda44c19bbdbb8889&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749b00036d0fbb%3A0xda44c19bbdbb8889&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6607184,
+        "longitude": -54.2242915
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJuw9tAwCbdJURiYi7vZvBRNo",
+      "provider_id": "/g/11yl_rfrdp",
+      "rating": 4.9,
+      "reviews": 8,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "8QQG+P78, 27000 Rocha, Departamento de Rocha",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfLzYs4GcjQeMPx4BOjSv7ZrGSOEsgwevKt3xiSxxAqgoJhtMb1IkuZw3LOD9hPkrd_LJ4QT7YeWb7jdxJrpDwWyZv8eWzFmZF4Q9aKsZMSUbJ3UbQLXy6p9maVNv-6PqKowQsEp2LmSc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TA2oRXicHcTNboIwAADgJ6rgICJLdnDxZ0IZdFXRXhaptRWEVlpp9SF339ss2Xf4fn-EMUq_et5VBCMuJb-yu2Y9lZ1hnRlR2XpcaUA10N7s46vYlM0ZPg86XNEasaxw4Xte4yEi_QrnC80tG1ITuAt2bnbjMhEmq8br5k5sAPN5LIqmP33DJESb6MDKKqpPLunV3JYPMkxZ-Vy2ZBmi-JhqkuFtlQTbCsH9Y6Li9rj7HMCkuKXSIr1QL7DF9M2Ofd8H4n8Kuj8SxUi3"
+    },
+    {
+      "position": 14,
+      "title": "La Riviera",
+      "place_id": "ChIJS56vaMe9dJURNw6rNYXkFs4",
+      "data_id": "0x9574bdc768af9e4b:0xce16e48535ab0e37",
+      "data_cid": "14850308082082975287",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9574bdc768af9e4b%3A0xce16e48535ab0e37&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9574bdc768af9e4b%3A0xce16e48535ab0e37&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.546380899999996,
+        "longitude": -54.325570799999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJS56vaMe9dJURNw6rNYXkFs4",
+      "provider_id": "/g/11ddwt9zx0",
+      "rating": 4.5,
+      "reviews": 544,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "FM3F+CQV, Cam. del Pescador, 27000 La Riviera, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuK2giz67HwrJP90JtT2-QXRFSm9ev7Fk9WNcdMmsmxIOIil-GEGiJecr2w_Jw1j7FQ3bUvmpdIli9XpJvJzYNM6szwcDUASD7VM_UO65eImX_bka7x_3qdrjihV_PxJD_pNtB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tXdsDnicHcRRDoIgAADQE5GmS2ZbHzWzpGlqafbFCplSoiQkzgt2hm7T1vt430-tlJBLw2hqe1Z1XdXQt6Q96VpFWzUjHTcqIQGRQBrrfRqfL_x9sCo2OXCvexS7JlJnCyRF6p-4SwfoP91LRMqQSz4Gx4A1YLfdMURJb2mM9PwB_cS-ZwMXZdAwtxBoQNM1Ch05aeJl65MH8xBnR2dBA17g-_MGR2y_yv7B6hzHI_KwiNRmpeemaYL6PwHtD16hRS8"
+    },
+    {
+      "position": 15,
+      "title": "Faro de Cabo de Santa María",
+      "place_id": "ChIJ0R7P1rScdJURUmes2V2po_E",
+      "data_id": "0x95749cb4d6cf1ed1:0xf1a3a95dd9ac6752",
+      "data_cid": "17411946804893476690",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749cb4d6cf1ed1%3A0xf1a3a95dd9ac6752&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749cb4d6cf1ed1%3A0xf1a3a95dd9ac6752&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6681157,
+        "longitude": -54.152812999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ0R7P1rScdJURUmes2V2po_E",
+      "provider_id": "/g/121k2wcc",
+      "rating": 4.7,
+      "reviews": 4915,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Del Faro, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del sáb",
+      "hours": "Cerrado · Abre a las 10 a. m. del sáb",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "Cerrado",
+        "viernes": "Cerrado",
+        "sábado": "10 a. m.–1 p. m., 2–5 p. m.",
+        "domingo": "10 a. m.–1 p. m., 2–5 p. m.",
+        "lunes": "Cerrado"
+      },
+      "website": "http://turismorocha.gub.uy/atractivos/faros/faro-cabo-santa-maria",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnELRZR0Eu2YfjuHjeO8mo-MTDCiPh6w4wBgKvDmRO0WhmbBVMBbOOfHCIkNYuV4NyVW5FmXUa7yf7--mAHsoAxtFJJaIHtih55hEvHhEwz8nb1CVgA1I0p4CnOIe5eCOuMyliV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A4YMN3icHcRRboMgAADQE6G4ajVL9qGowW6WxnS47k8Ngq2AGVDnLrgz9DZL9j7e41dYu5hn35_FzuNa85k5w74GrSxT1hu09PliwGCA8VPcnM6tKt6azwYW7ukyXh2-MpJIDepzjqaT2K_hmvHXey4bAlsh-4zWWU_IiFF1O14cDY8bbaNSfrx38TbGAMgUG51-2_Jw6CpsJxFForhjUaw_ieoDRHkaVHAJkSIVixgirt7mib6sAYQQiP8HoP4AH6VD6Q"
+    },
+    {
+      "position": 16,
+      "title": "Playa del Faro",
+      "place_id": "ChIJVc2j00qDdJURuixlzR78P3A",
+      "data_id": "0x9574834ad3a3cd55:0x703ffc1ecd652cba",
+      "data_cid": "8088460665005878458",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9574834ad3a3cd55%3A0x703ffc1ecd652cba&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9574834ad3a3cd55%3A0x703ffc1ecd652cba&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6684712,
+        "longitude": -54.152481699999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVc2j00qDdJURuixlzR78P3A",
+      "provider_id": "/g/11f3nlk8rl",
+      "rating": 4.7,
+      "reviews": 359,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "8RJX+J26, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIjl_iCreTf0aQa4B1Avq82kO0YcLPuyUBHGGZqHFxsm99mMb7OGT3eGzPjNvMUF_78t6sATfZ15xDxwrPbIuvaWb-a3j0Q38UxjDIIdwi9wlLdXtGmISmfEmjhvcswpx6pFad=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J3KMvHicHcRdboIwAADgE1XKcApL9oBTShN_cEJwvphSClgpIC207oKewduY-D18z0elVCe_LKuunEnZtmXNBsl62jaKNWpCW2GVnQRUAmn54W8Up1fM6_Plp2dxAcmeTBe2P97cj-sO_tF1NNyTRYjQ6RYGRgrPE5tsvkOxw9B_xLfjJgnOc1fNpB8XJ_vTLI3uowwPI0kzQBwO946bGL7EONcXT9fr_KiQwAdRrASvRip1Z2ZdQPJvbUMIQfWeguYFYi1FgA"
+    },
+    {
+      "position": 17,
+      "title": "Complejo Del Barranco",
+      "place_id": "ChIJ1a9nxSycdJURXXoZV1IOlPI",
+      "data_id": "0x95749c2cc567afd5:0xf2940e5257197a5d",
+      "data_cid": "17479611800543132253",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749c2cc567afd5%3A0xf2940e5257197a5d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749c2cc567afd5%3A0xf2940e5257197a5d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5888376,
+        "longitude": -54.1285441
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ1a9nxSycdJURXXoZV1IOlPI",
+      "provider_id": "/g/11b73lsbsm",
+      "rating": 4.4,
+      "reviews": 463,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero"
+      ],
+      "address": "Turquesa esq, 27000 La Pedrera, Departamento de Rocha",
+      "country": "Uruguay",
+      "phone": "093 540 478",
+      "description": "Hotel tranquilo con piscina y barbacoas. Propiedad informal con dormitorios con muebles sencillos, piscina al aire libre, terraza y área de barbacoa.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE3Z4yJTp_3fjrjR8QIaRXQ8d5ZGZSQriFWYi9SVaPEjJjN9N32s2YXfHkfrJul1_-z1nwBx-cKdHa-9JCOPM8XfBgsx0ZqyAG55OMQ7aKExjg25rRMUD_wPXib3yhyhijH2mfHIeqAbvN3wBW1B6iMBarKzJ1n9tO8eLEgQzlQeUtjSX6tnCQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/N-DTlHicHcRLcoIwAADQE0V-YqEzXYBSEQQM1IpsGISQkGLAEMvnpj1Jt53pW7yfXyJEP7xKUku0Fe463KLngHjZMYGYWJXdXcL9AHreTbNkHav1jjhatp69jz7XasppbMBDEafQqPRsnyWQN--Xa2Mmn8XJoR4NzVBTB_Wa1u5Xzb1nq-RgUdhoT6D0K7cApreNToGR1jYeJjl7zNZe16MAvhS-M1Gs6jwOzrt8PKXNTZvJTBrqqvfaPaCHdfsOtdG-KPamCeyC-4unMFNEBjo6GC4tRGdBk3Qj2Ba-jYosy4D8XwL2BwhAVLA"
+    },
+    {
+      "position": 18,
+      "title": "Piedra del Franciscano",
+      "place_id": "ChIJkcJyGYpBc5URZflDbU5Zw-Y",
+      "data_id": "0x9573418a1972c291:0xe6c3594e6d43f965",
+      "data_cid": "16628232442557495653",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9573418a1972c291%3A0xe6c3594e6d43f965&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9573418a1972c291%3A0xe6c3594e6d43f965&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.360350499999996,
+        "longitude": -53.773447999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkcJyGYpBc5URZflDbU5Zw-Y",
+      "provider_id": "/g/11nx39q2tm",
+      "rating": 4.9,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "J6QG+VJ3, 27200 Castillos, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-hZh-jsmApWY_eXrAneSykbxHccRJmcmyXOwJydXuFVvNMTGYs6VGBnjYlpF4KmyDXejWFA8geD563RxS43uZMbkwkroVUm4HqZDAPjIa0Tw7BTvr6t5u1PpSB9sulggOXXU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/59fCt3icHcTbboIwAADQL6pguOiW-FBCEDVOAgiFl2V2TRvobbQV-UH_wb8x2Xk4ryezVptPz-MsWFGlKCfOkAkraYm0K6yER7UB2ADjwbws6pYD1jMwGAF1230TNEFJqmW8PXKMy6PAYkGX-bj8Ipc1969zve9M3OwTOXRcZ-FJLCkiQ5vBLSVpFAflowoD159v4zxOqrmKMP_rU1gMhx-_njdJfZ9iG7l1oavkwzhO6QWh625e-74P2P8YyDfNykXc"
+    },
+    {
+      "position": 19,
+      "title": "Parque Nacional Cabo Polonio",
+      "place_id": "ChIJFSDPNvJBc5URmq4nDyTt_hc",
+      "data_id": "0x957341f236cf2015:0x17feed240f27ae9a",
+      "data_cid": "1729080046085713562",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957341f236cf2015%3A0x17feed240f27ae9a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957341f236cf2015%3A0x17feed240f27ae9a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3867885,
+        "longitude": -53.813765599999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFSDPNvJBc5URmq4nDyTt_hc",
+      "provider_id": "/g/11b6svx4g7",
+      "rating": 4.8,
+      "reviews": 3859,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque nacional"
+      ],
+      "address": "J57P+7FQ, 27202 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlB88zSfe5-Y6ax1Nkpa_HTcWjBIVP-CdO5bOkZwOyMZeg3iNMp7rlO3gv1MTlsoGXAAmT6F8bls5aCPERSo5GavBnbvMfwxfPRlSBgAIbYoZgkOSe74HoaaoLLCrSI7sdGDZ5K=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Oe9mS3icHcRNjoIwGADQE1UgWCEmswBUIIollPjDxpRailL5CGVA54KewdtM4lu8z7sehk4vDUPV9kwCSCV-teg5tINohxmHhyE7jbhG2vCiLM2PynfdP1oJjM4L9rT2TccuUc6Pdz8-pCi4ElySppjIKymEtG_7pHN6RWw5WkmuNIQnz3vki41bKo1ZkK4zCjhko9-WY1JNzyrNFPWlF5dnKGRDqHDmETAGu13Q09jR13BV4O3PZJmmiervHLX_RblEfg"
+    },
+    {
+      "position": 20,
+      "title": "Mirador y Pasarela Los Botes",
+      "place_id": "ChIJtyufPOubdJURKdHPYzfUfjA",
+      "data_id": "0x95749beb3c9f2bb7:0x307ed43763cfd129",
+      "data_cid": "3494463695248937257",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749beb3c9f2bb7%3A0x307ed43763cfd129&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749beb3c9f2bb7%3A0x307ed43763cfd129&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6619337,
+        "longitude": -54.1752858
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJtyufPOubdJURKdHPYzfUfjA",
+      "provider_id": "/g/11t75t7r5r",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "8RQF+6VG, Tres Marías. La Paloma. Rocha ha, La Paloma",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlhwEvv_rrzy87EybK4l_sE_HI65GV8WUVvH4P-0WL8OeX5J30QwrOxH8hHLyby3QDpK3A7pwngEDsHzF6Ix-gqZxBsKz_Koec2mbs5pY1043RKngDnashD7Su3BGcOyAuP-yqCfQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/m9ontHicHcTbboIwGADgJ6rUFYQs8QIHs64mgCe23ZDRdO0FtpWfU3lDH8G3MfG7-B531XUW3j2vUWQhjZGN6EG03OhO6G7BzdWTFhAHBF5MD_mpbNSYDkPVtrOLwtTVzG8qSCu6WwXbS1SeLwP1c4TLfZSJ7-CL4GJss4lGiu5d7UiRWEbi0I5apgnQ-XO1m5C8_U4bYHPFjOBv1xoC-7PEPjkwLRP9ByoJjz3ZbHnm4j5H7vbxX6zHJcYYqdcc6SfZQET-"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+La+Pedrera+Uruguay&start=20&type=search"
+  }
+}

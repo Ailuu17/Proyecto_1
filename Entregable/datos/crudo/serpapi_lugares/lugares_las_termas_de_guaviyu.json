@@ -1,0 +1,727 @@
+{
+  "search_metadata": {
+    "id": "6aa95f1dfd81c85a78faca21",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5uDOIuONDy5NBTFg3Oqmf6lZbZmgkuYYHC3ux18CNmo/6aa95f1dfd81c85a78faca21.json",
+    "markdown_endpoint": "https://serpapi.com/searches/5uDOIuONDy5NBTFg3Oqmf6lZbZmgkuYYHC3ux18CNmo/6aa95f1dfd81c85a78faca21.md",
+    "created_at": "2026-09-15 15:07:09 UTC",
+    "processed_at": "2026-09-15 15:07:09 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Las+Termas+de+Guaviy%C3%BA+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/5uDOIuONDy5NBTFg3Oqmf6lZbZmgkuYYHC3ux18CNmo/6aa95f1dfd81c85a78faca21.html",
+    "prettify_html_file": "https://serpapi.com/searches/5uDOIuONDy5NBTFg3Oqmf6lZbZmgkuYYHC3ux18CNmo/6aa95f1dfd81c85a78faca21.prettify",
+    "total_time_taken": 1.04
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Las Termas de Guaviyú Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Las Termas de Guaviyú Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Centro Termal Guaviyú",
+      "place_id": "ChIJ26j0YcRprpURPu0o4tQj0yc",
+      "data_id": "0x95ae69c461f4a8db:0x27d323d4e228ed3e",
+      "data_cid": "2869676784799509822",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69c461f4a8db%3A0x27d323d4e228ed3e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69c461f4a8db%3A0x27d323d4e228ed3e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8416271,
+        "longitude": -57.8864707
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ26j0YcRprpURPu0o4tQj0yc",
+      "provider_id": "/g/1w347sxp",
+      "rating": 4.3,
+      "reviews": 4021,
+      "unclaimed_listing": true,
+      "type": "Parque acuático",
+      "types": [
+        "Parque acuático"
+      ],
+      "address": "5457+8CR, 60200 Quebracho, Departamento de Paysandú",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 11 p. m.",
+      "hours": "Abierto · Cierra a las 11 p. m.",
+      "operating_hours": {
+        "martes": "7 a. m.–11 p. m.",
+        "miércoles": "7 a. m.–11 p. m.",
+        "jueves": "7 a. m.–11 p. m.",
+        "viernes": "7 a. m.–11 p. m.",
+        "sábado": "7 a. m.–11 p. m.",
+        "domingo": "7 a. m.–11 p. m.",
+        "lunes": "7 a. m.–11 p. m."
+      },
+      "phone": "4755 2023",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_PC0Fxpz9fDd2ZMoHjwozuTuh8376KFnOmKIGBJ4HR5IpZ7p97y0KLxkmXlV78bxmMAfuJiLZ7u6Pe6rS3RhrUWKQXcJgfBbwyxDLp8ijttk2gTfrUfQCoCnLuRR4Ap2TC_pl4w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oN2X-HicHcRdDoIgAADgE5mkJtbWg9nK1JaR_cyXtkigVGAC07phR-g2bX0P3_fDtJZqZtsNc0dUCNpURlUdFlxXXI-waG0qlYWVpewwRnlxrq95BFaDfE_J8u6UWxE_e_E2hWGBC_10xXdtulkvEi9Gk40soZzCF0izoW4vzQkGt6HdhsQkj6yExs8rvzu4iHXHc7q_4ISSxa1_DctMBo-n1rVDC9IdyT4SEc8MQl4onSK6ysbr5_0YAGCx_9jiP_H0RcU"
+    },
+    {
+      "position": 2,
+      "title": "Saladero Guaviyú",
+      "place_id": "ChIJNRErEOUSrpURsMeGsLufiQ4",
+      "data_id": "0x95ae12e5102b1135:0xe899fbbb086c7b0",
+      "data_cid": "1047544016809674672",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae12e5102b1135%3A0xe899fbbb086c7b0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae12e5102b1135%3A0xe899fbbb086c7b0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.766288,
+        "longitude": -58.039195
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJNRErEOUSrpURsMeGsLufiQ4",
+      "provider_id": "/g/11bzync26b",
+      "rating": 4.3,
+      "reviews": 307,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "Parque Saladero Guaviyu, Unnamed Rd,, 60200 Departamento de Paysandú",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk9JMcxmJsBc_iO6YcWg7Dgk9w15iSbH6Ysji41KQz9i_CW1RePby_UvTI_5pkWeCfPLm4Jv3gzo42fVI3D6Qali_Jmuqce6CHQIh0AaIfvbOSHjRL6WJftY6qwTwzSK-72nTDf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9DAMq3icHcRLjoIwAADQE1VAsIZJXDiwgKKRn9OwaqRpS_kVbYWRC84Z5jYmvsX7_2uMmfSXZfWNuxFKiZ49NXtQNRo2mg1VgyUmDagG2jpGeVrizkdn-jsg_U2JvMCKYrEPRecvzk4WdQQr3UrPSbLVlyTATs7S-kWucxmT3dRhFvD0NHhodsWqvC3_id0QZrdeEjQ875TBIMrixj7eYj7XlyJq8xPEiJsK3pdyWYsE7LdjGfLD4ti2DZrPFIxvU7FEaA"
+    },
+    {
+      "position": 3,
+      "title": "TERMAS DE GUAVIYU",
+      "place_id": "ChIJf8-nYchprpURjIBgFoKwBlg",
+      "data_id": "0x95ae69c861a7cf7f:0x5806b0821660808c",
+      "data_cid": "6342951197965582476",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69c861a7cf7f%3A0x5806b0821660808c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69c861a7cf7f%3A0x5806b0821660808c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8411555,
+        "longitude": -57.887123499999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJf8-nYchprpURjIBgFoKwBlg",
+      "provider_id": "/g/11s0d3n8zq",
+      "rating": 4.5,
+      "reviews": 42,
+      "unclaimed_listing": true,
+      "type": "Parque infantil",
+      "types": [
+        "Parque infantil"
+      ],
+      "address": "Unnamed Road, 60200, 60200 Departamento de Paysandú",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4VoFOGTQndYQQjVAvNEGpIfnvW8yTpqUj29fApNNKVxCvWMOH0oyjv7t_Y86Gr-ON7Hox4j-9tbsUsuRYiAv1raXd4Ecuid7k-db78xR9OhpB_UAhXwBIs5hhsFvwrqx_kWhClQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_YDwmHicHcRLDoIwFADAE1VQUcDERTUKxghC-K6IFqQitpVXCh7RI3gbE2cx3w-VUsBK01o6n9Sc123VQ9URzmTF5ITwp1YLQAQQaNgNz1HKjITvfScKWJkHQZNg5e0ccbgxlVrvSLziZmbfsPC8YzJuVXryXZ2_G2XKIreWTod8z3T5aDTIlleIoQ_zO1bT7pKVxo7099J8oPJqWmNo-1RsihjTbNgcYEEp7NXQvcbikdJtG6yHqa7riP4niP0AM01GnA"
+    },
+    {
+      "position": 4,
+      "title": "Termas de Guaviyú",
+      "place_id": "ChIJP_9La8RprpURCd20pyebyaA",
+      "data_id": "0x95ae69c46b4bff3f:0xa0c99b27a7b4dd09",
+      "data_cid": "11585962111006989577",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69c46b4bff3f%3A0xa0c99b27a7b4dd09&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69c46b4bff3f%3A0xa0c99b27a7b4dd09&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8404469,
+        "longitude": -57.8867215
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJP_9La8RprpURCd20pyebyaA",
+      "provider_id": "/g/1229ck49",
+      "rating": 4.3,
+      "reviews": 1301,
+      "type": "Aguas termales",
+      "types": [
+        "Aguas termales"
+      ],
+      "address": "60200 Termas de Guaviyu, Departamento de Paysandú",
+      "country": "Uruguay",
+      "description": "Complejo recreativo de aguas termales. Popular complejo de aguas termales con áreas de pesca recreativa, paseos en bote, ciclismo y caminatas.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmksEH1d4o0-2mJr7BAtd_Wmh_ruMoMf7Jl24Hb5V5Cmb8P0WrUIrKUuegXhujp_3nGUaxzPbxPLnyCbv3zbGDKljh-oUCbmn5y0m2BEFxPxbTEr6ILKajcJHcFMWsQfQubcEw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9WVdUnicHcRJDoIwAADAFxUqiBgTD4rsklQj4o3YCjRIW9JF0Qf6B39j4hzm-6Faj2pl2wN1rU6IbmiMaiQRXDdcW0QwuxsVIAooe5Mc0alidxUms9tcQOCwTPrbjb7VFaO1NIUoWj8bnHmCvbMXMLxEsJJlKvPSNN2Fmn6sXR6X1-mN8IT2_BXgh_vG8S4fegpEGWDGvRdkzjaMJjThUygX6T6_9iRLSFRU6tAeDCbhc_2cQQgB_U8A_wE2FkUb"
+    },
+    {
+      "position": 5,
+      "title": "Cartel de Terma Guaviyu",
+      "place_id": "ChIJdf0D9VVprpURdSc5QyrHats",
+      "data_id": "0x95ae6955f503fd75:0xdb6ac72a43392775",
+      "data_cid": "15810668426167920501",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae6955f503fd75%3A0xdb6ac72a43392775&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae6955f503fd75%3A0xdb6ac72a43392775&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.841233,
+        "longitude": -57.885761599999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJdf0D9VVprpURdSc5QyrHats",
+      "provider_id": "/g/11y21dltdh",
+      "rating": 4.8,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "5457+GM5, 60200 Termas de Guaviyu, Departamento de Paysandú",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkuNVMoq8Wx7KErTiZB8knYzir2DpH5GE6fTxTcO2sQEK-JdOZ_ZC0JRs14a1kZy-DfSfn-nZhchFvgZW2Of4EB0q-9PE0L0yX5tA7A85FKP9oG22odjYkAlpuA9kY-H3y_PqLuyA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/03sD13icHcRRboIwGADgE_1Sqkww2UPVKhEVpmRIX8xSgWqxBVo22Q09wm5jsu_h-3sKaxszc5xajEeV1lVd9KbouFa2UHbE9d2pGgPcgHFIeEjSTPb7z51u_ewxjWiXXtnclyr_vXZ42YTemr6V6SPlMTYfNILNJWZntkCbg3EnX65kAyzLY6lAMcHF6rtiGY7LCZ2jFoKEoi0aTp4lU-J7qygJ9BpjfbnlktRNTwKZQzgezkm77Qfy_uMihED8z0G9AHhbQ4M"
+    },
+    {
+      "position": 6,
+      "title": "Camping Termas de Guaviyú",
+      "place_id": "ChIJbWhQ6MRprpUR2w85zUj0AyU",
+      "data_id": "0x95ae69c4e850686d:0x2503f448cd390fdb",
+      "data_cid": "2667243997851357147",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69c4e850686d%3A0x2503f448cd390fdb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69c4e850686d%3A0x2503f448cd390fdb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8426084,
+        "longitude": -57.8858618
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJbWhQ6MRprpUR2w85zUj0AyU",
+      "provider_id": "/g/11dxhg9thk",
+      "rating": 4.4,
+      "reviews": 332,
+      "unclaimed_listing": true,
+      "type": "Camping",
+      "types": [
+        "Camping"
+      ],
+      "address": "5447+XM2, 60200 Quebracho, Departamento de Paysandú",
+      "country": "Uruguay",
+      "phone": "4755 2049",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktx2FJjaJYSoeF6G5nEhzv7Z-aM8lwlDj34H8yW21VzDsw5Jdj5hdCGxi_xBT7_iLOuZqyrls--5fT1KRjtzl4xygsGQQZUANH3ZICbSnSBH6KNFyZ-TgaRIZQJ6Qcx9IMciw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D6vwkXicHcRJDoIwAADAF1VABJfEg4psrixq7IVgxRasrdoqhQf6B39j4hzm-yFS3sVI0ygxO5hzTIuXKJ6IM1kw2UH8puG7AEgAoU38eJserlJ13bDKw2PCC9f2LDYn7bsPQb4a0Jo6ldnzB82ha-xbR9RWeK4scp55qszUNO1n5XLzgo_mSQUA1iU1FnElW9pTDRZeFMHdZO2bMJidEpZMfXuxdhsIUpzHAYxCO0JqGKxQWY9rQ9d1QP4jwH4Z2kQm"
+    },
+    {
+      "position": 7,
+      "title": "Complejo La Natural, Termas de Guaviyú",
+      "place_id": "ChIJCznxgr9prpURLA4Z-owG5cM",
+      "data_id": "0x95ae69bf82f1390b:0xc3e5068cfa190e2c",
+      "data_cid": "14115695809623821868",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69bf82f1390b%3A0xc3e5068cfa190e2c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69bf82f1390b%3A0xc3e5068cfa190e2c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8347023,
+        "longitude": -57.8908116
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJCznxgr9prpURLA4Z-owG5cM",
+      "provider_id": "/g/11g69dnpgf",
+      "rating": 4.4,
+      "reviews": 69,
+      "type": "Edificio de apartamentos",
+      "types": [
+        "Edificio de apartamentos",
+        "Hotel"
+      ],
+      "address": "60200 Termas de Guaviyu, Departamento de Paysandú",
+      "country": "Uruguay",
+      "phone": "092 147 977",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkE_OVpM8Hv6p3__vLS594ftL2Af4p8d7EciqbnJo1qStuPNI-W5gM5h75yGBKhBXLgrH2GXo57ltigh3V_VfnUQsxJG-aRn6hwLWI5na5A9bNUBNikXPrZDufmrB9CcH-i6jB_EVDhiSlp=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0ZD1BHicHcTBboIwAADQL6qgWBCTHagSwCEyUSC7NNJB24ltpUW3r_Ts35j4Du_5YMYovbSsnjkTKiXt21G3A5HCtMJMiLxYVGlANNBWEO_zQ3UO8a5U20V8c5WD8S0toD_vTDoLurla_Hgh4ddGbOT0WpgxzxJQQbqFzIP_EfpkqE7pEM-iWkKvN5wyp8RlJ45f-m8TgdNeuOyeVgkUJxj4TXZEGT_X-fC9HrvLgPwViQF3fxEOyzXjRa8-7lPbtgF7T4B4ATwnRoU"
+    },
+    {
+      "position": 8,
+      "title": "Cabañas Tacuabé",
+      "place_id": "ChIJP_9La8RprpURtwqDmQATQ2M",
+      "data_id": "0x95ae69c46b4bff3f:0x6343130099830ab7",
+      "data_cid": "7152581526490909367",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69c46b4bff3f%3A0x6343130099830ab7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69c46b4bff3f%3A0x6343130099830ab7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8390888,
+        "longitude": -57.8895968
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJP_9La8RprpURtwqDmQATQ2M",
+      "provider_id": "/g/11b_0f4lbw",
+      "rating": 4.3,
+      "reviews": 937,
+      "unclaimed_listing": true,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero"
+      ],
+      "address": "5466+956, TERMAS DE GUAVIYU, 60200 Quebracho, Departamento de Paysandú",
+      "country": "Uruguay",
+      "phone": "4755 2478",
+      "website": "http://www.complejotacuabe.com/",
+      "description": "Cabañas informales con Wi-Fi gratuito. Conjunto de cabañas tranquilas con cocina y área para barbacoas, además de Wi-Fi y estacionamiento gratuitos.",
+      "amenities": [
+        "Piscina",
+        "Estacionamiento gratuito",
+        "Wi-Fi gratis",
+        "Aire acondicionado"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlr1jCoFp-b3rwbvUHBK-ZAf8pz-md3DYghRH0V77_UAO_0LPLEK8x4q5KkWAQduWS9ehWW5A9sohLOckSTtnm95pX1a7N6s1SgEtugVahp1idlbUiFUjIIEkY16poW7vZ3UzLUEFD0jH8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/f1RXvXicHcTbDoIgAADQLyJhZmpbD1Q6m66bEdVLSzTIGyRYrY_svb9p6zyc70cYo_TYsmphD7iUvC56XXRMtqZozYDJxuJKA6aBtnC0Xe9o3aFyJkMFMrt7Zg8STWNwwldPvUGT2_MjF9sI7l33TPDqDJN1EsTea3h34oriTd7T1C8EpQ72tRTJilXpzrSN76gDurjLkUYpD0zP9xeh0C2vM3ILSblYBNURjZSk7uNkk3dCgnAOy8ibPBGEEIj_DLQ_68RFzg"
+    },
+    {
+      "position": 9,
+      "title": "Cabañas Guaviyu",
+      "place_id": "ChIJZ6_V5cBprpUR99o1WJJ4Rgw",
+      "data_id": "0x95ae69c0e5d5af67:0xc4678925835daf7",
+      "data_cid": "884526946765363959",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69c0e5d5af67%3A0xc4678925835daf7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69c0e5d5af67%3A0xc4678925835daf7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8369155,
+        "longitude": -57.8896374
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZ6_V5cBprpUR99o1WJJ4Rgw",
+      "provider_id": "/g/11clzr2h0t",
+      "rating": 4.1,
+      "reviews": 739,
+      "unclaimed_listing": true,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero"
+      ],
+      "address": "5476+64Q, 60200 Quebracho, Departamento de Paysandú",
+      "country": "Uruguay",
+      "phone": "098 300 200",
+      "amenities": [
+        "Aire acondicionado",
+        "Desayuno"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWncBSAnFRxsziBOozwz-sast7vS0Ju08_qUi08trcgNsOfldWRyouywDwq4nJW4j89V3AKmkpI-WKrEkgwC6E7IkK3Hhkvjp8w55blU2WI3EXYerybEXxBLndW7rbKO18bZQzUo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TgwYQ3icHcRNcoIwGADQE0VikRI74wIsHYGOVCwNdtMpkQb5SSBfMMIFPUNv05m-xfu9V1r38GRZbWUvuJS8LUcoFZNCl0IvmOws3gNigMDydunbOxXMP3riJb3BfPETOZsZwTdo93rE0YjJ15BdMNGK8T0kP-2ZppMcJ_NshpWI6Kom6w_bi7umDxGNVdBws30M3LCJ7V3VXOueGMcp2uyBhnaQn0o1FUF-81_FmbqqiJMlKT4PcyY3ZokxRtX_DIk_B_1F9g"
+    },
+    {
+      "position": 10,
+      "title": "Atardeceres Del Guaviyú, Alojamientos en Termas de Guaviyú",
+      "place_id": "ChIJS4KSKwBprpURCjRjgqZrdGQ",
+      "data_id": "0x95ae69002b92824b:0x64746ba68263340a",
+      "data_cid": "7238528863987512330",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69002b92824b%3A0x64746ba68263340a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69002b92824b%3A0x64746ba68263340a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8342429,
+        "longitude": -57.889621
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJS4KSKwBprpURCjRjgqZrdGQ",
+      "provider_id": "/g/11zb71fwzj",
+      "rating": 5,
+      "reviews": 6,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero",
+        "Alquiler de apartamento vacacional"
+      ],
+      "address": "5485+8R3, 60200 Termas de Guaviyu, Departamento de Paysandú",
+      "country": "Uruguay",
+      "phone": "099 774 788",
+      "website": "https://wa.me/59899866127",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkNDu42UVPodHuPEOJBOJNOVbt6rWiIfYszHZCmxxoYngu7Z24LsFammqsk9XsEz3sN1PYie3_hz1wbpKU2RINi4MCfFbK9I2nbPq3qBjDfjVHQGDdowtJ1fXJFzIKlupVguzR5i16JByAP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qbKcKHicHcTBboIwGADgJ0IooIsmO4jIoEzoiKB4MYJQUGjBvw2uL7nz3sbE7_D9_zVCDLDS9a6xZpRz2lUSqkfJmaiYmJW81-kAWgka6Gs_IfvDPXKlbaYZ4Vdfkm2MnRhHcVaIxePQBnUOyj9t-ueT54zKj5Npf4N36fsR7ssjbJUFESJ5W1nnRqGpGMLUTIKotXeb2ivCZWCygozW6Nzc-pb5P1_ulU8Co_qIPRWEnRwyKlUyb9ECO79r8jkhwzC05n2psRfnD0gA"
+    },
+    {
+      "position": 11,
+      "title": "Meseta de Artigas",
+      "place_id": "ChIJWefxcep0rpURK2VQRTPWbG4",
+      "data_id": "0x95ae74ea71f1e759:0x6e6cd6334550652b",
+      "data_cid": "7956970157351396651",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae74ea71f1e759%3A0x6e6cd6334550652b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae74ea71f1e759%3A0x6e6cd6334550652b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.613079799999998,
+        "longitude": -57.9837029
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJWefxcep0rpURK2VQRTPWbG4",
+      "provider_id": "/g/1n36gc_md",
+      "rating": 4.6,
+      "reviews": 1649,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de interés histórico"
+      ],
+      "address": "500000, Chapicuy, Departamento de Paysandú",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUmIex8c50YEeUPR29bBEi81Wr1GZ0QeGm7pT4JnT9TF2rCSjK7Nh8uPUcMIrW3lejcRqvF8r3hA8o08QSFSN3-ajavBWIAWPMUN9xjVcdui9SY_qIcGF4C6-I2Lz4685OPFfC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yZfm-HicHcTbToMwGADgJ-oop62Y7ALIilWHHQebeWPwt9IRoKyFbfEF9wy-jYnfxfd7V_M82QfH6ZW_arVue7lYaUCPsxznFejBaSeLwCLrxI8Fr0RfD0zeCIT4uJM1L7zoM9mdiCuMm73jg8yGzVQFT2MVVdQzadk9b3JFFl7Dnhnh97KD4nyhxPgqJhqTQ0nL3EdN11wSwWLB93Ue3bo3-FpOUXn8ODPIaJCuEfNefoI1CV85_U63VxdjjNT_gMY_hBBBsw"
+    },
+    {
+      "position": 12,
+      "title": "Isla Guaviyú",
+      "place_id": "ChIJKb27QgATrpURtUUcSL2WCJY",
+      "data_id": "0x95ae130042bbbd29:0x960896bd481c45b5",
+      "data_cid": "10811056645205673397",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae130042bbbd29%3A0x960896bd481c45b5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae130042bbbd29%3A0x960896bd481c45b5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.7387986,
+        "longitude": -58.0336888
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJKb27QgATrpURtUUcSL2WCJY",
+      "provider_id": "/g/11nqlss_28",
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "7X68+FGM, Departamento de Paysandú",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWne-XJpoiftdzju_xstz7S3uolEdEGM2LDsjhQac-vR83We2TlNXThVI64NLpayOqdAzi66T3Pv_x5qRoptrWFM33PWgWmbXbRGVRBMXu1PZUVwmxL7ODydHc7g0armVLgbUN5wgGx0kCA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NQLlVXicHcRLjoIwAADQE1WqVTAmLhg_OAYQO0iJGwOl06pAKy2CHNL93MZk3uL9vYUxSi8sqxRoxKXkJWs1a6isDavNiMrK4koDqoG23B2OYlIzkO6VvP6aYri1l16bwflBrSw3xcYLJv5a38Qxo-CJ54iwSVyGaSySb3sa-ip7HR6FO1xtO0bR89LPHlgq05BtgFBEOKnyNMdegr-CtB1H51PSVb3vHNavYkcdDrOmSnyen8JZx70e3lfushtDCIH4n4L6A-_bSCE"
+    },
+    {
+      "position": 13,
+      "title": "CIELO TERMAL",
+      "place_id": "ChIJi7m84e5prpUR68_Cgid-2MA",
+      "data_id": "0x95ae69eee1bcb98b:0xc0d87e2782c2cfeb",
+      "data_cid": "13895995358414295019",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69eee1bcb98b%3A0xc0d87e2782c2cfeb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69eee1bcb98b%3A0xc0d87e2782c2cfeb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.8364184,
+        "longitude": -57.890409
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJi7m84e5prpUR68_Cgid-2MA",
+      "provider_id": "/g/11vhvxtrhw",
+      "rating": 4.9,
+      "reviews": 21,
+      "type": "Apartamento turístico",
+      "types": [
+        "Apartamento turístico"
+      ],
+      "address": "Calle Los Pinos esquina, calle Anacahuita S/N, 60000 Termas de Guaviyu, Departamento de Paysandú",
+      "country": "Uruguay",
+      "phone": "098 515 584",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknUBx_OyglbZTnoeabUZeRiC-y9sNkH7tXjk4A_g0sHJyuWqZ98CIBo7f29TAW46mKCkohvYuXC8JCfi99ZfYO3Z3nI9vyAiHws_Vne9E9aO4JXKNPVUJMCPq0o6KhSXXjbU3MHg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7Mu4vHicHcRRDoIgAADQE5GULqOtD2NtqCtdaRI_Lh2CaVCBlUfsCN2mrffxvh9p7c0sHaeX7kRoLXo-GP6otbJc2Umtr464GVAbYJyA7NOs6FS-fpfJKPqKZUrzc5Uzvm8xGJHZdcS39NJ5QSmgIdE4FHeGFjhca7-ZoSwovPk1xp2Wz9NA8SLCTYsQa06Jy1wVoucYtORlyqPiaIPOiRfReJce82iL0zvU81geKL1UubslYvWaQgiB_F8D9QMbIUTy"
+    },
+    {
+      "position": 14,
+      "title": "Termas de San Nicanor",
+      "place_id": "ChIJ1_fXW7V5rpURZHzQv6DAKXk",
+      "data_id": "0x95ae79b55bd7f7d7:0x7929c0a0bfd07c64",
+      "data_cid": "8730721149279829092",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae79b55bd7f7d7%3A0x7929c0a0bfd07c64&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae79b55bd7f7d7%3A0x7929c0a0bfd07c64&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.534687499999997,
+        "longitude": -57.800062499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ1_fXW7V5rpURZHzQv6DAKXk",
+      "provider_id": "/g/120yl5df",
+      "rating": 4.4,
+      "reviews": 183,
+      "type": "Piscinas termales",
+      "types": [
+        "Piscinas termales"
+      ],
+      "address": "55000 Daymán, Departamento de Paysandú",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–10 p. m.",
+        "miércoles": "10 a. m.–10 p. m.",
+        "jueves": "10 a. m.–10 p. m.",
+        "viernes": "10 a. m.–10 p. m.",
+        "sábado": "10 a. m.–10 p. m.",
+        "domingo": "10 a. m.–10 p. m.",
+        "lunes": "10 a. m.–10 p. m."
+      },
+      "phone": "4730 2209",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLNXUk5z8wHw1kExp4vKgVEbeIrRzUlxhSNVQrpXOG2Kvj1AscCxIYoW8PqqSVzwams2fY3FTxEX8YuQJI4lfACxko_xm86CCdjSuy4DuAEKQCapwjZqhNF0i1JOwtdDHNPDBd=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/VDMoO3icHcRdEoFAAADgE6UipjHjIVuUTEpJeTFsafW3W7vZ1QWdwW3M-B6-7wcxRuhSlms0mxQYF3U-0LyHuGV5yyYQN3JBqASpRGXDPvrRudl7yamajzq3uVpZgmgvt4ite-70x_FUCxR6cdCT5LCduq9SNSgEwknxWfe7LoxHfmvo9JHONpGwEj0dgp2j1Q8DiApfRaMvAMjKcHhr5mBYbgBuhJeXDnkb5anuDpxlpu355jpbcVVRFAn9h1L7A-yRRd0"
+    },
+    {
+      "position": 15,
+      "title": "Gruta del Padre Pío",
+      "place_id": "ChIJQe08tRvZrZURdWboEjjG-pk",
+      "data_id": "0x95add91bb53ced41:0x99fac63812e86675",
+      "data_cid": "11095398576118326901",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add91bb53ced41%3A0x99fac63812e86675&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add91bb53ced41%3A0x99fac63812e86675&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.479165799999997,
+        "longitude": -57.8863163
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQe08tRvZrZURdWboEjjG-pk",
+      "provider_id": "/g/11b6b3mpvd",
+      "rating": 4.7,
+      "reviews": 578,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de culto"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "place_of_worship"
+      ],
+      "address": "G4C7+8FM, 50000 Daymán, Departamento de Paysandú",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Más que una atracción turística, es un lugar para sentir tranquilidad.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJvB2HxaW2TfgPHuPT0BQArL7f1vmtbGgVf4M-X38OgchrbEItI28tzxMSAEZiVrHWuYLL8VRpefTeSqFBjzKh38MPrbTmNq5Xl_SONaCN1KCi2uNWLMwczsfaa65vq6I3sX25=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/URvtynicHcTbboIwAADQLyqXMpSY7AGIGyggkwaYLwaaXlCubUHDD_oN_s2SnYfzfnGlRrnT9ZZbGhsG1pJZEoGHXpFeaXjodDZKgCWQuhucU1TcD4sHg2dVQERZGswpMrwfV0Rbai6dqr9ZTj9iUFrOiWEu6n2oQuio9Rln7v7S5CIo5t8ocvLzSCgi2fTl3dYjt5w4FTXqksku22t2Sio_MY9-A-ekiOIHXiWtqo29TJvQkiW0Px-mYRiA_49B_wc_KkRA"
+    },
+    {
+      "position": 16,
+      "title": "Termas del Daymán",
+      "place_id": "ChIJ2WkhSVHZrZURPsPkuYjXoI0",
+      "data_id": "0x95add951492169d9:0x8da0d788b9e4c33e",
+      "data_cid": "10205393737855845182",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95add951492169d9%3A0x8da0d788b9e4c33e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95add951492169d9%3A0x8da0d788b9e4c33e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.458449899999998,
+        "longitude": -57.907766099999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ2WkhSVHZrZURPsPkuYjXoI0",
+      "provider_id": "/g/1q5bm__nj",
+      "rating": 4.5,
+      "reviews": 8364,
+      "unclaimed_listing": true,
+      "type": "Piscinas termales",
+      "types": [
+        "Piscinas termales"
+      ],
+      "address": "km. 487, Ruta 3-General Jose Artigas, Salto, Departamento de Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "8 a. m.–10 p. m.",
+        "miércoles": "8 a. m.–10 p. m.",
+        "jueves": "8 a. m.–10 p. m.",
+        "viernes": "8 a. m.–10 p. m.",
+        "sábado": "8 a. m.–10 p. m.",
+        "domingo": "8 a. m.–10 p. m.",
+        "lunes": "8 a. m.–10 p. m."
+      },
+      "phone": "4736 9711",
+      "website": "http://www.termasdayman.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn7IPYUO4jyIK7zS0-WjLMtTjTiJmQFph0W3ceZMYtB3VuYz6P_E2fGY_M_yC02Z1amFEQcgFyvvBF2EGLUKXe-ehMNOrr-yne1k_QUc7fI3tIKt-egq3Dzvmmj6EpHqhUaAYCe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4rwSDXicHcRLDoIwFADAE1UKNZKYuPADioiCglg3xDTPVrQFacXABT2DtzFxFvP9CGNqPbashyADXlX8AS8NDauUAWUGrJIWrzViGmlrutrHaa7cIKbZblh2Qej2B4zychOZtExva5n4tcA5YXCOqJmR44v2o7jwnOuSFlHRzbFzti_S9xLG_a5tZ77jLTdZeAIEItrumgZ1Cux7kWTMvQbEBKFBwJ9k0bdSliOvXj1FdpnSOUzeNsYYif8MqR8UW0Qy"
+    },
+    {
+      "position": 17,
+      "title": "Parque Aquático Termas de Salto Grande",
+      "place_id": "ChIJEQqqQ7HGrZURAFQobgJ9eTE",
+      "data_id": "0x95adc6b143aa0a11:0x31797d026e285400",
+      "data_cid": "3565018029432001536",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95adc6b143aa0a11%3A0x31797d026e285400&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95adc6b143aa0a11%3A0x31797d026e285400&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.2740971,
+        "longitude": -57.909232599999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJEQqqQ7HGrZURAFQobgJ9eTE",
+      "provider_id": "/g/1z44b6kc6",
+      "rating": 4.2,
+      "reviews": 4296,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque acuático"
+      ],
+      "address": "Parque del Lago s/n, Salto",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "10 a. m.–6 p. m."
+      },
+      "phone": "094 304 420",
+      "website": "http://www.parqueaquatico.com.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdMXMQZrxeW7tsSVOWf04A65YHtBz3gdeLyeY6A7rJUpN4shcset9ItsViA1WLhbJWEDrbVGKvA3VMQuLq5dIdxkTr-IvGl5z2BMZL3rJedNpBcjmEVtfPC2w_Cii58mU4Zv_4wA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/htvvk3icHcRbcoIwFADQFUVQQFtn_AjqKAhWrSbKjzMmkaC8mnsFdIddQnfTGc_H-fvViDWMLSvXTi-tqjRXD1BGVCWqEnuiKqy0BiKAgEWXu82e32V8jLeJ6RQfIXyzL361XTr0Tkv0X04qVfRUpyEdmfBQr13QAhR-Bggso30e6UvI5zNzYYtVQx0Wbx_RjycD2d33hgTNIvdeAz9OIseESq5rX9yKOcPrZjpoz9Ms8z6Kg5s0Z7elk7Zv2zbR7wUp_wEHP0V7"
+    },
+    {
+      "position": 18,
+      "title": "Plazita Termas de Guaviyu",
+      "place_id": "ChIJAbxhUwBprpURaMr7EV6pHow",
+      "data_id": "0x95ae69005361bc01:0x8c1ea95e11fbca68",
+      "data_cid": "10096693636104964712",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69005361bc01%3A0x8c1ea95e11fbca68&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69005361bc01%3A0x8c1ea95e11fbca68&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.835797799999998,
+        "longitude": -57.890381999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJAbxhUwBprpURaMr7EV6pHow",
+      "provider_id": "/g/11nqy7g9s_",
+      "unclaimed_listing": true,
+      "type": "Parque infantil",
+      "types": [
+        "Parque infantil"
+      ],
+      "address": "5475+MRQ, 60200 Termas de Guaviyu, Departamento de Paysandú",
+      "country": "Uruguay"
+    },
+    {
+      "position": 19,
+      "title": "Termas y Parque Acuático del Ayuí",
+      "place_id": "ChIJe0_2q_7ArZURM1znDb-P0QY",
+      "data_id": "0x95adc0feabf64f7b:0x6d18fbf0de75c33",
+      "data_cid": "491331885094886451",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95adc0feabf64f7b%3A0x6d18fbf0de75c33&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95adc0feabf64f7b%3A0x6d18fbf0de75c33&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.2555835,
+        "longitude": -57.956172599999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJe0_2q_7ArZURM1znDb-P0QY",
+      "provider_id": "/g/11c1rvxg37",
+      "rating": 4.5,
+      "reviews": 4107,
+      "type": "Piscinas termales",
+      "types": [
+        "Piscinas termales",
+        "Recinto ferial",
+        "Reserva natural",
+        "Baño exterior",
+        "Piscina al aire libre",
+        "Área de descanso",
+        "Mirador",
+        "Piscina",
+        "Parque acuático"
+      ],
+      "address": "Av. Chico Mendes Paso del Zorro S/N, Lago Salto Grande, E3202 Concordia, Entre Ríos, Argentina",
+      "country": "Argentina",
+      "open_state": "Abierto · Cierra a las 7 p. m.",
+      "hours": "Abierto · Cierra a las 7 p. m.",
+      "operating_hours": {
+        "martes": "9 a. m.–7 p. m.",
+        "miércoles": "9 a. m.–7 p. m.",
+        "jueves": "9 a. m.–7 p. m.",
+        "viernes": "9 a. m.–9 p. m.",
+        "sábado": "9 a. m.–9 p. m.",
+        "domingo": "9 a. m.–9 p. m.",
+        "lunes": "9 a. m.–7 p. m."
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhQ6F0L72BqelQSV61hJmVpSZbFg1KGne_PxPuA-q1g5kp1T9F034TsMWpJIzxJ4R_7iqWk4BZ4XVDbSjyS_5R2dpvzE6ykqfrIG-bsymjvK-aXafEUrOvEK0uOKdNFxOWF_85=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J3eFf3icHcRJDoIwAADAF1VaBVwSDxopCioICMYLAaytshUKCH7QN_gbE-cw3w9rGi4WkpSxyYiWJc1IK0idlEVDimaUlLlEuQCJAEJabR3bC1J2UjHcT8frimQn11cRM3Kfu9cYU2TqBQnt3m5XoEJUSTny5hhOZE8cAm7s3r0hO-H0UQWpvL7KF38Tu8_BDRVnfOPdW1OHtLrXOx3EYsifnQmiS3TXzrXVaSZsLfN2xL0V4HCmLF8IQgjY_wQUP_Z-Q-o"
+    },
+    {
+      "position": 20,
+      "title": "Cabañas La Victoria",
+      "place_id": "ChIJFynOmsBprpURlV4udyTkysM",
+      "data_id": "0x95ae69c09ace2917:0xc3cae424772e5e95",
+      "data_cid": "14108339627960983189",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95ae69c09ace2917%3A0xc3cae424772e5e95&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95ae69c09ace2917%3A0xc3cae424772e5e95&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -31.835586799999998,
+        "longitude": -57.889547199999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFynOmsBprpURlV4udyTkysM",
+      "provider_id": "/g/11bw6833qc",
+      "rating": 4.5,
+      "reviews": 207,
+      "type": "Casa rural",
+      "types": [
+        "Casa rural"
+      ],
+      "address": "Termas de Guaviyu",
+      "country": "Uruguay",
+      "phone": "097 549 050",
+      "website": "https://casitaslavictoria.wixsite.com/guaviyu/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWla-iXxg2aE9_9Q2qeGHPOmM_RiDX0pY1Q9Pulh9uOlVtc_EKh7M66gyQAtXGvFtwgAzwhT_dta9OfJIaZeBRiBseMquSzFOjVjHkyRiX8JmEV4s5JHPRWNwOLB35HbdYcLWyPj=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XCS-n3icHcRLcoIwAADQE0XwW9MZFzCiKYoJqcPHDYMxTaDhYxNEvGDP4G2c8S3e818a0-pPy1JyOhJNIxTvNP9jTW14bUasqSzRasA00JaDKDnGKgdFcheT3IMZDCdXvkUEV0FGi3Vit-k4hKRTEnZYRYZl3k5-BIuFGELHJNvbxvTCefTymF1MDvGP_5WfuEsLV_Pg2n0_NriMSvQ70CJZ-pUXzfTcR4TGhx7v3ekcnS8p28cDKVf92LZtIN8zUL8AgApFKg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Las+Termas+de+Guaviy%C3%BA+Uruguay&start=20&type=search"
+  }
+}

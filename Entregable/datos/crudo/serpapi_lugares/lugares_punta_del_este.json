@@ -1,0 +1,916 @@
+{
+  "search_metadata": {
+    "id": "6aa89956529e4b3ed1b27f4f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4U3DgCZ--IQmcAIAuPZPnkmZIbmDVTLuWcdDSlzTZvY/6aa89956529e4b3ed1b27f4f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4U3DgCZ--IQmcAIAuPZPnkmZIbmDVTLuWcdDSlzTZvY/6aa89956529e4b3ed1b27f4f.md",
+    "created_at": "2026-09-15 01:03:18 UTC",
+    "processed_at": "2026-09-15 01:03:18 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Punta+del+Este+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/4U3DgCZ--IQmcAIAuPZPnkmZIbmDVTLuWcdDSlzTZvY/6aa89956529e4b3ed1b27f4f.html",
+    "prettify_html_file": "https://serpapi.com/searches/4U3DgCZ--IQmcAIAuPZPnkmZIbmDVTLuWcdDSlzTZvY/6aa89956529e4b3ed1b27f4f.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Punta del Este Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Punta del Este Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Plaza Gran Betaña",
+      "place_id": "ChIJ6xKMbngFdZURzpK2xmWhL70",
+      "data_id": "0x957505786e8c12eb:0xbd2fa165c6b692ce",
+      "data_cid": "13632292055571403470",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957505786e8c12eb%3A0xbd2fa165c6b692ce&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957505786e8c12eb%3A0xbd2fa165c6b692ce&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9729218,
+        "longitude": -54.9521622
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ6xKMbngFdZURzpK2xmWhL70",
+      "provider_id": "/g/11b7ckfj_h",
+      "rating": 4.5,
+      "reviews": 3149,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "22GX+R4P, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlovK1oLhiPhbNpQB90tHWv3g6iIpZQUxuCQ7bLmQEeytfX1ZRyxYbuHnoh6r_FyNEU_432bKqlVmU2HCO6i-a8qNP1ZNNLyNP3x9YnkQz30v1pkM-3Mb1OrnWzIV5OAO5_-uAR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KXG56XicHcRdDoIgAADgE5EQZT9bD9ZqtgzFZZYvLpyJS4EETbtgZ-g2bX0P3_fDjVF6aVkVx6NCyqLKW503mRQmF2aUydoqlAaZBtpy3DA4xZXsDkh6vAw4I4quF9C4cYcLu9yrhEZ9u6Ez5tV0mw_mfkFJOPRX1rpCcrtJdwPZRukEj9nhWZ3raOxufLsEt_mTBCghxBtIgPvFVTzoG8MOqccR4CNDfiPi9_489R1_moLWCVcvBCEE_H8GxA-GHUQp"
+    },
+    {
+      "position": 2,
+      "title": "Parque de diversiones Zeppelines Park",
+      "place_id": "ChIJZ5CGGjkFdZUR40kZyw4mGsY",
+      "data_id": "0x957505391a869067:0xc61a260ecb1949e3",
+      "data_cid": "14274763813883038179",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957505391a869067%3A0xc61a260ecb1949e3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957505391a869067%3A0xc61a260ecb1949e3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9432975,
+        "longitude": -54.936831999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZ5CGGjkFdZUR40kZyw4mGsY",
+      "provider_id": "/g/11f3nl42mf",
+      "rating": 4,
+      "reviews": 150,
+      "type": "Parque de atracciones",
+      "types": [
+        "Parque de atracciones",
+        "Centro de ocio",
+        "Parque"
+      ],
+      "address": "Pascual Gattas y, 20001 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 12 a. m.",
+      "hours": "Abierto · Cierra a las 12 a. m.",
+      "operating_hours": {
+        "lunes": "12 a. m.–12 p. m., 2 p. m.–12 a. m.",
+        "martes": "2 p. m.–12 a. m.",
+        "miércoles": "2 p. m.–12 a. m.",
+        "jueves": "2 p. m.–12 a. m.",
+        "viernes": "2 p. m.–12 a. m.",
+        "sábado": "2 p. m.–12 a. m.",
+        "domingo": "2 p. m.–12 a. m."
+      },
+      "phone": "099 702 519",
+      "website": "http://www.zeppelines.com.uy/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmWyFaiTIXjEWDdoAxu90QazTW7iuGD7YIrwfRmkh9g2e77SHfbq4v5xYTSnUfDr7-8jalQHIMpnsO4dKOpPFzMfgZ0jqhzf5jTk7UFI5mPRrnP5Pcb7jSTVRrLcSsxitjISHkVfQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SmYQOnicHcRRboMgAADQE1HpVkO7pB9NnJNsTVFoXfdnqYCoYAFX6w13hN1myd7H-_1RIQz-JYo69byQ1squHn3tuDWhNmHBbR_JwQPugY92WUFY2ZePtGoY_tSvZXK1u2ncwLyaWYma8S1BZ-zuouhbtZFPNUI0E5fb6juezoyao0gcAmtddXmG94Pxh9X1_TCQdN4L-QX1Tc0i1qxFxxTHPSmcITHhF6QpOxXug1M_NUFjmrUnkW_vSwghUP9zYP4AQM1GeA"
+    },
+    {
+      "position": 3,
+      "title": "Plaza del Faro",
+      "place_id": "ChIJDXHN93kFdZURvutXQQ1QmLI",
+      "data_id": "0x95750579f7cd710d:0xb298500d4157ebbe",
+      "data_cid": "12869123953072270270",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95750579f7cd710d%3A0xb298500d4157ebbe&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95750579f7cd710d%3A0xb298500d4157ebbe&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.968486399999996,
+        "longitude": -54.951096
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJDXHN93kFdZURvutXQQ1QmLI",
+      "provider_id": "/g/1thy0zzc",
+      "rating": 4.6,
+      "reviews": 631,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "2 de Febrero 607, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvN0so1I8HSbuu51fnMKuDqLuzcndOrgDy5KK69r_VtRxf1antvYfbAfabAhzVOQUL8EsQ4-6ZUyIazceiBKM1zA1qEtXoz6pDCb-8S5ujHBiDZTNvX4uWrzMWeHbzI3QOIDOr9g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TOeeTHicHcRJDoIwAADAF1VoFIImHtCaQAARN9SLobUUjLbYBbU_9An-xsQ5zPfTaN2piePcmuGACcFu1CgqieCacj0g4u6wTgGigHLCaL3alvd-6SoB4yDaYGM8WPMsMeiRGkv4JZcMvb0k8cfyvNfrVw0rrvtjjcO6wmFj93mxS4OFKkbAP-3ecWUJbWdJBm0IHwt9ENbv0ByDYOOZazRr0Wm77A8jU0qblTTCNh4WeYxyOWbTJ3RdFzT_CeA_SNJF9Q"
+    },
+    {
+      "position": 4,
+      "title": "Punta de las Salinas",
+      "place_id": "ChIJOUtzSRsFdZUR_-XpQ2Hmra4",
+      "data_id": "0x9575051b49734b39:0xaeade66143e9e5ff",
+      "data_cid": "12586969838996022783",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575051b49734b39%3A0xaeade66143e9e5ff&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575051b49734b39%3A0xaeade66143e9e5ff&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.973713599999996,
+        "longitude": -54.9515953
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJOUtzSRsFdZUR_-XpQ2Hmra4",
+      "provider_id": "/g/11fm2lx4rd",
+      "rating": 4.8,
+      "reviews": 657,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "22GX+G96, Punta de, La Salina, Punta del Este",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "website": "http://www.puntaweb.com/cgi-bin/informacion/atractivo.pl?atr=52",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMYAotefJge_jiR-FxKG8HVgGdJQLDjG9Mt_vbsaShcfWcLorvFcmkwcnjmbIHBdwXOgZazK0rkrmcOgEkv9bksxCQHQ7oTOzBzjx-vgjFDrAdEC1U1d0DaEGv6xe8mkQPEEtS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NwH7WXicHcTbboIwGADgJ6qUmDhZsguUAvMQxMOY3hj4KWWtpaathfCCPoNvY7Lv4ns9W2vv5tPzbu10wpRiN_owVIPqLO3sBJT02N0gMMh4YbrfHQuxPYfK0mbF6JX_7VE8rJN5-sOSepVvIp4EW3t1lSkPLTQFbJR2MUjRQ8dl9Z0u6v43Y5dyXGMttISMEeGCSphhmaf5hzpm42LkA3KMx5EOa7L0T36No5IkbjbQuRT5jhB7-Op9jDFq_wfUvQEwbkap"
+    },
+    {
+      "position": 5,
+      "title": "Puente de la barra",
+      "place_id": "ChIJcSQ8Z2QFdZURPQAw_rod-UY",
+      "data_id": "0x95750564673c2471:0x46f91dbafe30003d",
+      "data_cid": "5114151540821590077",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95750564673c2471%3A0x46f91dbafe30003d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95750564673c2471%3A0x46f91dbafe30003d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9105906,
+        "longitude": -54.872886199999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJcSQ8Z2QFdZURPQAw_rod-UY",
+      "provider_id": "/g/11_pl1xrm",
+      "rating": 4.7,
+      "reviews": 3667,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "BUS - (0922, Av. Aparicio Saravia, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmXBjDj160U0H1Dz_8mJlqR5iC2EI2wghlM8Ed9go_z2TpEsduHQmO4jtGg4pOBtg0HX0zckEmIAzThteo_C2WC12eDrBflj2lbaBZ4peSHG_dXk3N51vx-8JMeid5n7HFXydX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PWcom3icHcRdbsIgAADgE2EBW61LfLA_E03UqV0kvjQOEKxQUHBqL7gzeBuTfQ_f60-F4PxHFGnV70lrpRY3L67MtkG0ocesiaTzgHngownZfFU7Y2jWFA0awG9IUNHVqZnryyY55bic4btUepGWfCRt3eHKlZ7fyNqs4iZMZexWWZCQUNixc2lmk65SQdg6x7scYVFcs6NusP45ZPvYiS2Z1pye-8sE_T5AOl-IE0_aIfmkT07HdwQhBOp_Bto3Dm1D0Q"
+    },
+    {
+      "position": 6,
+      "title": "Pueblo Gaucho",
+      "place_id": "ChIJ4ZSHPQ4bdZURLoO7geayuck",
+      "data_id": "0x95751b0e3d8794e1:0xc9b9b2e681bb832e",
+      "data_cid": "14535845975403758382",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751b0e3d8794e1%3A0xc9b9b2e681bb832e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751b0e3d8794e1%3A0xc9b9b2e681bb832e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.918177899999996,
+        "longitude": -54.9008769
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ4ZSHPQ4bdZURLoO7geayuck",
+      "provider_id": "/g/11fs2z1w3d",
+      "rating": 4.5,
+      "reviews": 640,
+      "type": "Parque temático",
+      "types": [
+        "Parque temático"
+      ],
+      "address": "Los Tilos y, 20100 Punta del Este",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mié",
+      "hours": "Cerrado · Abre a las 10 a. m. del mié",
+      "operating_hours": {
+        "lunes": "Cerrado",
+        "martes": "Cerrado",
+        "miércoles": "10 a. m.–8 p. m.",
+        "jueves": "10 a. m.–8 p. m.",
+        "viernes": "10 a. m.–8 p. m.",
+        "sábado": "10 a. m.–8 p. m.",
+        "domingo": "10 a. m.–8 p. m."
+      },
+      "phone": "098 103 495",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknEm-CTEF1Gd0KKEPR0e1D_7iK23SZ_ivQB97OE9v_1-MtKtxy6pfSPBmWTIPnjO7dDGuPgei0U7SZrlYXKC1meYqC4516iFngUR6gydVKtfx68sSYVRL-8xUeEfF7Qh2kM-3zZQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5M4KGXicHcTdFoEwAADgJ5o20XCOC2XhjGP9oW66qLWiVmyIN_QI3sY5vovv-ym17tTMMOrSHIi2FTW_K37LWqm51IOsbQzRKZApoIzF2mfh8SJJA5yQuGiVQ0oJ8yFHyxRXdGgGSVo9PHuK92T6SBHYaar7l9UVAbObY7hh8rzH-XJ1Z4JXMMJBcqvjE3VQw-OrMxojq3KliHxLvPID1UVvTVQQH_wtmPQRJ4WLvXJ42QHznXjzJ4IQgvJ_BuQPDqhDKA"
+    },
+    {
+      "position": 7,
+      "title": "Parque El Jagüel",
+      "place_id": "ChIJRUvsutcadZURRwHbi561HIQ",
+      "data_id": "0x95751ad7baec4b45:0x841cb59e8bdb0147",
+      "data_cid": "9519683404910231879",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751ad7baec4b45%3A0x841cb59e8bdb0147&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751ad7baec4b45%3A0x841cb59e8bdb0147&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9165025,
+        "longitude": -54.9189521
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJRUvsutcadZURRwHbi561HIQ",
+      "provider_id": "/g/11f15gc_8t",
+      "rating": 4.8,
+      "reviews": 11297,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "camino la Barra, Parque San Rafael, Av. Aparicio Saravia, 20000 Punta del Este",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mié",
+      "hours": "Cerrado · Abre a las 10 a. m. del mié",
+      "operating_hours": {
+        "lunes": "10 a. m.–7 p. m.",
+        "martes": "Cerrado",
+        "miércoles": "10 a. m.–7 p. m.",
+        "jueves": "10 a. m.–7 p. m.",
+        "viernes": "10 a. m.–7 p. m.",
+        "sábado": "10 a. m.–7 p. m.",
+        "domingo": "10 a. m.–7 p. m."
+      },
+      "phone": "091 271 545",
+      "description": "Paseos en poni, animales tallados y más. Parque extenso con zonas de juego, animales de madera coloridos, un antiguo helicóptero y paseos en poni.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlpXwBWkmvEJPCWhM-ec8HJLAhMubToI6Nhn4NzBz8eXZ_JU836z7g2rXYh4DI8Px0qFHSFS7wsSFVQXsgbxkhbHa_uhqIcOd8EtcvDafR3hbLS-1nNU3IbjykiJOerrByToxn8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zmxXxXicHcRREoFAGADgE60iw44ZD5KmGhJF8WLsWvtTdtNuShd0Brcx43v4vh_QulQTwyjA6nEpecFqxSoqhWZC96h8GLxUiCqkjJm3jZK0KLPGTvPHaxFE8xRWiFHsBcsZrGqSSH8UghiGnd1hlh1PwQ5bo27MB1V2gKHj46g1n64Xu_G4UbG732SKkzYH4p1PNTx9ur7ghaYv53zdWkCWMeqLcGf55P7Ob8GaVZX9TmQr8LTpm6aJ4D9F4gdtAEVN"
+    },
+    {
+      "position": 8,
+      "title": "Muelle de Mailhos",
+      "place_id": "ChIJffO2mm4FdZURjzukHuu22yw",
+      "data_id": "0x9575056e9ab6f37d:0x2cdbb6eb1ea43b8f",
+      "data_cid": "3232378278516112271",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575056e9ab6f37d%3A0x2cdbb6eb1ea43b8f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575056e9ab6f37d%3A0x2cdbb6eb1ea43b8f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.958568899999996,
+        "longitude": -54.945204
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJffO2mm4FdZURjzukHuu22yw",
+      "provider_id": "/g/11cs6h2zpc",
+      "rating": 4.7,
+      "reviews": 716,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "23R3+HWF, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnGEd-Rf4SOu_y44xNiGxy_ovtIfXMBq2ig6Va_NXBCghuHnSW-HxviWtS1GumT4171SP-IaA_R1wutGdkbj16vH_vRF6HcFHrZ1VJeKW5ppe2fB-bcextCeEiJp6G0PnWbCW8MeQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AfkWb3icHcRdDoIgAADgE5FSZq2th3QJ1SrTFq0XlohoP0ABZkfsCN2mre_h-35qa7WZeN6tHvSEUuLGneFPpqTl0vaYuntCG8AMMN4MZ-meSDQvQVYF-dbRdxB0mwZ1b6pau6iO6-jRb0R4ONPNMYpF7bDMCcBd2xCbQ-Tu-wCOYJ6CxXlGM_hyFpXX4gLDFtM2S0LMEvw8wcOSr8hQa96vIlAw3tmYz5ulDpGfSlLEZLzmu-kL-r4P6v8MyB_1Z0T4"
+    },
+    {
+      "position": 9,
+      "title": "Playa El Pendorcho",
+      "place_id": "ChIJ7VzuSgADdZURQHN4k5VbHFI",
+      "data_id": "0x957503004aee5ced:0x521c5b9593787340",
+      "data_cid": "5916704708440388416",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957503004aee5ced%3A0x521c5b9593787340&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957503004aee5ced%3A0x521c5b9593787340&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9208134,
+        "longitude": -54.8699247
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ7VzuSgADdZURQHN4k5VbHFI",
+      "provider_id": "/g/11yz2f8skj",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "34HJ+M2G, 20000 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XMO1NWuxE5FgRGDrM80N2w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=162.48065&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2MmWpnicHc1LDsIgFADA27CTT2ObakLc-Fm1Jm50ZyilQEILgddSb-O1vI3GC8x83gYgpD0hCaJSsFiVg12VS5sgsPZeOyWCTVj6kSyMgJnHbhLWHYKYvO35o7my9j6vp_Ksb5djbGraFhnJ7imdVRPwpESUBuv8E6PvsQ4JZV5TZPiuQC-ROasKvK1pVaJgQRpO0X8Z_MIZpV9CRjjh"
+    },
+    {
+      "position": 10,
+      "title": "Plaza General Artigas",
+      "place_id": "ChIJVVVVOnIFdZURIOE_P_7UU-4",
+      "data_id": "0x957505723a555555:0xee53d4fe3f3fe120",
+      "data_cid": "17173303992541765920",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957505723a555555%3A0xee53d4fe3f3fe120&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957505723a555555%3A0xee53d4fe3f3fe120&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9631259,
+        "longitude": -54.943793
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVVVVOnIFdZURIOE_P_7UU-4",
+      "provider_id": "/g/11bxfsnc41",
+      "rating": 4.3,
+      "reviews": 1121,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "23P4+PFW, Plaza Gral Artigas, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmcbZpfDScfyVQ7M-FAXYtVPuHVZYVvWqaZf7Dm90-NYa3hQbtrqBKHC4fq8jeAMPPuTpvQAzAblJCRrTeuc9ZHq0jPHZDQFAqkykTOyFfOPz9fq28_vsR_c_3twBm0K3mMssSMpA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/R-2bt3icHcRRCoIwAADQEy1XBmrQx0pkFNY0sdyP5NiUcrq5adgNO0K3CXof7_tprFVm4zht4y7qvq9bPho-sL6zvLML1kunVgYwA4yDcEqyq2QVVSK8MDHniReDCN0Km5MR57TIp6u-U-GFMoDgVNzdJqnsoHdHvF8L7T84igkZMzUl6I2q9rBPh4yPLKBYwwfBNEwipJ_zMzvPkTiTdyD0yi8nk5asdO1rJ-HRlbExl1ih7WsJIQTNfwa6HymZRiM"
+    },
+    {
+      "position": 11,
+      "title": "Museo Ralli",
+      "place_id": "ChIJkawnnC0FdZURVKUYAWxd74g",
+      "data_id": "0x9575052d9c27ac91:0x88ef5d6c0118a554",
+      "data_cid": "9867208027048289620",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575052d9c27ac91%3A0x88ef5d6c0118a554&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575052d9c27ac91%3A0x88ef5d6c0118a554&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.929493799999996,
+        "longitude": -54.927134699999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkawnnC0FdZURVKUYAWxd74g",
+      "provider_id": "/g/1hf9_pfjn",
+      "rating": 4.8,
+      "reviews": 2667,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Galería de arte",
+        "Museo de arte moderno",
+        "Museo de arte"
+      ],
+      "address": "Los Arrayanes, 20000 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "phone": "4248 3476",
+      "website": "https://www.museoralli.com.uy/",
+      "description": "Arte moderno de América Latina y Europa. Museo de arte moderno que se concentra en América Latina, Europa y el movimiento surrealista.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWndjbderD1kIPCwK4KAGm-fqbVlw0Mf-4AvIQx4yAVF8vwTnl2OklHH6DOXG4s1ynE02p0ItdhE0tDGnEdbBKTauDPvtftxOjaoPydXxwB2IfYTSJYFZ5ts4XlTjglYAaVrSErY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-T2hqHicHcTbboIwGADgJ6oUVo0x2UWVo8TAZsPAO6AcgrVl9JfCE_oMvs2SfRff-9UDjPpgWaL_2HRKdaJ56maqlYRGwqZWD6sbNao10hYNv1P2I_lQ8WZy7XuUnkxMYho8UPtbZcLgS4sInaOvhaw08_ezYVI4yV2E4c5N8oBoe5UedkYcAe89DG4gPV4dY1Y-3XSGFpZkKFW68nwxRydqC3Y9F_5tC5rkgg2dKGiZTVdvKj6NjTFG_f81kn9jZEUx"
+    },
+    {
+      "position": 12,
+      "title": "Playa El Emir",
+      "place_id": "ChIJtf7kHXMFdZURCd1S48wSp94",
+      "data_id": "0x957505731de4feb5:0xdea712cce352dd09",
+      "data_cid": "16043812868727168265",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957505731de4feb5%3A0xdea712cce352dd09&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957505731de4feb5%3A0xdea712cce352dd09&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.962997,
+        "longitude": -54.940720199999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJtf7kHXMFdZURCd1S48wSp94",
+      "provider_id": "/g/11ddwgjsyb",
+      "rating": 4.6,
+      "reviews": 1595,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Playa pública"
+      ],
+      "address": "23P5+RP2, 26 - Resalsero, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlaNWBVRTGoPBHWiy3onT1ZlHT7CSyPoKxBVAbZHHA88lHqsTbDEraJwfxw59jlnxZntCilalUP18_PnoCl9TYK3UneOL3H3sptX96p-o_cr9TaLZUMk9bwiI2RHKLxy8TsUhkc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uhELDHicHcTRboIwFADQL6qAjY6a7AHQrBuoDSuivBhoGDCvvUi7AF-4b_Bvluw8nOdva21vNo4DLV00iA3UP6YeFGpba7tQeHea3hBliHECngqZQ3nIw1Mq31CEPO9milp6BXD5En3OAuMpPAVVwXng-8AfRlbb3VB-jF_TuGLfoKdC26iDEjLh-VehMQImLzHNdH1MKKemt2e27gle1cBkmRTZ_saqsXtfpjxOptmXJmtv6nX0XNcl7f-K6D-BEkU0"
+    },
+    {
+      "position": 13,
+      "title": "La Glorieta",
+      "place_id": "ChIJy40HEY0FdZURR5CLAMLxT8A",
+      "data_id": "0x9575058d11078dcb:0xc04ff1c2008b9047",
+      "data_cid": "13857560393977401415",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575058d11078dcb%3A0xc04ff1c2008b9047&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575058d11078dcb%3A0xc04ff1c2008b9047&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9619672,
+        "longitude": -54.9465437
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy40HEY0FdZURR5CLAMLxT8A",
+      "provider_id": "/g/11ghylmdpn",
+      "rating": 4.7,
+      "reviews": 124,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Mirador"
+      ],
+      "address": "23Q3+698, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "website": "http://www.puntadelesteinternacional.com/la-glorieta-emblema-de-punta-del-este/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm3NgOOFQTMF5zayMjt-c0NnWfwPw3h3ovczrZDDFCLpq_pRAugLLG1a6D2BzUmT-GgZu5kvBItUrYXUKW3Hl-gRBe-aD1pMn9YqVKTXVi208sXQjzXoToTP_VpACRm48mny38PqQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/M-qFNHicHcTbCoIwAADQL1rOVmFBD5pYkZbKvOSLyLBZuYtuJvmHfUJ_E3QezvfTaC3VxjDaBs2oELStB1X3RHBdcz0jghlUKkAUUIZ9iEOcMXSml4sX4cBbTtU7eGhA4JlntzEcUYPEi0x94brezpddKWN7oL6_N6uVO3emhGGwp8WwfL6co076a56cMnRoAY2dGlSuKQO-vnbpCefpfQ4tlUePKRdY4LBMpb2L2cJi_I2ssIu2owkhBM1_AvgP5DpFDQ"
+    },
+    {
+      "position": 14,
+      "title": "Las Grutas",
+      "place_id": "ChIJZTLrmm4RdZURPT7Ch5tq1hQ",
+      "data_id": "0x9575116e9aeb3265:0x14d66a9b87c23e3d",
+      "data_cid": "1501504742004768317",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575116e9aeb3265%3A0x14d66a9b87c23e3d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575116e9aeb3265%3A0x14d66a9b87c23e3d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.910826,
+        "longitude": -55.0429238
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZTLrmm4RdZURPT7Ch5tq1hQ",
+      "provider_id": "/g/1td0c33h",
+      "rating": 4.5,
+      "reviews": 3450,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Cafetería",
+        "Pub restaurante",
+        "Fábrica"
+      ],
+      "address": "47 de la mansa, Francisco Antonio Aime esq, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "097 293 996",
+      "website": "https://lasgrutasuruguay.wixsite.com/lasgrutasuruguay",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl69wgtJE1y7WChG_cTu1sXu_Mim2klIL4zrFVkqjDcGnRENab_RKUxqydvbq1TUYts6VuDOVvPzNwNW5fgvcBCyWs5f-x4eSdGvsqFz6x1hV8apUZpEjW3L5dtiLHNBE_1XRg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zMB_TXicHcTbEoFAGADgJ1q1VA4zLlBySEyqxU2TLbtIB_92fEDv4G3M-C6-74cLkcNEkhI-6LEsY0lcQvymWSriVPRo9pJYDogCAmm2cg4uSbRxzcTGwO2QLLgZULfEcCqD3f3VfyZrS-neS_9ZPHRqpo5hh9fA2XpN0UbVtcCudxag-aW-96tDZ9c2UW-sovNFS0C9oUaJj5FZQbHstAZzfxTm3iU3HmRgqZG4Wyt7bgT45LBpjWVZRvw_RekPrrlFzw"
+    },
+    {
+      "position": 15,
+      "title": "Ballena de punta",
+      "place_id": "ChIJoeJG_GIRdZURN-PyopDwW0k",
+      "data_id": "0x95751162fc46e2a1:0x495bf090a2f2e337",
+      "data_cid": "5286083091649192759",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751162fc46e2a1%3A0x495bf090a2f2e337&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751162fc46e2a1%3A0x495bf090a2f2e337&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.915557799999995,
+        "longitude": -55.0466967
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJoeJG_GIRdZURN-PyopDwW0k",
+      "provider_id": "/g/1tp0fvh5",
+      "rating": 4.8,
+      "reviews": 4569,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "Juan Díaz de Solís 4, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvHlb2WXywvuFbjJk_bb-jhrTY-wl0Pp9DAAXivjNIvxr9N0WwO4Uvn6X_HdJGKr8jjnFqW-CFmawDhz3OygkMOgNUrRnVYikBnH_qGXh_dTRpnOwjn0gLWIGVYRQ5hV4g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QBsxEHicHcRLDoIwFADAE1WqolETF6jh4weUIIUVESQtBR_YYqtez1N4GxNnMd8P6_tOLgyjYeMBbVvalA9ZiqKFvoR-ULQ3g3YSFRJJw3LDY0RAuU0-IslLq4ed822d5TniTEQp0g0-dvONZSWV4r6nnmLuY6ID86xgmmTudevsxIxzsO8Ere3bRW_Yexy8aH0IqH8WIcRpVa_Aze5OwrJrFHYQaA6Y7onnxGl4mrDYpEs9xBgj9r9A8APvx0UE"
+    },
+    {
+      "position": 16,
+      "title": "Isla Gorriti",
+      "place_id": "ChIJ6Vd1P-QPdZURMteOR4F_3qA",
+      "data_id": "0x95750fe43f7557e9:0xa0de7f81478ed732",
+      "data_cid": "11591842684126287666",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95750fe43f7557e9%3A0xa0de7f81478ed732&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95750fe43f7557e9%3A0xa0de7f81478ed732&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.953928499999996,
+        "longitude": -54.972142999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ6Vd1P-QPdZURMteOR4F_3qA",
+      "provider_id": "/g/1n0bxrrwz",
+      "rating": 4.6,
+      "reviews": 1188,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Rambla portuaria, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–7 p. m.",
+        "martes": "8 a. m.–7 p. m.",
+        "miércoles": "8 a. m.–7 p. m.",
+        "jueves": "8 a. m.–7 p. m.",
+        "viernes": "8 a. m.–7 p. m.",
+        "sábado": "8 a. m.–7 p. m.",
+        "domingo": "8 a. m.–7 p. m."
+      },
+      "website": "http://www.islagorriti.com/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlL5VeLwdGJSHhfm8PhbyPO7YUr3nNNpmEkqECTFUP0p4aoeUaeONFdhl2R35f3V90iSINL1IHroqXpTEcPZHLHV5qyApoDK4wmw5zcF5m8AXMg6SuGIwrm7Uq2iBtgglYRUCR-og=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gga5bXicHcRRbsIgAADQE2HRijoTP6prpVutpC2d7s8hghEKLRiiN9wRdpslvo_39yu9t24ZRUrGI2GMUPzu-MBM53nnR8zoSFgHmAMuSnBFmi9VoJYX4bz9qLG86AWRPw-ynx_pEHdlaXV669NNk1EC7fRkOD3xfZmdpZpUMbrE7Ru81nlZjHM8mP5gm5SRb1zgFvWPxJr3z2nQAT1ZhvQiOezErL5v8zDoOe0n17UXQh0ruqmAEaswhhAC-ZqB7h_O50UN"
+    },
+    {
+      "position": 17,
+      "title": "Feria de Artesanos",
+      "place_id": "ChIJtap7MHIFdZUR1YS4Tzjrn0I",
+      "data_id": "0x95750572307baab5:0x429feb384fb884d5",
+      "data_cid": "4800814354888426709",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95750572307baab5%3A0x429feb384fb884d5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95750572307baab5%3A0x429feb384fb884d5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9632365,
+        "longitude": -54.9438465
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJtap7MHIFdZUR1YS4Tzjrn0I",
+      "provider_id": "/g/11c1tdp50l",
+      "rating": 4.2,
+      "reviews": 2210,
+      "type": "Plaza",
+      "types": [
+        "Plaza",
+        "Parque",
+        "Centro comercial"
+      ],
+      "address": "30 - Las Focas, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "2–7 p. m.",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "4244 4262",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkx3V_oy-gEGIR0PHxXPMiZvbPO7LdgkoWWDZCpgBzKB1Q3fAlrg9PENnVHJjm9z0gazoD--V40-m7TVNK_PHn_WCERNUOE7Ip14YnNnAlK2_Glnm3pOY0Lw9UU_iWfFbCDRaWK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/X16T7HicHcRdDoIgAADgE5GYbc62HkxNzVJyKeULU1OsEFjYnxfsDN2mre_h-366YZBqrmmsMyZUCMqau2puteBDw4dJLXqNSgVqBZRmByna4-vLyIl4A-r5YQpR8Dqg7bl4VCgxNyd6FRi7hSPpcoyW-s5obXajFvJingfrS2-NkJajcAHIZxD05j6PI4ICTrDjpXGWeGYo9dmRx9xm0ZT4jPeGTI5w87SyjJxxu6ocNy1xtHjqEELQ_a8B_wEJk0M_"
+    },
+    {
+      "position": 18,
+      "title": "Museo Azotea de Haedo",
+      "place_id": "ChIJZ1_HxrkadZUR35eSiIrQFtM",
+      "data_id": "0x95751ab9c6c75f67:0xd316d08a889297df",
+      "data_cid": "15210574084905801695",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751ab9c6c75f67%3A0xd316d08a889297df&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751ab9c6c75f67%3A0xd316d08a889297df&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9187246,
+        "longitude": -54.9439649
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZ1_HxrkadZUR35eSiIrQFtM",
+      "provider_id": "/g/1xg5tvx4",
+      "rating": 4.5,
+      "reviews": 465,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Museo"
+      ],
+      "address": "20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mar",
+      "hours": "Cerrado · Abre a las 10 a. m. del mar",
+      "operating_hours": {
+        "lunes": "Cerrado",
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "Cerrado"
+      },
+      "phone": "4222 3288",
+      "website": "http://www.museos.gub.uy/index.php?option=com_k2&view=item&id=77:la-azotea-de-haedo",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmvcIzG0l28hEZeRnVASPvB4CMQeAuTlDCcifu2FEMi83fGNANZApTGiimp6glpcBYw4o4GjVRfnjK4KYAA0In4UOebkMNr9S0wI-7s3RNRc1dd6YcmUUWRhnDMrL8xhn3OBwJKQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AE6WgXicHcRBjoIwFADQE1WqNMqYuCjqIIOgFtDgcr6FoqVtKIjxhh7B25j4Fu_9El1n7NxxpHBHldaV5L3lLWjVcdWNQDdOZSwCi6xDN2yfnW7NHcJngOXEE-szZ-pI0_3dJ8v4wGmfydUS6rKf_K7j2nPLIKHJmZosqOvGTCtpwC8GoklwPbJSXSMSFZTiUJF8x_9vcdL-pHgI0cy6LGEwvlymBTR5fmJCreJ26z2Ecnf-8BcdFsMYY4zEd0DqA6_ORGk"
+    },
+    {
+      "position": 19,
+      "title": "La Mano • Hombre emergiendo a la vida",
+      "place_id": "ChIJfZ2g7RIFdZUR7vqjH95LJLY",
+      "data_id": "0x95750512eda09d7d:0xb6244bde1fa3faee",
+      "data_cid": "13124698631450131182",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95750512eda09d7d%3A0xb6244bde1fa3faee&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95750512eda09d7d%3A0xb6244bde1fa3faee&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9578986,
+        "longitude": -54.9372652
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJfZ2g7RIFdZUR7vqjH95LJLY",
+      "provider_id": "/m/0521gjz",
+      "rating": 4.5,
+      "reviews": 28423,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Monumento",
+        "Escultura"
+      ],
+      "address": "Stop 1 Brava, Punta del Este, Av. Eduardo Victor Haedo km 162.500, 20001 La Barra, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "093 324 497",
+      "description": "Escultura icónica de una mano humana. Gran escultura en la playa conocida como \"La Mano\" que el artista chileno Mario Irarrázabal creó en 1982.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlVafR7LO1eoymVDQNM_XluMSybsjtfnQ1jPHE984qp4QI6QxvhFRY1Z5b90S_DZ1xo9-F8nO72iSCz8c8Q0t_oMKH1wQ6rzfdLyaKE8Q5nvO3MC-xONTaEXHhs4VH1bZ8aKG0sjw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JTeLX3icHcTvEoEwAADwJ5o2wnLngyPmkqxc6EtXU02XLTb684Yewdu48_vw-3641rWaGUbFR4NCyqLKXip7Mil0JvSAybtR1AowBZSxIP7heKrCJPenOw9lsruHK7p343P1coMuVaXOBUXlgdgWNh-1SbcT2r752r-gaJxaMIhXEWqlBdZYeNPhLVj2mGEKdSxdh6CGTp59ft11iWNjOhZvb-QuQevtj4l9JlyZIUFphBNnA1XZzBsEIQT8PwPiB6bDQ_8"
+    },
+    {
+      "position": 20,
+      "title": "Casa El Sauce",
+      "place_id": "ChIJTaZufQAFdZURxga2YX1l2Qs",
+      "data_id": "0x957505007d6ea64d:0xbd9657d61b606c6",
+      "data_cid": "853825193548056262",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957505007d6ea64d%3A0xbd9657d61b606c6&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957505007d6ea64d%3A0xbd9657d61b606c6&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9448228,
+        "longitude": -54.939827099999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJTaZufQAFdZURxga2YX1l2Qs",
+      "provider_id": "/g/11m_969p0d",
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Pascual Gattas 6, 20000 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UN2ZZlY0TZqqBBAU0wflHw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=314.0864&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZWo25HicHc0xDsIgFADQ27AJv7Ux1YQYOzk52cEuhlIKJBR-CxY9jefyNhov8N7nbVLCeGAspkWptFqV0T6VixsUVIegnRJoI5VhYmvBknlMvRfWHVH4YAfeXsqucze4dvPcNKcW8ujOmcj-Lp1VPvGoxCIN1fknLmGgGiPJvAZi-L4kL5H5tqgo1LuKoE3ScCD_ZAwrLwC-NJk5MQ"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Punta+del+Este+Uruguay&start=20&type=search"
+  }
+}

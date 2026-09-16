@@ -1,0 +1,812 @@
+{
+  "search_metadata": {
+    "id": "6aa95f227af8999f8f2b51eb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0lfh6EDnl4sJ1fGaS859_Bdvqz-LSszlkW2cEBt13jA/6aa95f227af8999f8f2b51eb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0lfh6EDnl4sJ1fGaS859_Bdvqz-LSszlkW2cEBt13jA/6aa95f227af8999f8f2b51eb.md",
+    "created_at": "2026-09-15 15:07:14 UTC",
+    "processed_at": "2026-09-15 15:07:14 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Atl%C3%A1ntida+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/0lfh6EDnl4sJ1fGaS859_Bdvqz-LSszlkW2cEBt13jA/6aa95f227af8999f8f2b51eb.html",
+    "prettify_html_file": "https://serpapi.com/searches/0lfh6EDnl4sJ1fGaS859_Bdvqz-LSszlkW2cEBt13jA/6aa95f227af8999f8f2b51eb.prettify",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Atlántida Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Atlántida Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Un Sol Para Atlántida, homenaje a Carlos Paez Vilaró",
+      "place_id": "ChIJidorDy30n5URHxZDXdEWDeE",
+      "data_id": "0x959ff42d0f2bda89:0xe10d16d15d43161f",
+      "data_cid": "16216642921699677727",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff42d0f2bda89%3A0xe10d16d15d43161f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff42d0f2bda89%3A0xe10d16d15d43161f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.773579999999995,
+        "longitude": -55.7670317
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJidorDy30n5URHxZDXdEWDeE",
+      "provider_id": "/g/11dzz6ng61",
+      "rating": 4.5,
+      "reviews": 2745,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "66GM+H58, Ruta 10, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnoPN2lP4m8eltdhcVs9YiYIg4CSrhuB-fcl0O1uG3Sm2Gz2gUr5ipLw7DlbPgYG3kQXhEV-wE2nN3zCcMbKUThlZbjcupWp3sH3s3Aj7O9bvbxDB1NLaUm92pB0fldNI0yIRdd=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/h5N6qXicHcRdDoIgAADgE5EItrKth9RmrjL7sbK3QIMKgQlmdcHO0G3a-h6-74dbq83IcQTHPaYUE1VrqoYqaStpe1TVDtMGUAOMM5ltst1BqixFIvPqYSVsyene-MW1SJgXbhveBuBCBVy5bYy3NYrfiOVN_6oX3SASJGNFjO_rI5_uQTdFMsXvkC7JPN9xcSI32uqDxmaGDZ7cBiufPMgzCtx0cc5rH-kAXkSZJvCVbMpy3LkQQsD_UyB_YB5EXA"
+    },
+    {
+      "position": 2,
+      "title": "Playa de Atlántida",
+      "place_id": "ChIJRV_lxij0n5UR4H6mG0zoTG4",
+      "data_id": "0x959ff428c6e55f45:0x6e4ce84c1ba67ee0",
+      "data_cid": "7947982855981137632",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff428c6e55f45%3A0x6e4ce84c1ba67ee0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff428c6e55f45%3A0x6e4ce84c1ba67ee0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7774302,
+        "longitude": -55.7629306
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJRV_lxij0n5UR4H6mG0zoTG4",
+      "provider_id": "/g/11hck96836",
+      "rating": 4.6,
+      "reviews": 2884,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Área de descanso"
+      ],
+      "address": "66FP+2RG, Ruta 10, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXf52Jr1WWsYkQAx5NK9lr9n4i1Kbo22dTn4gdI9IBIGETgS0VQAAjtOeKHxBb45jrtdS4NExlprgIIRnnlvGKGwL2qiYxZ0DY9V0toyl6pkpVdM4MNboGXKRbxm4xDqcylw98=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zQQJmHicHcRRkoIgAADQE5lo2EQzfejUGFG2maO5n6JhhUBAK52wM3SbZvZ9vM-7t1aZhe_zfjphUjLePU2nqRS2E3ZC5eAzZTxqPOPHm_ynqIbzJQq3OqgqU9-PsYsygrhGAl4D0sgwbAsBWYsRTnC6LtgJlMc4vtlDRzYuaWB007Y9wWztuNIM41wI_peSdNyFj2vtfsGqRiWw8sVn6q7Kdg_3WSPTM8kbN0C3etAXH9F8OQYAAK__n3riCyDvRLw"
+    },
+    {
+      "position": 3,
+      "title": "Parque Azul",
+      "place_id": "ChIJAZXDCwD3n5UR-UbLQDd4qyc",
+      "data_id": "0x959ff7000bc39501:0x27ab783740cb46f9",
+      "data_cid": "2858510567202309881",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff7000bc39501%3A0x27ab783740cb46f9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff7000bc39501%3A0x27ab783740cb46f9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7761389,
+        "longitude": -55.7525847
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJAZXDCwD3n5UR-UbLQDd4qyc",
+      "provider_id": "/g/11lcjbp_f1",
+      "rating": 4.3,
+      "reviews": 216,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "66FW+GXV, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "10 a. m.–6 p. m."
+      },
+      "website": "https://agusdevpro.com/ImpulsoWeb/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm7EdYGDqc2_PKRDPv0sDJUT9YBc81zPNFIdWMODtP2HD5ywCzV4VjIY6IaB9G4eF492k56Z6ypLCktSXbc31kSTRbMzqe-oaSvDBu8AFUBZPSECStE1L8qxhgh3HLhZ7zMP2vy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/yawN_nicHcRJDoIwAADAF1VWEUw8CAVBQRuKC1yM1oZGlIKtKHzQN_gbE-cw3w-TshFTRbkxY1RyXt7oU9AH4bWktRwRflfKRgAigFDmYYqy_X3iX_IFbIl-RKsUok4VcLnNnNwltjagdRBd9skGSqSHcNy_vGFn7q5RbkUn11mYNDAdvRpbhdU3sVdJfDgTQ6twlp6ToaWAn3AH3ac9D7ZugbDvYelrsd2-WcmMMGbFZEiQ3vWzl6aqKmD_Cah_g-RCfg"
+    },
+    {
+      "position": 4,
+      "title": "Mirador Municipal",
+      "place_id": "ChIJAQGIIACHn5URffYwFXAFMNQ",
+      "data_id": "0x959f870020880101:0xd43005701530f67d",
+      "data_cid": "15289726713872840317",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f870020880101%3A0xd43005701530f67d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f870020880101%3A0xd43005701530f67d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.776291799999996,
+        "longitude": -55.7628555
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJAQGIIACHn5URffYwFXAFMNQ",
+      "provider_id": "/g/11yv_0df2w",
+      "rating": 4,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Rbla. Pdte. Tomás Berreta y, C14 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "4372 4050",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlNDY7Ys4F8vdQPJWn93Nt7tvPOekPEnI0zhAU9OoWHmSnMvbjAFnfVtKPqM6amSvA9vObCp15AlUn_OAbB0fIgvz84LgvCyG1EeXYpirvx5J2NzgXnq0H25Blu3uB-1sTqCQ-pBhDPc1lL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/N3usc3icHcTddoIgAADgJyIhs3Ln7AKtZq2U1o95tTOJoIaAgWzzJXe9t9k5fRff369wztinIJAiHHCtuWSdZXeqlWPKDahuAm4soBbYAGdvZF_KfFZNKjtaTP15S1alisPcTZwnBfskc7WEvcCHuNBl1uzUxtc3vFCXo3sl7Wb80ew8jn1RpwZFWB7Ue4HrBF6W3PfT0Zr79OcFzdmpMte7_45Ww7znJ9XCbBglsgu7BCC7b9MtMImYEYrk-vkLQQiBeEyB-geRHEbu"
+    },
+    {
+      "position": 5,
+      "title": "Piedra Lisa",
+      "place_id": "ChIJS8yPMpr2n5UR5WPQpb0aoho",
+      "data_id": "0x959ff69a328fcc4b:0x1aa21abda5d063e5",
+      "data_cid": "1919125793046291429",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff69a328fcc4b%3A0x1aa21abda5d063e5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff69a328fcc4b%3A0x1aa21abda5d063e5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7799996,
+        "longitude": -55.7523584
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJS8yPMpr2n5UR5WPQpb0aoho",
+      "provider_id": "/g/11g68y7790",
+      "rating": 4.4,
+      "reviews": 762,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Club nocturno"
+      ],
+      "address": "66CX+232, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "098 413 784",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkwtl7cYvJIv4x2HukyO8DPVdr1vmuNB8gkxhwq2B2Z9b3ebNBZyx-abC6DY2q76S6hxOy4Zr8Ar6jVbh5IIfW5yRAMjHL41aOexYl4e9SIshMdkMe7URybQeFvOLNGOAjNs4gxnw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/purjtXicHcRdDoIgAADgE5E_kVpbD1orbSllZdO3IIKpaQkqHLEjdJu2vofv--FSvsTCMGo-nbC2ZTXtBe1I20jayAlpnwZ7CUAEEIYfpofztRpl7ZJ82EUDVHbYVxp560N276zh2SeBxyrFx7cd2MUcTylOgkIrcMMrZ53bb9c5OVwhDYvO8zunzDCfRdHjOtOpH5fhHlo3RFVeQzo_RYLH9yqm7iXV-Eg3A9onW-SXiYBMNeNytEzTBPw_Ac0PEKBFkQ"
+    },
+    {
+      "position": 6,
+      "title": "Edificio El Planeta",
+      "place_id": "ChIJ-R-2DSz0n5URK4cFtMNTNE8",
+      "data_id": "0x959ff42c0db61ff9:0x4f3453c3b405872b",
+      "data_cid": "5707278727789250347",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff42c0db61ff9%3A0x4f3453c3b405872b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff42c0db61ff9%3A0x4f3453c3b405872b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7743957,
+        "longitude": -55.764021899999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-R-2DSz0n5URK4cFtMNTNE8",
+      "provider_id": "/g/1tjdmy5b",
+      "rating": 4.4,
+      "reviews": 217,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "66GP+69X, 15300 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "phone": "094 943 342",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWluTu6BlL-NGefsJ2Nb7qQeQC9GdytpEqRisH-tlDQ0A0vSu6nMK1NTJazbujE6Gh9bo_EfeNGOsDPYUeXKOd2wa1_AKcjGrJS621GuP6Vuh2OhONuvfF3alF75YJOy5tXEHVT0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7UqT_3icHcRRDoIgAADQE5Foi1ZbH1aK0wIts_pySig1Eguo1QU7Q7dp632870cY0-up40gxHLRKtZJbze9MdYZ3ZsDU1Wl7DZgG2vGjTZrvpc0tmssVIJg3OvZIPb5lPFtM8Oll-uC2OesIGLnMoA8fW4u6deKSPK7etb0ECItJrcqg4QRTvUyPO35I6Ml7Vm7pJ-yC7_EWeS62KSqs8KigxD6acFjJcDw6xvQ1MocgKnI4e7oQQiD-M9D9ADOhQ6c"
+    },
+    {
+      "position": 7,
+      "title": "El Águila",
+      "place_id": "ChIJySl0I8r1n5URjh3JIwghSYI",
+      "data_id": "0x959ff5ca237429c9:0x8249210823c91d8e",
+      "data_cid": "9388071217074347406",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff5ca237429c9%3A0x8249210823c91d8e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff5ca237429c9%3A0x8249210823c91d8e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.770739999999996,
+        "longitude": -55.7790963
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJySl0I8r1n5URjh3JIwghSYI",
+      "provider_id": "/g/11f39lnkmy",
+      "rating": 4.5,
+      "reviews": 4150,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "66HC+P92, C. 3, 15200 Villa Argentina, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdugAdZr5_81LtVyrZbUdfTe6GGjt8RUs3uIrlqkvlW8sH13pFVAsUuS-GQ9a8ipp5jCrKkbGeYUZfLy_iKY2hlj27zvuVQif8nW_wW0nkCOtytuNxFLDoUBTkU2eojiS94zrbOQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/H2hFaHicHcRLjoIwAADQE1V-41hNXDAacSJRUQqRDREov9a29qPiDT2CtzHxLd771Wot1MyyaOuNGs4bio3CsuRMY6ZHJb9YjVCgVEBZ_vqwj1NSmcavMjnOoRPqZJBZgao6xr9B0Gt4QMoz_5JeyY2mUK0dT6wSXyFzBEE0PcNOiHG_kBtSBPiEsjoc8m5zclvau5PnzSRRV0OW5vfUZmSx04M228cqXHL0FxPkYt53x-nPUxa7aH53bNsG7fcSsA-Hk0c7"
+    },
+    {
+      "position": 8,
+      "title": "Isla de la Sirena",
+      "place_id": "ChIJDT0GI8z1n5URnnqOLHK9L0Y",
+      "data_id": "0x959ff5cc23063d0d:0x462fbd722c8e7a9e",
+      "data_cid": "5057469204631812766",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff5cc23063d0d%3A0x462fbd722c8e7a9e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff5cc23063d0d%3A0x462fbd722c8e7a9e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7838412,
+        "longitude": -55.7610477
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJDT0GI8z1n5URnnqOLHK9L0Y",
+      "provider_id": "/g/11j0tr6j84",
+      "rating": 4.6,
+      "reviews": 10,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "668Q+FH8, Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljq8ocCX40TNg_-8IXFlezKApu2WRrtWn08-XQ-i9ZjkXszS02RHwdnjjGnz3NDnStotpy6M6FPLtaz6hXnRKVCPXl_IFFGcXM3NOktlkWEuqeuPngFw5HJQVobchzfsJFHCnP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3JyodXicHcTRboIwFADQL6pUmYQt2YNhVtTJKhppfDGuq61Qb9FeQuwP-g37GxPPw_l_GMTWf0SRNfFAO6et6ry6SQeoAAfSXSLdeiI98dEkL_m2svU1dTITb3Rb6ANJ54JZFZaTthtV5Q0roCkRa3J-39eN8GFDR2Xe_0FdzyDExRds0GF7T1YJ4994DIkRUC53GRf2MGdsJsUqLn4atE017a6q46BZP84X6537lSac_ILlGfDPfkgpJea1JPAEhDFFmQ"
+    },
+    {
+      "position": 9,
+      "title": "Plaza Varela",
+      "place_id": "ChIJjwaTgyn0n5URZu0LjC0AERY",
+      "data_id": "0x959ff4298393068f:0x1611002d8c0bed66",
+      "data_cid": "1590052339061615974",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff4298393068f%3A0x1611002d8c0bed66&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff4298393068f%3A0x1611002d8c0bed66&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7744342,
+        "longitude": -55.7607765
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJjwaTgyn0n5URZu0LjC0AERY",
+      "provider_id": "/g/11g6xw9xqm",
+      "rating": 4.4,
+      "reviews": 542,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "66GQ+6MH, República De Chile, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl6pcs4214D4-2bjd-OOgp4QZpFaOeHRordEDeoay1YFZfUfvs8iMo5k2BXl_hPFnOhwSJ1eOpc28eQBgmxr4XSuYk_Mxem2tXndYTlWSweK4l_Z3ONPBnHBZUi1_yE5AzzfdJsUQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mwiernicHcRBjoIwFADQE1VorcZMMguJEqJxCiIR2BCnfFrH0ja0inpDj-BtTOYt3vslvbfuKwiUnE6EMULB1cHAjfag_YSbPhDWIe6QC5bJPj0c1dxyRwmmK4rI71-LGBOWZrWNTwySvRna9QrM6YGruO6K7uYW552ZXUhUqkamsWZyzDcYmOVkAVkk-vtAy_xaXZrdHXriS91WB3XMR9hS1dRT9pNGOonq4oybx3q2fD67duOK7HvEYRgi-T9H-gPdxEXJ"
+    },
+    {
+      "position": 10,
+      "title": "Letras \"Atlántida\"",
+      "place_id": "ChIJy2XFMQD1n5URo648e5wteF4",
+      "data_id": "0x959ff50031c565cb:0x5e782d9c7b3caea3",
+      "data_cid": "6807240986876227235",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff50031c565cb%3A0x5e782d9c7b3caea3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff50031c565cb%3A0x5e782d9c7b3caea3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.767340499999996,
+        "longitude": -55.7660219
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy2XFMQD1n5URo648e5wteF4",
+      "provider_id": "/g/11x_4kq6hj",
+      "rating": 5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "66MM+3H9, Ruta Interbalnearia Gral. Líber Seregni, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnn7_MAazC893Hqm1pSU1GCY0WLDSdxEgrkAqo6vSL12WHRkY3fnhCQs9oDLSF1RlQFPMlLrUjW9dvYTSMqQq66tp0_7Y0cmfwX_Fxh6nEeDrk1YMWmLWqoFkiF3YoYimIVQs9TV3PkjRCZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1cRIcHicHczBboMgAADQL7JCSexcsoPRMpdgomLL2MUs1EqLgAhrm_5kz_2bLbu843s-ZAizf43jSaLVaO04DT9-WIQ1YTBhJayOx9lHwkc-zsq27pgxm77Kvu_5S4pKp-FMd_A954CRgh5u23FRmbPJhRK4ZmWrODoamTc-tQWhGLZTg-tqIsvuzNLDhXe0co1LkjCDfsOB0MfrZ49vMjHboVgU5BXThDmL1QkjbvlJf-z_sm6PanVu86-3KwQARPJfEZlfVVpHBg"
+    },
+    {
+      "position": 11,
+      "title": "Pinares Beach",
+      "place_id": "ChIJgzhiE8_3n5URjoW-vy_5FSA",
+      "data_id": "0x959ff7cf13623883:0x2015f92fbfbe858e",
+      "data_cid": "2312027967200331150",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff7cf13623883%3A0x2015f92fbfbe858e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff7cf13623883%3A0x2015f92fbfbe858e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7789504,
+        "longitude": -55.746443799999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJgzhiE8_3n5URjoW-vy_5FSA",
+      "provider_id": "/g/11fk15tlhr",
+      "rating": 4.8,
+      "reviews": 16,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "67C3+CC7, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7vSxQrBCKvQ8Aq6X3RQrXuEIioJtg4UqHCwFKAv3Z0RqS9x7wIpogwkjZ5AhHYpfepghNAqaLfcMTXb_Fw-MrlLJEGTeJH6Tgtutp5FtQNWVsHjBFqhg4XbDL5mjpwpRumUQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jnvgeHicHcTbDoIgAADQLyJtpl22HuhiZNbCrMyXVowgUwFB6Qv7h_6mrfNwvh9ujNQTxym512NCsJK2mjZE1IbWpkdE5TCpAdFAOxAl-_RcDrvDGzez-abDI6iCzEtwk7XL9VNEhg2OCs1tuIGdl7uJOozfQ7uWgtlXkfuQo4t8UMn4Dqpb_CDbNLtfQwu2TRlHy1VKIxSkzLRG-qHBu_NJo2IWKs4G2X0R-1UhrUza6ointu-6LuD_Cah_aUxFqA"
+    },
+    {
+      "position": 12,
+      "title": "Plaza Artigas",
+      "place_id": "ChIJkS1c3iv0n5URZd2DokebYY4",
+      "data_id": "0x959ff42bde5c2d91:0x8e619b47a283dd65",
+      "data_cid": "10259652158098234725",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff42bde5c2d91%3A0x8e619b47a283dd65&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff42bde5c2d91%3A0x8e619b47a283dd65&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7742599,
+        "longitude": -55.7617967
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkS1c3iv0n5URZd2DokebYY4",
+      "provider_id": "/g/11hbs_xgz8",
+      "rating": 4.3,
+      "reviews": 351,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "66GQ+77W, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqi0D4NNCN1ZYNPyAFJXKFF0QleI0Q3iocro_XCtjiOf5Tx6AMOqbFlUNyGFNloHm31KnIPZWv8_iRAAiZgbj0u3llHjeihrZLcr_KDd8bTFKXlberPVBVRePKLHGZNkrsodPuXQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/b4yRGnicHcRdDoIgAADgE5k4q7W2HqhGFkXoLI0XN4kUQynAfo7YEbpNW9_D9_3Uzt3s1PdVHQ4qrSsleisM150TnRtw3frVzXrcetaHUULTrL1LsBwSsiABOxH6hmiTY4RArMQaxKHU3OgiX7hG7i-j9DWGu_29ROpA3itElI7aMMDdmrLsMSlkAqFkVdmAPlQqaoSsDdtyU-DleVKmCOeqFIYe58dEULyNVoxcjdVn2ufx7BkAALz6P_e6H74TRZQ"
+    },
+    {
+      "position": 13,
+      "title": "Estación Atlántida",
+      "place_id": "ChIJKwshVwD1n5URER3tm158lUg",
+      "data_id": "0x959ff50057210b2b:0x48957c5e9bed1d11",
+      "data_cid": "5230223288045477137",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff50057210b2b%3A0x48957c5e9bed1d11&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff50057210b2b%3A0x48957c5e9bed1d11&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7419966,
+        "longitude": -55.7639691
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJKwshVwD1n5URER3tm158lUg",
+      "provider_id": "/g/11md8w5lyq",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Diagonal 3 9002, 15200 Estación Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlC7epN3RrdkTFlkt6hLl-x5rZFo7MdAvH42ikhM2-1QDZHUhJJy1nxp0HNzwb8RxZWRTzlhk5lmiGcYl39TZa2wlPmx--CwKqrtEh_4udxVQh7qwTC74eIzudEzNaIOhcJPt9XwZfTm4kk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/R7j8pXicHcTdTsIwGADQJyr7xYGJF2SCY8gcSxXtjcGu7iP9to61s3Uv6TVvY8K5ONc_MKbX956HEM0apRoUoxYDV50RnZlx1XpNrwnXRHurrCrpEdNE9EVUDbWkG5TmDp6RuPnANirZ16ufLA7PEvYhCQ6PLHuFPP8NOtf7WTHZr0Xl2LGiE4KcY3t-4h8YLSk7hRbL1hGS2t1lMGv4jMfavR0guViaJrHYTmO9norT9gV4Xprlu2XftI2lfLCB7_sEbnPS_QPRjUh3"
+    },
+    {
+      "position": 14,
+      "title": "Playa brava",
+      "place_id": "ChIJLxfhW4T3n5URulBM4n8gCSM",
+      "data_id": "0x959ff7845be1172f:0x2309207fe24c50ba",
+      "data_cid": "2524584799747461306",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff7845be1172f%3A0x2309207fe24c50ba&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff7845be1172f%3A0x2309207fe24c50ba&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7805754,
+        "longitude": -55.7562694
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJLxfhW4T3n5URulBM4n8gCSM",
+      "provider_id": "/g/11fk15yy1g",
+      "rating": 4.5,
+      "reviews": 12,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "669V+QF9, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl3Nj8NaZy0Lg5hh52yQXsuDTywE3zkNy5Cylbd_pSqN2kfoRpOUsGQ-URr8CZtQIdta0XqmAYJ-h_AcJi3QKFHS6Pln72kBDhhzXf2HfRsxnPPCc5EOsZVq_XnvotXzh67jMRM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0dqIV3icHcRBcoIwFADQE0VSGNRxxgVFW2oVIaKmbBgbgV-JCfhjNVzQM3ibzvQt3vMBxrQ4cRwJ3qDWupblFcuL0MqUygyEPjt1i0QgQSeIWJLtpRefxvEht3RZ-wC-a1OO11lmb3Ovb2Lrh1Z-H4t208VuU2nWrrf4npItu4zD3KQfR3OgvDsHXwsCRSAWP176-RZtholUI7d5nQH0vHKjiuFdJUko_Pka811XcPWrDe9hODqt2Gp6e6GUEvhfEPUHmTBFaw"
+    },
+    {
+      "position": 15,
+      "title": "Parque de los Pájaros",
+      "place_id": "ChIJZQ3wdhH1n5URIgGRGyXgbBE",
+      "data_id": "0x959ff51176f00d65:0x116ce0251b910122",
+      "data_cid": "1255624846110425378",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff51176f00d65%3A0x116ce0251b910122&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff51176f00d65%3A0x116ce0251b910122&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.773354399999995,
+        "longitude": -55.8164259
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZQ3wdhH1n5URIgGRGyXgbBE",
+      "provider_id": "/g/11c74ynwtp",
+      "rating": 4.6,
+      "reviews": 558,
+      "unclaimed_listing": true,
+      "type": "Parque temático",
+      "types": [
+        "Parque temático",
+        "Parque"
+      ],
+      "address": "65GM+MC4, 15100 Marindia, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnve_xCMp3-PKIECkHg19PHPwRN0GWAeOKRzAdPm6ETdJvk5frnyl3odmvazPMeeyoox0wtke9Z4j1C92E_AvAFa9TC3tOVqFYMQVJosuyaU5C00r2L0pXcCxiL3QqOOxsHQXkf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/um7_DXicHcTbDoIgAADQLyIxss22Hhiz7GKis6xenEPSUsGEvPSDfUN_09Z5ON9PoXWjFoZRFWiSS5lX_KV4y6TQXOgJk7WRNwowBZSB3ZBGseh4MhCvQYDuNg4p3dy0qUv78ADXMeb-LnzjjNZzJ8q2XWndWjFWSGZ1l76px_ko5QB7XXL7OnuYxJ46Ce7wKrUjgrR_eq4uXnDaSvUa06NFIGyne9icGRnuexQ8fX9QbnAub8vehBCC4j8D4gdgaETA"
+    },
+    {
+      "position": 16,
+      "title": "La casa del miedo",
+      "place_id": "ChIJNw0FFgD1n5URQ-woeAVMEZI",
+      "data_id": "0x959ff50016050d37:0x92114c057828ec43",
+      "data_cid": "10525277390516055107",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff50016050d37%3A0x92114c057828ec43&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff50016050d37%3A0x92114c057828ec43&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7725998,
+        "longitude": -55.7602702
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJNw0FFgD1n5URQ-woeAVMEZI",
+      "provider_id": "/g/11mkby5w4g",
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Gral. Artigas Y, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Cqr3ulYxOZQN3riWK8B47A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=56.198383&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-FgFoHicHc3NDcIgGADQbbgJVPyhJsSoRxONJ6MXgxThS2hBoKVu41puo3GB9z5vm3NIK0JSjlrnAXQJMGqXJkFi471xWgZIWPmWDBXJtm_vnQS3DrLz0IjdM7LeXcbj9XRgEc57vp0tN0jdb8qB7rJIWkZlsSk_MfoGm5BQEZwiK-opeski5gtc1ZxxhgJkZQVF_-XhB1FR-gVjnjk8"
+    },
+    {
+      "position": 17,
+      "title": "Parque Franklin Delano Roosevelt",
+      "place_id": "ChIJD9pjIYKIn5UR5-Mn6w_4SkI",
+      "data_id": "0x959f88822163da0f:0x424af80feb27e3e7",
+      "data_cid": "4776903102033290215",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f88822163da0f%3A0x424af80feb27e3e7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f88822163da0f%3A0x424af80feb27e3e7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.858511899999996,
+        "longitude": -56.022731099999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJD9pjIYKIn5UR5-Mn6w_4SkI",
+      "provider_id": "/g/122x82s4",
+      "rating": 4.3,
+      "reviews": 10966,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Reserva nacional",
+        "Parque"
+      ],
+      "address": "Av. a la Playa 16, 15000 Ciudad de la Costa, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–10 p. m.",
+        "miércoles": "10 a. m.–10 p. m.",
+        "jueves": "10 a. m.–10 p. m.",
+        "viernes": "10 a. m.–10 p. m.",
+        "sábado": "10 a. m.–10 p. m.",
+        "domingo": "10 a. m.–10 p. m.",
+        "lunes": "10 a. m.–10 p. m."
+      },
+      "phone": "2601 1350",
+      "website": "https://parqueroosevelt.uy/",
+      "description": "Extensa reserva natural boscosa. Reserva extensa cubierta de eucaliptos con senderos, loros que habitan en el lugar y festivales ocasionales.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGjVJkVD0K2RumYVenbw1ITqlBVreMxHVYm9aCroqZqR5tAFkioPKGTn9qtwUq4OF89Lsfr7FPNT3Ojh0vAo9EB3pPTrFecdFp6Tml3MUchNn5g6D5vVKHF4E9w8Z5LwnOYQ2KMg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/j2B8AHicHcRLcoIwAADQEyFRxBpnXOAnooggE9PBnU3TpEoS8tF4xR7B2zjTt3ivP-F972Zx3IlkwLXmHbs7ZqlWnik_oFrGvHcRdZGLs7yp8afcXMnuRlagGDV32RKmvsJwi023IJaVz5y0El6WVpuzaVKfoduvrosNVtD4cDLjCk3h3v3YD1QfcFJdBXhkGq4XSV9jixj9Rv0Eyy4pT1QcVMonq_RBihyN1zBMz-k-qKo9joqSz8MQABCJ_2mk3g5DROM"
+    },
+    {
+      "position": 18,
+      "title": "Feria Artesanal",
+      "place_id": "ChIJez-lbQD1n5UREnoffe8WugM",
+      "data_id": "0x959ff5006da53f7b:0x3ba16ef7d1f7a12",
+      "data_cid": "268552345634175506",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff5006da53f7b%3A0x3ba16ef7d1f7a12&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff5006da53f7b%3A0x3ba16ef7d1f7a12&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7740663,
+        "longitude": -55.761465099999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJez-lbQD1n5UREnoffe8WugM",
+      "provider_id": "/g/11lyr91c3v",
+      "rating": 4.4,
+      "reviews": 9,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "66GQ+9CF, Calle montevideo, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltiu6FfApxTgGf4kQspamicA9ITLQFOnlYzRETYxXtpRMauuI65zfBPDnvTr3BNRPYX_5FACAkQ81QZyxH0eCySgrS1EIrTfs7OzIC_lh4wR-EjPtx1M6NTaHbxN0ISvNOPj6EOWJDU0s=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xBsIM3icHcTBboIwAADQL6qUqLgt2aEiSJcJpXRRdjHYQFFraWjRykd6929MfIf3fLTWavPlebKdTkTXCVkPpu55p2yt7IR3F09oA7gBxkMJJWwr7XEI4gZpx8S6mZ1zo6vLkaNPzH7zOFOyHGnESrezmm6qYcDBfGyWZKWurJ8uU0rK3X4eoxCd8w8__7-7BNbhvRB94Ue4Z41ZZCMO97Kd3SiITsQ6fxOkrEoOLoW4uKYZOQVRtv1Z_UHzffMhhKB9z4F6Aa_BRxQ"
+    },
+    {
+      "position": 19,
+      "title": "Arco de Salinas",
+      "place_id": "ChIJjVzWGDb1n5URvv4icEHeTIE",
+      "data_id": "0x959ff53618d65c8d:0x814cde417022febe",
+      "data_cid": "9317066101758295742",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff53618d65c8d%3A0x814cde417022febe&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff53618d65c8d%3A0x814cde417022febe&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.775652199999996,
+        "longitude": -55.8400197
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJjVzWGDb1n5URvv4icEHeTIE",
+      "provider_id": "/g/11b6bmqwsg",
+      "rating": 4.1,
+      "reviews": 6795,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Monumento"
+      ],
+      "address": "65F5+PXQ, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQJP5GMS73IU-cxlY2qnnQOoOYXsK1gfkeFx12WlcbtViV0GL-d8vq4CrMi3aAZl_LDXyaRNCRG6V8ty0VooP5QvOZ9jtqA4PMbNqZd8z7_xRueOjdjQEAt8iqeSPsIoZgmexKXA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7bCkmHicHcRZEoIgAADQE5GYLdZMH0yLbSZamfnTFBJqCBFU1g07Qrdppvfxvp_cmKvuWxbPnQaTknF61_RGpDBUmAaRlcWuGhANtIWmEd7sqnCO256_7jqzLSA13zeVEGEgg32iFzY7X-iktps7Tk4mLmLoLUHmPlRrePML54hSfliOktcxWg0jrxO75gVjKXE7fARprzQKtbB_Wqk0c9_dQx3daVBmZThGxi0UXWM9kymraL1I0OBpQwhB_p8A8QPN90Wy"
+    },
+    {
+      "position": 20,
+      "title": "La Serena Beach",
+      "place_id": "ChIJa1YDZRX1n5URt-PpIah-K8E",
+      "data_id": "0x959ff5156503566b:0xc12b7ea821e9e3b7",
+      "data_cid": "13919358333907231671",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff5156503566b%3A0xc12b7ea821e9e3b7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff5156503566b%3A0xc12b7ea821e9e3b7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.772849,
+        "longitude": -55.7700904
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJa1YDZRX1n5URt-PpIah-K8E",
+      "provider_id": "/g/11h5rh5x3x",
+      "rating": 4.5,
+      "reviews": 8,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "66GH+VX7, 15200 Atlántida, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnH8onufiUKXXPVC4MNTFcH5fF3AUilnEn8nFlz8dFAwwaxtcFbIRA_KIhd-px0i8XZ4jr5yepyHEC7ke23xQc5aQOtAGmnA69YnigauYOsFaz977Tx9fz7vr_NLTnk7hRyvdUl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IjAfknicHcRbjoIwFADQFVVQxIKJH42xg_FNwMH5MUwpFK23hBZ5bNA1uBsTz8d5v4QxlZ5blhTOqFCqkLzRvGYKDAczYuphFZVGTCNtkSA8Rr8QeAqavIw3SXI8L6e7fURZ4ObUIXEpYQUeUDl4GSVtm3aG0f91SK6btchQ1dmll_xNb7Xb86oPVkt85xOnOzE3PR0M-XkAmfkXKIu0uRw0TQcf46jz8wE_6-t-G8Edi7B_ZrFctGPbtpH4zhB8AH6RRXY"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Atl%C3%A1ntida+Uruguay&start=20&type=search"
+  }
+}

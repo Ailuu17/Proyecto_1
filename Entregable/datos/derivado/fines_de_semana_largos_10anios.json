@@ -1,0 +1,1972 @@
+{
+  "anio_actual": 2026,
+  "pais": "UY",
+  "anios_consultados": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "total_anios": 10,
+  "ultima_actualizacion": "2026-09-15 18:19:38",
+  "findes_largos_por_anio": {
+    "2017": [
+      {
+        "anio": 2017,
+        "inicio": "2017-01-06",
+        "fin": "2017-01-08",
+        "inicio_formateado": "Viernes 06/01/2017",
+        "fin_formateado": "Domingo 08/01/2017",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2017-01-06",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de los Niños",
+            "nombre_ingles": "Children's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Niños"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-02-25",
+        "fin": "2017-02-28",
+        "inicio_formateado": "Sábado 25/02/2017",
+        "fin_formateado": "Martes 28/02/2017",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2017-02-27",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2017-02-28",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-04-13",
+        "fin": "2017-04-16",
+        "inicio_formateado": "Jueves 13/04/2017",
+        "fin_formateado": "Domingo 16/04/2017",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2017-04-13",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2017-04-14",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-04-29",
+        "fin": "2017-05-01",
+        "inicio_formateado": "Sábado 29/04/2017",
+        "fin_formateado": "Lunes 01/05/2017",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2017-05-01",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de los Trabajadores",
+            "nombre_ingles": "International Workers' Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Trabajadores"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-05-18",
+        "fin": "2017-05-21",
+        "inicio_formateado": "Jueves 18/05/2017",
+        "fin_formateado": "Domingo 21/05/2017",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2017-05-19"
+        ],
+        "feriados": [
+          {
+            "fecha": "2017-05-18",
+            "dia_semana": "Jueves",
+            "nombre_local": "Batalla de las Piedras",
+            "nombre_ingles": "Battle of Las Piedras"
+          }
+        ],
+        "nombres_feriados": [
+          "Batalla de las Piedras"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-06-17",
+        "fin": "2017-06-19",
+        "inicio_formateado": "Sábado 17/06/2017",
+        "fin_formateado": "Lunes 19/06/2017",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2017-06-19",
+            "dia_semana": "Lunes",
+            "nombre_local": "Natalicio de Artigas y Día del Nunca Más",
+            "nombre_ingles": "Birthday of José Gervasio Artigas and Never Again Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Natalicio de Artigas y Día del Nunca Más"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-07-15",
+        "fin": "2017-07-18",
+        "inicio_formateado": "Sábado 15/07/2017",
+        "fin_formateado": "Martes 18/07/2017",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2017-07-17"
+        ],
+        "feriados": [
+          {
+            "fecha": "2017-07-18",
+            "dia_semana": "Martes",
+            "nombre_local": "Jura de la Constitución",
+            "nombre_ingles": "Constitution Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Jura de la Constitución"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-08-25",
+        "fin": "2017-08-27",
+        "inicio_formateado": "Viernes 25/08/2017",
+        "fin_formateado": "Domingo 27/08/2017",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2017-08-25",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de la Independencia",
+            "nombre_ingles": "Independence Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Independencia"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-10-12",
+        "fin": "2017-10-15",
+        "inicio_formateado": "Jueves 12/10/2017",
+        "fin_formateado": "Domingo 15/10/2017",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2017-10-13"
+        ],
+        "feriados": [
+          {
+            "fecha": "2017-10-12",
+            "dia_semana": "Jueves",
+            "nombre_local": "Día de la Raza",
+            "nombre_ingles": "Day of the race"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Raza"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-11-02",
+        "fin": "2017-11-05",
+        "inicio_formateado": "Jueves 02/11/2017",
+        "fin_formateado": "Domingo 05/11/2017",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2017-11-03"
+        ],
+        "feriados": [
+          {
+            "fecha": "2017-11-02",
+            "dia_semana": "Jueves",
+            "nombre_local": "Día de los Difuntos",
+            "nombre_ingles": "Deceased ones day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Difuntos"
+        ]
+      },
+      {
+        "anio": 2017,
+        "inicio": "2017-12-23",
+        "fin": "2017-12-25",
+        "inicio_formateado": "Sábado 23/12/2017",
+        "fin_formateado": "Lunes 25/12/2017",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2017-12-25",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de la Familia",
+            "nombre_ingles": "Christmas Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Familia"
+        ]
+      }
+    ],
+    "2018": [
+      {
+        "anio": 2018,
+        "inicio": "2017-12-30",
+        "fin": "2018-01-01",
+        "inicio_formateado": "Sábado 30/12/2017",
+        "fin_formateado": "Lunes 01/01/2018",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2018-01-01",
+            "dia_semana": "Lunes",
+            "nombre_local": "Año Nuevo",
+            "nombre_ingles": "New Year's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Año Nuevo"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-02-10",
+        "fin": "2018-02-13",
+        "inicio_formateado": "Sábado 10/02/2018",
+        "fin_formateado": "Martes 13/02/2018",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2018-02-12",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2018-02-13",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-03-29",
+        "fin": "2018-04-01",
+        "inicio_formateado": "Jueves 29/03/2018",
+        "fin_formateado": "Domingo 01/04/2018",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2018-03-29",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2018-03-30",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-04-19",
+        "fin": "2018-04-22",
+        "inicio_formateado": "Jueves 19/04/2018",
+        "fin_formateado": "Domingo 22/04/2018",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2018-04-20"
+        ],
+        "feriados": [
+          {
+            "fecha": "2018-04-19",
+            "dia_semana": "Jueves",
+            "nombre_local": "Desembarco de los 33 Orientales",
+            "nombre_ingles": "Landing of the 33 Patriots Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Desembarco de los 33 Orientales"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-04-28",
+        "fin": "2018-05-01",
+        "inicio_formateado": "Sábado 28/04/2018",
+        "fin_formateado": "Martes 01/05/2018",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2018-04-30"
+        ],
+        "feriados": [
+          {
+            "fecha": "2018-05-01",
+            "dia_semana": "Martes",
+            "nombre_local": "Día de los Trabajadores",
+            "nombre_ingles": "International Workers' Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Trabajadores"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-05-18",
+        "fin": "2018-05-20",
+        "inicio_formateado": "Viernes 18/05/2018",
+        "fin_formateado": "Domingo 20/05/2018",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2018-05-18",
+            "dia_semana": "Viernes",
+            "nombre_local": "Batalla de las Piedras",
+            "nombre_ingles": "Battle of Las Piedras"
+          }
+        ],
+        "nombres_feriados": [
+          "Batalla de las Piedras"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-06-16",
+        "fin": "2018-06-19",
+        "inicio_formateado": "Sábado 16/06/2018",
+        "fin_formateado": "Martes 19/06/2018",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2018-06-18"
+        ],
+        "feriados": [
+          {
+            "fecha": "2018-06-19",
+            "dia_semana": "Martes",
+            "nombre_local": "Natalicio de Artigas y Día del Nunca Más",
+            "nombre_ingles": "Birthday of José Gervasio Artigas and Never Again Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Natalicio de Artigas y Día del Nunca Más"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-10-12",
+        "fin": "2018-10-14",
+        "inicio_formateado": "Viernes 12/10/2018",
+        "fin_formateado": "Domingo 14/10/2018",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2018-10-12",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de la Raza",
+            "nombre_ingles": "Day of the race"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Raza"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-11-02",
+        "fin": "2018-11-04",
+        "inicio_formateado": "Viernes 02/11/2018",
+        "fin_formateado": "Domingo 04/11/2018",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2018-11-02",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de los Difuntos",
+            "nombre_ingles": "Deceased ones day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Difuntos"
+        ]
+      },
+      {
+        "anio": 2018,
+        "inicio": "2018-12-22",
+        "fin": "2018-12-25",
+        "inicio_formateado": "Sábado 22/12/2018",
+        "fin_formateado": "Martes 25/12/2018",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2018-12-24"
+        ],
+        "feriados": [
+          {
+            "fecha": "2018-12-25",
+            "dia_semana": "Martes",
+            "nombre_local": "Día de la Familia",
+            "nombre_ingles": "Christmas Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Familia"
+        ]
+      }
+    ],
+    "2019": [
+      {
+        "anio": 2019,
+        "inicio": "2018-12-29",
+        "fin": "2019-01-01",
+        "inicio_formateado": "Sábado 29/12/2018",
+        "fin_formateado": "Martes 01/01/2019",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2018-12-31"
+        ],
+        "feriados": [
+          {
+            "fecha": "2019-01-01",
+            "dia_semana": "Martes",
+            "nombre_local": "Año Nuevo",
+            "nombre_ingles": "New Year's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Año Nuevo"
+        ]
+      },
+      {
+        "anio": 2019,
+        "inicio": "2019-03-02",
+        "fin": "2019-03-05",
+        "inicio_formateado": "Sábado 02/03/2019",
+        "fin_formateado": "Martes 05/03/2019",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2019-03-04",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2019-03-05",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2019,
+        "inicio": "2019-04-18",
+        "fin": "2019-04-21",
+        "inicio_formateado": "Jueves 18/04/2019",
+        "fin_formateado": "Domingo 21/04/2019",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2019-04-18",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2019-04-19",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo"
+        ]
+      },
+      {
+        "anio": 2019,
+        "inicio": "2019-07-18",
+        "fin": "2019-07-21",
+        "inicio_formateado": "Jueves 18/07/2019",
+        "fin_formateado": "Domingo 21/07/2019",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2019-07-19"
+        ],
+        "feriados": [
+          {
+            "fecha": "2019-07-18",
+            "dia_semana": "Jueves",
+            "nombre_local": "Jura de la Constitución",
+            "nombre_ingles": "Constitution Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Jura de la Constitución"
+        ]
+      }
+    ],
+    "2020": [
+      {
+        "anio": 2020,
+        "inicio": "2020-01-04",
+        "fin": "2020-01-06",
+        "inicio_formateado": "Sábado 04/01/2020",
+        "fin_formateado": "Lunes 06/01/2020",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-01-06",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de los Niños",
+            "nombre_ingles": "Children's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Niños"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-02-22",
+        "fin": "2020-02-25",
+        "inicio_formateado": "Sábado 22/02/2020",
+        "fin_formateado": "Martes 25/02/2020",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-02-24",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2020-02-25",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-04-09",
+        "fin": "2020-04-12",
+        "inicio_formateado": "Jueves 09/04/2020",
+        "fin_formateado": "Domingo 12/04/2020",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-04-09",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2020-04-10",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-05-01",
+        "fin": "2020-05-03",
+        "inicio_formateado": "Viernes 01/05/2020",
+        "fin_formateado": "Domingo 03/05/2020",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-05-01",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de los Trabajadores",
+            "nombre_ingles": "International Workers' Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Trabajadores"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-05-16",
+        "fin": "2020-05-18",
+        "inicio_formateado": "Sábado 16/05/2020",
+        "fin_formateado": "Lunes 18/05/2020",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-05-18",
+            "dia_semana": "Lunes",
+            "nombre_local": "Batalla de las Piedras",
+            "nombre_ingles": "Battle of Las Piedras"
+          }
+        ],
+        "nombres_feriados": [
+          "Batalla de las Piedras"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-06-19",
+        "fin": "2020-06-21",
+        "inicio_formateado": "Viernes 19/06/2020",
+        "fin_formateado": "Domingo 21/06/2020",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-06-19",
+            "dia_semana": "Viernes",
+            "nombre_local": "Natalicio de Artigas y Día del Nunca Más",
+            "nombre_ingles": "Birthday of José Gervasio Artigas and Never Again Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Natalicio de Artigas y Día del Nunca Más"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-08-22",
+        "fin": "2020-08-25",
+        "inicio_formateado": "Sábado 22/08/2020",
+        "fin_formateado": "Martes 25/08/2020",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2020-08-24"
+        ],
+        "feriados": [
+          {
+            "fecha": "2020-08-25",
+            "dia_semana": "Martes",
+            "nombre_local": "Día de la Independencia",
+            "nombre_ingles": "Independence Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Independencia"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-10-10",
+        "fin": "2020-10-12",
+        "inicio_formateado": "Sábado 10/10/2020",
+        "fin_formateado": "Lunes 12/10/2020",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-10-12",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de la Raza",
+            "nombre_ingles": "Day of the race"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Raza"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-10-31",
+        "fin": "2020-11-02",
+        "inicio_formateado": "Sábado 31/10/2020",
+        "fin_formateado": "Lunes 02/11/2020",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-11-02",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de los Difuntos",
+            "nombre_ingles": "Deceased ones day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Difuntos"
+        ]
+      },
+      {
+        "anio": 2020,
+        "inicio": "2020-12-25",
+        "fin": "2020-12-27",
+        "inicio_formateado": "Viernes 25/12/2020",
+        "fin_formateado": "Domingo 27/12/2020",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2020-12-25",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de la Familia",
+            "nombre_ingles": "Christmas Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Familia"
+        ]
+      }
+    ],
+    "2021": [
+      {
+        "anio": 2021,
+        "inicio": "2021-01-01",
+        "fin": "2021-01-03",
+        "inicio_formateado": "Viernes 01/01/2021",
+        "fin_formateado": "Domingo 03/01/2021",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2021-01-01",
+            "dia_semana": "Viernes",
+            "nombre_local": "Año Nuevo",
+            "nombre_ingles": "New Year's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Año Nuevo"
+        ]
+      },
+      {
+        "anio": 2021,
+        "inicio": "2021-02-13",
+        "fin": "2021-02-16",
+        "inicio_formateado": "Sábado 13/02/2021",
+        "fin_formateado": "Martes 16/02/2021",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2021-02-15",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2021-02-16",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2021,
+        "inicio": "2021-04-01",
+        "fin": "2021-04-04",
+        "inicio_formateado": "Jueves 01/04/2021",
+        "fin_formateado": "Domingo 04/04/2021",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2021-04-01",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2021-04-02",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo"
+        ]
+      },
+      {
+        "anio": 2021,
+        "inicio": "2021-04-17",
+        "fin": "2021-04-19",
+        "inicio_formateado": "Sábado 17/04/2021",
+        "fin_formateado": "Lunes 19/04/2021",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2021-04-19",
+            "dia_semana": "Lunes",
+            "nombre_local": "Desembarco de los 33 Orientales",
+            "nombre_ingles": "Landing of the 33 Patriots Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Desembarco de los 33 Orientales"
+        ]
+      },
+      {
+        "anio": 2021,
+        "inicio": "2021-05-15",
+        "fin": "2021-05-18",
+        "inicio_formateado": "Sábado 15/05/2021",
+        "fin_formateado": "Martes 18/05/2021",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2021-05-17"
+        ],
+        "feriados": [
+          {
+            "fecha": "2021-05-18",
+            "dia_semana": "Martes",
+            "nombre_local": "Batalla de las Piedras",
+            "nombre_ingles": "Battle of Las Piedras"
+          }
+        ],
+        "nombres_feriados": [
+          "Batalla de las Piedras"
+        ]
+      },
+      {
+        "anio": 2021,
+        "inicio": "2021-10-09",
+        "fin": "2021-10-12",
+        "inicio_formateado": "Sábado 09/10/2021",
+        "fin_formateado": "Martes 12/10/2021",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2021-10-11"
+        ],
+        "feriados": [
+          {
+            "fecha": "2021-10-12",
+            "dia_semana": "Martes",
+            "nombre_local": "Día de la Raza",
+            "nombre_ingles": "Day of the race"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Raza"
+        ]
+      },
+      {
+        "anio": 2021,
+        "inicio": "2021-10-30",
+        "fin": "2021-11-02",
+        "inicio_formateado": "Sábado 30/10/2021",
+        "fin_formateado": "Martes 02/11/2021",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2021-11-01"
+        ],
+        "feriados": [
+          {
+            "fecha": "2021-11-02",
+            "dia_semana": "Martes",
+            "nombre_local": "Día de los Difuntos",
+            "nombre_ingles": "Deceased ones day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Difuntos"
+        ]
+      }
+    ],
+    "2022": [
+      {
+        "anio": 2022,
+        "inicio": "2022-01-06",
+        "fin": "2022-01-09",
+        "inicio_formateado": "Jueves 06/01/2022",
+        "fin_formateado": "Domingo 09/01/2022",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2022-01-07"
+        ],
+        "feriados": [
+          {
+            "fecha": "2022-01-06",
+            "dia_semana": "Jueves",
+            "nombre_local": "Día de los Niños",
+            "nombre_ingles": "Children's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Niños"
+        ]
+      },
+      {
+        "anio": 2022,
+        "inicio": "2022-02-26",
+        "fin": "2022-03-01",
+        "inicio_formateado": "Sábado 26/02/2022",
+        "fin_formateado": "Martes 01/03/2022",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2022-02-28",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2022-03-01",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2022,
+        "inicio": "2022-04-14",
+        "fin": "2022-04-19",
+        "inicio_formateado": "Jueves 14/04/2022",
+        "fin_formateado": "Martes 19/04/2022",
+        "duracion_dias": 6,
+        "es_puente": true,
+        "dias_puente": [
+          "2022-04-18"
+        ],
+        "feriados": [
+          {
+            "fecha": "2022-04-14",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2022-04-15",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          },
+          {
+            "fecha": "2022-04-19",
+            "dia_semana": "Martes",
+            "nombre_local": "Desembarco de los 33 Orientales",
+            "nombre_ingles": "Landing of the 33 Patriots Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo",
+          "Desembarco de los 33 Orientales"
+        ]
+      },
+      {
+        "anio": 2022,
+        "inicio": "2022-07-16",
+        "fin": "2022-07-18",
+        "inicio_formateado": "Sábado 16/07/2022",
+        "fin_formateado": "Lunes 18/07/2022",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2022-07-18",
+            "dia_semana": "Lunes",
+            "nombre_local": "Jura de la Constitución",
+            "nombre_ingles": "Constitution Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Jura de la Constitución"
+        ]
+      },
+      {
+        "anio": 2022,
+        "inicio": "2022-08-25",
+        "fin": "2022-08-28",
+        "inicio_formateado": "Jueves 25/08/2022",
+        "fin_formateado": "Domingo 28/08/2022",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2022-08-26"
+        ],
+        "feriados": [
+          {
+            "fecha": "2022-08-25",
+            "dia_semana": "Jueves",
+            "nombre_local": "Día de la Independencia",
+            "nombre_ingles": "Independence Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Independencia"
+        ]
+      }
+    ],
+    "2023": [
+      {
+        "anio": 2023,
+        "inicio": "2023-01-06",
+        "fin": "2023-01-08",
+        "inicio_formateado": "Viernes 06/01/2023",
+        "fin_formateado": "Domingo 08/01/2023",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2023-01-06",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de los Niños",
+            "nombre_ingles": "Children's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Niños"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-02-18",
+        "fin": "2023-02-21",
+        "inicio_formateado": "Sábado 18/02/2023",
+        "fin_formateado": "Martes 21/02/2023",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2023-02-20",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2023-02-21",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-04-06",
+        "fin": "2023-04-09",
+        "inicio_formateado": "Jueves 06/04/2023",
+        "fin_formateado": "Domingo 09/04/2023",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2023-04-06",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2023-04-07",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-04-29",
+        "fin": "2023-05-01",
+        "inicio_formateado": "Sábado 29/04/2023",
+        "fin_formateado": "Lunes 01/05/2023",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2023-05-01",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de los Trabajadores",
+            "nombre_ingles": "International Workers' Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Trabajadores"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-05-18",
+        "fin": "2023-05-21",
+        "inicio_formateado": "Jueves 18/05/2023",
+        "fin_formateado": "Domingo 21/05/2023",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2023-05-19"
+        ],
+        "feriados": [
+          {
+            "fecha": "2023-05-18",
+            "dia_semana": "Jueves",
+            "nombre_local": "Batalla de las Piedras",
+            "nombre_ingles": "Battle of Las Piedras"
+          }
+        ],
+        "nombres_feriados": [
+          "Batalla de las Piedras"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-06-17",
+        "fin": "2023-06-19",
+        "inicio_formateado": "Sábado 17/06/2023",
+        "fin_formateado": "Lunes 19/06/2023",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2023-06-19",
+            "dia_semana": "Lunes",
+            "nombre_local": "Natalicio de Artigas y Día del Nunca Más",
+            "nombre_ingles": "Birthday of José Gervasio Artigas and Never Again Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Natalicio de Artigas y Día del Nunca Más"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-07-15",
+        "fin": "2023-07-18",
+        "inicio_formateado": "Sábado 15/07/2023",
+        "fin_formateado": "Martes 18/07/2023",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2023-07-17"
+        ],
+        "feriados": [
+          {
+            "fecha": "2023-07-18",
+            "dia_semana": "Martes",
+            "nombre_local": "Jura de la Constitución",
+            "nombre_ingles": "Constitution Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Jura de la Constitución"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-08-25",
+        "fin": "2023-08-27",
+        "inicio_formateado": "Viernes 25/08/2023",
+        "fin_formateado": "Domingo 27/08/2023",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2023-08-25",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de la Independencia",
+            "nombre_ingles": "Independence Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Independencia"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-10-12",
+        "fin": "2023-10-15",
+        "inicio_formateado": "Jueves 12/10/2023",
+        "fin_formateado": "Domingo 15/10/2023",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2023-10-13"
+        ],
+        "feriados": [
+          {
+            "fecha": "2023-10-12",
+            "dia_semana": "Jueves",
+            "nombre_local": "Día de la Raza",
+            "nombre_ingles": "Day of the race"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Raza"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-11-02",
+        "fin": "2023-11-05",
+        "inicio_formateado": "Jueves 02/11/2023",
+        "fin_formateado": "Domingo 05/11/2023",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2023-11-03"
+        ],
+        "feriados": [
+          {
+            "fecha": "2023-11-02",
+            "dia_semana": "Jueves",
+            "nombre_local": "Día de los Difuntos",
+            "nombre_ingles": "Deceased ones day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Difuntos"
+        ]
+      },
+      {
+        "anio": 2023,
+        "inicio": "2023-12-23",
+        "fin": "2023-12-25",
+        "inicio_formateado": "Sábado 23/12/2023",
+        "fin_formateado": "Lunes 25/12/2023",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2023-12-25",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de la Familia",
+            "nombre_ingles": "Christmas Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Familia"
+        ]
+      }
+    ],
+    "2024": [
+      {
+        "anio": 2024,
+        "inicio": "2023-12-30",
+        "fin": "2024-01-01",
+        "inicio_formateado": "Sábado 30/12/2023",
+        "fin_formateado": "Lunes 01/01/2024",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2024-01-01",
+            "dia_semana": "Lunes",
+            "nombre_local": "Año Nuevo",
+            "nombre_ingles": "New Year's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Año Nuevo"
+        ]
+      },
+      {
+        "anio": 2024,
+        "inicio": "2024-02-10",
+        "fin": "2024-02-13",
+        "inicio_formateado": "Sábado 10/02/2024",
+        "fin_formateado": "Martes 13/02/2024",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2024-02-12",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2024-02-13",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2024,
+        "inicio": "2024-03-28",
+        "fin": "2024-03-31",
+        "inicio_formateado": "Jueves 28/03/2024",
+        "fin_formateado": "Domingo 31/03/2024",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2024-03-28",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2024-03-29",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo"
+        ]
+      },
+      {
+        "anio": 2024,
+        "inicio": "2024-04-19",
+        "fin": "2024-04-21",
+        "inicio_formateado": "Viernes 19/04/2024",
+        "fin_formateado": "Domingo 21/04/2024",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2024-04-19",
+            "dia_semana": "Viernes",
+            "nombre_local": "Desembarco de los 33 Orientales",
+            "nombre_ingles": "Landing of the 33 Patriots Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Desembarco de los 33 Orientales"
+        ]
+      },
+      {
+        "anio": 2024,
+        "inicio": "2024-07-18",
+        "fin": "2024-07-21",
+        "inicio_formateado": "Jueves 18/07/2024",
+        "fin_formateado": "Domingo 21/07/2024",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2024-07-19"
+        ],
+        "feriados": [
+          {
+            "fecha": "2024-07-18",
+            "dia_semana": "Jueves",
+            "nombre_local": "Jura de la Constitución",
+            "nombre_ingles": "Constitution Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Jura de la Constitución"
+        ]
+      }
+    ],
+    "2025": [
+      {
+        "anio": 2025,
+        "inicio": "2025-01-04",
+        "fin": "2025-01-06",
+        "inicio_formateado": "Sábado 04/01/2025",
+        "fin_formateado": "Lunes 06/01/2025",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2025-01-06",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de los Niños",
+            "nombre_ingles": "Children's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Niños"
+        ]
+      },
+      {
+        "anio": 2025,
+        "inicio": "2025-03-01",
+        "fin": "2025-03-04",
+        "inicio_formateado": "Sábado 01/03/2025",
+        "fin_formateado": "Martes 04/03/2025",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2025-03-03",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2025-03-04",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2025,
+        "inicio": "2025-04-17",
+        "fin": "2025-04-20",
+        "inicio_formateado": "Jueves 17/04/2025",
+        "fin_formateado": "Domingo 20/04/2025",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2025-04-17",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2025-04-18",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          },
+          {
+            "fecha": "2025-04-19",
+            "dia_semana": "Sábado",
+            "nombre_local": "Desembarco de los 33 Orientales",
+            "nombre_ingles": "Landing of the 33 Patriots Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo",
+          "Desembarco de los 33 Orientales"
+        ]
+      },
+      {
+        "anio": 2025,
+        "inicio": "2025-05-01",
+        "fin": "2025-05-04",
+        "inicio_formateado": "Jueves 01/05/2025",
+        "fin_formateado": "Domingo 04/05/2025",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2025-05-02"
+        ],
+        "feriados": [
+          {
+            "fecha": "2025-05-01",
+            "dia_semana": "Jueves",
+            "nombre_local": "Día de los Trabajadores",
+            "nombre_ingles": "International Workers' Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Trabajadores"
+        ]
+      },
+      {
+        "anio": 2025,
+        "inicio": "2025-06-19",
+        "fin": "2025-06-22",
+        "inicio_formateado": "Jueves 19/06/2025",
+        "fin_formateado": "Domingo 22/06/2025",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2025-06-20"
+        ],
+        "feriados": [
+          {
+            "fecha": "2025-06-19",
+            "dia_semana": "Jueves",
+            "nombre_local": "Natalicio de Artigas y Día del Nunca Más",
+            "nombre_ingles": "Birthday of José Gervasio Artigas and Never Again Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Natalicio de Artigas y Día del Nunca Más"
+        ]
+      },
+      {
+        "anio": 2025,
+        "inicio": "2025-07-18",
+        "fin": "2025-07-20",
+        "inicio_formateado": "Viernes 18/07/2025",
+        "fin_formateado": "Domingo 20/07/2025",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2025-07-18",
+            "dia_semana": "Viernes",
+            "nombre_local": "Jura de la Constitución",
+            "nombre_ingles": "Constitution Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Jura de la Constitución"
+        ]
+      },
+      {
+        "anio": 2025,
+        "inicio": "2025-08-23",
+        "fin": "2025-08-25",
+        "inicio_formateado": "Sábado 23/08/2025",
+        "fin_formateado": "Lunes 25/08/2025",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2025-08-25",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de la Independencia",
+            "nombre_ingles": "Independence Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Independencia"
+        ]
+      },
+      {
+        "anio": 2025,
+        "inicio": "2025-12-25",
+        "fin": "2025-12-28",
+        "inicio_formateado": "Jueves 25/12/2025",
+        "fin_formateado": "Domingo 28/12/2025",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2025-12-26"
+        ],
+        "feriados": [
+          {
+            "fecha": "2025-12-25",
+            "dia_semana": "Jueves",
+            "nombre_local": "Día de la Familia",
+            "nombre_ingles": "Christmas Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Familia"
+        ]
+      }
+    ],
+    "2026": [
+      {
+        "anio": 2026,
+        "inicio": "2026-01-01",
+        "fin": "2026-01-04",
+        "inicio_formateado": "Jueves 01/01/2026",
+        "fin_formateado": "Domingo 04/01/2026",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2026-01-02"
+        ],
+        "feriados": [
+          {
+            "fecha": "2026-01-01",
+            "dia_semana": "Jueves",
+            "nombre_local": "Año Nuevo",
+            "nombre_ingles": "New Year's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Año Nuevo"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-01-03",
+        "fin": "2026-01-06",
+        "inicio_formateado": "Sábado 03/01/2026",
+        "fin_formateado": "Martes 06/01/2026",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2026-01-05"
+        ],
+        "feriados": [
+          {
+            "fecha": "2026-01-06",
+            "dia_semana": "Martes",
+            "nombre_local": "Día de los Niños",
+            "nombre_ingles": "Children's Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Niños"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-02-14",
+        "fin": "2026-02-17",
+        "inicio_formateado": "Sábado 14/02/2026",
+        "fin_formateado": "Martes 17/02/2026",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2026-02-16",
+            "dia_semana": "Lunes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          },
+          {
+            "fecha": "2026-02-17",
+            "dia_semana": "Martes",
+            "nombre_local": "Carnaval",
+            "nombre_ingles": "Carnival"
+          }
+        ],
+        "nombres_feriados": [
+          "Carnaval",
+          "Carnaval"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-04-02",
+        "fin": "2026-04-05",
+        "inicio_formateado": "Jueves 02/04/2026",
+        "fin_formateado": "Domingo 05/04/2026",
+        "duracion_dias": 4,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2026-04-02",
+            "dia_semana": "Jueves",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Maundy Thursday"
+          },
+          {
+            "fecha": "2026-04-03",
+            "dia_semana": "Viernes",
+            "nombre_local": "Semana de Turismo",
+            "nombre_ingles": "Good Friday"
+          }
+        ],
+        "nombres_feriados": [
+          "Semana de Turismo",
+          "Semana de Turismo"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-05-01",
+        "fin": "2026-05-03",
+        "inicio_formateado": "Viernes 01/05/2026",
+        "fin_formateado": "Domingo 03/05/2026",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2026-05-01",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de los Trabajadores",
+            "nombre_ingles": "International Workers' Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Trabajadores"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-05-16",
+        "fin": "2026-05-18",
+        "inicio_formateado": "Sábado 16/05/2026",
+        "fin_formateado": "Lunes 18/05/2026",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2026-05-18",
+            "dia_semana": "Lunes",
+            "nombre_local": "Batalla de las Piedras",
+            "nombre_ingles": "Battle of Las Piedras"
+          }
+        ],
+        "nombres_feriados": [
+          "Batalla de las Piedras"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-06-19",
+        "fin": "2026-06-21",
+        "inicio_formateado": "Viernes 19/06/2026",
+        "fin_formateado": "Domingo 21/06/2026",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2026-06-19",
+            "dia_semana": "Viernes",
+            "nombre_local": "Natalicio de Artigas y Día del Nunca Más",
+            "nombre_ingles": "Birthday of José Gervasio Artigas and Never Again Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Natalicio de Artigas y Día del Nunca Más"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-08-22",
+        "fin": "2026-08-25",
+        "inicio_formateado": "Sábado 22/08/2026",
+        "fin_formateado": "Martes 25/08/2026",
+        "duracion_dias": 4,
+        "es_puente": true,
+        "dias_puente": [
+          "2026-08-24"
+        ],
+        "feriados": [
+          {
+            "fecha": "2026-08-25",
+            "dia_semana": "Martes",
+            "nombre_local": "Día de la Independencia",
+            "nombre_ingles": "Independence Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Independencia"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-10-10",
+        "fin": "2026-10-12",
+        "inicio_formateado": "Sábado 10/10/2026",
+        "fin_formateado": "Lunes 12/10/2026",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2026-10-12",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de la Raza",
+            "nombre_ingles": "Day of the race"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Raza"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-10-31",
+        "fin": "2026-11-02",
+        "inicio_formateado": "Sábado 31/10/2026",
+        "fin_formateado": "Lunes 02/11/2026",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2026-11-02",
+            "dia_semana": "Lunes",
+            "nombre_local": "Día de los Difuntos",
+            "nombre_ingles": "Deceased ones day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de los Difuntos"
+        ]
+      },
+      {
+        "anio": 2026,
+        "inicio": "2026-12-25",
+        "fin": "2026-12-27",
+        "inicio_formateado": "Viernes 25/12/2026",
+        "fin_formateado": "Domingo 27/12/2026",
+        "duracion_dias": 3,
+        "es_puente": false,
+        "dias_puente": [],
+        "feriados": [
+          {
+            "fecha": "2026-12-25",
+            "dia_semana": "Viernes",
+            "nombre_local": "Día de la Familia",
+            "nombre_ingles": "Christmas Day"
+          }
+        ],
+        "nombres_feriados": [
+          "Día de la Familia"
+        ]
+      }
+    ]
+  }
+}

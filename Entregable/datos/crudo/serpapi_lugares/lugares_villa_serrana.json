@@ -1,0 +1,1150 @@
+{
+  "search_metadata": {
+    "id": "6aa89961079a2b284777630a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4G-J-eHgpdByKPM9HXGicM5Q9BL1NzUkaS4EJ2dmUII/6aa89961079a2b284777630a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4G-J-eHgpdByKPM9HXGicM5Q9BL1NzUkaS4EJ2dmUII/6aa89961079a2b284777630a.md",
+    "created_at": "2026-09-15 01:03:29 UTC",
+    "processed_at": "2026-09-15 01:03:29 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Villa+Serrana+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/4G-J-eHgpdByKPM9HXGicM5Q9BL1NzUkaS4EJ2dmUII/6aa89961079a2b284777630a.html",
+    "prettify_html_file": "https://serpapi.com/searches/4G-J-eHgpdByKPM9HXGicM5Q9BL1NzUkaS4EJ2dmUII/6aa89961079a2b284777630a.prettify",
+    "total_time_taken": 0.56
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Villa Serrana Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Villa Serrana Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Salto del Penitente",
+      "place_id": "ChIJvTd7SMzICpURuGzV9EM5ptU",
+      "data_id": "0x950ac8cc487b37bd:0xd5a63943f4d56cb8",
+      "data_cid": "15395055340245839032",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac8cc487b37bd%3A0xd5a63943f4d56cb8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac8cc487b37bd%3A0xd5a63943f4d56cb8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3721919,
+        "longitude": -55.0524778
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJvTd7SMzICpURuGzV9EM5ptU",
+      "provider_id": "/m/0wzrjbl",
+      "rating": 4.6,
+      "reviews": 8237,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "park"
+      ],
+      "address": "JWHX+42C, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mar",
+      "hours": "Cerrado · Abre a las 10 a. m. del mar",
+      "operating_hours": {
+        "lunes": "10 a. m.–6 p. m.",
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m."
+      },
+      "phone": "4440 3096",
+      "website": "http://www.saltodelpenitente.com/",
+      "description": "Cascada popular y ocio al aire libre. Cascada en un parque estatal. Tiene estanques minerales y cristalinos, senderos, restaurante y actividades.",
+      "extensions": [
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Muy lindo, vale 65 pesos uruguayos, re vale la pena pasar a verlo\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnPYh2AYa8qeKVLFRO4v3JzdzfhubZOJ-__I0ygWMZEaxrqzrchH4Ygp7Fa5K6x0w7s-Quet98APelqdcWZiryoAo6QgVYSfqo-VleevZWjyImzbs8QnpIm88pFL8PY7FMeAPvpjQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K1CiV3icHcRLjoIwGADgE1XqY6RO4qKLIeAjFp1AysZg_WnHQFtoQeGGc4S5jcl8i-_vV3lv3WcQ1Go5k8bIGnoHnTDag_YzYZpAWoeEQy6g8Zl955pxtaC8JC3ss0N0Pq2G5W66T5Xqb8Vph67XBI8yPxZf5atrp06oeMWlDaPyY79-4WfoUNqD3xDKoG7vIi9-utFQs05lxi9Va1BWAwxF_hiTZro5kmqbNITY6EAYD6MjUDbYR7p9zjHGSP0vkH4DWcNG0A"
+    },
+    {
+      "position": 2,
+      "title": "Represa Stewart Vargas",
+      "place_id": "ChIJ33Nv4GPFCpURBMv9ickXsM8",
+      "data_id": "0x950ac563e06f73df:0xcfb017c989fdcb04",
+      "data_cid": "14965487716123134724",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac563e06f73df%3A0xcfb017c989fdcb04&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac563e06f73df%3A0xcfb017c989fdcb04&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.320812499999995,
+        "longitude": -54.9889375
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ33Nv4GPFCpURBMv9ickXsM8",
+      "provider_id": "/g/1tcys_bf",
+      "rating": 4.6,
+      "reviews": 1659,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "park"
+      ],
+      "address": "12300, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 12 a. m.",
+      "hours": "Abierto · Cierra a las 12 a. m.",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "Cerrado",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "099 367 835",
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Columpios",
+            "Mesas de pícnic",
+            "Sanitario público",
+            "Toboganes"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños",
+            "Rutas de senderismo adecuadas para niños"
+          ]
+        },
+        {
+          "parking": [
+            "Estacionamiento en el lugar",
+            "Estacionamiento gratuito",
+            "Estacionamiento gratuito en la calle"
+          ]
+        },
+        {
+          "pets": [
+            "Parque para perros",
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "user_review": "\"Visitamos Villa Serrana sin investigar demasiado.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOERT0mmF0WlJ6A_ybdUkAuTVqfaiXtE8eXIExcTB6d6yUW-wdIFNUhEesMyfkNAEBz65s_yh4FLO_RYw_SWA1MR_ffwOEqd0A14RnL1bLRwWRvvb3BmGvjeNHBvYxQMKbo5u8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iz9_zXicHcRLjoIwAADQE1VKVGImmUVJij8-WmGqq0ZKoTNCq7ZQ8YKewduYzFu890taezVfntfK6aTRumlFb8Sda2WFshOuO6-5GsANMB5akV1OVYZJDrsugrTdBIiNZVVcUJ__3Orz79HihTiu8YPnYVAFY0GBq9ZRWkgsTDLWlxTh8BnMDRvlLIozRk6OHSjyE8Lq2mX4VkHkz4iK_TImjpJhKKdhtxz-RLoKh9Njn2xLPe8X386HEAL5PwfqA2tyRMo"
+    },
+    {
+      "position": 3,
+      "title": "Obelisco de Villa Serrana",
+      "place_id": "ChIJkzr01GDFCpURk9OLtK4J5Q8",
+      "data_id": "0x950ac560d4f43a93:0xfe509aeb48bd393",
+      "data_cid": "1145332326193681299",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac560d4f43a93%3A0xfe509aeb48bd393&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac560d4f43a93%3A0xfe509aeb48bd393&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.319683399999995,
+        "longitude": -54.9857277
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkzr01GDFCpURk9OLtK4J5Q8",
+      "provider_id": "/g/11b76lwd_p",
+      "rating": 3.9,
+      "reviews": 305,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "M2J7+4PC, Arrayán, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Muy lindo tranqui en paz lugar con mucha energia natural buenisimo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmdnZFtUyp-yMKMMgE24xO_JeyWoQniHNuGvZOcVfiV6sBUzsfpYmkvubNbJIH44_JorDzUYFu3-33lbCJXIbVyVO_SibBMzcqNEpN2Dr_nBkSE4F_oLKEdVLA5DFEnLrMtawqI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZX8dx3icHcRLEoIgAADQE5GW1qKZFpmYmmg_6bNhgkydFEiw0gt2hm7TTG_xvp9Ca6mmhlEV1iAXIq-yVmUNE1xnXA-YqI1cKsAUUMbc3673h_rKz55OOwk6tEIohyP7nZAw6w5iw0s_bpfPc8LwrcQT5aS9uslTfX-2NKZh4Ns2CUXj9unJay1gWRVdhMeA4g4nZFdSB_XsEUMZj9yGcOe-g7ZHRLSCVxzNx64HedQgfXk9gtlraJomKP4zwH_pYEWy"
+    },
+    {
+      "position": 4,
+      "title": "Baño de la India",
+      "place_id": "ChIJsRzHcPPPCpURLbRmrVFHrDU",
+      "data_id": "0x950acff370c71cb1:0x35ac4751ad66b42d",
+      "data_cid": "3867544596131525677",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950acff370c71cb1%3A0x35ac4751ad66b42d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950acff370c71cb1%3A0x35ac4751ad66b42d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3279287,
+        "longitude": -54.9800298
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJsRzHcPPPCpURLbRmrVFHrDU",
+      "provider_id": "/g/1tplrh2l",
+      "rating": 4.4,
+      "reviews": 1895,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "M2C9+RXH, Tembetarii, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Lindo lugar como recorrido dentro de Villa Serrana.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlkNQQhnxz8BrBQ46I9BCGgSC1d523qU-Ses_Tcl7u6lU-YeHHbkTKp_fbv-ShM2xGh3dgvFoLzlyUiSC-ERD8-ndRY6--ymhc_jIwFkKaL74F_yz5Eyvn31m1NpQdMFMpOmtyv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qESo8HicHcRNjoIwGADQE30CguhM4kJQxCiO_MW4Ilpqq5S22oqWC3qGuY2Jb_H-31RrqX4ti1F3QIQgDD8UviPBNeZ6gERrEakAKVDWLM52xZ412zSl_NVPgnuQev7qJwiXJA-dejR0byXkWFUFYuOHz0o44Dg-NcVaVudTBzlNhq8ldWvSRWLTM1Ne8hAW2XwCvM4OPoBpKaquq2fUrI-bsRdVph8tTMddp3W2Mq2TKJF_rTbd9OnYtg30OwL-ARZIRFY"
+    },
+    {
+      "position": 5,
+      "title": "Cartel Villa Serrana",
+      "place_id": "ChIJi5e_nNrFCpURF_su60IXOCA",
+      "data_id": "0x950ac5da9cbf978b:0x20381742eb2efb17",
+      "data_cid": "2321631184090495767",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac5da9cbf978b%3A0x20381742eb2efb17&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac5da9cbf978b%3A0x20381742eb2efb17&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3051947,
+        "longitude": -54.9819478
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJi5e_nNrFCpURF_su60IXOCA",
+      "provider_id": "/g/11ry0ckdvg",
+      "rating": 4.5,
+      "reviews": 12,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "M2V9+W6F, Arquitecto Julio Vilamajó, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "planning": [
+            "Se recomienda comprar las entradas con anticipación"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Excelente lugar para relajarse y disfrutar de la naturaleza\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYCnjEVlGCCNTJHUqFw3r2RYDdVj2_Copc3zO5D-Q5HIenk-KofzJn9QPeMS51dNPVwfAP-rtT5ed_URPWJx-kG2Y6wJGkZ31gZTDhZtr3IjbGPCdYfwz37Rx359BqjFesiexl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IAodkHicHcRdDoIgAADgE5E_jFptPRSWZqvQ1KYvbSFqaqBCw3nBztBt2voevu-nUqqTK8NoKzgrhShb9pZsoIIrxtWMipdRdhJQCaSx8UIS3V4p5vUuaV2Mz5Hvxf1ew8EOUydPavuORUfhdEEOCJB3YLwBR1FMPl8GhJ2uyMrPJNHFhoBBRYjl9zgkN38EjWunc-27TQatMoucKlMDPNQPl-A8LfQEF-EI0XLb13smn2xs19oyTRNU_yngPwDcQ-c"
+    },
+    {
+      "position": 6,
+      "title": "Zona de Picnic - Villa Serrana",
+      "place_id": "ChIJhRKs9zvFCpUREP3LUzoyRWk",
+      "data_id": "0x950ac53bf7ac1285:0x6945323a53cbfd10",
+      "data_cid": "7585524373470838032",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac53bf7ac1285%3A0x6945323a53cbfd10&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac53bf7ac1285%3A0x6945323a53cbfd10&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3217618,
+        "longitude": -54.9890141
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhRKs9zvFCpUREP3LUzoyRWk",
+      "provider_id": "/g/11p169g2l9",
+      "rating": 4.4,
+      "reviews": 14,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "M2H6+79X, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "amenities": [
+            "Mesas de pícnic",
+            "Sanitario público"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "user_review": "\"Muy lindo el entorno, se respira mucha tranquilidad\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpux8eSoH2pnxYXfldLtmH-IMOrR63ZDvcGdGGo5kiEXI8N7L8QhxgXLBmMWZhSMpjxg71cqLXgTBc6aaNS8VDIb-DziZBZgexON8zi4Mcz6mR9mAZFLKmm9vE_ZUfT450OT5i=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZXmL7XicHcRRboIwAADQE1VwClYTPyQ4ICugwAT7s7haW5TSzlZtuKBn8DYmex_v9eTGKL1wnI5PRkxK1tGbplcie0N7MyJSOExpQDTQziouNlUt1M1CWsr4Q_V235y6IzIiBkmaXwt_gsM7iY5RJL1Lu24SmM0Q3HLLGhSItMa8TNXZstmY_KGGVQHxD4eshLsw-QXh0OIAM2rzDA7tNCWDL4q5WOFP9CXE_L7-wd-nauq5eeW1y8fYdV3A_yegfwOGcURm"
+    },
+    {
+      "position": 7,
+      "title": "Cerro Guazubirá",
+      "place_id": "ChIJX2vgzpjFCpURmIXLvCrsjgY",
+      "data_id": "0x950ac598cee06b5f:0x68eec2abccb8598",
+      "data_cid": "472574679220716952",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac598cee06b5f%3A0x68eec2abccb8598&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac598cee06b5f%3A0x68eec2abccb8598&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3229738,
+        "longitude": -55.003291499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJX2vgzpjFCpURmIXLvCrsjgY",
+      "provider_id": "/g/11kb3wvgc_",
+      "rating": 4.3,
+      "reviews": 30,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "MXGW+RM8, Cam. Cerro Guazuvira, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Es el punto más lindo de villa serrana para ver el atardecer\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnbuzmo36OHptf6eGlQcduiucUaf0ZCwfq7otpyH3W_32NXwjXga4pK6jLzClgOzsZZooxMycTkMNnEa-PDGQmKiHSn-9etss08c9mSKpQV6VBTbjUHVPSIpDWWNXKsld_mJ0Uo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MM4FPnicHcTdTsIwGADQJyorzgww8ULBUJiMzf1mN2SUrmO0_apfl8le0GfwbUw8F-f3p3PO4pPnqc6fSQCpxIDii4NxwrgZB-1Ji4QjQe-FfcRZac7DpMEPjsy6NhBblfDLcB143rS0Xo_t5wKcvTO_PPkPUTX2lWwebRj079NayeOEdQ3wfbjz7HaIzFtD4s020eGVpYashEOkS77SaWiTIihes3OfsyJOd3ZTllEVorqc9J7m8DzOKaWk-58T8wcqEkZX"
+    },
+    {
+      "position": 8,
+      "title": "Lo de Mario - Cabalgatas en Villa Serrana",
+      "place_id": "ChIJhaWvnwbPCpURIQ7iRPL8Gn4",
+      "data_id": "0x950acf069fafa585:0x7e1afcf244e20e21",
+      "data_cid": "9086853315641347617",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950acf069fafa585%3A0x7e1afcf244e20e21&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950acf069fafa585%3A0x7e1afcf244e20e21&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3323125,
+        "longitude": -55.0064375
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhaWvnwbPCpURIQ7iRPL8Gn4",
+      "provider_id": "/g/11lgjrn5lm",
+      "rating": 4.7,
+      "reviews": 246,
+      "type": "Servicio de paseo a caballo",
+      "types": [
+        "Servicio de paseo a caballo",
+        "Agencia de rutas a caballo"
+      ],
+      "type_id": "horseback_riding_service",
+      "type_ids": [
+        "horseback_riding_service",
+        "horse_rental_service"
+      ],
+      "address": "Av Bernasconi esquina, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "098 898 056 int. 092034933",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con LGBTQ+",
+            "Espacio seguro para personas transgénero"
+          ]
+        },
+        {
+          "payments": [
+            "Solo dinero en efectivo"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Es una experiencia que hay que vivir cuando se visita Villa Serrana.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmjU304CQA2kP2sakTnnwwk2LqjIVSG1MW1ouXykfbpdktGpYzZDN0Jb_3_0eDSBcsCb55FpcOq9vHzTzgIvoMTR6Pa5zEIrjToFcbxPXJZ92pZ4unyRUZ0qKLO1ztJhOny7tna=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2Q5AnnicHcRdEoFAAADgE6WtxDDjwV-UUrKUXppaqWnZ3ewm7QWdwW3M-B6-76cSgvGpqt4rY1BSWt6LlhdPRIkoiBgg-lBLxhXEFa7Ot2EAo0d9MsBweZjrONB5hiEhXYd1t6nt83GjeZFG27jHt5xdsdiwi0xWe-DkqZGCYnVcIL7MTdNiyG8mr62EsrRf1IPhKMhMubafNaQWyt9B7CQTnSXDlvThKQHNzvU1KZzKJ_1YkGzWaQAApfqPFPIDkXpFpA"
+    },
+    {
+      "position": 9,
+      "title": "Cumbre de los Reyes",
+      "place_id": "ChIJt0supIzPCpUR23Nl-MNZrh8",
+      "data_id": "0x950acf8ca42e4bb7:0x1fae59c3f86573db",
+      "data_cid": "2282860759344313307",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950acf8ca42e4bb7%3A0x1fae59c3f86573db&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950acf8ca42e4bb7%3A0x1fae59c3f86573db&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3465603,
+        "longitude": -55.0045048
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJt0supIzPCpUR23Nl-MNZrh8",
+      "provider_id": "/g/11vc9hvpj0",
+      "rating": 4.6,
+      "reviews": 17,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "MX3W+95, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "planning": [
+            "Se recomienda comprar las entradas con anticipación"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Muy recomendable y hermosa historia.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlgBqjT8Qx_Kpdup-nSh-q1pqQ6louqVetRnhRzkJzCVK_nvEAVi_D5zpUz3oAz8z7SDeTgQdXWGILNol_b1TsFwY1M2V9G8gbbo1RXHEBTM_gz0R9-AVOyIpgTy7N9qC8PCCJVE7M6K0ft=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/C13NI3icHcRLUsIwAADQE4UmMNKWGRelVD61SEMMuMpMS0zUmI9JRXJJ1tzGGd7i3a4yBOtnSaLkZCSMEYoPnv_0Rgeuw6g334mwHvQe-KRY4R05KDF3nyRr_1htT4MFei-BQ9a1U2UGR3nAWuL4tYklrZn-rQr6wRYP0b7GiSliFtP9ghPRno6H5fp5axTrEPFP5zfUjGm-zETXGYSPq2pOGiYixDko6MtlbQW5pNvcldmuLDe0SptpDd_D4xlBCIG83wP9DzGuR2k"
+    },
+    {
+      "position": 10,
+      "title": "Letras Villa Serrana",
+      "place_id": "ChIJZRMCPgDPCpURqtTKLZsYwMU",
+      "data_id": "0x950acf003e021365:0xc5c0189b2dcad4aa",
+      "data_cid": "14249416275767514282",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950acf003e021365%3A0xc5c0189b2dcad4aa&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950acf003e021365%3A0xc5c0189b2dcad4aa&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3293266,
+        "longitude": -54.9868063
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZRMCPgDPCpURqtTKLZsYwMU",
+      "provider_id": "/g/11wwvgxw44",
+      "rating": 4.3,
+      "reviews": 10,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "M2C7+778, Coronilla, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "098 531 655",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Tenía otra expectativa\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBMfDNwnGMhV2ZpoIf_Rq8N_8IpxonkUz_oHRhySCzzaqSgBcCjUJgVcJ_xp2mG7HFoF3dUboa7M3HaMPxVLr_nmYj-Vdjm5mRccMCBgivicRjTOfLJmGbTdoNk-Nw4qL5rqLHZ79oNvf7=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MamvHXicHcTdboIwGADQJ6qgzOCW7GJgpBLamQos86bBAq1g-5WfCeMld723WbJzcX5_1Dja4cVx7spbSQB5r76GqhdgxsqMKwHakXZAYkCD84bZKf1oA1Lv6WQiovLNxcKx5qzbUb472hlMmy0cMFPf53BZiu4sAxE2WSxzEfPZbnTk4wMcvDK7QuETDxfkNOdJz43-bFBeNnqrmRAkDOTtcROsSd_rJNbRNS2BtohOT12y7bsEX_xnoI_af53Wrusi9b9A5g9X9EkJ"
+    },
+    {
+      "position": 11,
+      "title": "Juegos para niños",
+      "place_id": "ChIJw3jx72PFCpURDbB1w3ccwyA",
+      "data_id": "0x950ac563eff178c3:0x20c31c77c375b00d",
+      "data_cid": "2360761930378227725",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac563eff178c3%3A0x20c31c77c375b00d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac563eff178c3%3A0x20c31c77c375b00d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3213957,
+        "longitude": -54.9893534
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJw3jx72PFCpURDbB1w3ccwyA",
+      "provider_id": "/g/1tf257dv",
+      "rating": 4.6,
+      "reviews": 116,
+      "unclaimed_listing": true,
+      "type": "Parque de atracciones",
+      "types": [
+        "Parque de atracciones"
+      ],
+      "type_id": "amusement_park",
+      "type_ids": [
+        "amusement_park"
+      ],
+      "address": "M2H6+C7R, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario",
+            "Tiene bar"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Hermoso lugar para apreciar la naturaleza, tranquilo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxlfMGzazVwb1xoGNe9T3EVV_e7DGD2B_j90ss2KKbYSiJA6Xg3YUYNMLbCOrSuE8sH91DauOnM7L9ZxUv8FIcT2JCHB6Yd0Wr0fc40BuYCwspJ_sxZKjA3Vw8ckh8m3UczUQW=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xx3EA3icHcRJDoIwFADQEyGFGgUTF0yCII4M1g2RWkEFSvgghAt6Bm9j4lu87ydv2xoWoljkeJJxnhWsA9ZQXrWsaieUl2JWg0BBAFFzjvsgLofi7tvjdYz6VBq4vWVqgK0oStjctE1ZT54qApA9LyWnh6vNzhkmIdn6m9TYNafOUsBRJfPa7Sp_vlEvQ_hWVmsayK7h6DNyQ3GD7nSK9I4YPdRuAsPFe2o46hX6ypUSh3QMD_GylxBCQv6fCtUPCIlDhw"
+    },
+    {
+      "position": 12,
+      "title": "Cruz de la estación Penitente",
+      "place_id": "ChIJa7rLy6HJCpURjhtNRYN0oHY",
+      "data_id": "0x950ac9a1cbcbba6b:0x76a07483454d1b8e",
+      "data_cid": "8547960199901420430",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac9a1cbcbba6b%3A0x76a07483454d1b8e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac9a1cbcbba6b%3A0x76a07483454d1b8e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3804525,
+        "longitude": -55.076218399999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJa7rLy6HJCpURjhtNRYN0oHY",
+      "provider_id": "/g/11q572mg4q",
+      "rating": 4.8,
+      "reviews": 18,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "JW9F+RG, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Lindo lugar para pasar el dia conectando con la naturaleza\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlP5vpCunEqXTE1sz1nC04k_xnuHm_KIsZzPQeCVog3l2EJZPlEuVjAw8XAdxHyi_s9EZ0mCMcEokgEji4K8MQqvUrDKoLdJh1u9k9gj_GTT6Gs1x9U6wRjBbgepP_iBJPjlD0N=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bAZ0PHicHcRbjoIwFADQFSGtr4jJfCA0IqipBh_hp4mlKZTSopcK4wZnDbObSeZ8nN-fqu87WPu-rmYTaa3UwoF4cWt6YfoJt60vO_A4eOCHyZnmN00X7y5yhjzvOcHwwSZC84aNxiUty3ZQfOhJRFcrZ3pK0oJq4q4qHFb3sByT75pBQArURgdObCOJqufZ6nB6vi-vOLP7Mq2wC5pAKrbN8-UW8BhclsNZbR5SdJTVm5QqHaPj14ARQl71P_fMH7SPRUU"
+    },
+    {
+      "position": 13,
+      "title": "Parque La Guarida",
+      "place_id": "ChIJKYDbQXzFCpUROaTQlJUjV8o",
+      "data_id": "0x950ac57c41db8029:0xca57239594d0a439",
+      "data_cid": "14580161443989070905",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac57c41db8029%3A0xca57239594d0a439&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac57c41db8029%3A0xca57239594d0a439&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.323892,
+        "longitude": -54.9995002
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJKYDbQXzFCpUROaTQlJUjV8o",
+      "provider_id": "/g/11sjqs1l0f",
+      "rating": 4.9,
+      "reviews": 104,
+      "type": "Zona de senderismo",
+      "types": [
+        "Zona de senderismo",
+        "Centro de deportes de aventura"
+      ],
+      "type_id": "hiking_area",
+      "type_ids": [
+        "hiking_area",
+        "adventure_sports_center"
+      ],
+      "address": "M2G2+C5, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9 a. m. del mar",
+      "hours": "Cerrado · Abre a las 9 a. m. del mar",
+      "operating_hours": {
+        "lunes": "9 a. m.–4:30 p. m.",
+        "martes": "9 a. m.–4:30 p. m.",
+        "miércoles": "9 a. m.–4:30 p. m.",
+        "jueves": "9 a. m.–4:30 p. m.",
+        "viernes": "9 a. m.–4:30 p. m.",
+        "sábado": "9 a. m.–4:30 p. m.",
+        "domingo": "9 a. m.–4:30 p. m."
+      },
+      "phone": "091 346 342",
+      "website": "http://www.laguarida.com.uy/",
+      "extensions": [
+        {
+          "activities": [
+            "Ruta moderada",
+            "Hacer caminatas",
+            "Observación de aves",
+            "Ruta circular",
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitarios unisex"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Fui con mi familia e hicimos el recorrido aéreo y está muy bueno.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmTMJbVhcySI0rw92M4rzrUtUczH5eiE_CdIbPIdmm1ckCFrSEp2kjtZ4hORgoOEWSkqGv2iJmVU02ykcVwJcbQBXHhXYLJTGP24ZLDrn2q_Q3uU6UnR2WlxXAQMStT0vAHULX6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZzloynicHcRLDoIwFADAEyG1ookmLlBRIBD5FdCNCU9CFdpiW0W9oGfwNibOYr4fqnWvFqbZ0cmoEaLp6ruqJQiua65HIJjZ9MoAZSjTdpMoK1gW-lVO4ZV6SA5zHFryLYkm8Han9cU5rc9eFXlnxsbQrrcydXrcXvXRovukEXunSNvb7oEvPssJwq8W8sGHKl6VLi0PgZ_tImwdg43k-HaKJ3cyIzzBRfcs7ThMdYYetkuCcrYcxgghg_4Hg_8AnqVEug"
+    },
+    {
+      "position": 14,
+      "title": "Villa serrana",
+      "place_id": "ChIJ_-CTFwDFCpUR8j8d3W0poSw",
+      "data_id": "0x950ac5001793e0ff:0x2ca1296ddd1d3ff2",
+      "data_cid": "3215897160757100530",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac5001793e0ff%3A0x2ca1296ddd1d3ff2&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac5001793e0ff%3A0x2ca1296ddd1d3ff2&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.319404299999995,
+        "longitude": -54.9891777
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ_-CTFwDFCpUR8j8d3W0poSw",
+      "provider_id": "/g/11zb432wc9",
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "M2J6+68P, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T9h66gkRg3T0-yhTGzw8Ow&cb_client=search.gws-prod.gps&w=80&h=92&yaw=337.37366&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SSAesXicHc1RDoIgGADg2_AmYGyobaxHH9ua7w3xD_6FwoQkO03X6ja1LvB9n7fLOaYjYymvAHlDKBGf4FMVNbUhWA86YqImzGyrWXaPeVw0-lPUS8BJDZ2T0t4vVgy82t3Qv0p7LsSMV-MRlqwS6NU4astPXMNEbUykqJYTp7oD2XVRQjRUNEJKEjEbpzj5L7ewqZrzL19aOUk"
+    },
+    {
+      "position": 15,
+      "title": "Experiencias/Cabalgatas Conscientes/Tiempo con Caballos/Senderismo Interpretativo/Campamentos y Retiros/Astroturismo",
+      "place_id": "ChIJ2UpDG0PFCpUR2_YRyl8hkCo",
+      "data_id": "0x950ac5431b434ad9:0x2a90215fca11f6db",
+      "data_cid": "3066988041535092443",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac5431b434ad9%3A0x2a90215fca11f6db&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac5431b434ad9%3A0x2a90215fca11f6db&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.311285999999996,
+        "longitude": -54.980079499999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ2UpDG0PFCpUR2_YRyl8hkCo",
+      "provider_id": "/g/11dxf0t681",
+      "rating": 4.8,
+      "reviews": 90,
+      "type": "Servicio de paseo a caballo",
+      "types": [
+        "Servicio de paseo a caballo",
+        "Proveedor de atracciones",
+        "Camping",
+        "Parque ecológico",
+        "Estancia en granjas",
+        "Club de senderismo",
+        "Establo para caballos",
+        "Entrenador de caballos",
+        "Centro de retiro"
+      ],
+      "type_id": "horseback_riding_service",
+      "type_ids": [
+        "horseback_riding_service",
+        "amusement_ride_supplier",
+        "campground",
+        "ecological_park",
+        "farmstay",
+        "hiking_club",
+        "horse_boarding_stable",
+        "horse_trainer",
+        "retreat_center"
+      ],
+      "address": "Chalchal 1104, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "phone": "099 024 434",
+      "website": "http://www.experienciasvillaserrana.com.uy/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Se identifica como mujer empresaria"
+          ]
+        },
+        {
+          "service_options": [
+            "Citas en línea",
+            "Servicios en el lugar"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitarios unisex"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con LGBTQ+",
+            "Espacio seguro para personas transgénero"
+          ]
+        },
+        {
+          "planning": [
+            "Se requiere una cita"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "parking": [
+            "Estacionamiento gratuito en la calle"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia",
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "service_options": {
+        "citas_en_línea": true,
+        "servicios_en_el_lugar": true
+      },
+      "user_review": "\"Y tiene el plus de llevarte a lugares que de otra forma no conocerías.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8G7r2UgKY9068tiiSVa7bK2xGS7UuVxpKYwZoNnC-YAoPRd40KNlLAIIx5v2IK4bnzdXy4MKR6eYGZTyjGl-TCMHl4CRdc4cjMcNEdwVJ-g7105qFrDYFoaFTlXkwCjxwc_CPNQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KEVZT3icHcRRboIwAADQE1UqVnFL_CBVEDsIIqL1x2ghRda1jFaL3tAjeBsT38d7PWtjWv3tOKIeDbhSXFRXXXVMSVNJM2Dqz-GtBkwD7fjLLM13chp6nbvlhH7BydRcLpvi5J2J24cbb3st-pZQe1CJxID6Ks1KBEkifvwo6sc3NyLoLB_l_o5ikk0qGh7yexMKkON4KRDOSoZYE7NkUdpiBbg3hOP_oJvTQJ2CXOx_LW56y444TdYzO4QQgvozA_INYK5EFQ"
+    },
+    {
+      "position": 16,
+      "title": "Cabaña El Refugio / Cabalgatas",
+      "place_id": "ChIJGSJZlanPCpURjA6IXbCmEbk",
+      "data_id": "0x950acfa995592219:0xb911a6b05d880e8c",
+      "data_cid": "13335623248034401932",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950acfa995592219%3A0xb911a6b05d880e8c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950acfa995592219%3A0xb911a6b05d880e8c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3348051,
+        "longitude": -54.9761497
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJGSJZlanPCpURjA6IXbCmEbk",
+      "provider_id": "/g/11hyg452qq",
+      "rating": 4.9,
+      "reviews": 13,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Alojamiento"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "lodging"
+      ],
+      "address": "M28F+3GH, Tembetarii, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "phone": "094 757 874",
+      "extensions": [
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Muy linda experiencia, super recomendable.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnUC_-8ZvHVKRd5nrvsVbdhrG5c1azg2Nkstehhy3h-V9GeuvENpP4tojaNT-OWWdLLwEFgFX_qvP-gGC5eDPJwk9HCIEkhC0m6SvzVBebYVPZtQpnCZ8386iskwISYJn2aO_GU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pn4winicHcRdDoIgAADgE5GW2aythyLTfmaUieWLM2RQJpgQri7YGbpNW9_D9_1wrRs1saw7d3pMSnanT0VbIoWmQveIrC3WKEAUUNYsPKBjKhKYAy8zId4cSle0RuFLydvAJf3izQZRpTTl_OVwgMcBfRo_atBQy1sRHcEuTcvttvOXbHnKHwYBFkCXLtC6q8YhXPkVh3Y9is0bz-nljFGm942Amed4o6uqulV8XotBscuDZNr1bdsG_D8B4geZ2UTy"
+    },
+    {
+      "position": 17,
+      "title": "Cabalgatas Ale Villa Serrana",
+      "place_id": "ChIJq8-qTGvPCpURmBxjZOoo08s",
+      "data_id": "0x950acf6b4caacfab:0xcbd328ea64631c98",
+      "data_cid": "14687127796956994712",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950acf6b4caacfab%3A0xcbd328ea64631c98&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950acf6b4caacfab%3A0xcbd328ea64631c98&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.335011,
+        "longitude": -54.9760723
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJq8-qTGvPCpURmBxjZOoo08s",
+      "provider_id": "/g/11xgr887fq",
+      "rating": 5,
+      "reviews": 5,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Tembetarii, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9 a. m. del mar",
+      "hours": "Cerrado · Abre a las 9 a. m. del mar",
+      "operating_hours": {
+        "lunes": "9 a. m.–7 p. m.",
+        "martes": "9 a. m.–7 p. m.",
+        "miércoles": "9 a. m.–7 p. m.",
+        "jueves": "9 a. m.–7 p. m.",
+        "viernes": "9 a. m.–5 p. m.",
+        "sábado": "9 a. m.–7 p. m.",
+        "domingo": "9 a. m.–7 p. m."
+      },
+      "phone": "094 757 874",
+      "extensions": [
+        {
+          "children": [
+            "Actividades para niños",
+            "Área de juegos",
+            "Descuento familiar",
+            "Descuentos para niños",
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Recomendable totalmente!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1BpyVmVs4eZ23XTIdaAchfiR9v7aWDnbzkSI-5Nc_umkbn9J6ADxX3nxVCCFRJpkeHF8-3kBV--dmwC7qDvaCEy1OzUVtpd0MwOQjFC3hWSeF7RnsxwpOyS4xYVAwkcjQfkAAGz8_6Ts=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F-tqqHicHcTNboIwAADgJ6rA6kSX7FCL-JM4FLC4XQyWSrW2dLZa4CG9721M9h2-vye3VpsPz7tyOKibpr6yu2E32ijLlB3QRnq1NoAaYDy0SDd5IYOp7ogkZsh-3uA-X1Ylovx0TiePsCwidexFtgTvX_Rwl-KoJqsRito9VC3BOE5XWrBFPAZQTAkAlXQ4_I0eJZ51QdLviNWVv3bJ9hJjyIuMxWGqTOt00mXD9psgJ-hlexIIzfvxYZSbTxf4vg_4_xSoF1LRRzw"
+    },
+    {
+      "position": 18,
+      "title": "Laguna De Los Cuervos",
+      "place_id": "ChIJT5ueHl-7CpURusAShMcqOeI",
+      "data_id": "0x950abb5f1e9e9b4f:0xe2392ac78412c0ba",
+      "data_cid": "16301107362646900922",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950abb5f1e9e9b4f%3A0xe2392ac78412c0ba&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950abb5f1e9e9b4f%3A0xe2392ac78412c0ba&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.2752269,
+        "longitude": -55.256678199999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJT5ueHl-7CpURusAShMcqOeI",
+      "provider_id": "/g/11h353jbqs",
+      "rating": 4.4,
+      "reviews": 1451,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Camping"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "campground"
+      ],
+      "address": "Arequita, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "phone": "099 912 596",
+      "website": "http://www.lagunadeloscuervos.com.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        },
+        {
+          "payments": [
+            "Solo dinero en efectivo"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Sin duda hay que ir a disfrutar de sus vistas y recorrer el parque\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGgEBOz1kf1FgkWkp_XaKKV0puykREV1n0Yl1-6NOUSlZ79swQk19oIuPtGA_D5jb8ZAMLiXfG-ZX94No5fIVc8cJJ3VZ0_5d7z1uQ0l0RYEolmtFCS9kJ9-G8TZ6lSH0lFR1B=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qzdAPHicHcRLDoIwFADAE1Veoyg1cYEKKP5BEbshWqFoCyW2xOgFPYO3MXEW8_2UxjR6aFmy7Ha4Ulzmrc4fTNUmr02HqcrijUZMI225s2i7P1YB98abNxYF9rk4iiZLz4tFAk37EpGX4BpOEqP-enOIJR0Q_dwJTNS83ZrAzab2_eJQd7W8pUWAaEp6a2UX84Q5LAy7CYXMvg7euN2BhOjkKVkZfxITERIUOHval_EMpB_h8eiJAQCV_xmqf9TZQhk"
+    },
+    {
+      "position": 19,
+      "title": "Rincón de la buena vista",
+      "place_id": "ChIJPbv-4-XPCpURpK5LNpoCRBA",
+      "data_id": "0x950acfe5e3febb3d:0x1044029a364baea4",
+      "data_cid": "1172064664382320292",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950acfe5e3febb3d%3A0x1044029a364baea4&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950acfe5e3febb3d%3A0x1044029a364baea4&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3295586,
+        "longitude": -54.9940879
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJPbv-4-XPCpURpK5LNpoCRBA",
+      "provider_id": "/g/11l29lvlnx",
+      "rating": 3,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "M2C4+956, Calle del Balcon, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ]
+    },
+    {
+      "position": 20,
+      "title": "Geoparque Manantiales Serranos",
+      "place_id": "ChIJZ86WQQCrCpURxyZzEsPHLZc",
+      "data_id": "0x950aab004196ce67:0x972dc7c3127326c7",
+      "data_cid": "10893582714321184455",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950aab004196ce67%3A0x972dc7c3127326c7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950aab004196ce67%3A0x972dc7c3127326c7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3954516,
+        "longitude": -55.325107599999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZ86WQQCrCpURxyZzEsPHLZc",
+      "provider_id": "/g/11y0s6kbxp",
+      "rating": 4.5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "JM3F+RX6, 30100 Solís de Mataojo, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWncvEdeIF50Umgc9cWabrIBS4zzcvT7PipED6O7GcqBIhKcfuRtvDAtjW6ZAftbxs_65wJ-QYMNaC0JJWPGtG2VzIyJt6EiN3tPt_yvScgE6-PE3FVLEmybagNXyxBaButS6eWKfC6nInM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7cKwMHicHcRBcoIwFADQE0XSUuPYmS5AIw1Wmoo12o0DvyHoSKDmg8Ih3fc2nelbvN97idi4Z887l_7I1LU569bpC9QWtcUR1JVnGkfAEecFr2u5URY6_q3FYkw_KwNTUFl-EWH6NAzQbSby2PA5e59E8BOKcglFu8ZuHuBJsa-gwPzmDmx8jcnHfpVkMxrHSkYYPW4H0cfI-DHxUeKh71IwnBHJ_cX2jVd9nplk19_CLGwxZVotixmzwq5erg-UUlL-D8T-AXdyR0g"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Villa+Serrana+Uruguay&start=20&type=search"
+  }
+}

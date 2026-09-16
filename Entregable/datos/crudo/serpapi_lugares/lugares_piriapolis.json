@@ -1,0 +1,847 @@
+{
+  "search_metadata": {
+    "id": "6aa8995788de926921dd0977",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/muOv5_xqri-k0CR0B34QltF2H6IjVaK3f9hTNjaZAeQ/6aa8995788de926921dd0977.json",
+    "markdown_endpoint": "https://serpapi.com/searches/muOv5_xqri-k0CR0B34QltF2H6IjVaK3f9hTNjaZAeQ/6aa8995788de926921dd0977.md",
+    "created_at": "2026-09-15 01:03:19 UTC",
+    "processed_at": "2026-09-15 01:03:19 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Piri%C3%A1polis+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/muOv5_xqri-k0CR0B34QltF2H6IjVaK3f9hTNjaZAeQ/6aa8995788de926921dd0977.html",
+    "prettify_html_file": "https://serpapi.com/searches/muOv5_xqri-k0CR0B34QltF2H6IjVaK3f9hTNjaZAeQ/6aa8995788de926921dd0977.prettify",
+    "total_time_taken": 0.54
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Piriápolis Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Piriápolis Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "ECFA - Reserva de Flora y Fauna Autóctona del Cerro Pan de Azúcar",
+      "place_id": "ChIJo7-1n5RDdZURFR5PfBesWZw",
+      "data_id": "0x957543949fb5bfa3:0x9c59ac177c4f1e15",
+      "data_cid": "11266225159713791509",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957543949fb5bfa3%3A0x9c59ac177c4f1e15&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957543949fb5bfa3%3A0x9c59ac177c4f1e15&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8164477,
+        "longitude": -55.248329299999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJo7-1n5RDdZURFR5PfBesWZw",
+      "provider_id": "/g/11r_pc161",
+      "rating": 4.5,
+      "reviews": 10612,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Zona de senderismo",
+        "Refugio de vida salvaje"
+      ],
+      "address": "20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mié",
+      "hours": "Cerrado · Abre a las 8 a. m. del mié",
+      "operating_hours": {
+        "lunes": "8 a. m.–6 p. m.",
+        "martes": "Cerrado",
+        "miércoles": "8 a. m.–6 p. m.",
+        "jueves": "8 a. m.–6 p. m.",
+        "viernes": "8 a. m.–6 p. m.",
+        "sábado": "8 a. m.–6 p. m.",
+        "domingo": "8 a. m.–6 p. m."
+      },
+      "phone": "098 177 418",
+      "website": "https://web.facebook.com/reservadefauna",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOArT9JeOZ8Q1Mpe0CJcAX2GRmGibb9S7oQuIKLKTLM_SKG0heWqS7Rm5O8kCsrNStF-Ll2gC7Cy9EiSN-zSkinxrR4Q46mdIsnsjZu6JL-8lzCVxNgFyty03f8aG6H3-vU3sY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/l-X5s3icHcRNcoIwGADQE0WiWH4644LJKAoIhdBa2XRKmgYqSShfUPGCnqG3caZv8f7ujTE9PFtW19gzobXo-Ah8YFoZrsyMaWmJHhADBFawLV7Kg8yCofQjnlVePt_3HJOIBe-LsJBhW9c-dXU-7uIkLpP9B41D3PDDL3UL-ZR5JwJDSs0GJd1CEJdM_rqlKbrRU6uuQ7HMl4782oGCn2p0ogR53Y28XVOxmcyE7W_vM3S2Njq_2nBcXeYYY9T8z5B6AMchQyE"
+    },
+    {
+      "position": 2,
+      "title": "Cartel de Piriápolis",
+      "place_id": "ChIJz2wX_8xDdZURr39T-ggQfY4",
+      "data_id": "0x957543ccff176ccf:0x8e7d1008fa537faf",
+      "data_cid": "10267380356220157871",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957543ccff176ccf%3A0x8e7d1008fa537faf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957543ccff176ccf%3A0x8e7d1008fa537faf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.855163999999995,
+        "longitude": -55.2958833
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJz2wX_8xDdZURr39T-ggQfY4",
+      "provider_id": "/g/11fpk60t_2",
+      "rating": 4.7,
+      "reviews": 1377,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4PV3+WJQ, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm928dkF8CKne6AIcHKRQNwcff8pWxTlENvRXrfdfD1O-o0WJMO-fK2jKE8Bn1Fj7-X9H4owtjk9ZuTW_N14G3gxWbNfH3Cu-872a0IAZjWzainG_CwVTd-MOc9pItHqgfdYHif=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6Oz_bHicHcRLDoIwFADAEz0pYLSYuED8FImghFh1Y7TQImKLtojxgp7B25g4i_l-SmMaPbKsunR7QilRF60uHkxJU0jTY-pmiUYD06Atn6TrjN48B-fXOQ4iWQz8kJEo3cQd4xw39JXVs_iZ7h4851M7AYXocpUAj5wqmuGJtOfVEHYe6avOVFfv0Gb0GNv9hSte9Bxz4gYt4KFzQqF_qOj7dJGLY9BtsxxWCfOa0JC74PmeXPi4sxFCUP5nIH-xM0MB"
+    },
+    {
+      "position": 3,
+      "title": "Parque Municipal la Cascada",
+      "place_id": "ChIJS8s1VvlCdZUR0EB4o0svAYQ",
+      "data_id": "0x957542f95635cb4b:0x84012f4ba37840d0",
+      "data_cid": "9511935889894818000",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957542f95635cb4b%3A0x84012f4ba37840d0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957542f95635cb4b%3A0x84012f4ba37840d0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8520355,
+        "longitude": -55.275954399999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJS8s1VvlCdZUR0EB4o0svAYQ",
+      "provider_id": "/g/1v3dt98n",
+      "rating": 3.9,
+      "reviews": 3898,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "4PXF+5JM, Av. Gral. Jose Gervasio Artigas, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–6 p. m.",
+        "martes": "8 a. m.–6 p. m.",
+        "miércoles": "8 a. m.–6 p. m.",
+        "jueves": "8 a. m.–6 p. m.",
+        "viernes": "8 a. m.–6 p. m.",
+        "sábado": "8 a. m.–6 p. m.",
+        "domingo": "8 a. m.–6 p. m."
+      },
+      "phone": "000 0000",
+      "description": "Parque para pícnic y pequeña cascada. Pequeño parque tranquilo que tiene un canal en cascada y áreas de pícnic con parrillas para barbacoa.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlv_fYxMXfFCNCd1BZfhfQXzqoBCCzNRohkiGeCE-oIZoI7VMuWVTv_V4D-uhaC8RCVQJcbQYVPBD_KfUQTq9BnjiIxDokqa5oNoqX26fe8gfQyHiMKfhJ5kBw-G1YEeCJYow89sA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dMBXU3icHcTbboIwGADgJ6qA0w2X7MIWD2AglLAC3hCtLUWQX1YO6hv6CHsbE7-L7_-puu6qvw2jVh-TAqCoRa_FH4emE0034XAxiqtGXCNtLLdRGCf1kMvs5qdyTQJysvBeKknTRwuYkEcQgarKjSArBO4e3C_m9wmLh5zNHNSrA7EjwqjHjzRjIXbynfylcbvAzbl0bw5U7WEOAbTp9FMKu5D0vi39nVTevMIj2ljZShAvg9Fe6OXPaJmmidR7jpoXIspFfA"
+    },
+    {
+      "position": 4,
+      "title": "Castillo de Francisco Piria",
+      "place_id": "ChIJhS6OxblDdZURz395-8vnFes",
+      "data_id": "0x957543b9c58e2e85:0xeb15e7cbfb797fcf",
+      "data_cid": "16939700436707409871",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957543b9c58e2e85%3A0xeb15e7cbfb797fcf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957543b9c58e2e85%3A0xeb15e7cbfb797fcf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8286523,
+        "longitude": -55.2516684
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhS6OxblDdZURz395-8vnFes",
+      "provider_id": "/g/11r_pj4q0",
+      "rating": 4.3,
+      "reviews": 6205,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar histórico",
+        "Lugar de interés histórico",
+        "Museo",
+        "Castillo"
+      ],
+      "address": "Ruta 37 Km. 7, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9 a. m. del mar",
+      "hours": "Cerrado · Abre a las 9 a. m. del mar",
+      "operating_hours": {
+        "lunes": "Cerrado",
+        "martes": "9 a. m.–5 p. m.",
+        "miércoles": "9 a. m.–5 p. m.",
+        "jueves": "9 a. m.–5 p. m.",
+        "viernes": "9 a. m.–5 p. m.",
+        "sábado": "9 a. m.–5 p. m.",
+        "domingo": "9 a. m.–5 p. m."
+      },
+      "phone": "4432 3268",
+      "description": "Castillo, exhibiciones y recorridos. Castillo del empresario Francisco Piria terminado en 1897 donde se realizan exhibiciones y visitas guiadas.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlBdb0L_KerDVV932JCSZMtjk1DYE11Si1GVKeTacHnptbozhFzz6Kg5xP2T6b7P-oF-aM1IGh2rCTH4YjXbCY5KYoTOmCTRepuN8CzSJzRzSlikz-83B6mGBiD6k9y5bfFpLFG1w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_3p1vHicHcRdboIwAADgE1UoCOqSPYwiMNFJoEHxxdBaKfLThtboekOPsNss8Xv4_l5ca6k-LKvn7qwRounZXbGJilGzUc-oGKxGKkAVUNZXkmf40AcXYm_PKZvCsly5zgYVp52-dTCs1hAWLYzLlOGaJqPURBgeGeOnjffMHOyTRQZEBOod_I65MyGczKvbkaDKSyuB9wPCOZP3nyUyxcbkpujbzoClG_hDHLSh361-PXKN5DaK4ePzAW3bBvw9BeM_WbtDsw"
+    },
+    {
+      "position": 5,
+      "title": "Punta Fría",
+      "place_id": "ChIJYzG4DalDdZURZXSEPj447PM",
+      "data_id": "0x957543a90db83163:0xf3ec383e3e847465",
+      "data_cid": "17576485285708199013",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957543a90db83163%3A0xf3ec383e3e847465&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957543a90db83163%3A0xf3ec383e3e847465&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8822961,
+        "longitude": -55.2786796
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJYzG4DalDdZURZXSEPj447PM",
+      "provider_id": "/g/11smrgqnxy",
+      "rating": 4.7,
+      "reviews": 808,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4P9C+3GP, Rambla de los Ingleses, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "phone": "099 316 974",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUJutHH1IBHB1sE5VD3mYcBasSLq44FLBJcKy1nOTyQXCRHpkZs2I-Ij8BFYjJ71qQef-0eg287VNzoutyQQdXdj3A_Qc0PJn4o-4Kg_tGxij-tq5usTjNjGFv0s5UaQZigtjl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/L7ID2nicHcTRksEwFADQL4om2g5jxoMslZZBKIsXYyKbylbS7r1F_aBv2L_ZmT0P5_ddIFYwCIKyCDvGe1PqBvSP8g61w47yt8BUQBQQCEZivco_y23WoBAs5YIzmMS7cXg7KH6GzbyOomTOMzVrmVvmrdx_rEX1fYRuSlLb58nBZj1WS_1FqDbdfm-3ePkGWykv-4sNRyep6CpzkSfRzJxw-rxagnXcQG4XdprcKcTbszxeDdpy-GCUUlL8r4j7A8f1Q80"
+    },
+    {
+      "position": 6,
+      "title": "Parque Fuente Venus",
+      "place_id": "ChIJHV_glmRCdZURZNQNMMCvngw",
+      "data_id": "0x9575426496e05f1d:0xc9eafc0300dd464",
+      "data_cid": "909357414750213220",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575426496e05f1d%3A0xc9eafc0300dd464&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575426496e05f1d%3A0xc9eafc0300dd464&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8708106,
+        "longitude": -55.263723299999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJHV_glmRCdZURZNQNMMCvngw",
+      "provider_id": "/g/11gf5r_bvj",
+      "rating": 4.4,
+      "reviews": 1933,
+      "unclaimed_listing": true,
+      "type": "Parque local",
+      "types": [
+        "Parque local"
+      ],
+      "address": "4PHP+MGC, Unnamed Road, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "4222 3333",
+      "website": "https://mipiriapolis.uy/places/fuente-de-venus/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlE9F-MGH2btcdyDeC_NyR19Xr2kp0U8YOj_BHF5PEI97VSMCsWU9Onk2_JNvO9wC9udWVBtUXzI0Evciw-RvnLc3etPSQB9SMo_mDtvsN_ytRyC7uyfttnpN05ehvV4CMtjmZniw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/d0CcRnicHcTbboIwGADgJ6pUnNGaeCEVRTMOAzlsN01WK6jQEvtTUt9wj-DbLPG7-F5_DUCvV47TNrNJrVTdikGLB1cShIQJV51T9xpxjbSzCdLkVLY-2aFwH7i_wM92KyiLbDol1cO99zhffsc35gW7eeIfyKLIQqrLnMTy7rJjZGIyUjKcy8KDvHoesG_4dUSpkZ98JiDJvjyShYp1WzA6YhZSSxeDvQDIPsJz0Zjig4Zw637kdVyPU4wxat5zJP8Bkb5Ftw"
+    },
+    {
+      "position": 7,
+      "title": "Puerto de Piriápolis",
+      "place_id": "ChIJZYgyQHhDdZUR3jiM0Gijbhk",
+      "data_id": "0x9575437840328865:0x196ea368d08c38de",
+      "data_cid": "1832581768957147358",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575437840328865%3A0x196ea368d08c38de&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575437840328865%3A0x196ea368d08c38de&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8768398,
+        "longitude": -55.281504299999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZYgyQHhDdZUR3jiM0Gijbhk",
+      "provider_id": "/g/11kqd_8kn_",
+      "rating": 4.9,
+      "reviews": 64,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Puerto de Piriapolis, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–3:45 p. m.",
+        "martes": "8 a. m.–3:45 p. m.",
+        "miércoles": "8 a. m.–3:45 p. m.",
+        "jueves": "8 a. m.–3:45 p. m.",
+        "viernes": "8 a. m.–3:45 p. m.",
+        "sábado": "8 a. m.–3:45 p. m.",
+        "domingo": "Cerrado"
+      },
+      "phone": "4432 0567",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-VIzRTd_aXYD0_-_Sv5m9HdJY7BtpHqo1tnnq3Zf_1CWh782jKiTLlAY-Kt7ZiA9vyUthrvpzoSqK8Q_VSp9RqcwHTljldmCQerjy6uunUvOJLZjd7uAwoLHhDoSzFsjdIm5YnYxtbOjp=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-Mzf0nicHcTBboIwGADgJ6qAxiFLdkDNUoXECagrl2ZrGbUrbaE_MHnJnX0bE7_Dd_8XANa9ep4Si1ltTK2q3lUdMxoqDTNmGq-2DjGHnBfj7KO4_KLzbsoKTr8-ydaniObDsokw35NwDRa3JgCt20X5Q4PNRYSruUyuRapighIIy2scDbcTiG6wk8nbZHWk59xGWctGXCipeLM5Vp28vfS9Pg2HfVpKHvbxaFIstiaf3p3ku2ZJNPmD74O0b2Pg-z4SzxnSDwLJSaU"
+    },
+    {
+      "position": 8,
+      "title": "Cascada",
+      "place_id": "ChIJWy9Esf5CdZURxJ30BldedJI",
+      "data_id": "0x957542feb1442f5b:0x92745e5706f49dc4",
+      "data_cid": "10553163554707774916",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957542feb1442f5b%3A0x92745e5706f49dc4&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957542feb1442f5b%3A0x92745e5706f49dc4&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.851165699999996,
+        "longitude": -55.274670699999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJWy9Esf5CdZURxJ30BldedJI",
+      "provider_id": "/g/11g8qbmm_4",
+      "rating": 3.9,
+      "reviews": 165,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4PXG+G4P, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "website": "https://mipiriapolis.uy/places/parque-la-cascada/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnJqr8bojJXPHrStbYBPDPYi6WuHybDmTwUoPHD96iZTO5YTjfWNIuiDifShIhVMcV7ISSZ7ioq53JgBA8fHIZkNWsYeJ6JSWkZzNtDMfLcxvmvSYs6J6cRnxaUOLZae0Gncll6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/L3lMSHicHcTbDoIgAADQLzJtLbpsPdTYQlbGwiJ4U4ZCKZRgtx_sG_qbts7D-X50CFc_j-NGjwa1c3Wjeq866WxQNgyka-P66iPpIx8v0Z7kzOJbNy3dGZ8I6mgo-YpAwg1gPXqVsM0fB0cQnAEj8t2Y5-eKZWlvoKmoTvVxK4-TlFIxMe42HuF6tZxWKBWXjHmuMMCUXcQ7C3BbbeTz3t4p9wADubfP4rDbiEIlayubBiwewyRJIv1fRvYHo3dFeA"
+    },
+    {
+      "position": 9,
+      "title": "Rambla Piriapolis",
+      "place_id": "ChIJF55anIxCdZUR_Q6TMEZZxjc",
+      "data_id": "0x9575428c9c5a9e17:0x37c6594630930efd",
+      "data_cid": "4018997875472273149",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575428c9c5a9e17%3A0x37c6594630930efd&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575428c9c5a9e17%3A0x37c6594630930efd&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.864846,
+        "longitude": -55.2785569
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJF55anIxCdZUR_Q6TMEZZxjc",
+      "provider_id": "/g/11gf3tr73d",
+      "rating": 4.8,
+      "reviews": 3196,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Armenia 4042, 20100 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZ2m3NBFSTpLp6XDFnWsVqwZhnsEpOouj1fcUXmrYbJeIc13FdOKPtE-c3DNBVb_C5FUmbtQiyJJSQUgkLBXWfaa2vUNmhv0GsHtN37-EBaR9-ketrh-GFJzlTg-703DY59Dd8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IieLLHicHcTbboIwGADgJ_ql2CjTxAsZFIcGTyDozQK1tlN6kFaNvqDPsLdZsu_i-30L54wde14rcI9rzVt2s6yjWjmmXI9q6XFjgVqw3nS2WeWlPPQlzkKyzc3CDKuIqNLuro-DUDY2S307-ydaVLLbNyn7oj4mx-V85WKgOMrCXfP9OSCFbNz655mm23XBL4uwKk913b8XmRR3lNiZy3AAcVhvRnBhrhOQkPTV5hwChKP9YBQdPyYPHyEE4n8K6g9dFUOf"
+    },
+    {
+      "position": 10,
+      "title": "Fuente del Toro",
+      "place_id": "ChIJy-OvMW9CdZUR1q7nIhSKbic",
+      "data_id": "0x9575426f31afe3cb:0x276e8a1422e7aed6",
+      "data_cid": "2841360234006949590",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575426f31afe3cb%3A0x276e8a1422e7aed6&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575426f31afe3cb%3A0x276e8a1422e7aed6&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8656104,
+        "longitude": -55.2577587
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy-OvMW9CdZUR1q7nIhSKbic",
+      "provider_id": "/g/1q5k0nrxg",
+      "rating": 4.3,
+      "reviews": 1875,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "4PMR+QV5, Mario Moreno, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9 a. m. del mar",
+      "hours": "Cerrado · Abre a las 9 a. m. del mar",
+      "operating_hours": {
+        "lunes": "9 a. m.–5 p. m.",
+        "martes": "9 a. m.–5 p. m.",
+        "miércoles": "9 a. m.–5 p. m.",
+        "jueves": "9 a. m.–5 p. m.",
+        "viernes": "9 a. m.–5 p. m.",
+        "sábado": "9 a. m.–5 p. m.",
+        "domingo": "9 a. m.–5 p. m."
+      },
+      "phone": "094 371 289",
+      "website": "https://mipiriapolis.uy/places/fuente-del-toro/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJM8d4dtKE24CtPBa5pYnfy89FYlFwDXKRHgb3AO7knFY8WsJYDM9UdElHlWBahR5jcUyMx8dB-xINZi8Gui0YTk7ZmGosJ51aaTvVvu9q3IrcfowrZnw6rACd8vWKkfweu45a2w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/T58iwXicHcRLjoIwAADQE1VQYCwmLgBFhKCGoEzZdVo-Sm2RFqpHnCN4GxPf4r3_W6V6uTIM1lqzRoiGVaOsBiK4qriaEXE3ml4CIoE0vCg75QWLU0htqpLtwg7UycdOj3j9gm6IWKg3v0kWNX-Wd1x2PESwkDHapO6ZblnECh-3mXMj51f6hNQHz_2hvMLdeDVR3i3L-07I2JljnE-XaXQf1n4gtdBDyfXP4AUUTkXS1boabQcv9FrPTdME7XcC-AejnUVS"
+    },
+    {
+      "position": 11,
+      "title": "Rambla Costanera",
+      "place_id": "ChIJD7CDVwBpdZUR3afTEBlbnAY",
+      "data_id": "0x957569005783b00f:0x69c5b1910d3a7dd",
+      "data_cid": "476355823809046493",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957569005783b00f%3A0x69c5b1910d3a7dd&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957569005783b00f%3A0x69c5b1910d3a7dd&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8883863,
+        "longitude": -55.2770223
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJD7CDVwBpdZUR3afTEBlbnAY",
+      "provider_id": "/g/11y50w65nw",
+      "rating": 4.9,
+      "reviews": 28,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4P6F+J5X, Rbla. Costanera, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkgcIH027p99s8yk1CqdAwhkSeXbOwCnOpNER1dnQO3-MrtkfWqS5oyrr3S0Xk2wajtw7J-CL2XLKmdVaOKe0FmC4oc79ZOeHh23Eb1JJxw5LsmYMurTpGoMlwHJGDJoufWBnpDrw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3jv2g3icHcRRboMgAADQE1FR1ziX7KOzTkd1tNpMtz9FKhkKFDDUI_YIu02TvY_3d2fWKvPieRMLN6OU40QXQzWRwlJhN0TO3qgMIAYYb5dXx3PDR_KRwyBScWyeV-4n12HnGK9p22OXCKw-08ofxAmHoNSWX5prvZWr1mENWx647te6CIGkCNriMA9fHT5Q-D4nT5JE8Q-mOQvCtPcRurltYebvctFnlclycjnK9kgul-ZNqL12r86HEAL2PwHiAdp_RXY"
+    },
+    {
+      "position": 12,
+      "title": "Playa La Rinconada Piriapolis",
+      "place_id": "ChIJcVN_dYxCdZURLembxd1pIgs",
+      "data_id": "0x9575428c757f5371:0xb2269ddc59be92d",
+      "data_cid": "802320084849387821",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575428c757f5371%3A0xb2269ddc59be92d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575428c757f5371%3A0xb2269ddc59be92d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.869911699999996,
+        "longitude": -55.275671499999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJcVN_dYxCdZURLembxd1pIgs",
+      "provider_id": "/g/11dxjvf7jj",
+      "rating": 4.6,
+      "reviews": 594,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Rbla. de los Argentinos 1050, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrfszsUMGQ5z7szNwIKiVzYJR4B8s6V_86MJOoAFEQk2Ueybk06dK3OFSXxFMqH7y06PJGqA_Y8LZeDXOZjMrdLNihELo_yVM7aVbv17pvrReaZgCZ87lhvii2S8N3hZZGub59=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fj09xXicHcTRsoFAGADgJ0pLR7vMuMihSFuEDnvTKKuNtOlPqRf0DN7GzPkuvs9bVFUBY1XNhNZLpEwy_gRexjKveF71YnlXkwKUGBRQjYW_3v1l5QU62FNrM-wwdG6zXKVBd7T9nykBPQiJTm1PGuZ8cxvseRvdkH5eaZ65PbxM-ljgFulr23oY4ZE4jM8OHrvS8uy4qZg7MmwDik9BVPdxUZc-P7HklxGciTpNB1viaoIx6xkNR5OmjxBSxP-xkn8BS5JEMg"
+    },
+    {
+      "position": 13,
+      "title": "Cerro Pan de Azúcar",
+      "place_id": "ChIJc1PuVyhDdZURIXHwWNYCujg",
+      "data_id": "0x9575432857ee5373:0x38ba02d658f07121",
+      "data_cid": "4087582731430555937",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575432857ee5373%3A0x38ba02d658f07121&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575432857ee5373%3A0x38ba02d658f07121&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8108164,
+        "longitude": -55.2582666
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJc1PuVyhDdZURIXHwWNYCujg",
+      "provider_id": "/g/11np2ds36g",
+      "rating": 4.8,
+      "reviews": 136,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "5PQR+MMH, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–7:44 p. m.",
+        "martes": "8 a. m.–7:44 p. m.",
+        "miércoles": "8 a. m.–7:44 p. m.",
+        "jueves": "8 a. m.–7:44 p. m.",
+        "viernes": "8 a. m.–7:44 p. m.",
+        "sábado": "8 a. m.–7:44 p. m.",
+        "domingo": "8 a. m.–7:44 p. m."
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm47Hec-wwG86NIHGl9MF4bc2V7TmYlc_Iw4ldiYQ1sA5MIRcPsjtng5sMI7C0r1lngAnVuzYvQRs1eGt-ixGo3TFNNfqV_JGR_LDqB0RVsp-cJWY69zIOyIRn9RIV8AaagkH6fukrAZDU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/U12aJXicHcTBboIwGADgJ6qUiSAmO3QzlprBtMEadiGuq8VZWuQvY_Mhvfs2JvsO3_3WeN_BIghMM51o57RRA6heOuuV9RPp2kB3gCQgCEjGN-W-jZJMSTSOdB4XLKMmzVfRp3wSSdlWRtZsjMzXqdqGQGY543ID397qGeQsecV9aKwmVgzX6mfLIVTUo9MvddNyVRTHi6jXlNdvy8sL5gI6JNf7Kk6v7P2PcZtyJubkcNDnLD4O5558LHfPY4gxRs3_EtkH-X5GSA"
+    },
+    {
+      "position": 14,
+      "title": "Cerro del Indio",
+      "place_id": "ChIJ-z4W8RJDdZURj9NapGFY3I0",
+      "data_id": "0x95754312f1163efb:0x8ddc5861a45ad38f",
+      "data_cid": "10222142430616671119",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95754312f1163efb%3A0x8ddc5861a45ad38f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95754312f1163efb%3A0x8ddc5861a45ad38f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8788562,
+        "longitude": -55.264101399999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-z4W8RJDdZURj9NapGFY3I0",
+      "provider_id": "/g/11grpv2_mk",
+      "rating": 4.4,
+      "reviews": 64,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4PCP+F92, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "website": "http://maldonado.gub.uy/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkM1DzvPDakmI96-fvtkv5DNxiiRg-sb1VLEhIWCJcmLTTEmYITSv5FZyM2Nq2w4OqrdUrOfBjiA5DvC6wAaAnjiYRko3kKEsgj00uzDXdmRnBXHkIOuqHfBg48msbREM18HBov=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AQwghnicHcRdDoIgAADgE5FY2qqtBw2bVmYj-30rUlQCUhCrC3aGbtPW9_B9P4XWDzWxrHsx6FEp6T1rVdYQKXQmdI9IbtGHAkQBZXkh3qQHFtvobTbowng0HoLcaGZctH6WJaZAXe39Kiiiw2xB-CpNA36K0q1x5-dX3F_X_c5J6ua2a5Lcr0rPRWY27LyLJ6ryhJkcsGWgaAVh-0bHG8fCP4YsSto6zH3qjLi64iC2R6EvzbSzIYSg-E-A-AF1PETd"
+    },
+    {
+      "position": 15,
+      "title": "Alternatus",
+      "place_id": "ChIJVVVVUflCdZURrge1na2hdSs",
+      "data_id": "0x957542f951555555:0x2b75a1ad9db507ae",
+      "data_cid": "3131586882953349038",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957542f951555555%3A0x2b75a1ad9db507ae&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957542f951555555%3A0x2b75a1ad9db507ae&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8530185,
+        "longitude": -55.276447999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVVVVUflCdZURrge1na2hdSs",
+      "provider_id": "/g/11b74tkrg7",
+      "rating": 4.4,
+      "reviews": 1908,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Consultora medioambiental",
+        "Organización ambiental"
+      ],
+      "address": "Parque La Cascada, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mar",
+      "hours": "Cerrado · Abre a las 10 a. m. del mar",
+      "operating_hours": {
+        "lunes": "10 a. m.–8 p. m.",
+        "martes": "10 a. m.–8 p. m.",
+        "miércoles": "10 a. m.–8 p. m.",
+        "jueves": "10 a. m.–8 p. m.",
+        "viernes": "10 a. m.–8 p. m.",
+        "sábado": "10 a. m.–8 p. m.",
+        "domingo": "10 a. m.–8 p. m."
+      },
+      "phone": "092 327 482",
+      "website": "https://espacioalternatus.wixsite.com/educacion",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnoGxHe5yjU-1Wpsjcvbx5uKdRMcYD_sP3hrLbE3m11keAVVzxRObeDliNKKp98y5RZ7kBTR5nUL_e75nI_C_1bA3MC411FMdDhdNMvOkpISv4I83C76LPmUAI4RBTes2P3pKpB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0f6SoXicHcTbDoIgAADQLyIlJKutBy9dnFqO1FYvbiKTUoGFmfWDfUN_09Z5ON8P73ull4bRcjSppaxb9tDsTqXomegnVHZGrTSgGmjD2ZEkPQm5HXcMv24ZgCelb3QoR_wIKxLTs1_oBPF7VK5RB2HDnDx_j-RQMr-97sNQLeYvTC5246YEiywqmI1FUHgFLB0UexaEm7jyebWPh0OjguNgBXPk2bMo6TInsIibMj1NkAqVu3pC0zQB_0-B-AE9v0L_"
+    },
+    {
+      "position": 16,
+      "title": "Sitio donde nació el primer elefante marino en Uruguay",
+      "place_id": "ChIJQSIqcABDdZUR3PTiesfQaes",
+      "data_id": "0x95754300702a2241:0xeb69d0c77ae2f4dc",
+      "data_cid": "16963319026646447324",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95754300702a2241%3A0xeb69d0c77ae2f4dc&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95754300702a2241%3A0xeb69d0c77ae2f4dc&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.867596899999995,
+        "longitude": -55.2770703
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQSIqcABDdZUR3PTiesfQaes",
+      "provider_id": "/g/11yn6vbzzv",
+      "rating": 5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Rbla. de los Argentinos y, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHSgz5_bpob85JkD4z1RFiUZslJt1Eq9yB-1RB34vKrtY54841-WexcsTgaF_TQAhQgSYCdXvSzQHTDIfHbcVuODiLntYvyGkffL8TgWJF6GS3ljXORpQ_IIJIT7fgiYwaICJ-q4-rDm6l=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ctdoBHicHcRBjoIwAADAF1VoKIomHlQWaTVRoC6yFyIVCloo0orKJz37G5Odw3zepdatmhmGKK0Rl5KL_K7yjslG540eMVkbvFWAKaCMhR_uaVz7ER_sNGtl5tjk6qIBhl51-FOCaPhzm76WAIZLC_WbTic2chAEcf5kivKTl9JgUQY8SlbnYx8NgU9dXPgZ-73v3Grb6KR_ra9FsXUoj4k3XkeWuBx3YRukGBNMJwWvkscJrwi4IdC59VjMH9A0TVD-z0DzBWRyRq0"
+    },
+    {
+      "position": 17,
+      "title": "Señora Luminosa",
+      "place_id": "ChIJe1cDewBpdZURSjaAIRJu9H0",
+      "data_id": "0x957569007b03577b:0x7df46e122180364a",
+      "data_cid": "9076000173208909386",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957569007b03577b%3A0x7df46e122180364a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957569007b03577b%3A0x7df46e122180364a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8885491,
+        "longitude": -55.281933099999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJe1cDewBpdZURSjaAIRJu9H0",
+      "provider_id": "/g/11yxr2qbyz",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Rbla. de los Ingleses 6310, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAHoBFFppG0-BgDksftPm2QKRuww1kaI45Kmsmo0HYXmMs82u3tpdxnGJxWC7qE3gPkzfBoJrqBGipNfrPRjaZzGKgCf8Me-9enDgIi2C4G4twNgMiyeH1PD35vFYpCvbTy5P0CiTnuBkz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D2WNvXicHcRLjoIwAADQE1XKLzKTuLBFihJMh5A4zk6xFAb6kRZRLuna25j4Fu_1bKzV5ttx-sZfcKV4z0bDhkpJy6RdVEo4XBtQGWCcdVrQ8iDXqUJJojWBAPG4M7WlwvvJinGa3O60DcJMGKFgevwVuYm80bf6cpdkdz_g5XXjc9rNNVK74YpIq_f1QIv_099MMo7rKGfgi8mYb1sPBySw057n7YOlLo398JYcNb6dy0dIIW5LOaJuXk0uhBA0nysg38tHR9Q"
+    },
+    {
+      "position": 18,
+      "title": "Virgen de los Pescadores",
+      "place_id": "ChIJs5LY-YRCdZUR_GNMFRux8vI",
+      "data_id": "0x95754284f9d892b3:0xf2f2b11b154c63fc",
+      "data_cid": "17506249431422100476",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95754284f9d892b3%3A0xf2f2b11b154c63fc&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95754284f9d892b3%3A0xf2f2b11b154c63fc&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8800738,
+        "longitude": -55.278785199999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJs5LY-YRCdZUR_GNMFRux8vI",
+      "provider_id": "/g/11f3jvmf67",
+      "rating": 4.7,
+      "reviews": 240,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Destino religioso"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "religious_destination"
+      ],
+      "address": "4P9C+XFG, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "website": "https://mipiriapolis.uy/places/virgen-de-los-pescadores/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Hermosa vista de la costa de Piriapolis!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0ny3JeACnlBTMDTb0NLlGcU3l8b5knTNNQgp6BPb1h0P66f6lBoDt_LIKrgVXvU_ENM4P6BhKRAErczpcxlBNedAwKm5KBwx1aYG1wEX6fz1JP0MCcER7ODPU2aVudXmrL8a1=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tJEbBnicHcRRboIwAADQEyHt0GpM_KBC3ARqR0DZl4Fa22SlJbSujAt6Bm-zZO_jvZ7SucFuw1DJaCGMEYo_LB-Z0Y5rt2CmD8VgA2YDG8bvJa0uPdC_0ZHHe61wVSRVB0iuDqyO1KZbfeuKkE8xIEw7KAFF6I4UNom75h_ZKM7NT31NSbGkCMusjNORzQObFCb8FvusX2XYT7D9OkCfNug-wyMFxZ6l5fqU0PqtPT9uTT_mmxbuPAQABPJ_Fug_3wZDGA"
+    },
+    {
+      "position": 19,
+      "title": "Rambla De Los Argentinos Y Trapani",
+      "place_id": "ChIJT4lZOPVCdZURVUL-tJKwkHQ",
+      "data_id": "0x957542f53859894f:0x7490b092b4fe4255",
+      "data_cid": "8399407449194250837",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957542f53859894f%3A0x7490b092b4fe4255&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957542f53859894f%3A0x7490b092b4fe4255&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8663796,
+        "longitude": -55.2769202
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJT4lZOPVCdZURVUL-tJKwkHQ",
+      "provider_id": "/g/11c6slz1ww",
+      "rating": 4.6,
+      "reviews": 105,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Rbla. de los Argentinos &, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDuxLF7zDnRX1DF2QUJgQKXSfn53XLjIO87WrF0P8DuYnwi2FR1nH8JGkyFbUNUKvdzhJZ9P-mtiAdnKT2goCCQ2jmq_suy85jzeThEFxxIX5a2yR7QnbUwIu2W8Lzc08Li7Ku=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sowIKnicHcTbboIwGADgJ6qUGkK3ZBdGVuWQDRgE3I3Rii0M_jrbjsML7hn2Nkv8Lr6_X2nMTT87Ti_XK6GU6BurmztXYBowK64GR9w04hppZ7PP06LqAzslzF8CyGs3YCQrI5HF9ccVvHWddOE79as7wykN7AHGlrDchT2Ndl8zO5dvZfxzWWT0-ZSiwbSbC8QFEWq7zUg3fB-1nanXLU0hX9k0hbV3InPuZ3Aux9CSiiYLxzRp_di-jC7GGMnHHME_DFlEEA"
+    },
+    {
+      "position": 20,
+      "title": "Rambla",
+      "place_id": "ChIJPxObZpFDdZUR9fsBTrAIbhc",
+      "data_id": "0x95754391669b133f:0x176e08b04e01fbf5",
+      "data_cid": "1688296463626533877",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95754391669b133f%3A0x176e08b04e01fbf5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95754391669b133f%3A0x176e08b04e01fbf5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.860548699999995,
+        "longitude": -55.2837223
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJPxObZpFDdZUR9fsBTrAIbhc",
+      "provider_id": "/g/11t5n6s22t",
+      "rating": 4.9,
+      "reviews": 15,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4PQ8+QGJ, Rbla. de los Argentinos, 20200 Piriápolis, Departamento de Maldonado",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkrRDfD30LYpLMZoflPPG1AhRZiXIAl688E7Y4YFyfArQ-5ykZA5loJJaIaDfDofjI9GEUQP2pYDIGNJuqe8TYvacmAmi4oehDMQjw3R9-unSjXGIrmxTEkUoRkdHBnnBgtLzfkqQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D_vmPXicHcvBToMwGADgJ-pgsikz8dAFxkqYgcriyo10LR0t_RktzvmGPoJvo_Hy3b6fb-X96J6DwKho0QF0RsxOTBysF9YvOAxBNzrEHXIB3tOyftcTTWQShQUbi0MD0pRltsSKNpcTweYxjtMntmK7u8RThdZ33eC1gTxvSfvXQPZkk6XHqnwYWUKy13y-irhmHy0f8HBZgVDJoepvEd2g2b71p4xMw2ed6iNQfd5vrd12vviS-lq93JZhGCL1L0f2F5GJRVQ"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Piri%C3%A1polis+Uruguay&start=20&type=search"
+  }
+}

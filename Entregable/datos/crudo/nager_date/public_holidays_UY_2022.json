@@ -1,0 +1,197 @@
+[
+  {
+    "date": "2022-01-01",
+    "localName": "Año Nuevo",
+    "name": "New Year's Day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-01-06",
+    "localName": "Día de los Niños",
+    "name": "Children's Day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-02-28",
+    "localName": "Carnaval",
+    "name": "Carnival",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-03-01",
+    "localName": "Carnaval",
+    "name": "Carnival",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-04-14",
+    "localName": "Semana de Turismo",
+    "name": "Maundy Thursday",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-04-15",
+    "localName": "Semana de Turismo",
+    "name": "Good Friday",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-04-19",
+    "localName": "Desembarco de los 33 Orientales",
+    "name": "Landing of the 33 Patriots Day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-05-01",
+    "localName": "Día de los Trabajadores",
+    "name": "International Workers' Day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-05-18",
+    "localName": "Batalla de las Piedras",
+    "name": "Battle of Las Piedras",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-06-19",
+    "localName": "Natalicio de Artigas y Día del Nunca Más",
+    "name": "Birthday of José Gervasio Artigas and Never Again Day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-07-18",
+    "localName": "Jura de la Constitución",
+    "name": "Constitution Day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-08-25",
+    "localName": "Día de la Independencia",
+    "name": "Independence Day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-10-12",
+    "localName": "Día de la Raza",
+    "name": "Day of the race",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-11-02",
+    "localName": "Día de los Difuntos",
+    "name": "Deceased ones day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  },
+  {
+    "date": "2022-12-25",
+    "localName": "Día de la Familia",
+    "name": "Christmas Day",
+    "countryCode": "UY",
+    "fixed": false,
+    "global": true,
+    "counties": null,
+    "launchYear": null,
+    "types": [
+      "Public"
+    ]
+  }
+]

@@ -1,0 +1,974 @@
+{
+  "search_metadata": {
+    "id": "6aa95f20f0114aeb8871bb83",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vbh6vK6KOiEGAgNo-DzlKV3ZphKMFFjBz2oH7EY03UY/6aa95f20f0114aeb8871bb83.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vbh6vK6KOiEGAgNo-DzlKV3ZphKMFFjBz2oH7EY03UY/6aa95f20f0114aeb8871bb83.md",
+    "created_at": "2026-09-15 15:07:12 UTC",
+    "processed_at": "2026-09-15 15:07:12 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Montevideo+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/vbh6vK6KOiEGAgNo-DzlKV3ZphKMFFjBz2oH7EY03UY/6aa95f20f0114aeb8871bb83.html",
+    "prettify_html_file": "https://serpapi.com/searches/vbh6vK6KOiEGAgNo-DzlKV3ZphKMFFjBz2oH7EY03UY/6aa95f20f0114aeb8871bb83.prettify",
+    "total_time_taken": 2.15
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Montevideo Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Montevideo Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Jardín Botánico de Montevideo Atilio Lombardo",
+      "place_id": "ChIJ8fLzh7IqoJURdpihPu8D99E",
+      "data_id": "0x95a02ab287f3f2f1:0xd1f703ef3ea19876",
+      "data_cid": "15129565799257315446",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a02ab287f3f2f1%3A0xd1f703ef3ea19876&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a02ab287f3f2f1%3A0xd1f703ef3ea19876&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8613005,
+        "longitude": -56.1985378
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ8fLzh7IqoJURdpihPu8D99E",
+      "provider_id": "/g/1yfdrv0_m",
+      "rating": 4.6,
+      "reviews": 18838,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque",
+        "Jardín botánico"
+      ],
+      "address": "Av. 19 de Abril 1181, 11700 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 7 p. m.",
+      "hours": "Abierto · Cierra a las 7 p. m.",
+      "operating_hours": {
+        "martes": "7:30 a. m.–7 p. m.",
+        "miércoles": "7:30 a. m.–7 p. m.",
+        "jueves": "7:30 a. m.–7 p. m.",
+        "viernes": "7:30 a. m.–7 p. m.",
+        "sábado": "7:30 a. m.–7 p. m.",
+        "domingo": "7:30 a. m.–7 p. m.",
+        "lunes": "7:30 a. m.–7 p. m."
+      },
+      "phone": "2336 4005",
+      "website": "https://jardinbotanico.montevideo.gub.uy/",
+      "description": "Jardín botánico, exhibiciones y eventos. Jardín educativo con áreas exuberantes y colecciones de especies de plantas internacionales y nativas.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYJPhLX_CFsy0LzKMKay7P99pSM-sU8RNgcVLPgJskIXu2UJf0WR7DrLkRarbKrrFgniaZy7lvCdJTInWCthA0BotaT3Z6UgITgK-XQeYR6UgjB1pKZZii4_OquMtWXcjMC4gb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_RLsfnicHcdRboIwGADgExXKNKJL9qAYIhQ21oEgLwYq_kWwZW3ZghfcGXYbjS9f8v3_cWMG_WrbPZ9ZICX0zagbxaQwjTAWk1cbBo2YRtpe72iS5t0hTHhUHD1fTzi6kZhUk5usVsNXjHS2pO_A9lECoe6CYnzJwjPOqbtVUUcrVROlfBBtVU5u_-OdwjQQuWf4Gm-kqdJZucggSIGg4rM50EcuG2cgZdm28-PH9xibvGCX2JtD_fbrYIwRf8qQuANh_kTS"
+    },
+    {
+      "position": 2,
+      "title": "Parque José Enrique Rodó",
+      "place_id": "ChIJVVZ7Y6OBn5UR1ce7eWpmNNk",
+      "data_id": "0x959f81a3637b5655:0xd934666a79bbc7d5",
+      "data_cid": "15651247212514232277",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f81a3637b5655%3A0xd934666a79bbc7d5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f81a3637b5655%3A0xd934666a79bbc7d5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9134244,
+        "longitude": -56.1676961
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVVZ7Y6OBn5UR1ce7eWpmNNk",
+      "provider_id": "/g/122kzhxj",
+      "rating": 4.5,
+      "reviews": 22003,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque",
+        "Parque local"
+      ],
+      "address": "3RPJ+JWM, Av. Julio Herrera y Reissig, 11200 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "2410 7194",
+      "website": "http://montevideo.gub.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfu8kdqjEqelbD_RkDRVABgD9lRpwlY3fZwdwluzPww4rW2yCHcbh6JNXBonLEtSxvAS-qQiqiE_aNzaTokQZy08hlkqyQmaO3TWiBDgTbi_f7Cr_gwKzlTSQWzeDyntnggQ8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SQbb9nicHcRRToMwAADQE3WgGIcm-4CVhEwzV2hE90OglBbbtZQWOzigd_A2S_Y-3v8fd260r0EgebRhWjNJZ0snopWjym2IvgRstIBYYIMkL064Ev0ci878ZIbKFtaFgMVnkjL4IovRy--oP_vOy3k9ef80VY_LPictfz4cv1Kt3jNXXn-TEhg0mCGrm-PaYC3QeQljLoVZ0KX5iHA1pJDhdqj77X6qmX9bJS5RtVK4KKcYQ_HOP4RhCPh9AtQNJZlHmw"
+    },
+    {
+      "position": 3,
+      "title": "Prado",
+      "place_id": "ChIJjx1GTUzVoZURSAoBE08dgao",
+      "data_id": "0x95a1d54c4d461d8f:0xaa811d4f13010a48",
+      "data_cid": "12286133483901880904",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a1d54c4d461d8f%3A0xaa811d4f13010a48&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a1d54c4d461d8f%3A0xaa811d4f13010a48&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8570142,
+        "longitude": -56.206454699999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJjx1GTUzVoZURSAoBE08dgao",
+      "provider_id": "/m/0fq0b33",
+      "rating": 4.5,
+      "reviews": 29138,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "4QVV+5CV, 11000 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "https://montevideo.gub.uy/areas-tematicas/cultura-y-tiempo-libre/parques-plazas-y-zoologicos/parque-del-prado",
+      "description": "Lago con botes y jardines de rosas. Extensa área verde con paseos en bote, juegos en parque de atracciones, pérgolas de rosas y restaurante.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlj61Bcj-yAO7R9TYWABiynRi-Xq9saXxYkxJUbBfYJVIxnF0MvytrEyNw8RyLpcyM1jaK6DlreZZz2LM6oypq3EtC-KSx9sZOyO4heepQsR-klTAqCH4_WpRNX_YlXWevHbHYr9g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CE1owXicHcThEoEwAADgJ5oKF7nzo8KFEhO1_jh2U2q21YbmDT2Ct3Hn-_F9P6VSQk4Mg5aDXsF5QclDkhZzpghTPczvRiEkwBJIww3gNklpZVseroB24xF0EpS63k0zeANZ48hz1qG6Wx0u3hWtjsuOLczoqVU715vXGOpQYB1Z1Xltz2hL8vzdDyOba9EM5soH633nyDzW8bAkROwkBDVN3MYPhqdUwE12QjRLyTO4BKh1iunLMk0TlP8xYD88MEaA"
+    },
+    {
+      "position": 4,
+      "title": "Juegos del Parque Rodó",
+      "place_id": "ChIJheIn8aKBn5URo5Nj0m-YT90",
+      "data_id": "0x959f81a2f127e285:0xdd4f986fd26393a3",
+      "data_cid": "15947132411580748707",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f81a2f127e285%3A0xdd4f986fd26393a3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f81a2f127e285%3A0xdd4f986fd26393a3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9161104,
+        "longitude": -56.1680424
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJheIn8aKBn5URo5Nj0m-YT90",
+      "provider_id": "/g/1th7p1sl",
+      "rating": 4.1,
+      "reviews": 21771,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Atracción de feria",
+        "Parque de atracciones"
+      ],
+      "address": "Av. José Requena y García S/N, 11300 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 12 a. m.",
+      "hours": "Abierto · Cierra a las 12 a. m.",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Cerrado",
+        "jueves": "Cerrado",
+        "viernes": "Cerrado",
+        "sábado": "3–11 p. m.",
+        "domingo": "Cerrado",
+        "lunes": "Cerrado"
+      },
+      "phone": "2711 5980",
+      "website": "https://www.parquerodotuparque.com/",
+      "description": "Parque de diversiones apto para familias. Pequeño parque de diversiones antiguo con atracciones, juegos y restaurantes aptos para familias.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqKjh280zE2RFJrDxJ9BEAe6cJRCk1TFCC9Wx8bkk1KZaiWdOkUN8_CxaKtNrH1UEdHN6bbmh7vktwtWcBKS845dZtkGUPrGMlHvKZIgbFMpP71NTO6HEUBuZK3WlmA9Bz397B=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kA7hBnicHcRJDoIwAADAF7FUlMXEA0Wg0ogEIU24GCiEatmkVYkf9A3-xsQ5zPfDpJzEVtM6ZqjtOLZd8xDNTMdBNoNU6dhr7SQUKhShuShNMtLf8Y2tbP3tr9IgmvdL5EDfbUwapR4HWeB5DlnsinOAi_JK6hPPY_viLSWW8YxA7tcoNquqZ9aTy5ckFOKzvd7UheRhnszhsUNPXBzaKjhOiQXi7GQiP4ePAhuk610Hvg3HgrsX0HVdYf-pMvwA1p5C1A"
+    },
+    {
+      "position": 5,
+      "title": "Palacio Salvo",
+      "place_id": "ChIJIbJTZyuAn5URpgUPhjnrVzI",
+      "data_id": "0x959f802b6753b221:0x3257eb39860f05a6",
+      "data_cid": "3627626657165018534",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f802b6753b221%3A0x3257eb39860f05a6&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f802b6753b221%3A0x3257eb39860f05a6&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.906479,
+        "longitude": -56.1985093
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIbJTZyuAn5URpgUPhjnrVzI",
+      "provider_id": "/m/0bg9l7",
+      "rating": 4.5,
+      "reviews": 4757,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de interés histórico"
+      ],
+      "address": "Pl. Independencia 848, 11100 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6:30 p. m.",
+        "sábado": "10 a. m.–2 p. m.",
+        "domingo": "12–4 p. m.",
+        "lunes": "10 a. m.–6 p. m."
+      },
+      "phone": "2900 1264",
+      "description": "Edificio histórico y Museo del Tango. Edificio emblemático, entre los más altos del país, que alberga el Museo del Tango, oficinas y residencias.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnWGiXbh0nWwN8rIZec_1Q2kC9OFuimf1fuk30ejCmqVRFBKdBAG5_V-Rwi0F7AuK0eGUL6RfFlzhOIOegEyvLWWtegMDmLfH45Bt8AEmiK1k4fvj-WN0fOVEyYw_bGvALBtuK2ig=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HHn633icHcRLjoIwAADQE1WKv9FJXBQFNKCMRKm6IbH2J7SobSHODT2CtzHxLd77Jay9mV_Pq8Wgx5uG19QZ-iCNtlTbHmmUx28GEAOMh5b53w5rHMvDWUCNu83ksTpRUvrbfjWfZpGTivnMVQNIr3N1L_IoSC4BikdlAfJOwugHuQTSeJ-OcxbV_yJbZZSHzzbF2FK-XqiULYejwE5QqGTiV0PWXgHeQJYV4fPYlee4RWlgXdKXfNb5EEIgvhOgP7boRLg"
+    },
+    {
+      "position": 6,
+      "title": "Parque Rivera",
+      "place_id": "ChIJrW1T492Gn5URLBKeTWHyG-o",
+      "data_id": "0x959f86dde3536dad:0xea1bf2614d9e122c",
+      "data_cid": "16869343328974279212",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f86dde3536dad%3A0xea1bf2614d9e122c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f86dde3536dad%3A0xea1bf2614d9e122c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.880122899999996,
+        "longitude": -56.0926171
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJrW1T492Gn5URLBKeTWHyG-o",
+      "provider_id": "/g/1vg6vxmq",
+      "rating": 4.4,
+      "reviews": 15474,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "Av. Italia, 11400 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "http://municipioe.montevideo.gub.uy/node/204",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk3mdM23uV4rnCEpLy-6CkZTbTDyKzFwuSvCv1SrMy4A_YUPddqEJqIEjIG95uKgKu6KOqVWUa6GYzEkq1WnyqLdN7SDGwsMcBgiv8mIcAsS1fkx4t6zwuyg2IrmGXJ5-HDl-I-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XQLuwnicHcRLcoIwAADQE0VAPrbOdEEBMXysIyilm44GDBYIhCRguGDP4G2c8S3e47_ivGdrRWkqfYG7DjelYOWAOsJLwheoaxXcM4AYYIq9PezTrNbbIl7q4mQMxPH6SALLqX_SS-rKcN5MIhmdUUuGWBr2b37cFwX1Agq9P-i_myLEobDCL3rKjmfLz2evplpGJI2K3Spx_YnF6BPfxrcWIpsl2rW-G9yaJyHxEg6t_x2YYOs2AIKPSVNVFVSvESBPdw9EyA"
+    },
+    {
+      "position": 7,
+      "title": "Puerta de la Ciudadela",
+      "place_id": "ChIJ4c4Q_iqAn5URxUfoPSBGWLk",
+      "data_id": "0x959f802afe10cee1:0xb95846203de847c5",
+      "data_cid": "13355501799258736581",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f802afe10cee1%3A0xb95846203de847c5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f802afe10cee1%3A0xb95846203de847c5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9065218,
+        "longitude": -56.200817799999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ4c4Q_iqAn5URxUfoPSBGWLk",
+      "provider_id": "/m/03c5d6k",
+      "rating": 4.7,
+      "reviews": 4149,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de interés histórico"
+      ],
+      "address": "Sarandí 700, 11000 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "1950 1401",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmSs6-ANh7WYTcgEKUXeI345EVRmjA9A1O9jrYa4xX15bDGr5KTK3a5jKxBS5Qzos1flB9aFvnkQ9do3MqwBfWiRNs-aHD9nteRx7aNAOWTx71DaaabPjWg397RvVuKoS6Hct_M7w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/41pjlXicHc1RboIwAADQE1Voam1qso8SnCyNqAUtfi21YhkCdbQK2Q13BG-j8ef9vsd_5f3VzYOgqdDEWGua8ubKXtvOl52faNsG5uqAdsAFLBGbXLaZmwGWVkQecm0WfFeUX2iKF3vR1owyuKZ1f1DTsYD4GC97zHOOFK75GGV4-2cdPDcRVZ_37rKlJ4tWv0N0lj8idUAlMX21YiQqZWuZjwTGSqnjppYGUSLu-xu32SzR_ntFho8BhmEIqrcadE88_UPm"
+    },
+    {
+      "position": 8,
+      "title": "Rosedal del Prado",
+      "place_id": "ChIJw4NeBU3VoZUR1Qc18FpO0N4",
+      "data_id": "0x95a1d54d055e83c3:0xded04e5af03507d5",
+      "data_cid": "16055418824059848661",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a1d54d055e83c3%3A0xded04e5af03507d5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a1d54d055e83c3%3A0xded04e5af03507d5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8597667,
+        "longitude": -56.205765299999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJw4NeBU3VoZUR1Qc18FpO0N4",
+      "provider_id": "/g/120p9y46",
+      "rating": 4.6,
+      "reviews": 6273,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "4QRV+3MX, y, Avenida Buschental & Av Delmira Agustini, 11700 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 9:30 p. m.",
+      "hours": "Abierto · Cierra a las 9:30 p. m.",
+      "operating_hours": {
+        "martes": "7 a. m.–9:30 p. m.",
+        "miércoles": "7 a. m.–9:30 p. m.",
+        "jueves": "7 a. m.–9:30 p. m.",
+        "viernes": "7 a. m.–9:30 p. m.",
+        "sábado": "7 a. m.–9:30 p. m.",
+        "domingo": "7 a. m.–9:30 p. m.",
+        "lunes": "7 a. m.–9:30 p. m."
+      },
+      "website": "http://imm.gub.uy/",
+      "description": "Jardín de rosas con arcos y una fuente. Parque pintoresco con senderos, muchas rosas importadas de Francia, una fuente y varios arcos de jardín.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqeuBBHA7ieFeUusIjjq0KSBSBHoCdyGl6VHvvg0kIVpaz8bCCdhSW4eYUaOiPtztWGEXrfG-n5oxZzlnQs4PuYXsBg2yu2ip0JS826Gx5-k7iMbTS50d_EG-ShVtKzV0T34zeAA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WF2aqHicHcRdDsEwAADgE3Wr2RCJh3WhGxGjs-FF2Kod0462fnpDR3Abie_h-3641q0aum7Duw6TkjXUKHovpdBUaKeUV5e1CpQKKDeMV2lWiBs1CMVhv6YTujYqOZ9vcEYQQbGMqjduenn8eDB4SfL2YAfHKKo4KXy6XR8WdaqtLvB4cz9hIAL52tlGLJWfmu1GIea9jVe3cEoGXg-_AnDp1_NjRgJY7ccYEJ7rmc1h1vUtDcPRswMhBPx_CcQPNdZFUg"
+    },
+    {
+      "position": 9,
+      "title": "Fuente de los Candados",
+      "place_id": "ChIJV1S00MyBn5UR3rfN7tn4ACg",
+      "data_id": "0x959f81ccd0b45457:0x2800f8d9eecdb7de",
+      "data_cid": "2882577376415168478",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f81ccd0b45457%3A0x2800f8d9eecdb7de&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f81ccd0b45457%3A0x2800f8d9eecdb7de&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9057083,
+        "longitude": -56.189186899999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJV1S00MyBn5UR3rfN7tn4ACg",
+      "provider_id": "/g/1pp2wz6d9",
+      "rating": 4.3,
+      "reviews": 3929,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Av. 18 de Julio 1249, 11100 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnNxMRSg9F1vMrRKqcVbHC1y1Dgf6fm2-i0gjpkfPtE-dI3fflnb3MzDj1g6DA9x4d5cGJkbf3gO5Ehsum1Ad4WRZ48tFCNDwFILhf3gNZgdGhHM_ueMdGDE4IDOF7jD3kCm4fs8g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CURPWnicHclJbsIwFADQE5nEtRklFlGcqcUBhQokNkix428yOAE7hfaGHIHbtOrmbd7rqZ0b7MrzWk0m0PfQVqOtbqI3rjJuIvrOg8EiYZH1grTYfR5N_uDFHpYx_uK34uMqDmUa4m_MQM1U94YuPtRDo3YuQjIjSrWmJPyH1RhmLFg-qJyK5L0pFYHtNNJ27HAg6bE40YWLw5zd42yj_zI_gUx0ys9jxWXCIpqxbTyvGWnCjiq7gPUd-76P9L8CmV-MjUPJ"
+    },
+    {
+      "position": 10,
+      "title": "Parque Rodó Infantil",
+      "place_id": "ChIJj3EXaaGBn5URsYPViWuwDfE",
+      "data_id": "0x959f81a16917718f:0xf10db06b89d583b1",
+      "data_cid": "17369733313758331825",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f81a16917718f%3A0xf10db06b89d583b1&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f81a16917718f%3A0xf10db06b89d583b1&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9130566,
+        "longitude": -56.1635869
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJj3EXaaGBn5URsYPViWuwDfE",
+      "provider_id": "/g/1vtqx8c3",
+      "rating": 4.3,
+      "reviews": 6463,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque infantil",
+        "Parque de atracciones"
+      ],
+      "address": "3RPP+QHF, Bv. Gral. Artigas, 11200 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a la 1:30 p. m. del sáb",
+      "hours": "Cerrado · Abre a la 1:30 p. m. del sáb",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "Cerrado",
+        "viernes": "Cerrado",
+        "sábado": "1:30–7:45 p. m.",
+        "domingo": "1:30–7:45 p. m.",
+        "lunes": "Cerrado"
+      },
+      "phone": "2400 8912",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkG2Zz-vQvFxVd-EtIMBeKWZpxv90YWgMm1qPuYisZ6d8ICb3u2nsfFEdL9TI1WT6z7jYYQWrWPga29Xh3OV1Ca5TQashCdsn9I5zyhBIQ9GMoMTb1BWleMK9mQ0N4bqmReAdcA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cIhL7nicHcRRTsMgAADQE7FC66aY-NE22yQTLQsZtn8tIKgtdIPW2Qt6Bm9j4vt4vz82xjHcJ0lvs5Xx3vR6CvoivYvaxZX0Q2LGAGQAIckfjxUXn_u0WcDM5t31pMA2Elrog2jG64xhLQwd0Lma6vfQbNQdKbtsSl14223VE-YECb5Zbj_qmomLqEyb4lebvZxQ2a45a4MtVXCYrJdvWxCG99RT3qFC9Joe8MDg8013Ho46VzJ_-EIQQmD_l8D9AS7hQ7w"
+    },
+    {
+      "position": 11,
+      "title": "Fuente Jardín Botánico",
+      "place_id": "ChIJZXYYi60qoJURqcvDTMjjkmw",
+      "data_id": "0x95a02aad8b187665:0x6c92e3c84cc3cba9",
+      "data_cid": "7823565952116837289",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a02aad8b187665%3A0x6c92e3c84cc3cba9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a02aad8b187665%3A0x6c92e3c84cc3cba9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8595933,
+        "longitude": -56.199438099999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZXYYi60qoJURqcvDTMjjkmw",
+      "provider_id": "/g/11g8cmnftd",
+      "rating": 4.7,
+      "reviews": 593,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4RR2+567, Av. Dr. Alberto Boerger, 11700 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 7 p. m.",
+      "hours": "Abierto · Cierra a las 7 p. m.",
+      "operating_hours": {
+        "martes": "7 a. m.–7 p. m.",
+        "miércoles": "7 a. m.–7 p. m.",
+        "jueves": "7 a. m.–7 p. m.",
+        "viernes": "7 a. m.–7 p. m.",
+        "sábado": "7 a. m.–7 p. m.",
+        "domingo": "7 a. m.–7 p. m.",
+        "lunes": "7 a. m.–7 p. m."
+      },
+      "phone": "2336 4005",
+      "website": "http://jardinbotanico.montevideo.gub.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyKNtOMc82OV-5th14uKA0laQuPxkRS9vU6iB8wP8jJ0Ma8Y0RZjTeOiTEQsEm0nk020_cvoJm9w-fifZ21hxueWLTS6wZ_YsMAOosYQ3a6oA9GFb1B-BdPjPTu8qEVyiH0VEsLQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZVsMSXicHcTdboIwGADQJ6p8oCNlyS4gwRkVKdhh4MawrlJ-q_ta0UfcI-xtluxcnN8fZcwVXx1nUMtFo3UzSIvyW-jJyMkshB6d5opEIEEn3OSMn_rn7mDSRFAvLciLUe7K7kIY6syyR58fg_uH30Z0ZrTbQlLTEvKq4zJteZxhPMLUgwdncdfbMZjJpb1UnqseVp72_OjP1bnEJEw1ltmy9nUYvK8_3YhEX6xj3NJbXDzbDRQx7rO32QUAov4XZPoDf4JEDA"
+    },
+    {
+      "position": 12,
+      "title": "Rambla de Punta Carretas",
+      "place_id": "ChIJf47oQIKBn5URz05Vr8ojGxQ",
+      "data_id": "0x959f818240e88e7f:0x141b23caaf554ecf",
+      "data_cid": "1448791058561715919",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f818240e88e7f%3A0x141b23caaf554ecf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f818240e88e7f%3A0x141b23caaf554ecf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.92747,
+        "longitude": -56.1579778
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJf47oQIKBn5URz05Vr8ojGxQ",
+      "provider_id": "/g/11c509k4c4",
+      "rating": 4.7,
+      "reviews": 1481,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Edificio Torres del Nuevo Mundo, Rbla. Mahatma Gandhi 75, 11300 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlEYVoxxNwN-YTYtsTtoYH5HMTAtvuFWUoyzGFZOUuV9oJjkpk24lDQ7VKLAA3pkPR8gl8iY00xAZs2elCe5Yu-rhTf1Rt2sP-02XtikzagPjeeeb9UooP3IGCoFAvMakRWc_aZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3SGA9nicHcTRboIwFADQL6pU0EyX7KFxIup0lRSwvBjW1KLtuMReFP3BfYN_Y7LzcJ5_NWLr34PA1dHAABinO68vChrUDQ4U_Aam9UR54gOWpFwUbi5z6PvtbUukkOgFgkzGyUYwvHZxkcH9sYjL76zLp7A629aGI_e5e8vXX4xFreXpxLjJSVLas9KH2s30WHbkUovjMMXQc0LDPZ7sozL8rLX-mWYAPFouZhCz66ayaaEOVflxG1JKSf2_Is0LsxdFVg"
+    },
+    {
+      "position": 13,
+      "title": "Letras de Montevideo",
+      "place_id": "ChIJo-y472qBn5URoPqNesAZN7M",
+      "data_id": "0x959f816aefb8eca3:0xb33719c07a8dfaa0",
+      "data_cid": "12913818770988726944",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f816aefb8eca3%3A0xb33719c07a8dfaa0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f816aefb8eca3%3A0xb33719c07a8dfaa0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9104178,
+        "longitude": -56.1386305
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJo-y472qBn5URoPqNesAZN7M",
+      "provider_id": "/g/11b6zsys1v",
+      "rating": 4.6,
+      "reviews": 19898,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "3VQ6+RGQ, Rbla. República del Perú, 11300 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "http://www.montevideo.gub.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmebTn66Nn4eAj1CNHiMNtYrNSEwubQG57EvzDzUV3DJB65fyNrq16a1bWb9VKxbkKnU041BRQA2pOiDLT1qQOM3_rLq7MmUfn8KOebfa0oW51VAYaj07cyQjcJGBVAW-8Lf3OncQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IYt4a3icHcTbboIwAADQLyq0Q0BNfCiDaASKVS7xaaFNAVFaoHVe_nCfsL9ZsvNwfn86Y0a9tu1b51itUu1N3LWYuZJGSGNxNdjtqAHXQNt4dzzk1SBYLj2PyIXAPfoku0tKzHkmp-hxZ3Tr-tH3O3wXpRPuA89tXmSekFcjVrFVGT_ZNZYFXKDgSPHHmF3CJEcTzVLna04mPx2KRi7jTLCmhqpyUYnPdQ99_qI932-DEldgmTROJjndPBCEEHT_cyD_AGKAQ1k"
+    },
+    {
+      "position": 14,
+      "title": "Castillo del Parque Rodó",
+      "place_id": "ChIJLzFdd6SBn5URSvCyeJ8mJDE",
+      "data_id": "0x959f81a4775d312f:0x3124269f78b2f04a",
+      "data_cid": "3540997673386700874",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f81a4775d312f%3A0x3124269f78b2f04a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f81a4775d312f%3A0x3124269f78b2f04a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.912348,
+        "longitude": -56.1665779
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJLzFdd6SBn5URSvCyeJ8mJDE",
+      "provider_id": "/g/1tzvxrct",
+      "rating": 4.5,
+      "reviews": 2229,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Castillo"
+      ],
+      "address": "3RQM+397, 11200 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 3:45 p. m.",
+      "hours": "Abierto · Cierra a las 3:45 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–3:45 p. m.",
+        "miércoles": "10 a. m.–3:45 p. m.",
+        "jueves": "10 a. m.–3:45 p. m.",
+        "viernes": "10 a. m.–3:45 p. m.",
+        "sábado": "10 a. m.–3:45 p. m.",
+        "domingo": "Cerrado",
+        "lunes": "10 a. m.–3:45 p. m."
+      },
+      "phone": "2411 6061",
+      "website": "http://www.montevideo.gub.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4H9Lern0kMYfxigwVpsIKN6MiuBx7zDKO7CDREcBxo36e8Lp9f8KdFNLH7ZStddbVOSF1Cipl-6S2zdV9oeAwFPbVwvidfRFSQqTdUg6Flkxiham5_eOdLr7qJQ4jNNmgEIYazQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2Ya8yHicHcRdDoIgAADgE5H2p9nWQ1bM0jS1bPXSChApFBJK5w07Qrdp63v4vp9Ca6mmhsGLYY8KQTl5KVIjUWlS6R4SpUGlAkgBZcy9ZLc_8pHnBKSuzMf2lLeMNplUaz-0tuzltna39CN7sUxWyG3F0CKTQDr5xMcwDDz7nGqMb1mUwv6CSQ6sdNDhzBFk3sDdLWveDOcJTOPnHh-oBfmjZcW1HF9IhIPafm7i0T0MS7pan65dPGv6pmmC4j8C1Q_ryEWt"
+    },
+    {
+      "position": 15,
+      "title": "Parque de la Rambla",
+      "place_id": "ChIJ_1ANb4OBn5URk6gS4lOLenw",
+      "data_id": "0x959f81836f0d50ff:0x7c7a8b53e212a893",
+      "data_cid": "8969634800253184147",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f81836f0d50ff%3A0x7c7a8b53e212a893&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f81836f0d50ff%3A0x7c7a8b53e212a893&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9274249,
+        "longitude": -56.1641237
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ_1ANb4OBn5URk6gS4lOLenw",
+      "provider_id": "/g/11hbhdm8hb",
+      "rating": 4.7,
+      "reviews": 1745,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "3RCP+QGW, 11300 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "https://montevideo.gub.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmtpWLIUsHgwRPytIBjclfZ1lqnDY0mxe2iBOtjXLDhGFo5T3rylb9hQmFhUJWlcDaRlBy__qEbekUpwxp7wKLFuikWOeav84hJxXly2HlinsnJQFxvoesYhz1WP0KvnL-mgYQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/z1kXAXicHcRZroIwFADQFVWKQ9SXvA8JIiKJQCQVf4w2tUVvB21lcIHuwd2YeD7O5y2cM_bP80CMBlxrDuxp2YNq5ZhyA6qlx41F1CLrLeIi2xHpDEnXpY15W2S9WwdXCpeDD3cVVlh2bFgHW3fdp6FYRXqyGz16OM9FLiNRJgRoeCog6I_H-_LMbqVpOzNtN2n0rG9ky07NbCySbg_9MIZaWZXkUddoZivx8kmGN41KkeRV_t_6GGMkflOkvhWCR1c"
+    },
+    {
+      "position": 16,
+      "title": "Fortaleza del Cerro de Montevideo \"General Artigas\"",
+      "place_id": "ChIJgc47-id-n5UR8FY_3nwcCJE",
+      "data_id": "0x959f7e27fa3bce81:0x91081c7cde3f56f0",
+      "data_cid": "10450634257943451376",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f7e27fa3bce81%3A0x91081c7cde3f56f0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f7e27fa3bce81%3A0x91081c7cde3f56f0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.888456999999995,
+        "longitude": -56.260023
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJgc47-id-n5UR8FY_3nwcCJE",
+      "provider_id": "/m/0fphvp2",
+      "rating": 4.6,
+      "reviews": 3796,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Museo militar"
+      ],
+      "address": "José Batlle y Ordóñez S/N, Cerro de Montevideo, 12802 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mié",
+      "hours": "Cerrado · Abre a las 10 a. m. del mié",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "Cerrado"
+      },
+      "phone": "2313 6716",
+      "description": "Fortaleza histórica con un museo militar. Fortaleza española que alberga un museo militar en una colina grande y tiene vista a la bahía de Montevideo.",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhFXW07YkZDv_KwvbYvJ5L-_uthvkRG87OPYuedARF-8PfTVEy-OQDilJ0hRjbUX-ie_QTz4v5oGbkW_ua_HIc7DI8UuDhG2g_K35A2eb7BtwN7KRzkW0qKRZZnvJCdqLDHCTkx1EuAsm3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fIPqOXicHcTNboIwAADgJ6pUkZQs8cCsgmAmNjiESyO1Ui1SXX_YfEnPvo3JvsP3egpjbvrD8zrhj1ql2o5bzX-Y6g3vzYipq9feNGAaaC9KSF6UUiz3JUSVrLGj2eCayqXBGlBrhJMkDtEmryw_RmQJwvxUfC_-wGaLz10KBbk0uz04c7otHlMXqLiRJbUHmqwYwqtwZ7GIJy3N_CCa8AZ9muELZeQhS3jPSF33Lp0f72uczAv5O17YSF_92TCGEALxPwP9G4N4Rsw"
+    },
+    {
+      "position": 17,
+      "title": "Lago del Prado",
+      "place_id": "ChIJXRbahUvVoZUR_MXftRitIsc",
+      "data_id": "0x95a1d54b85da165d:0xc722ad18b5dfc5fc",
+      "data_cid": "14349221684397983228",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a1d54b85da165d%3A0xc722ad18b5dfc5fc&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a1d54b85da165d%3A0xc722ad18b5dfc5fc&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.856625699999995,
+        "longitude": -56.206950199999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJXRbahUvVoZUR_MXftRitIsc",
+      "provider_id": "/g/11b_2w2myj",
+      "rating": 4.4,
+      "reviews": 909,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4QVV+86V, 11900 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "1950 2003",
+      "website": "http://www.montevideo.gub.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWka6oRWDeVENQLgA2y3_uKfR8o7p_VspO_VNr1g6I5G_gKAEaihMLzXWpOw-82qykvEh-8znRCsb-65GaVfZZvONxaJ_SVxq6p7OXrORcdNW45M8JtwvR9q21nR-Zyl9HEuPVU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/54y1anicHcTbDoIgAADQLyIvpVlbD65cdykqbL4wI4OWAQpq9oH9Q3_T1nk43w83RumxZRW832NSsiKvdV5RKUwuTI_Kp8WUBlQDbYULtDsmj8yXKJnlOIr3Gxa6XZ_U6xsK5FARrBUkOK4c5i-9OWHrMMrufLt5nxMFWxC4ZfdoIg6Ct0BTfQG-N8_wLU0bGL-yFTngV-mrITxXENFrnAy8bbAybYNGpesIBNKuGC2ieodPk9axbRvw_xSIHwNwQ_k"
+    },
+    {
+      "position": 18,
+      "title": "La Macarena",
+      "place_id": "ChIJVye6WEPOoZURKXmUWi5Znbc",
+      "data_id": "0x95a1ce4358ba2757:0xb79d592e5a947929",
+      "data_cid": "13230829335907432745",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a1ce4358ba2757%3A0xb79d592e5a947929&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a1ce4358ba2757%3A0xb79d592e5a947929&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.721578,
+        "longitude": -56.319953999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVye6WEPOoZURKXmUWi5Znbc",
+      "provider_id": "/g/1pv0cb775",
+      "rating": 4.4,
+      "reviews": 958,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Cam. Paja Brava 1915, 12520 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 11 a. m. del sáb",
+      "hours": "Cerrado · Abre a las 11 a. m. del sáb",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "Cerrado",
+        "viernes": "Cerrado",
+        "sábado": "11 a. m.–6 p. m.",
+        "domingo": "11 a. m.–6 p. m.",
+        "lunes": "Cerrado"
+      },
+      "phone": "091 660 013",
+      "website": "http://www.lamacarena.com.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnbLYqYZHYPp-Q1hX8UtwkpqhU-5TrexPE0hdxQBc18hWOgRigZwfphuFOC_8TZ-HUKJpsJESeRGAo3HekdKse4mgxaa2K6ZKFPxAnmEFlk13jpOtCRmB4TPLneF5yabqMV1MJq=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FUiDTXicHcRRDoIgAADQE5GS1lxbH9Y0pzXRNNOfZkRQKqDQtBN2hm7T1vt43w_TWqqVYbTMmlEhaEteigxYcE24nmHRGVQqgBVQhhukKCv4dV_2ZRWUSIIEsrOT67GRPcvBIhvIhDyT3aZkg6HDipimD1qNd8lefry9OFkFgjwKpQq9I0l3rrAC0twiReyOTnU9j5ZV5KPJ5Z3ntw20njLW27Tb2Bnac-Iv3vW1P5zgIezXIzRNE7D_GPAfk9pE9Q"
+    },
+    {
+      "position": 19,
+      "title": "Punta Brava",
+      "place_id": "ChIJxXSp6YGBn5UR-HhvHxxtLNI",
+      "data_id": "0x959f8181e9a974c5:0xd22c6d1c1f6f78f8",
+      "data_cid": "15144599614494046456",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f8181e9a974c5%3A0xd22c6d1c1f6f78f8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f8181e9a974c5%3A0xd22c6d1c1f6f78f8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9308475,
+        "longitude": -56.159799
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJxXSp6YGBn5UR-HhvHxxtLNI",
+      "provider_id": "/g/1tg_y845",
+      "rating": 4.4,
+      "reviews": 6997,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "3R9R+M38, Vehicular Peatonal, 11200 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlL3x-hMwiglydYfv9n6_YwwPSlqqmAK7ZERl-JE3wQ55KbcNWzIvJM3yvmP0QMWtCLJNiNE5hOdvBcxhNvdh3gvZ3c0_3aYky1PUg9Xyq7E9MrEQgH85nifee0ipvh1C9dDNBH_w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J1iE33icHcTbToMwAADQLyqUNIiY7GGbTZBLhemC7IVoKS2xlEu7dviHfoJ_Y7LzcP5-hTGzfvJ9KZDHp4lLdtVspZMyTBmPTqPPZw2oBtrfJ6fyvZY5ugFRuIHLrWt6G6uHtnGufJPLMu6z6IJPEqQYuSoMsy9K6p8XmxZos2MJq6I2xzwlA8GheO3sgd4EsZ1A3F4QhS36bL63oDzz-GNbIhwXK6548hiqoWcMDrMVwTHunskhad3OBRBCIO5ToP4BN_FFtA"
+    },
+    {
+      "position": 20,
+      "title": "Fuente Iluminada",
+      "place_id": "ChIJGRX_q6qBn5URaHMf6BMyDPY",
+      "data_id": "0x959f81aaabff1519:0xf60c3213e81f7368",
+      "data_cid": "17729600894130942824",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f81aaabff1519%3A0xf60c3213e81f7368&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f81aaabff1519%3A0xf60c3213e81f7368&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8959506,
+        "longitude": -56.159214299999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJGRX_q6qBn5URaHMf6BMyDPY",
+      "provider_id": "/g/11csrkdfn3",
+      "rating": 4.2,
+      "reviews": 662,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "4R3R+J87, Av. Dr. Américo Ricaldoni, 11600 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnG2zKYOgI-V1jub0DR73P-rWp9IP6m23waUfWuZ5V08B2FAb1hYL94F73ZBvqP6NilvK-pHyN4YlEludVyuXrUWgZnT-tAccTgYQlrLpLyPd8VCoMqFuIokXrTvRqeBYefQwxD=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z7Qw8nicHcRLcoIwAADQE0UCWNTOdAG1VEa0kUEw7EqMoTUmIR8oXtAz9Dad6Vu830dnrTLPnse7cMakZJw6QzWRwlJhZ0TePKYMIAYYL94UqKzFe3Df4g-Wgcr_di1cF4sQAV2rVYaiWxCOn8dL7ZqnCi6TII1bv8P5ap4uwiYZehTtv_iwBWoz7eeYv3F3riZ30seaNaIENiakZPjAda7yCZ2X1avc9anL5PWky6HoaYLp5TD-rF9GH0IIuv8JEH_LRER0"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Montevideo+Uruguay&start=20&type=search"
+  }
+}

@@ -1,0 +1,1149 @@
+{
+  "search_metadata": {
+    "id": "6aa8995b3ee4c2ffb9006607",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/nd71J0yBin774UuO9pmKXPzbd53ajf-2VEcDehAhsRQ/6aa8995b3ee4c2ffb9006607.json",
+    "markdown_endpoint": "https://serpapi.com/searches/nd71J0yBin774UuO9pmKXPzbd53ajf-2VEcDehAhsRQ/6aa8995b3ee4c2ffb9006607.md",
+    "created_at": "2026-09-15 01:03:23 UTC",
+    "processed_at": "2026-09-15 01:03:23 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Punta+Ballena+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/nd71J0yBin774UuO9pmKXPzbd53ajf-2VEcDehAhsRQ/6aa8995b3ee4c2ffb9006607.html",
+    "prettify_html_file": "https://serpapi.com/searches/nd71J0yBin774UuO9pmKXPzbd53ajf-2VEcDehAhsRQ/6aa8995b3ee4c2ffb9006607.prettify",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Punta Ballena Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Punta Ballena Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Ballena de punta",
+      "place_id": "ChIJoeJG_GIRdZURN-PyopDwW0k",
+      "data_id": "0x95751162fc46e2a1:0x495bf090a2f2e337",
+      "data_cid": "5286083091649192759",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751162fc46e2a1%3A0x495bf090a2f2e337&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751162fc46e2a1%3A0x495bf090a2f2e337&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.915557799999995,
+        "longitude": -55.0466967
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJoeJG_GIRdZURN-PyopDwW0k",
+      "provider_id": "/g/1tp0fvh5",
+      "rating": 4.8,
+      "reviews": 4569,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "park"
+      ],
+      "address": "Juan Díaz de Solís 4, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"Infaltable la visita a Punta Ballena y poder comprar un recuerdo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvHlb2WXywvuFbjJk_bb-jhrTY-wl0Pp9DAAXivjNIvxr9N0WwO4Uvn6X_HdJGKr8jjnFqW-CFmawDhz3OygkMOgNUrRnVYikBnH_qGXh_dTRpnOwjn0gLWIGVYRQ5hV4g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QBsxEHicHcRLDoIwFADAE1WqolETF6jh4weUIIUVESQtBR_YYqtez1N4GxNnMd8P6_tOLgyjYeMBbVvalA9ZiqKFvoR-ULQ3g3YSFRJJw3LDY0RAuU0-IslLq4ed822d5TniTEQp0g0-dvONZSWV4r6nnmLuY6ID86xgmmTudevsxIxzsO8Ere3bRW_Yexy8aH0IqH8WIcRpVa_Aze5OwrJrFHYQaA6Y7onnxGl4mrDYpEs9xBgj9r9A8APvx0UE"
+    },
+    {
+      "position": 2,
+      "title": "Las Grutas",
+      "place_id": "ChIJZTLrmm4RdZURPT7Ch5tq1hQ",
+      "data_id": "0x9575116e9aeb3265:0x14d66a9b87c23e3d",
+      "data_cid": "1501504742004768317",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575116e9aeb3265%3A0x14d66a9b87c23e3d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575116e9aeb3265%3A0x14d66a9b87c23e3d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.910826,
+        "longitude": -55.0429238
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZTLrmm4RdZURPT7Ch5tq1hQ",
+      "provider_id": "/g/1td0c33h",
+      "rating": 4.5,
+      "reviews": 3450,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Cafetería",
+        "Pub restaurante",
+        "Fábrica"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "cafeteria",
+        "gastropub",
+        "manufacturer"
+      ],
+      "address": "47 de la mansa, Francisco Antonio Aime esq, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "097 293 996",
+      "website": "https://lasgrutasuruguay.wixsite.com/lasgrutasuruguay",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "parking": [
+            "Estacionamiento gratuito en la calle"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"Hay atracciones para escalar.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkeSrlP7kkfiaqRdC6k2ppx1buSkWrpnXumpUY4ltEAMGWu2iAPchw9YRfr3fSlOtSbZGCuMLeJCr0s-L1z54yLC0PiTI7FUd0iIvGoz05APrGRzMOkJkRkfoACsncA7swRi1PA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ya2WQ3icHcTbboIwAADQL6oULyMz8aFpJmIgNkXD3NssBZrWtutlKD_oN_g3Jp6H83wMIVi_ThI1LGa9Mb3i0XPHjA5chxkz16S3HjAPfIJ2lBwbyWunSCZlJ37_aIs_5NzaW3qJtWyc1d_xak_npQpfqMqbOBeIsGH8PNPOLbpaHUJ9-clxrEq-xw56UKbTankvMSTiWGTbUwtF8Z-bCa4QcTmdqoPcSyo7g7DXDGV-pCIlaDOmEEIwvGdAvwDrn0V6"
+    },
+    {
+      "position": 3,
+      "title": "Playa Portezuelo",
+      "place_id": "ChIJ5w5dmFMRdZURfBGyCyqA9is",
+      "data_id": "0x95751153985d0ee7:0x2bf6802a0bb2117c",
+      "data_cid": "3167860305974923644",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751153985d0ee7%3A0x2bf6802a0bb2117c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751153985d0ee7%3A0x2bf6802a0bb2117c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8902273,
+        "longitude": -55.042540599999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ5w5dmFMRdZURfBGyCyqA9is",
+      "provider_id": "/g/11clgq52fv",
+      "rating": 4.7,
+      "reviews": 6623,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Playa pública"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "public_beach"
+      ],
+      "address": "4X54+WX4, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Perfecta para quienes tienen pequeños que gustan de jugar con las olas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLS3yq4PexGnx9YEmuy_sW56E2wrbiH4CUn8urK8nzJZZjfjJLAj7ZHEogewiDD33qt0WQmyKLcPNST8W4lb7mf87l1cyLNOqUyHXqIP4eHaV23Y6yAu1MkVs7D0xLsKRIOHs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oXKaVHicHcRLDoIwFADAEyHFoqCJCyLEKlXxi7Ix2lQQoRVeCdQDegdvY-Is5vvJlHrB2DSLDPdSKdOCN8BrJoXiQvWYLM30BQYDA0yPbKN9LOgO68qOeDcT3egclI2-QDwYBv22vj2IPT0It6lDV7wXSZLf8wX1cichgUx5-_B9jCuF4k2pQ8qi1W7vxnZxc8q76xQW03S1rg6anKp5ZHNyPfbxeai9xlo-j-D4qKMQbudrApPWQggZ2X9miB8-pEQm"
+    },
+    {
+      "position": 4,
+      "title": "Playa Las Grutas",
+      "place_id": "ChIJ92LGTncRdZURmLSem_5fz0M",
+      "data_id": "0x957511774ec662f7:0x43cf5ffe9b9eb498",
+      "data_cid": "4886229667857478808",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957511774ec662f7%3A0x43cf5ffe9b9eb498&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957511774ec662f7%3A0x43cf5ffe9b9eb498&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9106478,
+        "longitude": -55.0415814
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ92LGTncRdZURmLSem_5fz0M",
+      "provider_id": "/g/11j2_w3xhz",
+      "rating": 4.6,
+      "reviews": 1213,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Playa de Las Grutas, 20003, Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"... las formaciones rocosas con sus grutas, debajo de la ballena.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQq70gChJEijcwiMvAtMZPo4Hf-1k9gCvQYSkA6rt-4VcKYvHB5qA7fa5GXivFAU0gNLS6KyoES8zOSFZtgOyX0mwv-tzjL3tJbKHrWnVEtw2_jIHoKn4wlX_Zro3nbveDbOE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/68T2Y3icHcRbEsEwFADQFUVD6znjIyihqKpH9cdoptJWm9BcybBAe7AbM87H-X4ygLsaWFaZ2Q0uJS_Tp0prJgWkAhpMVha_K8QUUhah283uWAWPLubjbOHmBTP5ShNYxRvp0Ctq3vp8rINTeCOdGpBzYN5J01H7QbrXS3sW5XpK9pivl2HHe0k37L39cBoD918RroxG8C6WNiwSj9ZHcXDBtM7FnEpPOKaMznEtbZHodJL47tA0McYo-8-Q-AEQIUTI"
+    },
+    {
+      "position": 5,
+      "title": "Rotonda de Punta Ballena",
+      "place_id": "ChIJA3aq_mIRdZURjz7OAbps5ts",
+      "data_id": "0x95751162feaa7603:0xdbe66cba01ce3e8f",
+      "data_cid": "15845471885099679375",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751162feaa7603%3A0xdbe66cba01ce3e8f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751162feaa7603%3A0xdbe66cba01ce3e8f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.915699,
+        "longitude": -55.046836799999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJA3aq_mIRdZURjz7OAbps5ts",
+      "provider_id": "/g/11xj2rnb6",
+      "rating": 4.7,
+      "reviews": 1376,
+      "type": "Mirador",
+      "types": [
+        "Mirador"
+      ],
+      "type_id": "vista_point",
+      "type_ids": [
+        "vista_point"
+      ],
+      "address": "3XM3+P7F, Carlos Páez Vilaró, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "user_review": "\"Hermoso sitio,muy lindas vistas y puestos para comprar diversas cosas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZ7nneDhsISexDSElP2Kypgzaz7pCtKaDxnwUmmMkwZOFA02HEMUahz4JmCvoJ62rnd_kEKpCiQWnH4LKWx7bSBty3JUntl61C00v51ORtWLhTAS8tU1_25ck7X_5nwYWeHI31=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MYmIinicHcTRboIwFADQL0JaEDEmPjBgQdDoRNLNF8JqQw30trF3gvyg3-DfmOw8nNdTIhq7ct1e-rNW67YXf1bcuAYUgDOuldsa63DrWDfKjocTU-cQQCTSbkoxJmXaH7ziYdqpmUITY9EkIwyVUrtuOO8_I-Jl6a5q5DTPVXzX-cK7waXu0sLE1y8G2XxbsDH8LT_w4ecVYL-gMSH3gO6PyLbyFJVLrGjtBbwLv-sAhh8mso1P1wMlhDjyf-7AG7WrRHI"
+    },
+    {
+      "position": 6,
+      "title": "Escultura Cola de la Ballena Franca",
+      "place_id": "ChIJiX94OQARdZURkdVR9tpwC-U",
+      "data_id": "0x9575110039787f89:0xe50b70daf651d591",
+      "data_cid": "16504409345167054225",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575110039787f89%3A0xe50b70daf651d591&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575110039787f89%3A0xe50b70daf651d591&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9109657,
+        "longitude": -55.014726499999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJiX94OQARdZURkdVR9tpwC-U",
+      "provider_id": "/g/11y6k7qfw_",
+      "rating": 4.6,
+      "reviews": 38,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "3XQP+J46, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"No es una atracción turística tradicional, pero vale cada minuto.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn73HgaM4S7YHQ1b4C1VgRsGGycWj1E_C509ALfxB1ElhvUp7SrrGQ-utSTVozTkigK8I6jmuErbnHrCp9twIt4E2hbXU6C3NR7fk5EyeFJZoExvK_3JgTZ4xJ5xFRjVYzIm13n5tMwpX20=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7c_W5XicHcRLjoIwAADQE1VaCzKauHBI5eNoFBA_GyMNtiK0TVsEvaTruc0k8xbv98OtVWbmOA3HIyYla6rOVJpKYSthR1S2DlMGUAOMs4jSbX4QPo7Yde1m_inaodINUMFSE4YveqgRuQQenC5-bsM3Ig1_7pWfaR3uQGezvJDv_HFnq694Urcd0aWIdKCmto-tS8a8PO4nAd6k_u3hkVe1TM6SDM_VBScsP7tD4g3LtC5O77hFWHh23avjGM57BCEE_H8KxB8ZAUZQ"
+    },
+    {
+      "position": 7,
+      "title": "Piedras del Chileno",
+      "place_id": "ChIJIcbG3QURdZURBYUEZAVyZ1w",
+      "data_id": "0x95751105ddc6c621:0x5c67720564048505",
+      "data_cid": "6658415941568988421",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751105ddc6c621%3A0x5c67720564048505&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751105ddc6c621%3A0x5c67720564048505&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.911759499999995,
+        "longitude": -55.0147811
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIcbG3QURdZURBYUEZAVyZ1w",
+      "provider_id": "/g/1tdg4d5g",
+      "rating": 4.5,
+      "reviews": 600,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "3XQP+73X, 1, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "website": "http://maldonado.gub.uy/",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Muy linda vista de punta ballena  y punta del chileno\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmEBji7zG9eMAdG1QFkXqIxgrfMTNGzJo1Y_Fk1dkbOZW_vUhnLxbYqx4meH-EMGZhE3orvBpm4MZxZ8npkKK3SNcmeOUZintxE3dmfZr75Ki03u2qxICH2GjRUPIVQlpQCqHW2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hC6AKHicHcTdzsEwAADQJ6r9lPB9iQtkuplhmNEbia7W2fqztWi8oGfwNhLn4nzezBil_x2nYbBXSlk29K5pR6QwVJgekdwplQZEA-1Mwu1mn_NgequGL_RHk0mBvHReH9vIlt012a_QayG903lee0V9WeP8_MiYWNrLqbV9TkMQJAizAMruMVW8n2CLR0LVcQx3K8LpOsOVMDaABb_ibjiIKxfe_dZGs9BHt222iQ5po9JZG-b--Om5rgvYbwLEF6YFRSs"
+    },
+    {
+      "position": 8,
+      "title": "Playa de la Laguna",
+      "place_id": "ChIJAVVAXoAVdZUR6CXrduDz6ZU",
+      "data_id": "0x957515805e405501:0x95e9f3e076eb25e8",
+      "data_cid": "10802433326618191336",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957515805e405501%3A0x95e9f3e076eb25e8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957515805e405501%3A0x95e9f3e076eb25e8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.857913599999996,
+        "longitude": -55.0512497
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJAVVAXoAVdZUR6CXrduDz6ZU",
+      "provider_id": "/g/11fk8zh_cr",
+      "rating": 4.6,
+      "reviews": 610,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Unnamed Road, 20003, Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"... las cercanias a Punta del Este, mas precisamente a Punta Ballena.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZ18UeJTHwwc1vy0gNh4nPhr1ag-JjQr70EMmnLmuJDnSXbv03QnQ6sjfThQy_0SRLQCUX1o3X_XbxvfQuMzUDSmdutH8z99ykempHWxpOZ9efO_tkYBlubPa7OWk9QqgK9t4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aLoSM3icHcRRboIwAADQE1XaYKY12ccUE8J0UIHA_CFSSxuhLdIWxAPuDt5mie_jvf6Etb3ZeF4n_AXXmnfMGTZQrSxTdkG19HhvADXAeF_hKcmK7ozWOYuycJooGmfIf8RSJWJAFw6iGxlWcH-U6iBdFKi0rEfoE0U-zK3JBJkrmJ4OZJeXSPtlVdaPsSHu-MyDVF6dDddPjOeWyT4sHn18xqyJK9v-bjtXJ5dVXLSY3Pk3tsvPCUEIgXhPgfoHYJ5FiA"
+    },
+    {
+      "position": 9,
+      "title": "Playa Solanas",
+      "place_id": "ChIJB6hdnWUVdZUR_70JC8eQG30",
+      "data_id": "0x957515659d5da807:0x7d1b90c70b09bdff",
+      "data_cid": "9014958263670259199",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957515659d5da807%3A0x7d1b90c70b09bdff&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957515659d5da807%3A0x7d1b90c70b09bdff&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8826251,
+        "longitude": -55.0562711
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJB6hdnWUVdZUR_70JC8eQG30",
+      "provider_id": "/g/11sms9m6b7",
+      "rating": 4.7,
+      "reviews": 769,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "4W8V+WF, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"La vista divina, ves el mirador de Punta Ballena,  Casa Pueblo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuyw_dnIjnz6So6b0D0SeEZ9jf-QSSuqxz_RCcO1qyFFeb3E-SIJBuRz1I6vXe4yZFv9Ueya_CI9fP1cePYKXgvW1a3bguL2CH5u8dKm85ccohwDnZ-vbDjFClwZ-O47b-8Dlu=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rxws-3icHcRRDoIgGADgE_0JWaZtPZTmstoyqVW-uCDCOYUK0fSCnaHbtPU9fN9PXtcPPbWsMrcHQilRcqP5iylZc1kPmKos8dDANGhrvkriw6kyXZvdZFTI3iHKoShAhC9Tr7jDnhDzfPdZ4rMdfnZhyKm9BBKtFybpceQ0Zz7q0rDxjry7Zn7k3WPMeHzZnEVzwlebCrMd-quxcW-byh0zpvI2kCk0NChCv2xT2I0mFNygNLMWI4Qg_89A_gB-tURV"
+    },
+    {
+      "position": 10,
+      "title": "Mirador de la ballena",
+      "place_id": "ChIJE3ocJQARdZURYI9CqrsMtD8",
+      "data_id": "0x95751100251c7a13:0x3fb40cbbaa428f60",
+      "data_cid": "4590307920352284512",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751100251c7a13%3A0x3fb40cbbaa428f60&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751100251c7a13%3A0x3fb40cbbaa428f60&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8889831,
+        "longitude": -55.038362799999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJE3ocJQARdZURYI9CqrsMtD8",
+      "provider_id": "/g/11vk1ych3l",
+      "rating": 4.9,
+      "reviews": 8,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "4X66+CM2, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Se siente una energía especial y sus vistas son fabulosas .\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlwQAqti9hKz0b0rCfWQxwZ27jHYRzqdEnGRYVKVLUuXcQusFw3OhqcSG3FLT-lCSZdjniRhHIqlTdj0yCF093vJrJ0U4NTbseyImFRYCrAnv3aMh20mR3hP2zuDw_nOH2Mq3vM8g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5viB3HicHcRJDoIwFADQE1W-1MQhcUFQxAGVigNujBakklIsLVS5oUfwNia-xft-mNZPNbIsznAnK8uMp7VKK1oKnQrdoWVhZU-FqELKcnyyjY7chI7UjyFbtnCDyr0fw5c52_3cj0krk6mYkfiwPKz29YmGtfIM3jBJdzPsrSLE3d05ycWDMH8ueZTk8HY9GOJmUS1g31tHN5W-54VHYrdyRIOvAbOhIJht7baemIvY-HYgcRMMsrHpAgBi_ykSPzjkRak"
+    },
+    {
+      "position": 11,
+      "title": "Gruta Virgen de Lourdes",
+      "place_id": "ChIJXzadMqEVdZURjSSoqxeE6sU",
+      "data_id": "0x957515a1329d365f:0xc5ea8417aba8248d",
+      "data_cid": "14261356407221134477",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957515a1329d365f%3A0xc5ea8417aba8248d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957515a1329d365f%3A0xc5ea8417aba8248d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.858960599999996,
+        "longitude": -55.0574392
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJXzadMqEVdZURjSSoqxeE6sU",
+      "provider_id": "/g/11g_sr6wbc",
+      "rating": 4.5,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "4WRV+C27, Laguna del Sauce, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQIZYVBiUyUFuPWJ0KgzCPaoQ1Z8sFnb2U4nDg8OEcDYZwHb3dnytfu3PFmAcAjxp8-7jGowAMSE55r1U82aD4TYYT1meGXvteYGY06oySf9NWGeSGVSCT-l3RSP7vGknf7Baa=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pS1uQHicHcRLcoIwAADQE0WCiKAzXSCf0Haq0fBp2GEMoRQSxgQpvWDP0Nt0pm_xfn9aY0a9t6y-dVZCKdHzSfM7U9JwaVZMDZYYNWAaaCtILzgrh_NzRYvDR77kyYTLF_gqvkNcq7Nd-TqR13W-kZHwTzGLaDWnV-cmF9NMDk6GgAXd1-gDr0NqDt5I7Lp3O_fXdbTJKM3sgaP3h-EUUbhVC2l2xxJxggoSZqB3LgR7D_QpG-9Q10-zDSEE7f8MyD8ZRUNz"
+    },
+    {
+      "position": 12,
+      "title": "Mirador Marinas Del Este",
+      "place_id": "ChIJ0ameAFARdZURMF4rMMamh5M",
+      "data_id": "0x95751150009ea9d1:0x9387a6c6302b5e30",
+      "data_cid": "10630648815573229104",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95751150009ea9d1%3A0x9387a6c6302b5e30&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95751150009ea9d1%3A0x9387a6c6302b5e30&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8956856,
+        "longitude": -55.038550199999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ0ameAFARdZURMF4rMMamh5M",
+      "provider_id": "/g/11cs5wnx65",
+      "rating": 4.8,
+      "reviews": 171,
+      "unclaimed_listing": true,
+      "type": "Mirador",
+      "types": [
+        "Mirador"
+      ],
+      "type_id": "observation_deck",
+      "type_ids": [
+        "observation_deck"
+      ],
+      "address": "4X36+PHG, Carlos Páez Vilaró, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Es hermoso el atardecer en las costas de Uruguay.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwfWeghO6uav0PFaxDKEV6928uZF9egZzYjx5KZQh_xHKVKsPP8f76W1liNshJYMMNaMHoH3Bp5lJJqLMdRyEV2QX_-f8WIPhLe2svwDDGkHK4YRwR0j6WXkPTNcUWovGsdszG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dw-iE3icHcTdboIwGADQJ6pUVMQlu5hBqVSwEkeFG0NqaadI0Y8_fcE9w97GZOfi_P3qpqnhw7JKPRkpY1QpW5APYapGVs1ImJulakACEFhfJGYHfusLLpXeOW3eYbbOB4-uEmdhu222XkiVvdLLMKPZXp8GQhMKjLnF3OHj8icCHaRhGOUhMWSyrGdlENy34Tl-rhJ7fzyhwuUbprfShq73PP9K6DSN-xhfHH68skMkvrnpfDjDy__sxxhjpP8XqHoDSA5EbA"
+    },
+    {
+      "position": 13,
+      "title": "\"La Roca\" - Espacio de Arte -",
+      "place_id": "ChIJzYzcuV0VdZURd2kCy7IRCTA",
+      "data_id": "0x9575155db9dc8ccd:0x300911b2cb026977",
+      "data_cid": "3461317248218720631",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575155db9dc8ccd%3A0x300911b2cb026977&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575155db9dc8ccd%3A0x300911b2cb026977&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8729375,
+        "longitude": -55.074687499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJzYzcuV0VdZURd2kCy7IRCTA",
+      "provider_id": "/g/11k52vbv7b",
+      "rating": 4.9,
+      "reviews": 29,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 7 p. m. del mar",
+      "hours": "Cerrado · Abre a las 7 p. m. del mar",
+      "operating_hours": {
+        "lunes": "7–8:30 p. m.",
+        "martes": "7–8:30 p. m.",
+        "miércoles": "7–8:30 p. m.",
+        "jueves": "7–8:30 p. m.",
+        "viernes": "7–8:30 p. m.",
+        "sábado": "7–8:30 p. m.",
+        "domingo": "7–8:30 p. m."
+      },
+      "phone": "099 221 463",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Se identifica como mujer empresaria"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario",
+            "Sanitarios unisex"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con LGBTQ+",
+            "Espacio seguro para personas transgénero"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia"
+          ]
+        }
+      ],
+      "user_review": "\"Un lugar muy bien ubicado , agradable, luminoso y siempre muy activo\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnS8pd66_F4XLWGtdXg-TQENmCSiJucXXedREjOPQ_dEUjxkgUgqdH1v0K8EgOVmY1B2Z84XwIx0Bf3Ku62x_aA_4Rzd00ulqrd8ZiDaeKLIWxEl7HoxHfRFgxCxgsiqD8xXcg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JrfzInicHcRLDoIwFADAE1WKEmxMXKhUUYwf_FDdENPWBwoUbNHGA3oHb2PiLOb7yYyp9cBxiqzXAaWgkK2WD64qIyvT4ap0oNaIa6SdURhv9km1I7Xw_XTqsWUyM4IB2m_pqpzs8kXLGZMiprf1ZpsKerjZOxygEaH7xBGhsD6WJ3fcPROPveYWj6-9qPW7Nr2MUi9-C4zbonkIcs6Di4yW88TSoh8qG17jKdiJBZ03AbGMw_DlYoxR9p-j6gftg0Rl"
+    },
+    {
+      "position": 14,
+      "title": "Arboretum Lussich",
+      "place_id": "ChIJASxx07IWdZURVzGZWIdybp0",
+      "data_id": "0x957516b2d3712c01:0x9d6e728758993157",
+      "data_cid": "11344130437025444183",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957516b2d3712c01%3A0x9d6e728758993157&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957516b2d3712c01%3A0x9d6e728758993157&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.884929,
+        "longitude": -55.036013399999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJASxx07IWdZURVzGZWIdybp0",
+      "provider_id": "/m/03m4ypv",
+      "rating": 4.7,
+      "reviews": 3632,
+      "type": "Arboreto",
+      "types": [
+        "Arboreto",
+        "Jardín botánico",
+        "Reserva natural"
+      ],
+      "type_id": "arboretum",
+      "type_ids": [
+        "arboretum",
+        "botanical_garden",
+        "nature_preserve"
+      ],
+      "address": "Cam. Lussich 100, 20000 Maldonado, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9 a. m. del mar",
+      "hours": "Cerrado · Abre a las 9 a. m. del mar",
+      "operating_hours": {
+        "lunes": "Cerrado",
+        "martes": "9 a. m.–5:30 p. m.",
+        "miércoles": "9 a. m.–6 p. m.",
+        "jueves": "9 a. m.–6 p. m.",
+        "viernes": "9 a. m.–6 p. m.",
+        "sábado": "9 a. m.–6 p. m.",
+        "domingo": "9 a. m.–6 p. m."
+      },
+      "phone": "4257 8077",
+      "website": "https://arboretumlussich.uy/",
+      "description": "Reserva natural y variedad de árboles. Arboreto de 190 ha con una variedad de especies de árboles locales y exóticos, además de otras plantas.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Se identifica como mujer empresaria"
+          ]
+        },
+        {
+          "service_options": [
+            "Servicios en el lugar"
+          ]
+        },
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia",
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con LGBTQ+",
+            "Espacio seguro para personas transgénero"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "service_options": {
+        "servicios_en_el_lugar": true
+      },
+      "user_review": "\"... por mil si te gusta la combinación de esas tres atracciones!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_jgVpsCnyR4UGZvjcoRPiOdPRoEMYo2PJMNZwn--Aor4O8P40QUpZMs5Yq9KkH-vmF6nbmgoHVV5UbY8jx1PUMxLm2GL4RwNLCcV34YUClEpn6L6CocTr1OM7CLNxNKxs4go7og=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4tLOI3icHcRRboIwGADgE1VACzoTH0jjILOFrrEYeFliJUUG_TvKBI_oEbyNid_D93w042jd1vO6ZrXQALqr_109KDBjbcaFgt7T1iHlkPPiVPDjqftpdWEdMXeBZVLdWgWCX_MLF7BnJSz5F8uqySAUw4DzDcf-t7QVc2H593H4TdGt_4zMudeQFkUoz-WmnQMu2Uz7ZUKxmDJKVLHCpSTd3pqIRgTUcQhytiY0m7PD7LCGNejdFPi-j5r3CpkX6l1Etw"
+    },
+    {
+      "position": 15,
+      "title": "Mirador La Glorieta",
+      "place_id": "ChIJIT7vxLAXdZUR2YV6CpaEbN0",
+      "data_id": "0x957517b0c4ef3e21:0xdd6c84960a7a85d9",
+      "data_cid": "15955273359822587353",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957517b0c4ef3e21%3A0xdd6c84960a7a85d9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957517b0c4ef3e21%3A0xdd6c84960a7a85d9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8814421,
+        "longitude": -55.0351886
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIT7vxLAXdZUR2YV6CpaEbN0",
+      "provider_id": "/g/11gtz7mxp_",
+      "rating": 4.8,
+      "reviews": 138,
+      "unclaimed_listing": true,
+      "type": "Mirador",
+      "types": [
+        "Mirador"
+      ],
+      "type_id": "observation_deck",
+      "type_ids": [
+        "observation_deck"
+      ],
+      "address": "4X97+CWF, 20000 Punta Ballena, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mar",
+      "hours": "Cerrado · Abre a las 10 a. m. del mar",
+      "operating_hours": {
+        "lunes": "10 a. m.–5 p. m.",
+        "martes": "10 a. m.–5 p. m.",
+        "miércoles": "10 a. m.–5 p. m.",
+        "jueves": "10 a. m.–5 p. m.",
+        "viernes": "10 a. m.–5 p. m.",
+        "sábado": "10 a. m.–5 p. m.",
+        "domingo": "10 a. m.–5 p. m."
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"El punto donde más gente llega sin saber que el lugar ofrece mucho más.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUJtP0w7P3_vowqy1VjSw_DZ8-9fEw8VYv_oBdLuwZqhLN4aI4_rqGUZnzDNBzKEh6wtkv2YuDbd1MyGK3RqZrsqy-HqwhMpzGy3UrDV_4SQKU-yj5HUhyfswcorX17MnOhTfO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bPMFkXicHcTbboIwGADgJ6qA4HQmXsxgQBHFQ1G5aVwFGsWWHuBPecE9w95myb6L7_eHGdPqueM0zB_VQtRN2elSUcFNyc2IirdTtxpRjbTzFR-z86XBG5O5MM180guQ1sufJyBhMUOf1Qpm-a0nYvnYdlBItt0F93VAlIxwwYdwtxySFfsA8-rHty78fnipjRL_KAulpUWxBJa2Q2R9rMKcBKdDgpF9TmLMbKWBCnX1pinfs3O1X4Dnui5i_1PE_wDmhUZk"
+    },
+    {
+      "position": 16,
+      "title": "Mirador COLA DE BALLENA",
+      "place_id": "ChIJV5kC6XGbdJURWXF4UkT5V30",
+      "data_id": "0x95749b71e9029957:0x7d57f94452787159",
+      "data_cid": "9031961649551536473",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749b71e9029957%3A0x7d57f94452787159&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749b71e9029957%3A0x7d57f94452787159&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6635555,
+        "longitude": -54.1730941
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJV5kC6XGbdJURWXF4UkT5V30",
+      "provider_id": "/g/11s78l7z2z",
+      "rating": 4.6,
+      "reviews": 44,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RPG+9V9, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Tremendo lugar irónico de avistamiento de ballenas en la temporada\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkwAsaaL2n_jxlkUdDZQO8-fjvrzBjaWtz-NhcOzy0yVb9Zz_nqW_jUxJNUUcyuTHDVGHuwP0mUNrG5VsMd33yrqjY1GBI8ACdTXNlubbHu8mYfZGNLKFuvzDmE_kAlSmpeDE2iEQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bjkY5HicHcRdboIwAADgE1WqZAma7AEHg_lTdaMweSFQECxtQdqK9IY7wm5j4vfw_f81SvVyZVmssWd119Ws0rIaSCdUJdSMdNyqewmIBNJyw-9jlLSjK_N8txAZfbAWl156OjjgQu-DWdM8UQaghhzMBKe4WKYmE7cko_ixQRiTSUehFwehHo-QYzQEb7Hcl7Y9DTd6ngfrL8f9KKNfxHRRhNrh50saoN32U9-Nx_2sddkP7yvPX1z90_s4hxCC5jUB4gnPD0dM"
+    },
+    {
+      "position": 17,
+      "title": "Punta de las Salinas",
+      "place_id": "ChIJOUtzSRsFdZUR_-XpQ2Hmra4",
+      "data_id": "0x9575051b49734b39:0xaeade66143e9e5ff",
+      "data_cid": "12586969838996022783",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575051b49734b39%3A0xaeade66143e9e5ff&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575051b49734b39%3A0xaeade66143e9e5ff&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.973713599999996,
+        "longitude": -54.9515953
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJOUtzSRsFdZUR_-XpQ2Hmra4",
+      "provider_id": "/g/11fm2lx4rd",
+      "rating": 4.8,
+      "reviews": 657,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "22GX+G96, Punta de, La Salina, Punta del Este",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "website": "http://www.puntaweb.com/cgi-bin/informacion/atractivo.pl?atr=52",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Icono de Punta del Este\nExtremo sur del Uruguay\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMYAotefJge_jiR-FxKG8HVgGdJQLDjG9Mt_vbsaShcfWcLorvFcmkwcnjmbIHBdwXOgZazK0rkrmcOgEkv9bksxCQHQ7oTOzBzjx-vgjFDrAdEC1U1d0DaEGv6xe8mkQPEEtS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NwH7WXicHcTbboIwGADgJ6qUmDhZsguUAvMQxMOY3hj4KWWtpaathfCCPoNvY7Lv4ns9W2vv5tPzbu10wpRiN_owVIPqLO3sBJT02N0gMMh4YbrfHQuxPYfK0mbF6JX_7VE8rJN5-sOSepVvIp4EW3t1lSkPLTQFbJR2MUjRQ8dl9Z0u6v43Y5dyXGMttISMEeGCSphhmaf5hzpm42LkA3KMx5EOa7L0T36No5IkbjbQuRT5jhB7-Op9jDFq_wfUvQEwbkap"
+    },
+    {
+      "position": 18,
+      "title": "Plaza Gran Betaña",
+      "place_id": "ChIJ6xKMbngFdZURzpK2xmWhL70",
+      "data_id": "0x957505786e8c12eb:0xbd2fa165c6b692ce",
+      "data_cid": "13632292055571403470",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957505786e8c12eb%3A0xbd2fa165c6b692ce&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957505786e8c12eb%3A0xbd2fa165c6b692ce&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9729218,
+        "longitude": -54.9521622
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ6xKMbngFdZURzpK2xmWhL70",
+      "provider_id": "/g/11b7ckfj_h",
+      "rating": 4.5,
+      "reviews": 3149,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "22GX+R4P, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Ballenas 🐳 💚\nComienza  la época de estas visitas 😍\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlovK1oLhiPhbNpQB90tHWv3g6iIpZQUxuCQ7bLmQEeytfX1ZRyxYbuHnoh6r_FyNEU_432bKqlVmU2HCO6i-a8qNP1ZNNLyNP3x9YnkQz30v1pkM-3Mb1OrnWzIV5OAO5_-uAR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KXG56XicHcRdDoIgAADgE5EQZT9bD9ZqtgzFZZYvLpyJS4EETbtgZ-g2bX0P3_fDjVF6aVkVx6NCyqLKW503mRQmF2aUydoqlAaZBtpy3DA4xZXsDkh6vAw4I4quF9C4cYcLu9yrhEZ9u6Ez5tV0mw_mfkFJOPRX1rpCcrtJdwPZRukEj9nhWZ3raOxufLsEt_mTBCghxBtIgPvFVTzoG8MOqccR4CNDfiPi9_489R1_moLWCVcvBCEE_H8GxA-GHUQp"
+    },
+    {
+      "position": 19,
+      "title": "La Mano • Hombre emergiendo a la vida",
+      "place_id": "ChIJfZ2g7RIFdZUR7vqjH95LJLY",
+      "data_id": "0x95750512eda09d7d:0xb6244bde1fa3faee",
+      "data_cid": "13124698631450131182",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95750512eda09d7d%3A0xb6244bde1fa3faee&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95750512eda09d7d%3A0xb6244bde1fa3faee&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9578986,
+        "longitude": -54.9372652
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJfZ2g7RIFdZUR7vqjH95LJLY",
+      "provider_id": "/m/0521gjz",
+      "rating": 4.5,
+      "reviews": 28423,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Monumento",
+        "Escultura"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "monument",
+        "sculpture"
+      ],
+      "address": "Stop 1 Brava, Punta del Este, Av. Eduardo Victor Haedo km 162.500, 20001 La Barra, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "093 324 497",
+      "description": "Escultura icónica de una mano humana. Gran escultura en la playa conocida como \"La Mano\" que el artista chileno Mario Irarrázabal creó en 1982.",
+      "extensions": [
+        {
+          "service_options": [
+            "Servicios en el lugar"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "parking": [
+            "Estacionamiento gratuito"
+          ]
+        }
+      ],
+      "service_options": {
+        "servicios_en_el_lugar": true
+      },
+      "user_review": "\"Es uno de los atractivos turísticos más lindos que hay en Punta del Este.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlVafR7LO1eoymVDQNM_XluMSybsjtfnQ1jPHE984qp4QI6QxvhFRY1Z5b90S_DZ1xo9-F8nO72iSCz8c8Q0t_oMKH1wQ6rzfdLyaKE8Q5nvO3MC-xONTaEXHhs4VH1bZ8aKG0sjw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/JTeLX3icHcTvEoEwAADwJ5o2wnLngyPmkqxc6EtXU02XLTb684Yewdu48_vw-3641rWaGUbFR4NCyqLKXip7Mil0JvSAybtR1AowBZSxIP7heKrCJPenOw9lsruHK7p343P1coMuVaXOBUXlgdgWNh-1SbcT2r752r-gaJxaMIhXEWqlBdZYeNPhLVj2mGEKdSxdh6CGTp59ft11iWNjOhZvb-QuQevtj4l9JlyZIUFphBNnA1XZzBsEIQT8PwPiB6bDQ_8"
+    },
+    {
+      "position": 20,
+      "title": "Punta Ballena",
+      "place_id": "ChIJo97ruF0RdZURo1O0B2g_SJI",
+      "data_id": "0x9575115db8ebdea3:0x92483f6807b453a3",
+      "data_cid": "10540744643899052963",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575115db8ebdea3%3A0x92483f6807b453a3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575115db8ebdea3%3A0x92483f6807b453a3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9030384,
+        "longitude": -55.0424472
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJo97ruF0RdZURo1O0B2g_SJI",
+      "provider_id": "/m/0gywq3z",
+      "rating": 4.8,
+      "reviews": 1420,
+      "type": "Land mass",
+      "types": [
+        "Land mass"
+      ],
+      "type_id": "land_mass",
+      "type_ids": [
+        "land_mass"
+      ],
+      "address": "Departamento de Maldonado",
+      "country": "Uruguay",
+      "description": "Península escarpada, atractivo turístico. Pintoresca masa continental con árboles, playas y edificios encalados que es popular para vacacionar.",
+      "user_review": "\"Uno de los lugares más lindos de Uruguay, quizás el más lindo.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7dOHDo8KXvCFMCfiCZvwR0V0w3tYzDTN5p5usi1DqTh_p72Js8HA_BBUx84d2RBk_USwd8JzXNUxblXE7mj1KDr_sPSjslqk2XyXoILUbutkgV8FoM5fw8dWbNV416VUcAKbONQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5XdfBnicHcTdEoFAGADQJ0pbpB0zLvphIkK1WW6aaUtR2vg2izf0CN7GjHNxvp9KiA4mqtpUw0HJedkUPRR3xltRtGLA-FUtO1AYKKBaXriN97WZbzyXY58-nPnaOZ2d40OGKEFyKA5vNw6MzujhrLm3uEo7U18C9qzUtskTj3I9tOuURDLHyzcNyDNr6My8XjTfvaewjS7Q3GqdvihfrEjWi7pM8JyvjZPE-T4LkpE2Tgiz_GwT7KZSQwgp1X-mtD_JFEUL"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Punta+Ballena+Uruguay&start=20&type=search"
+  }
+}

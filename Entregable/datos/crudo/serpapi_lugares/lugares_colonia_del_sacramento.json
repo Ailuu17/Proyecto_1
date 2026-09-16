@@ -1,0 +1,832 @@
+{
+  "search_metadata": {
+    "id": "6aa95f1241ffc896573dd5ef",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7if5ArveYGAsxAhKe-Io-lmmavR0hrJ_55_nZDLnqkE/6aa95f1241ffc896573dd5ef.json",
+    "markdown_endpoint": "https://serpapi.com/searches/7if5ArveYGAsxAhKe-Io-lmmavR0hrJ_55_nZDLnqkE/6aa95f1241ffc896573dd5ef.md",
+    "created_at": "2026-09-15 15:06:58 UTC",
+    "processed_at": "2026-09-15 15:06:58 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Colonia+del+Sacramento+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/7if5ArveYGAsxAhKe-Io-lmmavR0hrJ_55_nZDLnqkE/6aa95f1241ffc896573dd5ef.html",
+    "prettify_html_file": "https://serpapi.com/searches/7if5ArveYGAsxAhKe-Io-lmmavR0hrJ_55_nZDLnqkE/6aa95f1241ffc896573dd5ef.prettify",
+    "total_time_taken": 0.86
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Colonia del Sacramento Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Colonia del Sacramento Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Faro de Colonia del Sacramento",
+      "place_id": "ChIJ52WNuFwSo5URyOQmqsJ-fGc",
+      "data_id": "0x95a3125cb88d65e7:0x677c7ec2aa26e4c8",
+      "data_cid": "7456974457562129608",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3125cb88d65e7%3A0x677c7ec2aa26e4c8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3125cb88d65e7%3A0x677c7ec2aa26e4c8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4728145,
+        "longitude": -57.8523031
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ52WNuFwSo5URyOQmqsJ-fGc",
+      "provider_id": "/g/120kn2nk",
+      "rating": 4.6,
+      "reviews": 8824,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de interés histórico"
+      ],
+      "address": "G4GX+V3G, De San Francisco, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del jue",
+      "hours": "Cerrado · Abre a las 10 a. m. del jue",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "10 a. m.–12 p. m., 3–4:50 p. m.",
+        "viernes": "10 a. m.–12 p. m., 2–4:50 p. m.",
+        "sábado": "10 a. m.–12 p. m., 2–4:50 p. m.",
+        "domingo": "10 a. m.–12 p. m., 2–4:50 p. m.",
+        "lunes": "Cerrado"
+      },
+      "description": "Faro del s. XIX y artefactos históricos. Faro de la década de 1850 con una escalera que lleva a la parte superior, además de exhibiciones históricas.",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmr8L-OpNynfSQvpH_gDyjap3O9sKIElWrpQo0bWrP9Brq7aLfVur-BHVAGu2fp6yGqifaq12ToAHgAKz0i3ezGlMZkEe8-My7Z-1HOknIdrgrGLTfSYJ8SHVkkiEjwu8EzYIKqIg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Qa5nrnicHcRRCoIwAADQEy2nQlnQh5E401JTlPoJs22ats1NE71hR-g2Qe_jfT9V3wu10bS2MheUc9riQWFZctZj1i9K_tKoUKBUQGk2Okdp_pJWAEJxmhhJ4rdAN7qfnoUww7XyPafNpYg5vOcyWu9ktyoCkg0S7FBmu4NBxHJyu5oUnW6k3EbU9mdYm3h22-O1cbAFjtPqCnQUNsx7SCrdICXJ5WAlKGua2nmOg-XMF8_vPLoddQghqP6XgP0ANytF8Q"
+    },
+    {
+      "position": 2,
+      "title": "Calle de los Suspiros",
+      "place_id": "ChIJFXkS5owTo5UR6GJJVYZnl58",
+      "data_id": "0x95a3138ce6127915:0x9f976786554962e8",
+      "data_cid": "11499774000168002280",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3138ce6127915%3A0x9f976786554962e8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3138ce6127915%3A0x9f976786554962e8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4728826,
+        "longitude": -57.8511294
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFXkS5owTo5UR6GJJVYZnl58",
+      "provider_id": "/g/11g_x6mh77",
+      "rating": 4.8,
+      "reviews": 274,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "De San Pedro 127, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQvC0RzAglfNRaw-KQkoZDn8zUQySa4VLMnuGKeqxXRP0F21t8vKUPGg8_RqduchAVsVNXGaE6qbezm0V_lQCY6Zx5k4TR0dSf5rKw5Xtp6Ep0PG8CkT2OJAQnUUvcYO2EMdMRdg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/RgJ6xXicHcRRCoIwAADQEy2XqUjQh5gZmeWWmvUTNtcEddM2tbxhR-g2Qe_jfT-lUq1calpdLmZMCFbTXtInEVxRrmZENBprJSASSM3Z4ig-N2hwIZ4cVj8OOB9BgCpxXXN7StD7lBvpPuS9H9DuleEIbvS5socgiXxm33BX9KR0UpkeMj_3rO5Opwamtxq5F-v6MisjxrA4PcxnMJqZai2vhZFvu1WsH3cO4kkykMtR98IixAVbjXMIISj_E8B_BuRFEQ"
+    },
+    {
+      "position": 3,
+      "title": "Acuario Colonia del Sacramento",
+      "place_id": "ChIJue46sl0So5URw9hZBHNTvJ8",
+      "data_id": "0x95a3125db23aeeb9:0x9fbc53730459d8c3",
+      "data_cid": "11510166501111486659",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3125db23aeeb9%3A0x9fbc53730459d8c3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3125db23aeeb9%3A0x9fbc53730459d8c3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4699394,
+        "longitude": -57.850756499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJue46sl0So5URw9hZBHNTvJ8",
+      "provider_id": "/g/11b7yy_2ds",
+      "rating": 4,
+      "reviews": 1671,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Acuario"
+      ],
+      "address": "Virrey Ceballos, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 2 p. m. del jue",
+      "hours": "Cerrado · Abre a las 2 p. m. del jue",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "2–6 p. m.",
+        "viernes": "2–6 p. m.",
+        "sábado": "2–6 p. m.",
+        "domingo": "2–6 p. m.",
+        "lunes": "Cerrado"
+      },
+      "website": "https://www.facebook.com/acuariocolonia",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlWHtoMkCqEJEVOPG70L7qyLxmwlI6yp60JW6tL30igkZz-wcuKEoM6RGVaxWmgOKwADg1dsuT1qwdlOxn3FpPf1gjbTybit1x963e-SNaaL8O972E3-sfk2rhClA9mtjRXcgwn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/R8T5ZXicHcTbDoIgAADQLyJBNsy2HlzZ1dKZ09abkeEFQQOH9oN9Q3_T1nk430-pdacWlsVLPGNSMl4MqnhRKXQh9IzK1mKdAlQBZXm7OEoynu20PDWr3j_4aRhtHRg4_RSMreF7MnUEHjKiAwwr1tzewNDh6MsTibdpPmYtC4_GWzP0UEOCevPg4SjwpoueiNX3ZLpXGo0uwQW4nPM8mIeuY_sYqGdjv8oV99xW1_GVMiOWBkEIQfmfAvEDdRVE6A"
+    },
+    {
+      "position": 4,
+      "title": "Ciudad Vieja",
+      "place_id": "ChIJVVVVVXwSo5URD5xRMqmKgLo",
+      "data_id": "0x95a3127c55555555:0xba808aa932519c0f",
+      "data_cid": "13438893747371875343",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3127c55555555%3A0xba808aa932519c0f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3127c55555555%3A0xba808aa932519c0f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4713815,
+        "longitude": -57.8507952
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVVVVVXwSo5URD5xRMqmKgLo",
+      "provider_id": "/g/11ddwsjzvl",
+      "rating": 4.8,
+      "reviews": 1584,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de interés histórico"
+      ],
+      "address": "G4HX+CMW, Calle Exodo, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "http://asociacionguiascolonia.blogspot.com.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnzBm5JRta_j2WeXOjV7wDRmwi6iBtvnJwmXXI8zN5du29Hmvflm-PcJfGTYMNGFf1dq8oviY-yCMEdZtSx3C0rCETV9SUgg906XVB1_Yy5fxYGATA8FrZQaHcisBH2TqqWfq9p=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EkC_OnicHcRJDoIwAADAF1UKBgQTD4AKkrhhZfFiTKEFQ1ugFdQP-gZ_Y-Ic5vuplGrlXNOaajqhQtCmfMiyx4KrkqsJFkyjrQRYAqm5YXxAKX97zIxidbvejbTM9vdkNi5jNtZW7amBRyPLso393pnFw3BCNpCGgQOOSIDy7S5YE73obDHUOXj521VxUafn1Ie9v0KJczpT6kArSzz9mr9M8swDF7n2ur8cbyGupRcaqOtS0jntYtQhhKD6jwH_AZLpRLk"
+    },
+    {
+      "position": 5,
+      "title": "Colonia del Sacramento",
+      "place_id": "ChIJTQZNOAATo5URRAmEpr7ecDg",
+      "data_id": "0x95a31300384d064d:0x3870debea6840944",
+      "data_cid": "4066995373934381380",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a31300384d064d%3A0x3870debea6840944&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a31300384d064d%3A0x3870debea6840944&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4511056,
+        "longitude": -57.8400399
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJTQZNOAATo5URRAmEpr7ecDg",
+      "provider_id": "/g/11ynvkc08j",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "G5X5+HX4, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkgvp7pmqnebNnhjppdOKf2QEYYEs2Q2QBbT8fEQe-FcM0hJV_qJYzT2LAIOcNGkLx7w0ogaL3LsZZ_QJALt3z1wjY6GEHW4xn2OZHrfADTyXAAYfrOL5tvJkCMqAqtl28o3l7eunbDphE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XGty7HicHcTBbsIgAADQL8Ii1dUs8YCT2XVoxTRTejGWUYitQAta50fuvr8x2Tu8v18dgvOvUdTqeKSsVa28etkLa4I0YSTsJVLOA-GBj3C62xb7Rt1c4i6dkdXG6LNz3_lnjRjhnHjEEFtUxawmTIJ3sYY6-zp2GX8UiOKPXGxWDb0nA7TqRGPqy_LIMkxD_BgPZ_6yIul-cjcoL9O-xsvi54Axr_ucTsMta97WHe5Ci2Y2bhN5NdXSaTIfxhBCoP8XwDwBfLNHMw"
+    },
+    {
+      "position": 6,
+      "title": "Rambla Colonia del Sacramento",
+      "place_id": "ChIJ-4TbdVwSo5URRBBi8GksZ08",
+      "data_id": "0x95a3125c75db84fb:0x4f672c69f0621044",
+      "data_cid": "5721590685113651268",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3125c75db84fb%3A0x4f672c69f0621044&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3125c75db84fb%3A0x4f672c69f0621044&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4608062,
+        "longitude": -57.8432147
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-4TbdVwSo5URRBBi8GksZ08",
+      "provider_id": "/g/11c561sp3b",
+      "rating": 4.8,
+      "reviews": 2610,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Avenida Artigas 459, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "http://www.colonia.gub.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWntcNStAOSrOP7chl9S5J9QaxuCJLwt425V0DR-TipOWOBdPW8fX-FKaFXdtZZYsHyXOxTCq7Z7biY3WC9tF1dlb4QZuTr6OEIz2E5FcSmYBqJeepCfUi5wLRKea7ye9ic00FUm=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I9soM3icHcRJDoIwFADQE9XWARETF4g2isQyKcMOSwUS5n6CeEHP4G1MfIv3_eQArdxiXObLWdY0WSkGKXre1CBqmPGmwlkrEZdIYv3k2n5QA796oDOvZ7bK81LzFFNzktdgmNYIq4VyJwcX-UXLArZP7WDzDBG9JDRMIY4jeZpC9vKNTo3VRxEtA0MDOk_Lx8qJB79fs-P5vTgqlHtVtO9MIVrjeSuU0XIvIlEnoRWcEHqrduOcEILy_xzVPwxQQ6Q"
+    },
+    {
+      "position": 7,
+      "title": "Basílica del Santísimo Sacramento",
+      "place_id": "ChIJBV2c_lwSo5URDiLh8do_S9o",
+      "data_id": "0x95a3125cfe9c5d05:0xda4b3fdaf1e1220e",
+      "data_cid": "15729736333115073038",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3125cfe9c5d05%3A0xda4b3fdaf1e1220e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3125cfe9c5d05%3A0xda4b3fdaf1e1220e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4710947,
+        "longitude": -57.850772199999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJBV2c_lwSo5URDiLh8do_S9o",
+      "provider_id": "/m/0v3d3dw",
+      "rating": 4.5,
+      "reviews": 1299,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Catedral católica",
+        "Iglesia católica",
+        "Lugar de interés histórico",
+        "Lugar de culto",
+        "Basílica"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "catholic_cathedral",
+        "catholic_church",
+        "historical_landmark",
+        "place_of_worship",
+        "basilica"
+      ],
+      "address": "G4HX+HM9, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "10 a. m.–6 p. m."
+      },
+      "phone": "4522 4308",
+      "description": "Histórica iglesia católica con estatuas. Histórica iglesia católica grande con elevados techos abovedados, estatuas y bancas antiguas.",
+      "user_review": "\"Hermoza e historica iglesia situada en Colonia, Uruguay\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlyezPpVjIfKY5sKuhShJcbveMx_BZoJ2xAMGOtzCQ-e_jFjWjNNA-v6NNYsipN_zDwq2-rpl32wlSyOPeh9QU6iGLTD4UWYQwSKHgUDTApK7qSZi6jJouWlb_y9c9hYWmM_E1U9w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TZrel3icHcRRboIwAADQE1UQFYOJH2w4FaTCABv8aWLTUZpKqy1WuKFH8DYmex_v_WLGKL1yHMFmk0bKRtBe0zuRnaGdmRB5dRqlAdFAO-HuNyuRGOiYqRPf_yX1Qic9K1hMLg-aPvHXWcbeM0y3RzN-54Bi_sMRhzAEDx_CWrcK4jGyNw_clZh5VhTDMaMsyCu_3R7KaF6hOrdFsmuqqAxVsrwV59bnseyRuOAhIAGr0TXFm2kV2LWduq4L2P8EdB99SkZg"
+    },
+    {
+      "position": 8,
+      "title": "Paseo de la Brecha",
+      "place_id": "ChIJveH7tF0So5URuzTVdf425Y0",
+      "data_id": "0x95a3125db4fbe1bd:0x8de536fe75d534bb",
+      "data_cid": "10224638995541079227",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3125db4fbe1bd%3A0x8de536fe75d534bb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3125db4fbe1bd%3A0x8de536fe75d534bb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.469576599999996,
+        "longitude": -57.850787
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJveH7tF0So5URuzTVdf425Y0",
+      "provider_id": "/g/11c2ptph32",
+      "rating": 4.4,
+      "reviews": 54,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "G4JX+5M8, &, Rivadavia & Virrey Ceballos, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm4Goo2GotmYAgb_Dx38AB6hAhQ_-ouUTW9r_dT38WIzz6AxYnNwLZBTAfPVoN9Opa5qMPKQp0RD4TbI-pBkv9achLd3cqEfHUjp0_9ffgCAdu0wUDeglzE28DsWYhVDETgdmnXYA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0otpgHicHcTdDoIgGADQJyIpq2lbFxiuWn_WMLMbV6iwUj4KzOYb9gi9TVvn4nw_0lptJo5TSbcnAERVNKZ4clC2ULbHoXaENogbZByyOEQsqYdzgMEcbJ0Scc3o2_VIMJZE7jMETcwS_5nlzPWSZdeNyTtV23Z9DhgpoyNs_Z2-jB6baLXX-ECH7LpEOri__AuX69zlj7BcxDeNM78sxYzkDW5jWoiqCwceNUkqjzRkIq_VKSXTto8xRvI_R-oHyMFFFQ"
+    },
+    {
+      "position": 9,
+      "title": "Vista del atardecer.",
+      "place_id": "ChIJVdAc6GoTo5URtfoNgAH-occ",
+      "data_id": "0x95a3136ae81cd055:0xc7a1fe01800dfab5",
+      "data_cid": "14385057967194897077",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3136ae81cd055%3A0xc7a1fe01800dfab5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3136ae81cd055%3A0xc7a1fe01800dfab5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4707796,
+        "longitude": -57.853234099999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVdAc6GoTo5URtfoNgAH-occ",
+      "provider_id": "/g/11h9m3k5pr",
+      "rating": 4.9,
+      "reviews": 85,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "G4HW+MPJ, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2-1NBFpEv4TIR9Yd45U86s2kKM7BhH2b61CRXMS59hi-6Igyt62lP4klis-tQophV_JFv1amj-IOe6T7c-HZk3N91nymtrbq8BdnXtUqfe_KJn_K_uOcbKLYm-QFZ1mPtASCG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XLc2H3icHcRbcoIwFADQFV0hiFGc8UMcKUhVRHz-MBJTYskDzVWHFXYN3U1nej7O749AbO3YcaTo92pjasmflj-Y0cg19phRTt1aYBasM43zrDhID8gqjNr5yy-SPDhd_cFuRK3XpMthKGKvomSWH5fbQSBuQJO6Q-rJzG_kzQJuTCv25SJ6kYv6hmTNaTFkEJ-b_iogulP4qO6j8KqPuLt_8TJd6DItn2tWpZ8nBZvoTFSG0-3sY_ImruuC-J-B_gNdT0K2"
+    },
+    {
+      "position": 10,
+      "title": "Ruinas del Convento de San Francisco",
+      "place_id": "ChIJfSYWx1wSo5UR-NihbVh-IPs",
+      "data_id": "0x95a3125cc716267d:0xfb207e586da1d8f8",
+      "data_cid": "18095602221036198136",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3125cc716267d%3A0xfb207e586da1d8f8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3125cc716267d%3A0xfb207e586da1d8f8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4726998,
+        "longitude": -57.8522427
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJfSYWx1wSo5UR-NihbVh-IPs",
+      "provider_id": "/g/11g8699hq8",
+      "rating": 4.6,
+      "reviews": 125,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de interés histórico"
+      ],
+      "address": "G4GX+W4C, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlkWXh0Xm0kc7ddi43DJG51axLVx_eyF7biiVIEGXTJdLeEA-UWRIBK2SJ3vHG2pxp8hgQc12sqCeWliOoqawyaAzpHxzmT2Bqjk5cRAAQoxjYtQxgniBqIBdKhUCKNiIBAmpl_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FLGaGXicHcRdboIwAADgE1UKzLgs8aF1yp-Zgij4ZFhp2kqhxVatXtAzeJsl-x6-94tbq82X50keTphSTNKroReiBksHOyGq95g2gBhgPBQX27KSXVVzWPewI7O2FR_hdxpN_catD-5EH6vZrxCHZBnVZdqu6RKBfVUkOAt2aXiLo0A7_clZTvzAjAtaSbFRY3N_NOipY_fsywCP525KCoRy5c5Hmzs2CDwmuM34fpH9iASjXsvT_O5DCAH_n4DhD1a9RVI"
+    },
+    {
+      "position": 11,
+      "title": "Mirador de Colonia",
+      "place_id": "ChIJoU6PsqoTo5URA_hqQkv8s5I",
+      "data_id": "0x95a313aab28f4ea1:0x92b3fc4b426af803",
+      "data_cid": "10571070150535739395",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a313aab28f4ea1%3A0x92b3fc4b426af803&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a313aab28f4ea1%3A0x92b3fc4b426af803&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.471302,
+        "longitude": -57.8523966
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJoU6PsqoTo5URA_hqQkv8s5I",
+      "provider_id": "/g/11r0_1tzbd",
+      "rating": 4.2,
+      "reviews": 18,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Comercio 163, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAobfj80PwRkry7hTc1KQebnkaHnIhhvddVFDUMJEmVTCLMsyhvB-3TgJRuydI8Q_KVXBvmibxZkcts6fvY5Kqt9OKHO7F2VPRHK71jzuWi__LRoQHPEaEVLbM_jCjqn30T4_H6270vz9Z=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GLxsB3icHcTBboIwAADQL6oU2USXeFCHqRYiNLVuXhopSAVp1ZYq_uTO_o3J3uG9_qS1F_PleWcZDCqtq3PZmfImtLKlsgOhW6-6GCAMMN4MkZTu2pnOj_UYpnfS3PpQUuHjrMxVc0BqJaUrCrb83ibrqGV0ESeml24OAlqtSdcXq3HGMfuZu_aUP_aNsGZ0dL-f-GonG4w24XLIUoJw6NfPbnfiPCY6Q2l0iFicJ7xe1FcVQPrB0WgYQvec7Kd3H0II5P8CqDcHrkeT"
+    },
+    {
+      "position": 12,
+      "title": "colonia del sacramento",
+      "place_id": "ChIJ8TjeRQATo5URY9R7BvOGlgw",
+      "data_id": "0x95a3130045de38f1:0xc9686f3067bd463",
+      "data_cid": "907060753305687139",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3130045de38f1%3A0xc9686f3067bd463&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3130045de38f1%3A0xc9686f3067bd463&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.463104799999996,
+        "longitude": -57.8341918
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ8TjeRQATo5URY9R7BvOGlgw",
+      "provider_id": "/g/11zktbc8lq",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "G5P8+Q83, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "phone": "099 545 090",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmaJv8tR0jUz_RZT4DRwdy-YBPMZh6De01745ubX_4DBNHVsuXrtfiNGy7ECOjise_CDxNEzfAITVSSZW0nIC2qJMi_D9lkVxv36bv2tJGZUNrVWW9RwO0hzkdc2FKFZBexCZ1n_5ktM0Z-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7hojOnicHcRLjoIwAADQE1UKIuoksxCKHyagqQhON43WShEsDi0fuaRrb2Myb_HeL6H1Q30ZRinGo6yqspI3iteskppLPWLV3cgeCjAFlLFY412c3k9BO9MY3g4DxSS2Ee4uT_Dr7kIiHMShObUnzflIbeRG60Q1x1pf82j1nPre9pYrTj3UR_5wXWziZL8nKZQbz_oLwpyieVkkfTt2zq2lgxU5RHWSpnPcbaEYiguzlj9L4vLeI6akk0KHkIDvzoQQAvE_A_IDaudGog"
+    },
+    {
+      "position": 13,
+      "title": "Puerta de la ciudadela",
+      "place_id": "ChIJU46wZAATo5URIWrhUjLKx0c",
+      "data_id": "0x95a3130064b08e53:0x47c7ca3252e16a21",
+      "data_cid": "5172325014545984033",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3130064b08e53%3A0x47c7ca3252e16a21&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3130064b08e53%3A0x47c7ca3252e16a21&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.472684199999996,
+        "longitude": -57.850395999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJU46wZAATo5URIWrhUjLKx0c",
+      "provider_id": "/g/11vwf5rlfg",
+      "rating": 4.9,
+      "reviews": 125,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Manuel de Lobo 242, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmFyOeg5YgnXoLueIpGTspj4GqUdkMc9sx78Z2AlDo5_OObje3kmwf_rYiToYM5X6j14rAkhfEWiHSv8PJeEocvv_432cxwMF1vKNsb2KMip1Pf8oAQQZ-r4sxFBDx2Zjpj1E-VogPEAD92=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nkF7B3icHcTLUoMwFADQL0ohAZQ64yIO0GpFqKItbJhpDIHwuJFLAb_StX_jjGdxfn_qaTJ4Z1ld7WwUgOrkFeUoYJjkMG0E9JYySAQStPj-Nc1OffSdSOXlajjD81U-ml2GRru7r_fPNhZbXG_9gvEuAK9MkouWTtsvVTnmTQZ57J1vNHVH3tZVeGr2b7OfPskQxDyXrsPEusQRnQ8veGGHuDE0rXzgx2NBRhfX6CFYWaGNpiH5AJWGPNiy-4Xatk3q_wUZ_gAIGEd2"
+    },
+    {
+      "position": 14,
+      "title": "Plaza Mayor",
+      "place_id": "ChIJ__-_3FwSo5UR63UDeo89dds",
+      "data_id": "0x95a3125cdcbfffff:0xdb753d8f7a0375eb",
+      "data_cid": "15813613353018029547",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3125cdcbfffff%3A0xdb753d8f7a0375eb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3125cdcbfffff%3A0xdb753d8f7a0375eb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.472344,
+        "longitude": -57.851562799999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ__-_3FwSo5UR63UDeo89dds",
+      "provider_id": "/g/11csqb6zww",
+      "rating": 4.6,
+      "reviews": 324,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de interés histórico"
+      ],
+      "address": "G4HX+397, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl49PBVHBpNJdTHFQAK1siywkfCU2Cabr_p60OLu-2aybFkN2Y0cHme41VzcrZds4pqtn7_F8zU8NY8v7IsMOuYiWi56QxFV_XTAJw0NtxbdpXGoZOQ0JpHXc3HF7T32hzTYyo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XvR0L3icHcTLDYIwAADQiSrlo6CJBzCpFRXEVAQvRAoCEWmlRYQB3cFtTHyH9_2UUnKxUJS61CcFY0WddyJvKWtk3sgJZQ-l4AJQAYRi4-OBnGtjfnBC7HDPzQhGgb1VRTX099vqpK2uaZvwGfR3HdCuQ4runhZDih-5oYYjbS-ZMPhTNmaCrPFkebH1Mjdi73dxda6ms-CNwiQitttDT77TjEdrdvED6HIcUR0jk-haOZJ4YMtehRCC8j8FzQ_QqUO6"
+    },
+    {
+      "position": 15,
+      "title": "Muelle de Colonia",
+      "place_id": "ChIJYX1hcIwTo5URP7n59Nfkzj8",
+      "data_id": "0x95a3138c70617d61:0x3fcee4d7f4f9b93f",
+      "data_cid": "4597863885770963263",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3138c70617d61%3A0x3fcee4d7f4f9b93f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3138c70617d61%3A0x3fcee4d7f4f9b93f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.475549099999995,
+        "longitude": -57.8426592
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJYX1hcIwTo5URP7n59Nfkzj8",
+      "provider_id": "/g/11l2kb96jv",
+      "rating": 4.6,
+      "reviews": 86,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "G5F4+QWP, Dr. Emilio Frugoni, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1ekju6bAyb-6ZUkq-WammJgfV5f61zOlTMiJsN85EyEhIpYAm9pnNv65yiy2xhujcNJ3bV5eYbHXv0ngnwReXHVfZEcwI_F5wi6OMdqEdyXjzWvFqlGCJQUQUK8czk1hoL9BHbLVyFQs3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HojECHicHcTbboIwAADQL6rASBtdsgdcQETFYeSiL8bW0nJrYeVi-Umf9zcmOw_n78X7vlWfhlFze8GkZDUdFP0lUvRU9AsiG4O1ChAFlOH4p59zKixalQPCjsYAXeOqA-m9aQKWJzBH1nysz4ciUOESutrl2_biNKtWhCOCutAfTz6UJAxsnEB6wX42moKJ6UQzP8mvLpm2Nw9OBToeHp370Fk5p6PX1ZvvIIqjeLckc2VxuV-tfbxPtBcp-2uyTNME_H8CxBsEsEhx"
+    },
+    {
+      "position": 16,
+      "title": "Letras de Colonia",
+      "place_id": "ChIJlYYHNd0So5URqSNEC04HXEc",
+      "data_id": "0x95a312dd35078695:0x475c074e0b4423a9",
+      "data_cid": "5141992906328122281",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a312dd35078695%3A0x475c074e0b4423a9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a312dd35078695%3A0x475c074e0b4423a9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4445209,
+        "longitude": -57.8596351
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJlYYHNd0So5URqSNEC04HXEc",
+      "provider_id": "/g/11fz7m13sf",
+      "rating": 4.6,
+      "reviews": 6073,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "H44R+54X, Rbla. de las Amèricas, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "4522 7000",
+      "website": "http://www.colonia.gub.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPEIM_jJleT4Vai_u0C6uqQ0EZKjhftcA0ilATcvb_G1FCxj8_Bch5uCgmg0ytwFeeZW3TQbfcQUJUFZHYmTh7kvw_jZOwAMacoB0aCiPBhk-FY81BvwwJnVDLcKldZqweck60=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/H9n1S3icHcTRboIwFADQL6pconPGZA_AZA5nBqZi7EuDd7UFClVb6PxCv2F_Y7LzcP4eyrmLXQaBVtOJNEZqMVhxQ9M70bsJmi6QF0vQEhtE611ODzpffW55k2lBZ2VV8wGS-XAtYMU2jTo7jKDWEcXxxD_CNPltFjxG9TIkspNwdz4Vgh2mtDidsdhn-5Stjx1Vr-3oecO-fbSt0MRQJXUeq5akx0UYj95nffn-hRv9w65eYDuHNx8CAFH_I-mfmflFdg"
+    },
+    {
+      "position": 17,
+      "title": "Centro Cultural Bastión del Carmen",
+      "place_id": "ChIJufpeyV0So5URYWhaDGQT8lY",
+      "data_id": "0x95a3125dc95efab9:0x56f213640c5a6861",
+      "data_cid": "6265091352050690145",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3125dc95efab9%3A0x56f213640c5a6861&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3125dc95efab9%3A0x56f213640c5a6861&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4691318,
+        "longitude": -57.8504095
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJufpeyV0So5URYWhaDGQT8lY",
+      "provider_id": "/g/1tmqmz60",
+      "rating": 4.6,
+      "reviews": 1737,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Arte",
+        "Centro cultural"
+      ],
+      "address": "G4JX+CVC, Rivadavia 223, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "12–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "12–6 p. m."
+      },
+      "phone": "4522 7201",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWldEyIuukNV92Fh0LvStzBBlU8UmP8RkVSb0-WA6K4cN0YLyzEMBSvLFJTVkG-bY9YdSbqJWTWy9NVXf0xClrqJZ4ESEBTEJlo4DjFCqr2eFv5tx8mKWDUf2b9KxEKOdmII-aQi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jn2oR3icHcRLjoIwAADQE1UqMgZMXIgW5SN-CnSYnRQEpVChBcELegZvYzJv8T7vQsqHWCgKK2aTnPOcZZ3IWsprmdVyQnml5A8BqABCWe3Ox4CwFI1215V-ZKhWAb0ey5dpslAPq6N-LiOcQEBWc1ejPoy98YX2Ju49ywmicguS2IhTnDQOCcho-NHvFQ5r1jbOn4YwMgPkMK5t7ta6adXM6n_koFcu2YRXNTHcAbmHtLJtcDndls8phBAU_1NQfwEGH0N0"
+    },
+    {
+      "position": 18,
+      "title": "Parque Ferrando - Colonia Del Sacramento",
+      "place_id": "ChIJKYwxzHsSo5URJLulZqwAeUM",
+      "data_id": "0x95a3127bcc318c29:0x437900ac66a5bb24",
+      "data_cid": "4861918013179673380",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3127bcc318c29%3A0x437900ac66a5bb24&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3127bcc318c29%3A0x437900ac66a5bb24&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4648585,
+        "longitude": -57.831982599999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJKYwxzHsSo5URJLulZqwAeUM",
+      "provider_id": "/g/11c1nl1lfy",
+      "rating": 4.4,
+      "reviews": 658,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "G5P9+362, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7BnG-0o8TtKuSyq8zNcVEIqz3mBv9NvmU9ESnyPdG88x25NykQeb3hgRBY1fA5rjZYKw45Dimb7fy2cRqE2hITI6GcIJJ0HuidCrGK8lZuIO2mFoJwLh_esIlWeZSzCah8m8y=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/E8cdmXicHcRdboIwAADgE1UqiNYlPohDLCxMAWfkxWitVO2P0CKWC3qG3WbJvofv982MeegPx-HMG1RKVZy2mjZESUOlGRAlnOqhAdFAO_NVti52fBLICECFCpO0ua1Rn5KfENe9J4LnNH2K7TTMpV2fI4Rerp_a-4aePFZlwX54mfvNrdwn3cj_vIrT5GJdktWhy3CBxxHBcQxX7fW8aKIE8bLF365Yqrj7YgeqMd_RMu8XR4YEsrNuCCEE7H8C5B87iER8"
+    },
+    {
+      "position": 19,
+      "title": "Rambla de las Américas",
+      "place_id": "ChIJHdLnHY0So5URGYeICZge9IM",
+      "data_id": "0x95a3128d1de7d21d:0x83f41e9809888719",
+      "data_cid": "9508258351629764377",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3128d1de7d21d%3A0x83f41e9809888719&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3128d1de7d21d%3A0x83f41e9809888719&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4543373,
+        "longitude": -57.846286899999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJHdLnHY0So5URGYeICZge9IM",
+      "provider_id": "/g/11fy4tm1qb",
+      "rating": 4.7,
+      "reviews": 98,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "G5W3+7F8, Rbla. de las Amèricas, 70000 Colonia del Sacramento, Departamento de Colonia",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkzPLZbzNpYr9k6hsSON3F5HpIZOF0V4NTcyarJ3uvGF1fsyHzSy57NwIMgw3zRfqoI49jr66GHUEiavbirO2KX_F6rCsoA0Z8FUtTsN3srOnVzT8euO_1vTUIlf8-mqVr3Isxs6A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/q_O--HicHcTbboIwGADgJ6qUVTtcsgtiVukOrdHCHDdGGw5OpNi_wOgb-gh7myX7Lr7fe-1cB09B0NRkVhlTNUUPhdWmdUXrZtpcg6oDpAFBECfbjfq8-M17fvKi-7LLC61hJwVhi6TjuWQ4mwulp6N9Jf2wZmEJU-J30-JRjPyjGonfljfD58tvS-k6SV_Ox-F0tvLhbX9g1K7AxDiPWOoUCAJWtplXUdHLQziolDdlhK63zBIOP0Dj5zHEGKP6f43aPxDqRb0"
+    },
+    {
+      "position": 20,
+      "title": "Parque Nacional Anchorena - Presidencia de la República Oriental del Uruguay",
+      "place_id": "ChIJEYallBxmo5URHgvrDrfEYAo",
+      "data_id": "0x95a3661c94a58611:0xa60c4b70eeb0b1e",
+      "data_cid": "747813828651846430",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a3661c94a58611%3A0xa60c4b70eeb0b1e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a3661c94a58611%3A0xa60c4b70eeb0b1e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.2777834,
+        "longitude": -57.969051199999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJEYallBxmo5URHgvrDrfEYAo",
+      "provider_id": "/g/1vq9ng4k",
+      "rating": 4.5,
+      "reviews": 1667,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque nacional"
+      ],
+      "address": "P2CJ+V9P, 70000 San Pedro, Departamento de Colonia",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9 a. m. del jue",
+      "hours": "Cerrado · Abre a las 9 a. m. del jue",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "9 a. m.–5 p. m.",
+        "viernes": "9 a. m.–5 p. m.",
+        "sábado": "9 a. m.–5 p. m.",
+        "domingo": "9 a. m.–5 p. m.",
+        "lunes": "Cerrado"
+      },
+      "phone": "2150 7905",
+      "website": "https://www.gub.uy/presidencia/parque-anchorena",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5jQe8NbmYAQCNceMS2A78qvj04WNImT8Tt5US158MjKo5xL-rwo4cDf4_zhvtfj56gHEry5pirKibAvSYb79t9YJ0xHI8uQnELFtZozbDUGiXowVyilwTWlifUl9owDJs-eAz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2CShrHicHcTdToMwGADQJ-rolG7FxItG5tgfEQERb0xoCpSUfkg7uvGCPsPeZsnOxbn9t9YO5sXzVPu8aAAaJc5GjBy0FdouOPReMxjEDTIeiz4_skKTLhE0rvqSJW8xF6f0ia3p39Rhv4h3fUYzS_J0SeipOwC5HNHowOdh7f_O7WTrjqyaaDNeySDHg6zYlJbVOrBBuceXaEfPid4c3-0PzFWYb-U3uK-rVC4rlKxzFYAL9wYJNr-6JcYYtY850ncvb0Uo"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Colonia+del+Sacramento+Uruguay&start=20&type=search"
+  }
+}

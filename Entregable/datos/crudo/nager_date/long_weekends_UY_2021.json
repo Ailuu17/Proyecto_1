@@ -1,0 +1,57 @@
+[
+  {
+    "startDate": "2021-01-01",
+    "endDate": "2021-01-03",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2021-02-13",
+    "endDate": "2021-02-16",
+    "dayCount": 4,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2021-04-01",
+    "endDate": "2021-04-04",
+    "dayCount": 4,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2021-04-17",
+    "endDate": "2021-04-19",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2021-05-15",
+    "endDate": "2021-05-18",
+    "dayCount": 4,
+    "needBridgeDay": true,
+    "bridgeDays": [
+      "2021-05-17"
+    ]
+  },
+  {
+    "startDate": "2021-10-09",
+    "endDate": "2021-10-12",
+    "dayCount": 4,
+    "needBridgeDay": true,
+    "bridgeDays": [
+      "2021-10-11"
+    ]
+  },
+  {
+    "startDate": "2021-10-30",
+    "endDate": "2021-11-02",
+    "dayCount": 4,
+    "needBridgeDay": true,
+    "bridgeDays": [
+      "2021-11-01"
+    ]
+  }
+]

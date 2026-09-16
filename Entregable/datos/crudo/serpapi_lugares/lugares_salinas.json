@@ -1,0 +1,1037 @@
+{
+  "search_metadata": {
+    "id": "6aa8996f827031fb3ab5d507",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/NJ7jqGggDgdTbq64ESvxjKNA2PON4nKpb_F57sbR31A/6aa8996f827031fb3ab5d507.json",
+    "markdown_endpoint": "https://serpapi.com/searches/NJ7jqGggDgdTbq64ESvxjKNA2PON4nKpb_F57sbR31A/6aa8996f827031fb3ab5d507.md",
+    "created_at": "2026-09-15 01:03:43 UTC",
+    "processed_at": "2026-09-15 01:03:43 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Salinas+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/NJ7jqGggDgdTbq64ESvxjKNA2PON4nKpb_F57sbR31A/6aa8996f827031fb3ab5d507.html",
+    "prettify_html_file": "https://serpapi.com/searches/NJ7jqGggDgdTbq64ESvxjKNA2PON4nKpb_F57sbR31A/6aa8996f827031fb3ab5d507.prettify",
+    "total_time_taken": 0.89
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Salinas Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Salinas Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Arco de Salinas",
+      "place_id": "ChIJjVzWGDb1n5URvv4icEHeTIE",
+      "data_id": "0x959ff53618d65c8d:0x814cde417022febe",
+      "data_cid": "9317066101758295742",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff53618d65c8d%3A0x814cde417022febe&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff53618d65c8d%3A0x814cde417022febe&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.775652199999996,
+        "longitude": -55.8400197
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJjVzWGDb1n5URvv4icEHeTIE",
+      "provider_id": "/g/11b6bmqwsg",
+      "rating": 4.1,
+      "reviews": 6794,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Monumento"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "monument"
+      ],
+      "address": "65F5+PXQ, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"En pleno centro de Salinas el arco es un lugar característico e histórico.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_UhReK1lS-PASsMMmCiMAUhzTFxGOmG1AHdKq4o8OPxqPO2PD01rsdlMa4pULjTNBZy9DP6k4U9t6n-ko-ETldqTwJllISy-nj4S9VSF5xwGBV3rN-26-FlFmstoQ8vXDpLzucQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9HdUhHicHcRLDoIwFADAEz0BRSImLlAEf0i1BY0bYwqhammBVkFv6BG8jYmzmO-HaV2psWFwNugVUhY8f6i8oVLoXOgelaVRVAqoAmV4iz0iB3FO2D5fWxwD8rCKonJ2jbyEvUnQhXEZWt4iW9e2HMWoq1HcR75pNSrj0cWuks2NbKenl-sj524nrnYE3CXMCc9q0q44X-IXiJuN3RQHw64Np-mg2ULfgYAHpdJyN3oe_WrzftDdpLVM0wT2n4L4AZdGRHc"
+    },
+    {
+      "position": 2,
+      "title": "Playa Salinas",
+      "place_id": "ChIJszgAMnH1n5URFUIluDqs19w",
+      "data_id": "0x959ff571320038b3:0xdcd7ac3ab8254215",
+      "data_cid": "15913377176534467093",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff571320038b3%3A0xdcd7ac3ab8254215&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff571320038b3%3A0xdcd7ac3ab8254215&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7863275,
+        "longitude": -55.8370769
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJszgAMnH1n5URFUIluDqs19w",
+      "provider_id": "/g/11gyxxv5_v",
+      "rating": 4.5,
+      "reviews": 39,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "6577+F57, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Una playa muy linda y limpia sobre todo\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKjKtyXKqH1iOuu4F259UCgRGl_ZRL_pUHcVHIIc7TSwKjZcFFV99z8mrLmn7UAmQCwMowq4yS0Jud2Fe-XkAfPdmkwiKOBUWRkdT7LDY3RQGA6k9vsjtifS7y3tkb58iORFLU5w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I-UskXicHcTbDoIgAADQLyItNbOtB6uRhc1C6fbSFpoXRCwwZn_YJ_Q3bZ2H8_0USrVyahh1YQ1yIfI662T2pKJRWaMGVHAjbyWgEkjDD_AuOdaoQqo_oUcwLKOus-HI8cgix6v6esHhtSUBPQTrNXWTWKPqQiE8eN57wp8hb1zi8_1Cb4V-2H1sbrp0BDNwYv59l3KmSxTNyRGzNHHD5dnC-5U_Zt5LVqq8x25vKXZzJmWEYUgcPdND0zRB8Z-C5gfggkUY"
+    },
+    {
+      "position": 3,
+      "title": "Punta de las Salinas",
+      "place_id": "ChIJOUtzSRsFdZUR_-XpQ2Hmra4",
+      "data_id": "0x9575051b49734b39:0xaeade66143e9e5ff",
+      "data_cid": "12586969838996022783",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9575051b49734b39%3A0xaeade66143e9e5ff&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9575051b49734b39%3A0xaeade66143e9e5ff&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.973713599999996,
+        "longitude": -54.9515953
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJOUtzSRsFdZUR_-XpQ2Hmra4",
+      "provider_id": "/g/11fm2lx4rd",
+      "rating": 4.8,
+      "reviews": 657,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "22GX+G96, Punta de, La Salina, Punta del Este",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "website": "http://www.puntaweb.com/cgi-bin/informacion/atractivo.pl?atr=52",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "payments": [
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Icono de Punta del Este\nExtremo sur del Uruguay\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMYAotefJge_jiR-FxKG8HVgGdJQLDjG9Mt_vbsaShcfWcLorvFcmkwcnjmbIHBdwXOgZazK0rkrmcOgEkv9bksxCQHQ7oTOzBzjx-vgjFDrAdEC1U1d0DaEGv6xe8mkQPEEtS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NwH7WXicHcTbboIwGADgJ6qUmDhZsguUAvMQxMOY3hj4KWWtpaathfCCPoNvY7Lv4ns9W2vv5tPzbu10wpRiN_owVIPqLO3sBJT02N0gMMh4YbrfHQuxPYfK0mbF6JX_7VE8rJN5-sOSepVvIp4EW3t1lSkPLTQFbJR2MUjRQ8dl9Z0u6v43Y5dyXGMttISMEeGCSphhmaf5hzpm42LkA3KMx5EOa7L0T36No5IkbjbQuRT5jhB7-Op9jDFq_wfUvQEwbkap"
+    },
+    {
+      "position": 4,
+      "title": "El Chorro de Salinas",
+      "place_id": "ChIJaZ2bhDD1n5URZJf-FDlpArk",
+      "data_id": "0x959ff530849b9d69:0xb902693914fe9764",
+      "data_cid": "13331333540856371044",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff530849b9d69%3A0xb902693914fe9764&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff530849b9d69%3A0xb902693914fe9764&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7806712,
+        "longitude": -55.8359824
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJaZ2bhDD1n5URZJf-FDlpArk",
+      "provider_id": "/g/11bwzds8x1",
+      "rating": 3.6,
+      "reviews": 135,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "6597+PJJ, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"En la plaza hay un cartel de que se quiere reconstruir\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkzNF_Fo3wh1xNO8EHc_QrYqfs6x8eaMbSlzd4tbhwzf6UTGEvSfi9oAYfUCzP_o__924g2Nshkh4OC3mBTiNxiRwPCmPhES7jUP2ehH9RWc6qHMmtFCNBf_iVKKVgQ367nglUf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/slgPKnicHcRLDoIwFADAEyEIBMHEhRKQhFArH42rRmvbh3yqtgrhgp7B25g4i_l-QOu7WppmC85MSCla9lLsSWWvWa9nVHamuCuDKkOZ6yTH5bGZUExi6QwwH9HOjxJK9s_Tgytv9Nk5uxTtdHX1BYaJe1W5jd4FrwO5PvEqnDCRhAS2K2ykoAF3FzrdpqzRWOcDDjsMUbG4VdhmkAT5kXqPJOt0HKINJ_UhTQ9i73iLXrQVXw1zy7IM-E-N_ge-U0U1"
+    },
+    {
+      "position": 5,
+      "title": "Parque de los Pájaros",
+      "place_id": "ChIJZQ3wdhH1n5URIgGRGyXgbBE",
+      "data_id": "0x959ff51176f00d65:0x116ce0251b910122",
+      "data_cid": "1255624846110425378",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff51176f00d65%3A0x116ce0251b910122&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff51176f00d65%3A0x116ce0251b910122&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.773354399999995,
+        "longitude": -55.8164259
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZQ3wdhH1n5URIgGRGyXgbBE",
+      "provider_id": "/g/11c74ynwtp",
+      "rating": 4.6,
+      "reviews": 558,
+      "unclaimed_listing": true,
+      "type": "Parque temático",
+      "types": [
+        "Parque temático",
+        "Parque"
+      ],
+      "type_id": "theme_park",
+      "type_ids": [
+        "theme_park",
+        "park"
+      ],
+      "address": "65GM+MC4, 15100 Marindia, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Muy agreste y natural, llevar mucho repelente de mosquitos\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnve_xCMp3-PKIECkHg19PHPwRN0GWAeOKRzAdPm6ETdJvk5frnyl3odmvazPMeeyoox0wtke9Z4j1C92E_AvAFa9TC3tOVqFYMQVJosuyaU5C00r2L0pXcCxiL3QqOOxsHQXkf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/um7_DXicHcTbDoIgAADQLyIxss22Hhiz7GKis6xenEPSUsGEvPSDfUN_09Z5ON9PoXWjFoZRFWiSS5lX_KV4y6TQXOgJk7WRNwowBZSB3ZBGseh4MhCvQYDuNg4p3dy0qUv78ADXMeb-LnzjjNZzJ8q2XWndWjFWSGZ1l76px_ko5QB7XXL7OnuYxJ46Ce7wKrUjgrR_eq4uXnDaSvUa06NFIGyne9icGRnuexQ8fX9QbnAub8vehBCC4j8D4gdgaETA"
+    },
+    {
+      "position": 6,
+      "title": "Centro Militar Salinas",
+      "place_id": "ChIJE6NJoi31n5URB8KGIEnHBCM",
+      "data_id": "0x959ff52da249a313:0x2304c7492086c207",
+      "data_cid": "2523360808126562823",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff52da249a313%3A0x2304c7492086c207&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff52da249a313%3A0x2304c7492086c207&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.787194899999996,
+        "longitude": -55.843812199999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJE6NJoi31n5URB8KGIEnHBCM",
+      "provider_id": "/g/1tfbjxkk",
+      "rating": 4.4,
+      "reviews": 788,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero"
+      ],
+      "type_id": "resort_hotel",
+      "type_ids": [
+        "resort_hotel"
+      ],
+      "address": "Ruta 10 &, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "phone": "091 864 529",
+      "website": "https://www.instagram.com/centromilitarsalinas/",
+      "user_review": "\"Fuimos con mus estudiantes a pasar el día y estuvo precioso.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlAZLGan4hN-zmHkI4PcZBrW8t2PhEDO83HPySUGohz0fGVoaX_nB8PtF6EaJvCBzIdrX84-sG4_Cr0ivYhHT3yRD9NCtpctzcsY14rYJMLMbFXZSc16owYr_tQWryqE5frSRF3uaqnCIkn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XFa0qnicHcTLjoIwFADQL6oU6Rg0cSHIy_io4AyPDWEqUiO22F418JOu_RsTz-K8Xxyg0zPDaLk1aqRs2vqua8WkgFrAiMmr0XQaMY20sQhjekjbRbEOKkH4Fg3X8BIRygpHpTaMKfeWO9sKaZ_8BpIP-BT8ySorhWNT8CdetXq4zhAdVWYTpANSugqfHzkPD1YfL6dbFzoGA9O5SVS-2qw3_35WJMycyGeuStinqr95PyeVxL51r27CjS5i_jQxxoh_Z0h8AGEWR1s"
+    },
+    {
+      "position": 7,
+      "title": "Placita niños \"El Rinconcito\"",
+      "place_id": "ChIJi-97xRH1n5UR2okH83nI2D0",
+      "data_id": "0x959ff511c57bef8b:0x3dd8c879f30789da",
+      "data_cid": "4456532257377061338",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff511c57bef8b%3A0x3dd8c879f30789da&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff511c57bef8b%3A0x3dd8c879f30789da&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7736764,
+        "longitude": -55.814277499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJi-97xRH1n5UR2okH83nI2D0",
+      "provider_id": "/g/11f57k8k61",
+      "rating": 4.7,
+      "reviews": 140,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "65GP+G7H, Av. del Coral, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "amenities": [
+            "Columpios",
+            "Toboganes"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "user_review": "\"Hermoso lugar con juegos para los niños y bancos para sentarse.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWll5Sob7X4lPGAvLbzreXNMSCPzpYJp0frvYp9U88nrU1cIBujg5I1RqeKDDBmM2TsyDP9wWxEPsQfOE_EMcSEZ5drzf2KY6wjp2EvXdjmonZ3ny82XnvB-sFUkIwEw0nUSaiYgRg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lRHEfHicHcThUoIwAADgJ5oMDEXv-gGxlAxbICfwp8s5Rji2tSFL3tBH6G266_vx_d7bYVBm7Ti8nc-YlIzTq6GaSDFQMcyI7B2mDCAGGCfcZvhw5NzP5WlZPnC8CcfX06RpuU_zJzyp6kXBRo-VWhVBIHThkiS6dsxP3Oyb7uI46lPvYG4xXtnjD8LmvXlDHyglOar9s54ab1ctbKc8NJbnrpeinotb4JVijIB5Li6JRRaKIv_8qljGHq0LIQTt_wSIPyQCRjA"
+    },
+    {
+      "position": 8,
+      "title": "Mirador de Aves \"Sendero de los cisnes\"",
+      "place_id": "ChIJM3sZXQAfoJUReoTpewer1gI",
+      "data_id": "0x95a01f005d197b33:0x2d6ab077be9847a",
+      "data_cid": "204538881723958394",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a01f005d197b33%3A0x2d6ab077be9847a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a01f005d197b33%3A0x2d6ab077be9847a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.747405199999996,
+        "longitude": -55.8407358
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJM3sZXQAfoJUReoTpewer1gI",
+      "provider_id": "/g/11y647xw_m",
+      "rating": 4.3,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "7535+2PJ, Cardenal, 15100 Ceramicas Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"Disfrutar, cuidar y compartir,  el lugar donde vivimos!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmKfXyAp7_trLjvUcJrsJMCCgqIHo-1EbukygUHkzhFHUBAk6t_VocH6slHdW2W5hfQPTxAXlruu_q6mKOjJrrJrUbTYQzL_w-Ko6b3kwDcP3-k0ukRrLmTG9NTQfUb7qEjQSwcVVvFvAuG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NPBLXXicHcTbboIwAADQL6rgiBiX7KFeKzAH2oI-kVChDQUKvYD6kz7vb5bsPJzfNzem15-O03BvxqRkTWl1qajsTNmZGZWtw3oNqAbagegc46wNq-sT9svcqKgeCQ2UDr43GzYckQTzXWHFkxEkXnyPyBoK3-SppMjXDbpnH9mCV0mMH_DaKGvzwW_DnzpQKlCkwLfkFeUTCKVfeGLa0tgDwrXirKIWH1YnnFSkWA67OrlMNE3H_Qjt4Wuau64L-P8UdH9UrUkc"
+    },
+    {
+      "position": 9,
+      "title": "Parque Franklin Delano Roosevelt",
+      "place_id": "ChIJD9pjIYKIn5UR5-Mn6w_4SkI",
+      "data_id": "0x959f88822163da0f:0x424af80feb27e3e7",
+      "data_cid": "4776903102033290215",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f88822163da0f%3A0x424af80feb27e3e7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f88822163da0f%3A0x424af80feb27e3e7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.858511899999996,
+        "longitude": -56.022731099999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJD9pjIYKIn5UR5-Mn6w_4SkI",
+      "provider_id": "/g/122x82s4",
+      "rating": 4.3,
+      "reviews": 10966,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Reserva nacional",
+        "Parque"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "national_reserve",
+        "park"
+      ],
+      "address": "Av. a la Playa 16, 15000 Ciudad de la Costa, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mar",
+      "hours": "Cerrado · Abre a las 10 a. m. del mar",
+      "operating_hours": {
+        "lunes": "10 a. m.–10 p. m.",
+        "martes": "10 a. m.–10 p. m.",
+        "miércoles": "10 a. m.–10 p. m.",
+        "jueves": "10 a. m.–10 p. m.",
+        "viernes": "10 a. m.–10 p. m.",
+        "sábado": "10 a. m.–10 p. m.",
+        "domingo": "10 a. m.–10 p. m."
+      },
+      "phone": "2601 1350",
+      "website": "https://parqueroosevelt.uy/",
+      "description": "Extensa reserva natural boscosa. Reserva extensa cubierta de eucaliptos con senderos, loros que habitan en el lugar y festivales ocasionales.",
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Área para patinetas",
+            "Ciclovías",
+            "Columpios",
+            "Mesas de pícnic",
+            "Parrilla para barbacoa",
+            "Sanitario público",
+            "Toboganes"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños",
+            "Rutas de senderismo adecuadas para niños"
+          ]
+        },
+        {
+          "pets": [
+            "Parque para perros",
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "user_review": "\"Es ecxelente para todas las edades ,muy pero muy recomendable\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGjVJkVD0K2RumYVenbw1ITqlBVreMxHVYm9aCroqZqR5tAFkioPKGTn9qtwUq4OF89Lsfr7FPNT3Ojh0vAo9EB3pPTrFecdFp6Tml3MUchNn5g6D5vVKHF4E9w8Z5LwnOYQ2KMg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/j2B8AHicHcRLcoIwAADQEyFRxBpnXOAnooggE9PBnU3TpEoS8tF4xR7B2zjTt3ivP-F972Zx3IlkwLXmHbs7ZqlWnik_oFrGvHcRdZGLs7yp8afcXMnuRlagGDV32RKmvsJwi023IJaVz5y0El6WVpuzaVKfoduvrosNVtD4cDLjCk3h3v3YD1QfcFJdBXhkGq4XSV9jixj9Rv0Eyy4pT1QcVMonq_RBihyN1zBMz-k-qKo9joqSz8MQABCJ_2mk3g5DROM"
+    },
+    {
+      "position": 10,
+      "title": "Salinas",
+      "place_id": "ChIJNeoGYAD1n5URDDbkJPB7d-o",
+      "data_id": "0x959ff5006006ea35:0xea777bf024e4360c",
+      "data_cid": "16895108798445008396",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff5006006ea35%3A0xea777bf024e4360c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff5006006ea35%3A0xea777bf024e4360c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7720384,
+        "longitude": -55.8409668
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJNeoGYAD1n5URDDbkJPB7d-o",
+      "provider_id": "/g/11y3n22wd5",
+      "rating": 5,
+      "reviews": 5,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "65H5+5JM, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Temporarily closed",
+      "hours": "Temporarily closed",
+      "user_review": "\"Hermoso lugar\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnpigLdxSqoHftS1SpCZr93ln3MJ2wEvFXX-aZFoeeTtGdcm_szm1Rcv_dSW-mTnxAjRfrwsqbeYZYuQskEreLLs1lHIo2EK9YS5b9tLMJq8mxjnK6dQLY97qv_57V38Pti5oaN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A6vSKHicHcRRCoIwGADgEy01sTLoIcKyXFFOMn0RnUszt6n_UumCnaHbBH0P3_dTKtXAUtPq0pwUUhY1ewHrqBSKCTWhkmtFA4gCAm3t-ucgFM2jwPlIWuneFTFIs4k726yFeTxMB6ff3m4ojbeSsUDtcsoTeHPDp32SkxDxQIzryr93A7QZi-LodYGn0zGMwajdvZw6nh0RK7MVPh7aBR8r4c3yC47sedsn1vxqLs7qYcn0tBoMXddR-Z8i8QMfekYk"
+    },
+    {
+      "position": 11,
+      "title": "Plaza Gran Betaña",
+      "place_id": "ChIJ6xKMbngFdZURzpK2xmWhL70",
+      "data_id": "0x957505786e8c12eb:0xbd2fa165c6b692ce",
+      "data_cid": "13632292055571403470",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x957505786e8c12eb%3A0xbd2fa165c6b692ce&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x957505786e8c12eb%3A0xbd2fa165c6b692ce&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.9729218,
+        "longitude": -54.9521622
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ6xKMbngFdZURzpK2xmWhL70",
+      "provider_id": "/g/11b7ckfj_h",
+      "rating": 4.5,
+      "reviews": 3149,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "22GX+R4P, 20100 Punta del Este, Departamento de Maldonado",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Punto ideal para disfrutar la salida de la Luna en los meses de otoño.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlovK1oLhiPhbNpQB90tHWv3g6iIpZQUxuCQ7bLmQEeytfX1ZRyxYbuHnoh6r_FyNEU_432bKqlVmU2HCO6i-a8qNP1ZNNLyNP3x9YnkQz30v1pkM-3Mb1OrnWzIV5OAO5_-uAR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KXG56XicHcRdDoIgAADgE5EQZT9bD9ZqtgzFZZYvLpyJS4EETbtgZ-g2bX0P3_fDjVF6aVkVx6NCyqLKW503mRQmF2aUydoqlAaZBtpy3DA4xZXsDkh6vAw4I4quF9C4cYcLu9yrhEZ9u6Ez5tV0mw_mfkFJOPRX1rpCcrtJdwPZRukEj9nhWZ3raOxufLsEt_mTBCghxBtIgPvFVTzoG8MOqccR4CNDfiPi9_489R1_moLWCVcvBCEE_H8GxA-GHUQp"
+    },
+    {
+      "position": 12,
+      "title": "Playa Racine",
+      "place_id": "ChIJvZEapeqIn5URKMjsazUlBJU",
+      "data_id": "0x959f88eaa51a91bd:0x950425356becc828",
+      "data_cid": "10737748322932279336",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959f88eaa51a91bd%3A0x950425356becc828&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959f88eaa51a91bd%3A0x950425356becc828&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8650614,
+        "longitude": -56.001874199999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJvZEapeqIn5URKMjsazUlBJU",
+      "provider_id": "/g/11g0207hkk",
+      "rating": 4.4,
+      "reviews": 140,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "4XMX+X7C, 15000 Ciudad de la Costa, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Una de las pocas playas dentro de la periferia de Montevideo asombrosas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkkIw0dG0ySGUJSGOgWSIuOjV6dVgz2UweSzYEnaj93w5bZ1LvkEhqoXO2g5C_TV62xC65ZsHFadULHySfgKVdOv2Jda3CepmZjMAzeP1TWQsqR3TGNBRU2wpHc4BFJMRxx46xsIg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ta8kEnicHcRJDoIwAADAFwGlCIkmHpQgiyhKWZSLwbaWgFK0aJEf-gR_Y-Ic5vup-r4TM027VobKOGdX-hT0gXnb07ZXMb9prBMKForQFl68S_Km8SUgLngjNw2QG7Ec-c-oziySsRGmkqLx6LRlPTWkeS708NU41Z0fIshM-5RkFhxsyyyEtypJGnpvdGHrjEQvGJDSsGl3K-rNYqQ7Pcn34h4bibtdximUnYcny1WwiYdhYg3CZ3OpAwCU6j9W2h_kq0UK"
+    },
+    {
+      "position": 13,
+      "title": "Museo Spikerman",
+      "place_id": "ChIJSW4HVju0oZURMRBAj1phtvk",
+      "data_id": "0x95a1b43b56076e49:0xf9b6615a8f401031",
+      "data_cid": "17993676402783686705",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a1b43b56076e49%3A0xf9b6615a8f401031&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a1b43b56076e49%3A0xf9b6615a8f401031&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.5272146,
+        "longitude": -56.2813409
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJSW4HVju0oZURMRBAj1phtvk",
+      "provider_id": "/g/11ddwsqyxm",
+      "rating": 4,
+      "reviews": 123,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Museo"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "museum"
+      ],
+      "address": "Treinta y Tres &, 90000 Canelones, Departamento de Canelones",
+      "country": "Uruguay",
+      "phone": "4332 3111",
+      "extensions": [
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"Muy lindo lugar y excelente la señora que estaba a cargo ese momento\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkFy72xlf2bKMQirmBJQ-6dtcAZBXyCa1Lw3zPwzY4kXS5ccfEP-F5ZJcldDgvrXI7Kne4qmfzvViF0j_ynaAu8zSCuYMHkVr6MkBr38vLTU5uAQKLfp09eWQENu7Ls7woIN5K8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3odXRHicHcTbEoFAAADQL1otSTHjodCgMiWX6sWwtqLazV5K_aBv8DdmnIfz_eRC1HymKGWuDjJKsxJLjhmiRGAiBohWSlZzgDjgirne-4dzYXf66F2mo5vjBQ9WWdsATO4CmYkVdYvr0G3V3m_7eFxEoYZQuvKBrSVbVN6XWcOije4QPH5Vad-cHjZ8XjpyNaXRhwsZe-vixCZeYTHVaNzDUZNm4LhpDaf4HKx2Une53tLNTnOMeTuEEIL8PwLkB3SmRJE"
+    },
+    {
+      "position": 14,
+      "title": "Glamping y Camping Playa Escondida",
+      "place_id": "ChIJ7Zslsjr1n5URQalBzcMdX1k",
+      "data_id": "0x959ff53ab2259bed:0x595f1dc3cd41a941",
+      "data_cid": "6439898718962559297",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff53ab2259bed%3A0x595f1dc3cd41a941&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff53ab2259bed%3A0x595f1dc3cd41a941&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.784338399999996,
+        "longitude": -55.835503499999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ7Zslsjr1n5URQalBzcMdX1k",
+      "provider_id": "/g/11bvctsxwz",
+      "rating": 4.3,
+      "reviews": 763,
+      "type": "Hotel",
+      "types": [
+        "Hotel",
+        "Camping",
+        "Camping para caravanas"
+      ],
+      "type_id": "hotel",
+      "type_ids": [
+        "hotel",
+        "campground",
+        "rv_park"
+      ],
+      "address": "Ruta 10, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "website": "https://playaescondida.uy/?utm_source=GMB_listing&utm_medium=organic",
+      "description": "Complejo costero informal con piscina. Complejo turístico informal frente al mar con cabañas, tiendas permanentes, cafetería y piscina al aire libre.",
+      "amenities": [
+        "Piscina",
+        "Estacionamiento gratuito",
+        "Wi-Fi gratis",
+        "Aire acondicionado"
+      ],
+      "extensions": [
+        {
+          "offerings": [
+            "Camping para vehículos recreativos",
+            "Conexión cloacal para vehículos recreativos",
+            "Toma de agua para vehículos recreativos",
+            "Tomacorriente para vehículos recreativos"
+          ]
+        },
+        {
+          "payments": [
+            "Tarifa de camping",
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Descuentos para niños"
+          ]
+        },
+        {
+          "parking": [
+            "Estacionamiento gratuito"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"También hay canillas con agua disponibles por todo el predio.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnFxI2OO10KvwmKf_4K6wEDy3Lcw7K8525byacN3SDROWBeiVt-dfYCSwjTS92_x45APgbiLnup6JCLlDhNHz4df4rHO3-ixfReyP9bi1n4xScvjz8U8ObIzooc59DrDYnoKXOA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MYaYGXicHcTbDoIgAADQLyJvWNrWg0XNwoXTynpqSXhpBk4o1B_sG_qbts7D-X4qpVo5N4ymcialEGXDXpJ1VHDFuJpQ8TTKVgIqgTSCMIkPGd_0W5sQy8Rv_cTFFeKpXqPBiaieYc-13Xy40b2TooRkS1afFLgXl1WqH4fUt689dIO4zOuIv9rpbhU1qNqHI7wXsAuJA-q-SNgQ-3ltcdin9P0YvaNH8u0oBHV91KELF_hMgoW2TNME1X8K-A_tTkPb"
+    },
+    {
+      "position": 15,
+      "title": "Bracco Bosca Winery",
+      "place_id": "ChIJU93pAtchoJURvhzOR1xOCcw",
+      "data_id": "0x95a021d702e9dd53:0xcc094e5c47ce1cbe",
+      "data_cid": "14702368616776342718",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a021d702e9dd53%3A0xcc094e5c47ce1cbe&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a021d702e9dd53%3A0xcc094e5c47ce1cbe&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.714998699999995,
+        "longitude": -55.849454699999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJU93pAtchoJURvhzOR1xOCcw",
+      "provider_id": "/g/11c32h06ry",
+      "rating": 4.8,
+      "reviews": 124,
+      "type": "Bodega",
+      "types": [
+        "Bodega"
+      ],
+      "type_id": "winery",
+      "type_ids": [
+        "winery"
+      ],
+      "address": "Carretera Sosa Diaz km 43.000 Piedra del Toro, Municipio de, Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9:30 a. m. del mar",
+      "hours": "Cerrado · Abre a las 9:30 a. m. del mar",
+      "operating_hours": {
+        "lunes": "Cerrado",
+        "martes": "9:30 a. m.–12 p. m., 1–5:30 p. m.",
+        "miércoles": "9:30 a. m.–12 p. m., 1–5:30 p. m.",
+        "jueves": "9:30 a. m.–12 p. m., 1–5:30 p. m.",
+        "viernes": "9:30 a. m.–12 p. m., 1–5:30 p. m.",
+        "sábado": "9:30 a. m.–5 p. m.",
+        "domingo": "Cerrado"
+      },
+      "phone": "094 496 513",
+      "website": "http://www.braccobosca.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "planning": [
+            "Se recomienda comprar las entradas con anticipación"
+          ]
+        },
+        {
+          "payments": [
+            "Pagos móviles mediante NFC",
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        }
+      ],
+      "user_review": "\"Una escapada cerca de Montevideo que merece conocer\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmDEwCepNain27cAhpSO1aFrdnWb5y-xUSd1pBi88PUE3kr4tPGuQE1MxvUmWc-OIpCmgnSOKX68qaVlGl1srOJedInR3_xiMbm9IyLr7ojT-91Zx7orepHREVeGhiopnL2uBo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/n-DtV3icHcTbEoFAAADQL9pqhWLGA0lyKyUZLybbThvtxe5GftA_-BszzsP5fojWQo1NsyG2UXFeNbhVWCLONGbaQJyalVAAKaDM6TKJDzmd-y8Pi11Rs56DpkSkESwWsmT5dfAGXZaWUMxq140z377Lvo6Ddu_DbffMaI5AFAqPViyN1qeh-yiOTdBAJaMVLkOW2Jeu3l7pKHxvpMNvBzCC587hEotl4h9xQGou2KbXzvjkBS3LAuQ_AuwHMOVE4w"
+    },
+    {
+      "position": 16,
+      "title": "Monte de Ombúes",
+      "place_id": "ChIJw5f9EGPvdJURgXtsiRb6GLg",
+      "data_id": "0x9574ef6310fd97c3:0xb818fa16896c7b81",
+      "data_cid": "13265627677121608577",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9574ef6310fd97c3%3A0xb818fa16896c7b81&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9574ef6310fd97c3%3A0xb818fa16896c7b81&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.357789499999996,
+        "longitude": -53.845296999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJw5f9EGPvdJURgXtsiRb6GLg",
+      "provider_id": "/g/1tc_588y",
+      "rating": 4.6,
+      "reviews": 358,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Ruta 10 kmt.267 puente Arroyo, Barra de Valizas, Departamento de Rocha",
+      "country": "Uruguay",
+      "phone": "099 295 177",
+      "extensions": [
+        {
+          "planning": [
+            "Se recomienda comprar las entradas con anticipación"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"Un paseo altamente recomendable para todas las edades.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLrzw6E9dx0rJ_5VtakHyuSHsYRwMntTkv5VOGn7MtWpDcDQozeMEZYGBu4K4QHFZ8-LO8kOcu4ALUDAsreLzVSQO56ztvuLAnZfTa--TSRpC89EviMQxDgsKS51rQ_ZfXPBRN=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I1qixXicHcTLDYIwAADQiQoYAdHEAwpCtIgFBOFiTK1g0Jb0A8qCzuA2Jr7D-34aKTux0PVHM9VqxuoHUYJwzKgkVGqYPfW6EwALIHQ3TA5Z0UI-DrY_v74Mvj1buby04VuloSiTIaIya3srjwM6i2TRedhDbCSRX5XBSpk7E4WbygEwdtoYK9OFR88VnMAxT1Fs2aPsFXRpdcsuAGRp0q2dud_fI_TyarFLrQlH5-p2OqyS_XKYGIYBmv8Y0B-VzUSe"
+    },
+    {
+      "position": 17,
+      "title": "Marindia- Uruguay",
+      "place_id": "ChIJpd7hBQD1n5URbt0pTrLYlc0",
+      "data_id": "0x959ff50005e1dea5:0xcd95d8b24e29dd6e",
+      "data_cid": "14813984809632259438",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff50005e1dea5%3A0xcd95d8b24e29dd6e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff50005e1dea5%3A0xcd95d8b24e29dd6e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.768447699999996,
+        "longitude": -55.824823599999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJpd7hBQD1n5URbt0pTrLYlc0",
+      "provider_id": "/g/11mt09b9k5",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Av. Curuzú Cuatiá 6105-6119, 15100 Marindia, Departamento de Canelones",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmf9FI4M6AlGaJxKZ-7prneGVS0N-9qAcMsQtzCbz0teoV8wK_fg6ETqwzfBfunFeEmM1a2lkcW5opO42Gpghc_zMHTLSA6mwin-gPN9hIVIDI_Ym-3sW0SURPUfvXQ7XgR-Yzg6BEKZqV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/D6nYMnicHcTLboJAFADQL7oyvrCYdIEVkVIUAUHdEJ3Mw5R54IylmZ_sun_TpGdxfn-4tdosPa_j0xFTinXkacgDK2mJtCOshMe0AWzAeOG2yKtGCBpsklnmh118ff9OL7DQD0niukQ7CPoQZ-Zg3dvNIUtU_TKkLWV-VPWDoyv6lBsSiWx8nXSfuJkrvZ9NYs04bl22rT7K0BfDXQLLdwFP6mSdtGcBU9Og8ljkR_p1OixOrICzY_4qSi99_TqMEULA_8cg_wCaNEcc"
+    },
+    {
+      "position": 18,
+      "title": "Cabañas Albatros",
+      "place_id": "ChIJLSrk1TH1n5UR2FwNPQgqK10",
+      "data_id": "0x959ff531d5e42a2d:0x5d2b2a083d0d5cd8",
+      "data_cid": "6713505884398247128",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff531d5e42a2d%3A0x5d2b2a083d0d5cd8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff531d5e42a2d%3A0x5d2b2a083d0d5cd8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.784607099999995,
+        "longitude": -55.838711399999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJLSrk1TH1n5UR2FwNPQgqK10",
+      "provider_id": "/g/1tdqcrn5",
+      "rating": 4.2,
+      "reviews": 130,
+      "type": "Hotel",
+      "types": [
+        "Hotel",
+        "Cabaña"
+      ],
+      "type_id": "hotel",
+      "type_ids": [
+        "hotel",
+        "chalet"
+      ],
+      "address": "Ruta 10, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "website": "https://albatros.uy/?utm_source=GMB_listing&utm_medium=organic",
+      "description": "Cabañas básicas y piscina al aire libre. Complejo informal con piscina al aire libre y cabañas sencillas que tienen cocina integrada y barbacoa.",
+      "user_review": "\"Hermoso lugar\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmUcJ6JLTWLG3TWJIO-Dk1i-RAH6bRy8_1jJrAJP0MACKC1r4Pi_YQKnehGYQ257ziueNtkyGK1gUI8Vq5o554V-PyLh0g3mwx3W4Qrq48COg2HzQb3m-eyMDaUIjnEuyLk3c3v-Y_QSq_Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TBNWYnicHcTBboMgAADQL6JC0c4s2cHYRUW7itMaT2YlBKwVquA6-pM772-a7B3e36-09mZePe8q8UZoLa58NXxhWlmu7IbpyRM3A5gBxovSqqzbqWFkR4q6LRJctyQ7gv2IBlBF6e5cubBHF7JEpISHKM5jtPjl0Hc0V1wmHd0GL49h5R92dEmORJOFpznQQeCfQOkKCQWe7j-49eky-2F8FNv0Qc94Atwd9l9NdlHvqytGzPA36Hr6Off07Y4ghED-z4B6AoYVRPo"
+    }
+  ]
+}

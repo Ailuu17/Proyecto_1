@@ -1,0 +1,137 @@
+{
+  "search_metadata": {
+    "id": "6aa965751cff19253499922a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/iprwtXV2QBdT8Sv638NdYFYPKwA1vJtd6s8FR6jYH_I/6aa965751cff19253499922a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/iprwtXV2QBdT8Sv638NdYFYPKwA1vJtd6s8FR6jYH_I/6aa965751cff19253499922a.md",
+    "created_at": "2026-09-15 15:34:13 UTC",
+    "processed_at": "2026-09-15 15:34:13 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Salinas+Canelones%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222026-08-22+2026-08-25%22%7D%2C%7B%22keyword%22%3A%22Punta+del+Diablo%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222026-08-22+2026-08-25%22%7D%2C%7B%22keyword%22%3A%22Santa+Teresa+Rocha%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222026-08-22+2026-08-25%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/iprwtXV2QBdT8Sv638NdYFYPKwA1vJtd6s8FR6jYH_I/6aa965751cff19253499922a.html",
+    "prettify_html_file": "https://serpapi.com/searches/iprwtXV2QBdT8Sv638NdYFYPKwA1vJtd6s8FR6jYH_I/6aa965751cff19253499922a.prettify",
+    "total_time_taken": 2.67
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Salinas Canelones, Punta del Diablo, Santa Teresa Rocha",
+    "hl": "en",
+    "geo": "UY",
+    "date": "2026-08-22 2026-08-25",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "Aug 22, 2026",
+        "timestamp": "1787356800",
+        "values": [
+          {
+            "query": "Salinas Canelones",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Punta del Diablo",
+            "query_index": 1,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Santa Teresa Rocha",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Aug 23, 2026",
+        "timestamp": "1787443200",
+        "values": [
+          {
+            "query": "Salinas Canelones",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Punta del Diablo",
+            "query_index": 1,
+            "value": "64",
+            "extracted_value": 64
+          },
+          {
+            "query": "Santa Teresa Rocha",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Aug 24, 2026",
+        "timestamp": "1787529600",
+        "values": [
+          {
+            "query": "Salinas Canelones",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Punta del Diablo",
+            "query_index": 1,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Santa Teresa Rocha",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Aug 25, 2026",
+        "timestamp": "1787616000",
+        "values": [
+          {
+            "query": "Salinas Canelones",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Punta del Diablo",
+            "query_index": 1,
+            "value": "100",
+            "extracted_value": 100
+          },
+          {
+            "query": "Santa Teresa Rocha",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      }
+    ],
+    "averages": [
+      {
+        "query": "Salinas Canelones",
+        "value": 0
+      },
+      {
+        "query": "Punta del Diablo",
+        "value": 41
+      },
+      {
+        "query": "Santa Teresa Rocha",
+        "value": 0
+      }
+    ]
+  }
+}

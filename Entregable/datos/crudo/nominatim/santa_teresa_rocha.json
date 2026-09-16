@@ -1,0 +1,31 @@
+[
+  {
+    "place_id": 15945785,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 117292634,
+    "lat": "-33.9726871",
+    "lon": "-53.5488074",
+    "class": "tourism",
+    "type": "attraction",
+    "place_rank": 30,
+    "importance": 0.41155130284769104,
+    "addresstype": "tourism",
+    "name": "Fortaleza de Santa Teresa",
+    "display_name": "Fortaleza de Santa Teresa, Circunvalación, Rocha, Uruguay",
+    "address": {
+      "tourism": "Fortaleza de Santa Teresa",
+      "road": "Circunvalación",
+      "state": "Rocha",
+      "ISO3166-2-lvl4": "UY-RO",
+      "country": "Uruguay",
+      "country_code": "uy"
+    },
+    "boundingbox": [
+      "-33.9735325",
+      "-33.9718732",
+      "-53.5496780",
+      "-53.5475345"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "startDate": "2020-01-04",
+    "endDate": "2020-01-06",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2020-02-22",
+    "endDate": "2020-02-25",
+    "dayCount": 4,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2020-04-09",
+    "endDate": "2020-04-12",
+    "dayCount": 4,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2020-05-01",
+    "endDate": "2020-05-03",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2020-05-16",
+    "endDate": "2020-05-18",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2020-06-19",
+    "endDate": "2020-06-21",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2020-08-22",
+    "endDate": "2020-08-25",
+    "dayCount": 4,
+    "needBridgeDay": true,
+    "bridgeDays": [
+      "2020-08-24"
+    ]
+  },
+  {
+    "startDate": "2020-10-10",
+    "endDate": "2020-10-12",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2020-10-31",
+    "endDate": "2020-11-02",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2020-12-25",
+    "endDate": "2020-12-27",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  }
+]

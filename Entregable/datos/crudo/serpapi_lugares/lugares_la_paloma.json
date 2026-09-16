@@ -1,0 +1,1061 @@
+{
+  "search_metadata": {
+    "id": "6aa95f141dcfe24728ce0dc5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GBk6D_v0SWJgZKL9va5UBIHQXCrv9U6FLpd-F6PTZgg/6aa95f141dcfe24728ce0dc5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/GBk6D_v0SWJgZKL9va5UBIHQXCrv9U6FLpd-F6PTZgg/6aa95f141dcfe24728ce0dc5.md",
+    "created_at": "2026-09-15 15:07:00 UTC",
+    "processed_at": "2026-09-15 15:07:00 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+La+Paloma+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/GBk6D_v0SWJgZKL9va5UBIHQXCrv9U6FLpd-F6PTZgg/6aa95f141dcfe24728ce0dc5.html",
+    "prettify_html_file": "https://serpapi.com/searches/GBk6D_v0SWJgZKL9va5UBIHQXCrv9U6FLpd-F6PTZgg/6aa95f141dcfe24728ce0dc5.prettify",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades La Paloma Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades La Paloma Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Playa del Faro",
+      "place_id": "ChIJVc2j00qDdJURuixlzR78P3A",
+      "data_id": "0x9574834ad3a3cd55:0x703ffc1ecd652cba",
+      "data_cid": "8088460665005878458",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9574834ad3a3cd55%3A0x703ffc1ecd652cba&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9574834ad3a3cd55%3A0x703ffc1ecd652cba&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6684712,
+        "longitude": -54.152481699999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVc2j00qDdJURuixlzR78P3A",
+      "provider_id": "/g/11f3nlk8rl",
+      "rating": 4.7,
+      "reviews": 359,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RJX+J26, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Amo visitar La Paloma y particularmente este rinconcito pegadito al faro.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIjl_iCreTf0aQa4B1Avq82kO0YcLPuyUBHGGZqHFxsm99mMb7OGT3eGzPjNvMUF_78t6sATfZ15xDxwrPbIuvaWb-a3j0Q38UxjDIIdwi9wlLdXtGmISmfEmjhvcswpx6pFad=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J3KMvHicHcRdboIwAADgE1XKcApL9oBTShN_cEJwvphSClgpIC207oKewduY-D18z0elVCe_LKuunEnZtmXNBsl62jaKNWpCW2GVnQRUAmn54W8Up1fM6_Plp2dxAcmeTBe2P97cj-sO_tF1NNyTRYjQ6RYGRgrPE5tsvkOxw9B_xLfjJgnOc1fNpB8XJ_vTLI3uowwPI0kzQBwO946bGL7EONcXT9fr_KiQwAdRrASvRip1Z2ZdQPJvbUMIQfWeguYFYi1FgA"
+    },
+    {
+      "position": 2,
+      "title": "La paloma Rocha",
+      "place_id": "ChIJQ3hlK5uddJUR7Bun6H2FUr4",
+      "data_id": "0x95749d9b2b657843:0xbe52857de8a71bec",
+      "data_cid": "13714170591117253612",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749d9b2b657843%3A0xbe52857de8a71bec&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749d9b2b657843%3A0xbe52857de8a71bec&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6645781,
+        "longitude": -54.1660171
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQ3hlK5uddJUR7Bun6H2FUr4",
+      "provider_id": "/g/11vkrl4trq",
+      "rating": 4.8,
+      "reviews": 146,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RPM+5H9, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        },
+        {
+          "payments": [
+            "Pagos móviles mediante NFC",
+            "Tarjetas de crédito",
+            "Tarjetas de débito"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Lo recomiendo una experiencia 👌 inolvidable !!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8XOt9kJQbCYQP7k0Yjf4dk0lI4oZ5LM1IopffRfSfT9s1kHiqwZ9qRDS-bW6xGpHdZSIVyXIfn94eHF1f1g0JgnekeKnkwZTt-yReAYrZ3pShBI3RA214TbjoMdWDjddN9so39B8OQt4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2EcOWHicHcTNboIwAADgJ6q0o3N2yQ44o9TNKYWI9Aj9QcraarswX3L3vY2J3-H7_-tj9OE1ScY-nWnn9Ch_grx2zkZp46xz34n2AXQBhCTL2aGqzeK0j8Rsi_a9KQ4vBjaDwsLAkWLHnz93iDqvFFOlqkhAJj9fJk4ubFWCtp7_bnwueEmPtxNVlmCZr5FCGm61lUZ-WDPxKoIbk1lz5akv-yVNWfaEcNUObifq1SDEFwkuJcvFvoj4bUIQQtA_7oC9AxVfRhM"
+    },
+    {
+      "position": 3,
+      "title": "Faro de Cabo de Santa María",
+      "place_id": "ChIJ0R7P1rScdJURUmes2V2po_E",
+      "data_id": "0x95749cb4d6cf1ed1:0xf1a3a95dd9ac6752",
+      "data_cid": "17411946804893476690",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749cb4d6cf1ed1%3A0xf1a3a95dd9ac6752&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749cb4d6cf1ed1%3A0xf1a3a95dd9ac6752&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6681157,
+        "longitude": -54.152812999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ0R7P1rScdJURUmes2V2po_E",
+      "provider_id": "/g/121k2wcc",
+      "rating": 4.7,
+      "reviews": 4915,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Del Faro, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del sáb",
+      "hours": "Cerrado · Abre a las 10 a. m. del sáb",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "Cerrado",
+        "viernes": "Cerrado",
+        "sábado": "10 a. m.–1 p. m., 2–5 p. m.",
+        "domingo": "10 a. m.–1 p. m., 2–5 p. m.",
+        "lunes": "Cerrado"
+      },
+      "website": "http://turismorocha.gub.uy/atractivos/faros/faro-cabo-santa-maria",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Fui con mi esposo, que estábamos de paso por la paloma y decidimos entrar.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnELRZR0Eu2YfjuHjeO8mo-MTDCiPh6w4wBgKvDmRO0WhmbBVMBbOOfHCIkNYuV4NyVW5FmXUa7yf7--mAHsoAxtFJJaIHtih55hEvHhEwz8nb1CVgA1I0p4CnOIe5eCOuMyliV=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A4YMN3icHcRRboMgAADQE6G4ajVL9qGowW6WxnS47k8Ngq2AGVDnLrgz9DZL9j7e41dYu5hn35_FzuNa85k5w74GrSxT1hu09PliwGCA8VPcnM6tKt6azwYW7ukyXh2-MpJIDepzjqaT2K_hmvHXey4bAlsh-4zWWU_IiFF1O14cDY8bbaNSfrx38TbGAMgUG51-2_Jw6CpsJxFForhjUaw_ieoDRHkaVHAJkSIVixgirt7mib6sAYQQiP8HoP4AH6VD6Q"
+    },
+    {
+      "position": 4,
+      "title": "Playa El Cabito",
+      "place_id": "ChIJtQ3iHJybdJUREhFdILHVQeE",
+      "data_id": "0x95749b9c1ce20db5:0xe141d5b1205d1112",
+      "data_cid": "16231489488748876050",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749b9c1ce20db5%3A0xe141d5b1205d1112&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749b9c1ce20db5%3A0xe141d5b1205d1112&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6640831,
+        "longitude": -54.172756199999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJtQ3iHJybdJUREhFdILHVQeE",
+      "provider_id": "/g/11fjs3v0bb",
+      "rating": 4.6,
+      "reviews": 712,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RPG+9V9, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Playa al lado del Faro de La Paloma,  ideal para ir con chicos\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljZiuXgqsVl4memaN-8dkLVDBIGRVmjS12SrFL4zjOGR98B7IxZUnQgnQ9WSNUGWwcwZaJSjNEeyzT6jtZmq44882QpJo_dyLYzKiXius7Q7ilJqrcn3IGuj5t3Mm79v9OVTIZuA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vWsmWXicHcTbboIwAADQL6qg4IAle9CoDMZwXATtiyGlKXS9AG3H5A_3CfubJTsP5_en03pQz5bFOmdFpCQMG4UnJIXGQq-Q5BYZFEAKKGv3mn-UNaOwN1cyqoq5HPMmBX77mVSHfRTmFafFelNMp8Rd6DnMA3_vRd_wIjIisqAu0ktYz2iGTVzQ9IgfS_lENeSj6_r-JhtieW8fyW1566-9UV7m9SweJyScKDR0q5137gVfwbkqI2h2L_Patm3Q_Y-A-AMrxkXj"
+    },
+    {
+      "position": 5,
+      "title": "Mirador COLA DE BALLENA",
+      "place_id": "ChIJV5kC6XGbdJURWXF4UkT5V30",
+      "data_id": "0x95749b71e9029957:0x7d57f94452787159",
+      "data_cid": "9031961649551536473",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749b71e9029957%3A0x7d57f94452787159&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749b71e9029957%3A0x7d57f94452787159&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6635555,
+        "longitude": -54.1730941
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJV5kC6XGbdJURWXF4UkT5V30",
+      "provider_id": "/g/11s78l7z2z",
+      "rating": 4.6,
+      "reviews": 44,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RPG+9V9, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Tremendo lugar irónico de avistamiento de ballenas en la temporada\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-J-pzfoK-dzD9X3pOzmMSB8X90gXXhRmEnKgZqHsCDn7cMJtuWSnXYyh4ciNX6PYaFFqhzVEZy0oB1Mfzn3zTh7HRu-gBV5Kw8UUCeD_DeVpupW3us9ih86KZXaT4IexlqiedcA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6uPGhXicHcRRDoIgAADQE6E0K7Wtj8ya5axmpuRPa4TgpoABs7hhR-g2bb2P9_0wraVauG7HPIcKQTtiFHliwTXh2sGid6lUACug3FWSn4qKgz2QthEpeNg4RJ482j47RwEKIUWI5f2Gp7QeErWOuY-zvTbVmaPrm01xe0Dz0_W-3Q7Mlpv6DUU0yRrLPVswP8kNoFE5S8fgclmT-BaTUhpZeUaFLQvmaY3uxXRHXt3QkgdeLccJhBCw_xjwHwDgRcw"
+    },
+    {
+      "position": 6,
+      "title": "Mirador y Pasarela Los Botes",
+      "place_id": "ChIJtyufPOubdJURKdHPYzfUfjA",
+      "data_id": "0x95749beb3c9f2bb7:0x307ed43763cfd129",
+      "data_cid": "3494463695248937257",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749beb3c9f2bb7%3A0x307ed43763cfd129&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749beb3c9f2bb7%3A0x307ed43763cfd129&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6619337,
+        "longitude": -54.1752858
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJtyufPOubdJURKdHPYzfUfjA",
+      "provider_id": "/g/11t75t7r5r",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RQF+6VG, Tres Marías. La Paloma. Rocha ha, La Paloma",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Hermoso lugar recomendable para ir en familia\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlhwEvv_rrzy87EybK4l_sE_HI65GV8WUVvH4P-0WL8OeX5J30QwrOxH8hHLyby3QDpK3A7pwngEDsHzF6Ix-gqZxBsKz_Koec2mbs5pY1043RKngDnashD7Su3BGcOyAuP-yqCfQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/m9ontHicHcTbboIwGADgJ6rUFYQs8QIHs64mgCe23ZDRdO0FtpWfU3lDH8G3MfG7-B531XUW3j2vUWQhjZGN6EG03OhO6G7BzdWTFhAHBF5MD_mpbNSYDkPVtrOLwtTVzG8qSCu6WwXbS1SeLwP1c4TLfZSJ7-CL4GJss4lGiu5d7UiRWEbi0I5apgnQ-XO1m5C8_U4bYHPFjOBv1xoC-7PEPjkwLRP9ByoJjz3ZbHnm4j5H7vbxX6zHJcYYqdcc6SfZQET-"
+    },
+    {
+      "position": 7,
+      "title": "Playa Bahía Grande",
+      "place_id": "ChIJ3QpsJricdJURnHMCFZ_45Bw",
+      "data_id": "0x95749cb8266c0add:0x1ce4f89f1502739c",
+      "data_cid": "2082062289887982492",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749cb8266c0add%3A0x1ce4f89f1502739c&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749cb8266c0add%3A0x1ce4f89f1502739c&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.658288999999996,
+        "longitude": -54.1521354
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ3QpsJricdJURnHMCFZ_45Bw",
+      "provider_id": "/g/11hbvxf1j4",
+      "rating": 4.6,
+      "reviews": 249,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RRX+M4Q, Puerto de, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Otro atractivo es la cercanía con la Isla de La Tuna.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrQYVpXoLOA0xm4E6piBXerKCnV3-mWL1n7VWOiKzHf5zEkyZASh0rIGmTI2-hvbtClbsx44SySUCQurC5ix7eeMbNJRgANVUi1twvNSp29OOgyzD85PFrpUpkM8PJAJjbfSSTFw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XoGePXicHcRLcoIwAADQE0WCglpnXKQUVFQ-ho_tEiYmVEgySZTPDT2Ct-lM3-K9X8wYqTeW1bLFjApBW_LQRNWCG8LNrBadRaUGtQbaQvtLkpWtSr8LeRWnGMGhc_ylbD6vRB09XixAV55svirKuDlO-5s7-ffxB2EG1WHXZYc5YM_KeG2lB8fBI8699KE8txlWhJyrKLxQFBV5Y5v-GWE5_4hjOk5fazcJlMzl_bxOQhT-VjeMs6Df9jaEELD_a8D_APzTRYw"
+    },
+    {
+      "position": 8,
+      "title": "Parque Andresito",
+      "place_id": "ChIJYyzg0LucdJURjWeOKMeXaO0",
+      "data_id": "0x95749cbbd0e02c63:0xed6897c7288e678d",
+      "data_cid": "17107090066201536397",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749cbbd0e02c63%3A0xed6897c7288e678d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749cbbd0e02c63%3A0xed6897c7288e678d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6528005,
+        "longitude": -54.1565076
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJYyzg0LucdJURjWeOKMeXaO0",
+      "provider_id": "/g/11c2nhv1zk",
+      "rating": 4.3,
+      "reviews": 506,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "park"
+      ],
+      "address": "8RWV+V9H, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "4479 6081",
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Mesas de pícnic",
+            "Parrilla para barbacoa",
+            "Sanitario público"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "user_review": "\"Cuenta con algunos parrilleros, bancos, mesas y zona de juegos.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOJZi3bBQyQV4N57GzbCAA3mBuH7LhMZ5cTRj_yepF1Ehc05s-TyTePcd3s16H9VIpAzLT3Hfnu84oIhi9kFvD1iyPGrdGkH_ny0syqaH1XiyLrCTGc8beQCfFZkykZ_6Z-4C59g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hgfMH3icHcRRboIwAADQExXaFBRM9oFsUAxTMI0u_SGjVopAyyhsqTfcEbyNie_jPf7lPI9m47q9xE6jddOLxYiJazULNTtcD24zGsANMG5EjgU9D4cda3G9LW158vb-Or3XcRThYbuQdS4_mc_p8VZZMSboQ3LoG0AtFQW_YINWJDxlY3TPKSZXtQSezmQbdsnvO2ptkU6XtCOVstDYn2-CvlqbTzFNeVCLMr4mrLMdq1YMeLEfNm9_CEII5GsO1BN9I0RT"
+    },
+    {
+      "position": 9,
+      "title": "Centro Cultural La Paloma, Rocha.",
+      "place_id": "ChIJy0RK8rmcdJURyiuzLM6PI50",
+      "data_id": "0x95749cb9f24a44cb:0x9d238fce2cb32bca",
+      "data_cid": "11323052003815533514",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749cb9f24a44cb%3A0x9d238fce2cb32bca&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749cb9f24a44cb%3A0x9d238fce2cb32bca&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.658638599999996,
+        "longitude": -54.155370999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy0RK8rmcdJURyiuzLM6PI50",
+      "provider_id": "/g/1tp906m7",
+      "rating": 4.3,
+      "reviews": 984,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Centro cultural"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "cultural_center"
+      ],
+      "address": "8RRV+GVR, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "4479 6492",
+      "website": "http://ceculapaloma.blogspot.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Exponen obras de artistas locales con propuestas interesantes.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDLI5SrvDMwMUcay4mIbQhgGPMWa4n4ULameMUXFK0OPX2jcn1at3OqZIidybVTKqK4ykEeHgNeroU0MdUlfs0tUVgdAwxvUEbutsEDHKc-47lLfuawjFcH_WQvVg1YEdZnrM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mQzL1nicHcRdDoIgAADgE6FYtLa2Htq0dErZD2q9NETCTKEENS_YHbpNW9_D9_2Uxjz1wrbrcmoJpUTNO81bpqTh0lhMNbZ4asA00PbKP8SnVLpRMDu2vYsHTBgdURPk-1JsYpxSJBGJaMMxydYh3MXZpGLSoWa6e12CezHmySl8hWh8eNwXW94qAnFB6puGhiSiWA3vnnh5Z7Tn-iEDaF5Ht44O1Zr513TfJ8I5e8VFtng5OBBCUP5nQP4AWchFfQ"
+    },
+    {
+      "position": 10,
+      "title": "Playa Bahía Chica",
+      "place_id": "ChIJO8Tm9qyddJURVvu2IjolAis",
+      "data_id": "0x95749dacf6e6c43b:0x2b02253a22b6fb56",
+      "data_cid": "3099080425205070678",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749dacf6e6c43b%3A0x2b02253a22b6fb56&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749dacf6e6c43b%3A0x2b02253a22b6fb56&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6634554,
+        "longitude": -54.1517827
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJO8Tm9qyddJURVvu2IjolAis",
+      "provider_id": "/g/11h5r_tf7j",
+      "rating": 4.7,
+      "reviews": 51,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RPX+J78, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Una playa chica pero muy linda para caminar y practicar deportes acuáticos\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmM3Urd8f1qUd4Rq3nzaPaI7sWOxVSce4fAhLynRHm9_H9lGqsBdHrXSt--xKwq4hLsEjxI_2ZhDQd9C0c07c5osWLFL9gwM2FgTjsyROuw4pPK4wZuBMn2Zk4S3xb4hGyEAItQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Xdg1CXicHcRLDoIwFADAE1Uq1CgmLsAfRIgIKoaN0YJtFFrglRS8oGfwNibOYr4frlQNc8MouTViUrKy6KBoqRSqEGpEZWWwGhAFBIbjxdExrULr1Oazx7g55SRuLPG-RTd_Cum-Pye0IA-HB4OIvcq-ena5bcDNvfaSKIT6nW4ID2D97P2rmfHVIbeXmOIpnUhIg01gMx2aG3Z8whDvO03qaEd01rmhMLMXSaz-Tvh2WDu-Oiz0GGOM-H-KxA9y3ESr"
+    },
+    {
+      "position": 11,
+      "title": "Paseo Marítimo La Paloma",
+      "place_id": "ChIJs-KslMaddJURwV5Jj2MJrlQ",
+      "data_id": "0x95749dc694ace2b3:0x54ae09638f495ec1",
+      "data_cid": "6101824868343963329",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749dc694ace2b3%3A0x54ae09638f495ec1&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749dc694ace2b3%3A0x54ae09638f495ec1&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6583616,
+        "longitude": -54.1524763
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJs-KslMaddJURwV5Jj2MJrlQ",
+      "provider_id": "/g/11tmmlpbm2",
+      "rating": 4.6,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RRX+M22, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Tiene una vista espectacular pero carece de barandal.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk0TIByJq5gJ0bYenXKDeZDTcLDJefTxKs3IE1gAgd3Z89Z2mHovmXrR5EIB0y3f35mNsXJTD4tTwFB4FCt3o2quRSIvo_NdELq1C2zSCzO00164Qc6IJYD5I4b4X9CIc99BTQlxQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QHim5nicHcRdDoIgAADgE6ko2LKthxBdYKs0ttSXtghxSyWDfm_YEbpNW9_D9_201l7MzPO6FrpKa9XJm5FXoQcrB-sK3XvqYhxhHOMtlsWW78-AU_xiY6gYOFZyKDMia8LFijDZ8GdmIE18tVAnWE-jOuiX-t6X1yJMKAYv2MCwX5uScYIsf6QYpbGFOhhvxY7e9WF9SlajHwfvXfzeAOBPUC4mlFUkpOiIyiimIoowz7tnPn_4AACn_S-c4Qcvf0Jf"
+    },
+    {
+      "position": 12,
+      "title": "Playa Los Botes",
+      "place_id": "ChIJOzaxN1mbdJURcsF04RLgc5I",
+      "data_id": "0x95749b5937b1363b:0x9273e012e174c172",
+      "data_cid": "10553024723555762546",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749b5937b1363b%3A0x9273e012e174c172&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749b5937b1363b%3A0x9273e012e174c172&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6645454,
+        "longitude": -54.1743902
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJOzaxN1mbdJURcsF04RLgc5I",
+      "provider_id": "/g/11cjpb7p5j",
+      "rating": 4.5,
+      "reviews": 1775,
+      "type": "playa",
+      "types": [
+        "playa"
+      ],
+      "type_id": "beach",
+      "type_ids": [
+        "beach"
+      ],
+      "address": "27001 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "user_review": "\"Playa con pocas olas, para mi las más linda de La Paloma.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIN2FKROPBjWhHIwDkN6MLkTCdTf_D6NzC1_kBvT2TIbOvNCAXLJEpaK4ideKoxoXkZP1D7kbGeyymP81upT8OncmGSQIhUE6Blz728yF9pfK1y6FbItZm-EuNjj-5y6PzIQRE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sJXGdHicHcRdToMwAADgE3VQ1A5NfBh_W2WWDmu27GWRrqNSoI0tm-WCnsHbmPg9fL8_0jljn4Kgl3eLVuu2F5MVX1yPToxuwfUQtMYCboENVpuasr3CJCrKuqJJt5cbfMsUQa9bxdIzu5wyROYUnlRyZRHDTXUl6eqwfcnNR3n_eRal_tYHdaQwW6pmLbwfaAwnw-Jq5MP6bYfle46Sfl5GsS8ezaWEHhUNdscB5BPpOvDgEZ3xrs6fbzAMQyD_52D8A_7pQ5E"
+    },
+    {
+      "position": 13,
+      "title": "Palito en la Arena",
+      "place_id": "ChIJK4sWLACbdJURCGsj4CV85iA",
+      "data_id": "0x95749b002c168b2b:0x20e67c25e0236b08",
+      "data_cid": "2370718755973196552",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749b002c168b2b%3A0x20e67c25e0236b08&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749b002c168b2b%3A0x20e67c25e0236b08&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6614801,
+        "longitude": -54.2042611
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJK4sWLACbdJURCGsj4CV85iA",
+      "provider_id": "/g/11mt85by55",
+      "rating": 5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8QQW+C7, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkFyWaxi-HXy5HSCdEu_gMklBXDWrBbHpuxc_SBiKLbNUPDNa3LBfCw2oimD0BLJdNZWj-C5j9zHcH8nmFi7UVNjLXoZim43Kp0GXPtOVQSl0tMlLUHiDhjou8QD_uwPuqmHsinse77DwIc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6r4wYnicHcTbboIwAADQL6p0Q4Oa7GGlaqeVocglvhCtCMVemG2D-pM--zdLPA_n9Wys7czU80TjD2qta1E5U12ZVrZSdsC09OrOAGaA8b7JNt7ll_k9P9w4IMV9RJLwNHNlvb4IVOD8io6kczdWJoiv6DFKYxwdfIrOYf-pucQQ0eUp2uctCEft5EEYGSs550GaRS0t9J7Lob_q4KKI7W-2SQS0a0FTwnHTajfe4NL1sfuTxHBlqiDA_Q_76j8ghKB5z4D6B7q-R-k"
+    },
+    {
+      "position": 14,
+      "title": "Playa Balconada. La Paloma departamento de Rocha",
+      "place_id": "ChIJc8gy6-qddJUR5FHT8odKutY",
+      "data_id": "0x95749deaeb32c873:0xd6ba4a87f2d351e4",
+      "data_cid": "15472761417539736036",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749deaeb32c873%3A0xd6ba4a87f2d351e4&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749deaeb32c873%3A0xd6ba4a87f2d351e4&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6658386,
+        "longitude": -54.1634959
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJc8gy6-qddJUR5FHT8odKutY",
+      "provider_id": "/g/11rr8vmd81",
+      "rating": 4.8,
+      "reviews": 12,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "8RMP+MJ6, La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Playa Balconada es un lugar hermoso y emblemático de La Paloma.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLkeaNIxZdKFaEOX87Ru_sEoX1BGA_K_BlcC1biVr33uKcXaa2EnpRJA0biCJobfwCVJWhcg90l8aTtR9nL497DClsCS5UhxG_q-NrAPvL-_U0_fyDRuP9DeH9ziu-M1tRktbf6uMdj4Vl=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/OhKk1HicHcTBboIwAADQL6qU4aZdsgMWpgN0pFMkXppSC2XWltF26n5y5_3NEt_h_f1K5wb7HARKRpPOmE4Jb8XIjXZCuwk356AbLOAW2CBekXK7PxcnwTZv18Mxf2Xpez2fEU9taupwsYxpTheK47DpqzGKfM5rxh5SPZAshk2PM9O0F1xle8k7BNWcbR1BupiiWYKVxR-PO3ld0i-wGePyuwB0B2l7S4gvUSJW6Kf3YB06cnJN--TXx89ppV4uIYQQyPsc6H9eu0a1"
+    },
+    {
+      "position": 15,
+      "title": "La Chacra de Marilyn",
+      "place_id": "ChIJ8QldZz-ddJURzxZAICmA8WU",
+      "data_id": "0x95749d3f675d09f1:0x65f18029204016cf",
+      "data_cid": "7345793381341075151",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749d3f675d09f1%3A0x65f18029204016cf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749d3f675d09f1%3A0x65f18029204016cf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6101521,
+        "longitude": -54.168574299999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ8QldZz-ddJURzxZAICmA8WU",
+      "provider_id": "/g/11rcqn317k",
+      "rating": 5,
+      "reviews": 10,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Ruta 15. Km 6.5 Camino vecinal.BalnearioLa, La Paloma",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "099 941 033",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"Nos gustó mucho el paseo y la presentación de la anfitriona.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkO6K93WCF05egdRaq5lKYfcyhWIZPEVnVzChF0R6FsmE3kgJpYnDWhF_WbiqZZE8NOSs-6neqnXwPTZEgoNB6byBl5t5hpeUQtS8IFzbSxUGFMtEYJAEiDLHzR16MuN9qTK9_z=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pHAMNnicHcRdDoIgAADgE5E0J8u2HvqBNMtMLdKXlkTQMtCgVV6wM3Sbtr6H7_uR1jZm6Di1dHtCa1Hzh-F3ppXlyvaYvjmiMYAZYJxxkCY5va5R5Lt0SqDHxSk9tl4dFWf2ljQsE7xTu24qCUwRMTfsXsWiKdSMSnKg1aUtSzyI15kBSPFW7Z9JXmKh4wmq3pPas55s-HZjs0FIuip7bedkZXGxGOPLbBl0aR-tHrHf5pF_6EbPPoQQyP8MqB83PERJ"
+    },
+    {
+      "position": 16,
+      "title": "La Laguna",
+      "place_id": "ChIJu9EMU7ybdJUR6ia4K8tf6rg",
+      "data_id": "0x95749bbc530cd1bb:0xb8ea5fcb2bb826ea",
+      "data_cid": "13324567773745522410",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749bbc530cd1bb%3A0xb8ea5fcb2bb826ea&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749bbc530cd1bb%3A0xb8ea5fcb2bb826ea&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.66027,
+        "longitude": -54.218626699999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJu9EMU7ybdJUR6ia4K8tf6rg",
+      "provider_id": "/g/11m9khyy4m",
+      "rating": 4.6,
+      "reviews": 91,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Paisaje protegido Laguna de Rocha, 27001 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "099 251 295",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Recomendable visitar.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm_JAn9X4xcryGCucHxYiFuaCGgEtZ7U5QCNTuW0iAYmq_da5OfsQ2fgNHfLzy4WaGtY01EA5Yc6KSN0WtwduLV-ZHT7izBBZKGClB0mVdifi47U9LAN4bCAyfcDq9LzaHersov=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5toLT3icHcRRToMwAADQE3V0ChJM_CjdRuMIijIY_BBWaGkCFGgrgwt6ht3GxPfxHr-t1qN6tayufd5xKXnXGNXMVA66GfSOyt7iowJUAWUh8vWZZH35jgbvat_pvAbYUHLPxclUOOBHXbgXJ8ZRYjIoUN5PZV05H0zFT4xHhIXbamdVoHO4PyInpy_n7whmeqlNmIKCJK7YfL84B7jzYZ_WggnbvXghiuwbRiujh8kLt4o0s5I_b8seQgja_ykY_gBWaURg"
+    },
+    {
+      "position": 17,
+      "title": "Playa Zanja Honda",
+      "place_id": "ChIJg-ONalybdJUR-m33a3YCJYA",
+      "data_id": "0x95749b5c6a8de383:0x802502766bf76dfa",
+      "data_cid": "9233789318633844218",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749b5c6a8de383%3A0x802502766bf76dfa&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749b5c6a8de383%3A0x802502766bf76dfa&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6605438,
+        "longitude": -54.185561799999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJg-ONalybdJUR-m33a3YCJYA",
+      "provider_id": "/g/11hbpk4dnr",
+      "rating": 4.6,
+      "reviews": 705,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Av. Anaconda, 27000 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"La Paloma, amamos esa playa a tres cuadras de casa!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpqe3arPiYHrGXqdkRguVR9cjOfyS8vbH3u6kpZa7LWoULYZ3jppZzpok0wBvwxMWQR57r_hmgvGfHrHGZoCnoTnTP3fhtTKKaYMkGH9drg_dlwNlx4TeDT0PeTU9LHW87CUxs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uPmkgXicHcRdboMgAADgE1lpWGdtsoe1SyTRds5irb4YhwirCBTwZ7vgzrDbLOn38P39cue03fm-4HDFlGKCjpYaoqSj0q2IGnymrUesZ_1XlKW4GPSdwsakXyUy0fXe9hkbL1lIbu_d93k7fSI4Pve6aoKkUHlSVvCmdfWjVQ_m_TQvx-Ij2wSm5gObog4ZFFXqIBWWOIUddziOm_LYRyhsDatbMZ_E8oTpGwYpxXmYoGIbHPLFvsxrAIDHHxNP_gNMnUbB"
+    },
+    {
+      "position": 18,
+      "title": "Gruta de la Llorona",
+      "place_id": "ChIJVyOrtgCBp5UR2Q6H5VTbYcM",
+      "data_id": "0x95a78100b6ab2357:0xc361db54e5870ed9",
+      "data_cid": "14078775067811450585",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a78100b6ab2357%3A0xc361db54e5870ed9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a78100b6ab2357%3A0xc361db54e5870ed9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.7290505,
+        "longitude": -55.5763032
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJVyOrtgCBp5UR2Q6H5VTbYcM",
+      "provider_id": "/g/11k1nkx2kg",
+      "rating": 4.6,
+      "reviews": 134,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "7CCF+9FG, 97000 La Paloma, Departamento de Durazno",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños",
+            "Rutas de senderismo adecuadas para niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Es un parque con una gruta increible que emana agua clara y fria.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl0L0Vi6M64FgLKlMPD7417GQq5kq1IKL_sjiSyuAyDsAV4NPazR8zfBDHlHeGBnEQNyD4wkGMdKQbT8Zd7J4wBxoL_C-cTnjz4HUrCfzgkftPNH5bIvS5BfqOeAWKLxvkgTB07=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fKjpFnicHcRRboIwAADQE1VKVsQs2QcVpY7CQFETf4yUUpSuFVtFuKBn2G2W-D7e36ux9mo-HUc2HxOhtZD8bviNaWW5shOmfx1xNYAZYJyArLNiLyGFu_M0maKloLFMstBHrh_lndd27iqmR3M5b4Z7MIQm2KE0O43r2VjjkEjCI6wWeTqEqG-jpIrzspgdKv8b9fip6XEOWKEuIyLb27weRVvbLCVeuXpsPFx3PzzYx_T5aEWBof_VuxBC0LxnQP0DxGlDkQ"
+    },
+    {
+      "position": 19,
+      "title": "Valle De La Luna",
+      "place_id": "ChIJIVnBQ1WfdJURilzojQdv_EU",
+      "data_id": "0x95749f5543c15921:0x45fc6f078de85c8a",
+      "data_cid": "5043027760984382602",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749f5543c15921%3A0x45fc6f078de85c8a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749f5543c15921%3A0x45fc6f078de85c8a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.566411699999996,
+        "longitude": -54.1136359
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIVnBQ1WfdJURilzojQdv_EU",
+      "provider_id": "/g/11gxmsf4l2",
+      "rating": 4.4,
+      "reviews": 506,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "CVMP+CGQ, 27400 Rocha, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "website": "https://m.facebook.com/parquesantaisabel/",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Un lugar muy lindo, plagado de formas y colores muy atractivas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKdO76BgYngEreuKm8sdSR-ArZJb1hfXw_p-8Z-qBcL_FGls7o3lKBuTgzNrDzp0U5MLksrNea_VZg8bRb2q8sJAWcllcStlmGx1NcDJmX7V12qc8WX4w8OtfXkNQ5RKFjHyxT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/plhDLXicHcRLDoIwFADAE1XAH42JC4i_gKIiCrIh8qwlWij0laBe0DN4GxNnMd9PoXWNE8MQxaDHpeSCtcgUyEqzSvdAlgavkQASNJxVuIti4V-39tjl54rPFWv9kuL1EBJHpV5uFbeky2pCU9K4sM4WS4G2HAjfbSP-DtTsXZvH0Wb9QBWwS3ZKOc3DvN9Q9JwYhICDFuXyaQUw88rEPln9BmicDDu61bfkEexHob-4r17PaNpZpmmS4j-Q6geHmUUS"
+    },
+    {
+      "position": 20,
+      "title": "Camping El Palomar",
+      "place_id": "ChIJnzXFn4ScdJURSgUYat1L2gg",
+      "data_id": "0x95749c849fc5359f:0x8da4bdd6a18054a",
+      "data_cid": "637905711566161226",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95749c849fc5359f%3A0x8da4bdd6a18054a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95749c849fc5359f%3A0x8da4bdd6a18054a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.6423099,
+        "longitude": -54.1661875
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJnzXFn4ScdJURSgUYat1L2gg",
+      "provider_id": "/g/11c6w13g84",
+      "rating": 4.7,
+      "reviews": 215,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Camping"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "campground"
+      ],
+      "address": "9R5M+3GF, Unnamed Road, 27400 La Paloma, Departamento de Rocha",
+      "country": "Uruguay",
+      "phone": "099 608 999",
+      "extensions": [
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Pero tuvimos la compañía de Pablo y de Místico, que nos ayudó harto!!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxIPrYO_Pb4ItOO28hPNjRqVDaChrnofngQq2jB3Jn_RultEFQ6L-4msw8l1G_EreDb9vikfcHgcKcZod4qy1RTbutbScukfAKnF_RIMKrPJK3VBSDfMbS92IXkkhKaV1-5DE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hh4gK3icHcRZEsEwAADQE0VXBjM-0KKCRmpq-elItAltE01SywXdwW3MeB_v--HG3PXQsirudZiUrMpbnSsqhcmF6VBZW-yuAdVAW-MFRrt9_YqQOsYZIn5k4tjtc7S54SYNzlOuhCwE2zbubeItRYbbyoSzbW8F_Fo_-5Uzz0KVB2TwuJYFXTAK6Ule_Obt4B1pDUloWxZjKGYZjtZQoSX00kkSFGuSDNzoUJYcnlMHdINw9HRs2wb8PwXiB2DCRHY"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+La+Paloma+Uruguay&start=20&type=search"
+  }
+}

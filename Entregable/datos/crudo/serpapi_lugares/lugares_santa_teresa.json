@@ -1,0 +1,555 @@
+{
+  "search_metadata": {
+    "id": "6aa89972634a6337b6b80a44",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_2QcQJbsv-VY6QTTVEQk_rL5Ugqcw9KpAD0bcqDa9ls/6aa89972634a6337b6b80a44.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_2QcQJbsv-VY6QTTVEQk_rL5Ugqcw9KpAD0bcqDa9ls/6aa89972634a6337b6b80a44.md",
+    "created_at": "2026-09-15 01:03:46 UTC",
+    "processed_at": "2026-09-15 01:03:46 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Santa+Teresa+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/_2QcQJbsv-VY6QTTVEQk_rL5Ugqcw9KpAD0bcqDa9ls/6aa89972634a6337b6b80a44.html",
+    "prettify_html_file": "https://serpapi.com/searches/_2QcQJbsv-VY6QTTVEQk_rL5Ugqcw9KpAD0bcqDa9ls/6aa89972634a6337b6b80a44.prettify",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Santa Teresa Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Santa Teresa Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Fortaleza de Santa Teresa",
+      "place_id": "ChIJrV-7fMsdDZURCeirtdsSqAA",
+      "data_id": "0x950d1dcb7cbb5fad:0xa812dbb5abe809",
+      "data_cid": "47308530942470153",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950d1dcb7cbb5fad%3A0xa812dbb5abe809&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950d1dcb7cbb5fad%3A0xa812dbb5abe809&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.9723963,
+        "longitude": -53.5491288
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJrV-7fMsdDZURCeirtdsSqAA",
+      "provider_id": "/m/0gvrb1j",
+      "rating": 4.7,
+      "reviews": 5956,
+      "type": "Fortaleza",
+      "types": [
+        "Fortaleza",
+        "Museo militar",
+        "Lugar de interés histórico",
+        "Atracción turística"
+      ],
+      "address": "9 km. 303, 27100 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mar",
+      "hours": "Cerrado · Abre a las 10 a. m. del mar",
+      "operating_hours": {
+        "lunes": "10 a. m.–5 p. m.",
+        "martes": "10 a. m.–5 p. m.",
+        "miércoles": "10 a. m.–5 p. m.",
+        "jueves": "10 a. m.–5 p. m.",
+        "viernes": "10 a. m.–5 p. m.",
+        "sábado": "10 a. m.–5 p. m.",
+        "domingo": "10 a. m.–5 p. m."
+      },
+      "phone": "4474 6541",
+      "website": "http://museos.ejercito.mil.uy/",
+      "description": "Fortaleza construida en el siglo XVIII. Esta fortaleza se construyó en 1762 para defender el área de los portugueses y se restauró en 1923.",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHTTkqsTuTusfe4GJ4zgF88dkXuxMleqN3uDMidZnVsxmdz0kMjWlGZv2yVjN6DaMaWkalLPgC9It6KXzkTEGF8_FJM3qMV0YS2G9xH3Bk8EzI8idQ5x9nlCTyMP502riwNwQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9TfHDnicHcRdDoIgAADgE5mk1bCth7LUfnBWTKuX5pTQQMyANA_YHbpNW9_D9_0USj3k1DR5YQ9oXVNOtCTPrBaKCDXI6sqkD2lk0pDmPDhEOKkCjFkjscZa3sjI34x66kGYs5PuECdNaOslKvOLiGVX5T1g6J5w__Ky3vE9nCxTlCYs5buIus5aTbannuGV78Grt0F2g2JwPlq-0wX2gsFVv4Zlvh93juAufqNoDKxn2YbtftYOAQBG8T8zxA-TkUS6"
+    },
+    {
+      "position": 2,
+      "title": "Parque Nacional de Santa Teresa",
+      "place_id": "ChIJRYtBnLjSDJUR5EShbE2U8ZA",
+      "data_id": "0x950cd2b89c418b45:0x90f1944d6ca144e4",
+      "data_cid": "10444292071104791780",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950cd2b89c418b45%3A0x90f1944d6ca144e4&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950cd2b89c418b45%3A0x90f1944d6ca144e4&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.9981576,
+        "longitude": -53.5666936
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJRYtBnLjSDJUR5EShbE2U8ZA",
+      "provider_id": "/m/0nb7rm0",
+      "rating": 4.7,
+      "reviews": 9443,
+      "type": "Parque nacional",
+      "types": [
+        "Parque nacional",
+        "Atracción turística"
+      ],
+      "address": "Ruta Nacional Nº 9, 27100 Rocha, Departamento de Rocha",
+      "country": "Uruguay",
+      "phone": "098 620 828",
+      "website": "https://www.serviciodeparquesdelejercito.com.uy/",
+      "description": "Fuerte antiguo, camping, playas y rutas. Parque nacional con un fuerte del siglo XVIII, senderos, un área de camping, un invernadero y playas de arena.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmsGuqV5BkDXud6O8WkbMR9huxaP0Uu22qUDAzOoMOq0CGeKOqOJqnroSn8fUUGjt6-L3NQy5_EOGhZzAir1UX6FYKc6GpVGOFTntdoqRhqYg1eVvBn0plYaMx8xu6bpcoOLj2P-A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XI0CgHicHcRdksEwAADgE0XTGpnaGQ-1iEGlW1LqxRDRoPLTJKvccI-wtzHje_j-_4Rz2n4FQS26nUqpqube8oYp6bh0HabuQaUtYBbYIJnm2Xpzt9iboje8jbb-hEi8uR3TvC98e8gg9VFk6Ch5EZUSA78xnxNDZkY2aiXjM6X46hBYdJc_z95-TLDYvZJLE9ItmpRzhrAuMJmspTspkwtTViEvfocS6ro8pG3cenTUTJHFNcpAMniEEEIgPjMg3we0Ra0"
+    },
+    {
+      "position": 3,
+      "title": "Sombráculo Parque Santa Teresa",
+      "place_id": "ChIJSabtyVItc5URklRKdmCYG0A",
+      "data_id": "0x95732d52c9eda649:0x401b9860764a5492",
+      "data_cid": "4619453382867440786",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d52c9eda649%3A0x401b9860764a5492&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d52c9eda649%3A0x401b9860764a5492&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.002462,
+        "longitude": -53.5535243
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJSabtyVItc5URklRKdmCYG0A",
+      "provider_id": "/g/11c1p63gdd",
+      "rating": 4.7,
+      "reviews": 249,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "XCXW+2H9, Parque Nacional Sta Teresa, Rocha,, Punta del Diablo",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–8 p. m.",
+        "martes": "8 a. m.–8 p. m.",
+        "miércoles": "8 a. m.–8 p. m.",
+        "jueves": "8 a. m.–8 p. m.",
+        "viernes": "8 a. m.–8 p. m.",
+        "sábado": "8 a. m.–8 p. m.",
+        "domingo": "8 a. m.–8 p. m."
+      },
+      "phone": "4477 2101",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRLTGvQIfFMPmII70eCCqQAOcxdeKIs6e5xX0luqID_sTXU8jCWfUYVL0wYuJsmqUewDVAIAu0kLh4wmaQYJQHyd4_Mu22G7Hl2GGpq8zwO9Qcllo35vcYmfspMLnERqoAVht0Cg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/We3zt3icHcTdboIwGADQJ0I61PmTeNHgBnUQLQGUK7PUQjNbSve1Vn1DH8G3MfFcnOdDWDvAMgylGI86rTvJHfB_pnvLeztiWoXdAAGDAEKcFrtyfy6yMrlQ0n7nO0XIDPE4NhRv2fXEfwh88un1gKQzZH2E8lDN_-J9WzV1hnzjNqBMxf26xgQ7dM7ExKtf2mxoejtNjrmLomSWyihJBjO_--2CMin1eHphjWphyLP-qzAa18KiuFv5D4RQIN6zoH8B8rdFvQ"
+    },
+    {
+      "position": 4,
+      "title": "Invernaculo Parque Sta Teresa",
+      "place_id": "ChIJ2cdQzVItc5URgxGISHS7yV8",
+      "data_id": "0x95732d52cd50c7d9:0x5fc9bb7448881183",
+      "data_cid": "6902254012029473155",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d52cd50c7d9%3A0x5fc9bb7448881183&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d52cd50c7d9%3A0x5fc9bb7448881183&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0018567,
+        "longitude": -53.5554689
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ2cdQzVItc5URgxGISHS7yV8",
+      "provider_id": "/g/11c0vrsy2z",
+      "rating": 4.7,
+      "reviews": 635,
+      "unclaimed_listing": true,
+      "type": "Parque estatal",
+      "types": [
+        "Parque estatal"
+      ],
+      "address": "XCXV+7R2, Parque Nacional Sta Teresa, Rocha,, Punta del Diablo",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–7 p. m.",
+        "martes": "8 a. m.–7 p. m.",
+        "miércoles": "8 a. m.–7 p. m.",
+        "jueves": "8 a. m.–7 p. m.",
+        "viernes": "8 a. m.–7 p. m.",
+        "sábado": "8 a. m.–7 p. m.",
+        "domingo": "8 a. m.–7 p. m."
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8Ch4vZj53OT8y8DEriv55fbgPSzcTlLROQJ9cwNi7l9Yd2MEe93VYd_8jD1ZHNSd1ka39GkLRG9xVvE04yOmGBFkrQ11GundkeslT5XP2u2BtbCOHsvxb4j19438Jv_hkxB8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/r56kA3icHcRdDoIgAADgE5kiuqCthzTTtUoz199LSyRJUJsgWQfsDt2mre_h-36YUg85MU3B4Khs21LQXtKOtI2ijRqRtjbLhzSINKQ5i9IkO9TIZ44-Vy6MM_RC86C7a9e95WWye5NMrNJ4u8TkubmPBT4V9jqgGO5PxQVVc3CONrsC8CvEIV-lIR72OrCcV1yH3oJ3WwDCvik4lSJzj4nd257K_TiSesidCmAHoqW-MD54aPoElmUZ7D8xmh-MaEKx"
+    },
+    {
+      "position": 5,
+      "title": "Pajarera del Parque Santa Teresa",
+      "place_id": "ChIJq6qqqk4tc5URE6w30GsfEPE",
+      "data_id": "0x95732d4eaaaaaaab:0xf1101f6bd037ac13",
+      "data_cid": "17370418310683274259",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d4eaaaaaaab%3A0xf1101f6bd037ac13&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d4eaaaaaaab%3A0xf1101f6bd037ac13&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.9870728,
+        "longitude": -53.5488557
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJq6qqqk4tc5URE6w30GsfEPE",
+      "provider_id": "/g/11b7hsyrcw",
+      "rating": 4.7,
+      "reviews": 360,
+      "unclaimed_listing": true,
+      "type": "Refugio para animales",
+      "types": [
+        "Refugio para animales",
+        "Atracción turística"
+      ],
+      "address": "Ruta Nacional 9, 27100 Rocha, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1ZqzoRL0oQc-cT0CAeiIhHwI6SfimwHoy6clwnr7s22AaLhwot8neneY7O5D2Bp_-a7XAXkl3CvdzdBUa_Ua-lijSaMgc11bGUQcZ_qzMNcFpYGPCfJ9ibC5WIjOibTjgpx4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/sE3qCnicHcTbbsIgGADgJ8LSeqhb4kWt0dZ4to2Hm4b-IlARUNjQPuDeYW-zZN_F9_vDnTP2Mwgk73aY1kzSL0ufoJWjynVA3wNmLAKLbJBku01xuIXnR6t3C6y3gKDAaUJFzjOfD_ZXcfeZfg9AevWMbRQlZMG9dkNFFT3F6_4kGpsKkfiYHG-ym35f2su4JFVJkBTNniwZhGE9K7dwrh7tcgVTc5pt0uv8Q9Rp_5A3a1EXDTOv3siHGGPE_wek_gBNQUTp"
+    },
+    {
+      "position": 6,
+      "title": "Cerro Chato",
+      "place_id": "ChIJIxqKG-PTDJURZ_3PeHpIOmQ",
+      "data_id": "0x950cd3e31b8a1a23:0x643a487a78cffd67",
+      "data_cid": "7222164643292118375",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950cd3e31b8a1a23%3A0x643a487a78cffd67&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950cd3e31b8a1a23%3A0x643a487a78cffd67&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.985839399999996,
+        "longitude": -53.533426899999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJIxqKG-PTDJURZ_3PeHpIOmQ",
+      "provider_id": "/g/11gxs4vfzh",
+      "rating": 4.8,
+      "reviews": 74,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Rocha, 27204, Parque Santa Teresa, 27100",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlITC9bkKTxL8UIH-TNxdCT1Zr_Qe2OVcKnWnEbg0qrMMLx5WwsTZqjDFqSp5IM8S1FWqCLsmhqotCiA62XFGLGTGXlfdRZLsWHBGQNMW5gCchAsntNMN-cdrMImbtFn0BO2O9P=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xHSRTXicHcTbboIwGADgJ6oUDIsu8QI7OcQWPHSr4caEwtpt0FL-GnlDn8G3Mdl38T0f2vsR3oOg18uFslb13Q26SVrjO-MX0g6BGgFJQBAk-enARV9wsm7-9nymq88iR7ycW8LDeroeu6j6knsjzK5R2E2M0TkWd-C1-_1I3XmMC7Y6h6lwhMKgnfXkJ3mLLmlGM55d-u_2VFMQ-TY7lkzEikidgPElK5FsJ1YMjU8N3lZRtT5s7iHGGOn_JTIvL4pD6g"
+    },
+    {
+      "position": 7,
+      "title": "Santa teresa",
+      "place_id": "ChIJF8iIMAC7dJURXiQzRM6pJ9s",
+      "data_id": "0x9574bb003088c817:0xdb27a9ce4433245e",
+      "data_cid": "15791777321770493022",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x9574bb003088c817%3A0xdb27a9ce4433245e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x9574bb003088c817%3A0xdb27a9ce4433245e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.474827499999996,
+        "longitude": -54.3124883
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJF8iIMAC7dJURXiQzRM6pJ9s",
+      "provider_id": "/g/11xh0glwbj",
+      "rating": 5,
+      "reviews": 10,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "GMGQ+326, Sta. Teresa, 27000 Rocha, Departamento de Rocha",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9yVRiGSs9bHXj3oQa_aWZ4RaXbMqvH3Y_czFy15APG2uIZ4VUTCtW9YNt9Vm_eGURXHeld1E5ru9sYUX29Igoo6SMQrWZi52zalIZ-Iyho0YqVUsGQUDnPq29XS_1WcF5zOZbWPtZsLnJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rA1VbXicHc3LjoIwFADQL6q8xKSTuDCOAkZHHpaWbgjUBjTYCrfMBH5y1v7NmNmc7Xn9tsY84cOyutZbNFo3nRxBDkIrI5VZCP2wmicgAQisTZjGF6rwlKe3IANch-zu6aQqK8qXacXqU_8dekUp5v3k-Js4cMeIL3Ny2RqKiy-D80cpA5KyUHZXZ-cPI4aCMBdH73iVnZKB8pvvzlUXcRRNrbaLPicQJORTxb2LWVY6VOz9-cxrGhsOR3VY_zi2baP2X4HUH4hDRxs"
+    },
+    {
+      "position": 8,
+      "title": "Vista Playa La Moza",
+      "place_id": "ChIJb7yYzs3TDJUR20uKFIgAcxo",
+      "data_id": "0x950cd3cdce98bc6f:0x1a730088148a4bdb",
+      "data_cid": "1905867651768011739",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950cd3cdce98bc6f%3A0x1a730088148a4bdb&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950cd3cdce98bc6f%3A0x1a730088148a4bdb&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.975729799999996,
+        "longitude": -53.530131399999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJb7yYzs3TDJUR20uKFIgAcxo",
+      "provider_id": "/g/11fg50vmvv",
+      "rating": 4.9,
+      "reviews": 237,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Unnamed Road 27204, 27100 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljIm3OkItMRK_D9cxTXEhty2Thy-aXlf8cHq5OFp5IVVN5u9vITO28kWjJ-VbuMQkIk7QElFvjUiWAc_6G4mjxlc1v3wJ2t_ASG7CWKkrl1Bf-tXjLGgDLMsaXhLYKjnaHp0jg5g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lWunu3icHcRJDoIwAADAF1U2UTHxgBtUQEQR8ESwwda2LNKC-kSf4G9MnMN8P0TKVswVhRNjhJsG87IXZYeaWpa1HKGmUnArABJAKLZ7PMQpp7AyQgZlcPTytYVecbYh8q3H5A2KjN9myH2Y4bY1YZLszd4aYBzqM5bSHUiufRAxyKbRhm8Her6nNsonzriiL460wXjudJnbJ2e6Sj3WcW15AzKjvoPXfiCKjPgXj9aF26oUm3jx1FRVBeQ_AvUP3xtFJw"
+    },
+    {
+      "position": 9,
+      "title": "Mirador de Aves Parque de Santa Teresa",
+      "place_id": "ChIJMeehh1Itc5URcADypcB_j04",
+      "data_id": "0x95732d5287a1e731:0x4e8f7fc0a5f20070",
+      "data_cid": "5660883722022551664",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d5287a1e731%3A0x4e8f7fc0a5f20070&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d5287a1e731%3A0x4e8f7fc0a5f20070&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0032206,
+        "longitude": -53.5532658
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJMeehh1Itc5URcADypcB_j04",
+      "provider_id": "/g/11hbgbgry4",
+      "rating": 4.6,
+      "reviews": 26,
+      "unclaimed_listing": true,
+      "type": "Mirador",
+      "types": [
+        "Mirador"
+      ],
+      "address": "XCWW+PM9, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnn__g8q4gWONOQOS2L8mCYBURFxK38BAYcKgblsrwTTAgXRwPItAxWDJEIVXAERDwV4FKYqBwwwDEkZlNZacXk9w6Qr4W4dGO27jItdQ1J4rVo5QEayrxUO3mAX6XmZyg2S_0f=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9C9hSHicHcThEoEwAADgJ0qpIe78WArJmZJa_emYrKM2trnlCT2Dt3Hn-_F9P41SDzkzzbZxBpRz2tYvWQvCmaqZGhDemfQhDSINacJ1sk9zxqqKuk9Ac7RDMTrYW7dbFN4xWfaR43qwIBE9t1LoNIUUJ3ofKtjn_iYIMwyDxNcZWEbF09Na-8G9bHflieD7VI9jAXJwWSF7cgvVJR5ugMj4KA5Ob9EfkdNBPMZd-ab2obKucz20LMto_hOD_QAveUQW"
+    },
+    {
+      "position": 10,
+      "title": "El Potrerillo De Santa Teresa",
+      "place_id": "ChIJn4qsDAzMDJURJ_TV3iBNjwc",
+      "data_id": "0x950ccc0c0cac8a9f:0x78f4d20ded5f427",
+      "data_cid": "544738883507975207",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ccc0c0cac8a9f%3A0x78f4d20ded5f427&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ccc0c0cac8a9f%3A0x78f4d20ded5f427&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.9703942,
+        "longitude": -53.644312799999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJn4qsDAzMDJURJ_TV3iBNjwc",
+      "provider_id": "/g/11c6dzt9bv",
+      "rating": 4.9,
+      "reviews": 18,
+      "unclaimed_listing": true,
+      "type": "Museo",
+      "types": [
+        "Museo",
+        "Atracción turística"
+      ],
+      "address": "29H4+R7V, Unnamed Road, Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "website": "https://turismorocha.gub.uy/atractivos/naturaleza/potrerillo-de-santa-teresa",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnckRklPFZbXNK_ZdFu4nfjbQE4W_uGnHNaqhLIDVoi3FRA6Xa-cJEZSekW4EB71ucrRbeszAeOsgKJKd8yyKjIenkMY_cjbpgd57-FJqlIkJdElWSwrBF-SqdRzg9zT1CJ8xKP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aFiMJXicHcTbboIwAADQL6pAxHlJfEBHJ60XLGY4Xoi0XRmtLVCIyg_6Df6Nyc7DeT3LrqvtwnFUOR4JY4TiveUtNbrjuhtRc3VEbQG1wDrBhsSnVFNJpIphVpz3OM8Y7H39WxXH0E_z_ktv9pem3Eaf3-ZvDEnwcb4AisIs4TL1w9XU62lLCm6HgB-swAiz2eOBq4hrufvJaVXUgk2mAKJGRRKxUKXJrV1BkDSMDGI-nLw1mt1xvLx5ruuC8n8K9BujJEVG"
+    },
+    {
+      "position": 11,
+      "title": "Cerro del Rivero",
+      "place_id": "ChIJt6dTyWMtc5UR90ufg-JHT8s",
+      "data_id": "0x95732d63c953a7b7:0xcb4f47e2839f4bf7",
+      "data_cid": "14650007151055948791",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95732d63c953a7b7%3A0xcb4f47e2839f4bf7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95732d63c953a7b7%3A0xcb4f47e2839f4bf7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0330875,
+        "longitude": -53.5373594
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJt6dTyWMtc5UR90ufg-JHT8s",
+      "provider_id": "/g/11fvw989wz",
+      "rating": 4.8,
+      "reviews": 123,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "XF87+Q36, 27200 Santa Teresa, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTTjXJKvbhpbnBGfkb2kJE4F_zmiWz_btXd6DONOxvABDxiUV4uHSWlwnJx_WJ2Y8NDewmFRgMwQpDdB2sQzKoB6c2NDM42M9gDYi7iW503kkmeOdnwLO211-SS6aromJRIAEy=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hVpsHXicHcRRToMwAADQE3VAh0xN_IB0c-sEHKDdvoiUrrDSlqzdilzQM3gbE9_H-_3prB3Ns-cN3XLBteYDuxl2pVpZpuyCaunx0QBqgPHibfFeEVFVlyPe35tubFTyehYNFHgdbupZ9mSuG3tsI5Rn-XSPEzT1H5_hbVuSwSk81QTD02OGmJObgqfuMKI2geYw73USUZihNITpE0enftWTB38phGR5q9xbDoMAlGX0ddUSF7t4_f3iAt_3Qfc_BeoPp5JEgw"
+    },
+    {
+      "position": 12,
+      "title": "El Chorro",
+      "place_id": "ChIJc5bfuMHSDJUR-U6k57xq4Ks",
+      "data_id": "0x950cd2c1b8df9673:0xabe06abce7a44ef9",
+      "data_cid": "12385016334841564921",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950cd2c1b8df9673%3A0xabe06abce7a44ef9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950cd2c1b8df9673%3A0xabe06abce7a44ef9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.9777778,
+        "longitude": -53.5383333
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJc5bfuMHSDJUR-U6k57xq4Ks",
+      "provider_id": "/g/1tf7hvch",
+      "rating": 4.4,
+      "reviews": 204,
+      "unclaimed_listing": true,
+      "type": "Parque de atracciones",
+      "types": [
+        "Parque de atracciones"
+      ],
+      "address": "2FC6+VMM, 27100 Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAhZ3lcnasLDUgWZpG6LKnP5Dzv-OHyumOI97ABb-5qx_CMUVRwW2pE0fQJ3TUV0ZZvuUDWatOQgK_gEVPCAvF6nCFjJr6FK682K2C5c7g-195QTsE26AadTPMQfdMfrq77OGc3w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vITv_3icHcRJDoIwAADAF1UqhKImHiqbCoQlLAkXggVKDBSkBdQf-gR_Y-Ic5vtphRj5QZK6VtnQYaBdPfN6IgMTNRMbMvQSHTkgHHAJn6Mgznrc5kpHWMldI6FZPtrIdVigGu8F-OfX3PuXvYZPN6A-noXuJWm0ZvJowia8KnGSwjxf5sTISuGH1CmomQY6XizEdOt-nZDloJ3syLpKNAq2ezWMuSkjXFZx4IVN5TXTQ9N8myjrcd1CCEH7nwD2A2KyQuY"
+    },
+    {
+      "position": 13,
+      "title": "Servicio de Parques del Ejército",
+      "place_id": "ChIJp5--Oq3SDJURgbyl_ZBcv5o",
+      "data_id": "0x950cd2ad3abe9fa7:0x9abf5c90fda5bc81",
+      "data_cid": "11150732980193180801",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950cd2ad3abe9fa7%3A0x9abf5c90fda5bc81&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950cd2ad3abe9fa7%3A0x9abf5c90fda5bc81&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.9981751,
+        "longitude": -53.5666869
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJp5--Oq3SDJURgbyl_ZBcv5o",
+      "provider_id": "/g/11g6jvpnyw",
+      "rating": 4.6,
+      "reviews": 1166,
+      "type": "Parque nacional",
+      "types": [
+        "Parque nacional",
+        "Atracción turística"
+      ],
+      "address": "XCXW+J38, 9 Km 302, 27200 Punta del Diablo, Departamento de Rocha",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 8 a. m. del mar",
+      "hours": "Cerrado · Abre a las 8 a. m. del mar",
+      "operating_hours": {
+        "lunes": "8 a. m.–6 p. m.",
+        "martes": "8 a. m.–6 p. m.",
+        "miércoles": "8 a. m.–6 p. m.",
+        "jueves": "8 a. m.–6 p. m.",
+        "viernes": "8 a. m.–6 p. m.",
+        "sábado": "8 a. m.–6 p. m.",
+        "domingo": "8 a. m.–6 p. m."
+      },
+      "phone": "4477 2103",
+      "website": "https://www.serviciodeparquesdelejercito.com.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLCQpCRRnEmUNm8kUJczTcop-QkBz8sVmD_-N-B8G8bwA6-WyVfRq2fjy-6DiJPPfe33037IAJYgw-Fwdhj38Mk1tzeON4A1CKS_XQf4l1k497iGZXbb8mWalMCnQKIasjMbFB=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jB6s_nicHcRLDoIwFADAEz0BS7SauAD8oiDgB3VjpBYQaIu2hsAFPYO3MXEW8_3kStVyrGlVjnqZEFlF35K-iOCKctUjgmlZLYFIkJq1jIJ9zDdOWDtRxGfs4DNcHlzS7YmoISztDssjm17BBxsvcNJYA4jbYxo9-2nRwmD6cIMgpQjpaLiy3HPWwLy55wXCXmmojm590zKc9e56ClOzMkpzNHwsLqckwSy-VZ7Dw_XqJgsvmduTxtB1HfL_BPgP2_5C1A"
+    },
+    {
+      "position": 14,
+      "title": "Playa Laguna Negra",
+      "place_id": "ChIJkxHTHZTNDJURv9LLa1S-iRs",
+      "data_id": "0x950ccd941dd31193:0x1b89be546bcbd2bf",
+      "data_cid": "1984326380628464319",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ccd941dd31193%3A0x1b89be546bcbd2bf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ccd941dd31193%3A0x1b89be546bcbd2bf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.0095022,
+        "longitude": -53.5947951
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkxHTHZTNDJURv9LLa1S-iRs",
+      "provider_id": "/g/11jpd2xlyl",
+      "rating": 4.6,
+      "reviews": 219,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Unnamed Road, 27204, Departamento de Rocha",
+      "country": "Uruguay",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLNHGYV_VXvx3a6RgVlcuT4wm214JFpcFNomYNBULsqfmXHJ9cp32H2R6GcMt6yz-IzElfR9UZNtnqrNtr6z5a2Yf_IuqCdNE5cloCYBIHC7yfqr4rueaTV0ZVodMyXbgwRFIv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FbMCdHicHcRNjoIwGADQE1WQP6PJLAYCFqONabADbgzzCWVRWmiLCBecM8xtJpm3eL8_nbWDOTiO6PwNV4qLZjKNBiVtI-0GVO_wwSAwyDifmF6LL3km-FixBytfb7-OKGcCpiKYe28bnLIBMqL6isS3sxnbvsSnPQy-hz0aHeFio2VF-ZqKlu5vd2LlqInV0RrWXtU-8mlMniQNQaikinOc7JZ21IGemrpg7p2p52Upv_lMs_z1MW9d10Xd_4DkH3G7RVo"
+    }
+  ]
+}

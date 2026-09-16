@@ -1,0 +1,707 @@
+{
+  "search_metadata": {
+    "id": "6aa89966759dbc9f7ad21a61",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/kzPf6qpnCWUmODL0DX138pUUmWP55wiB4l5XtWwRRyc/6aa89966759dbc9f7ad21a61.json",
+    "markdown_endpoint": "https://serpapi.com/searches/kzPf6qpnCWUmODL0DX138pUUmWP55wiB4l5XtWwRRyc/6aa89966759dbc9f7ad21a61.md",
+    "created_at": "2026-09-15 01:03:34 UTC",
+    "processed_at": "2026-09-15 01:03:34 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Paso+de+los+Toros+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/kzPf6qpnCWUmODL0DX138pUUmWP55wiB4l5XtWwRRyc/6aa89966759dbc9f7ad21a61.html",
+    "prettify_html_file": "https://serpapi.com/searches/kzPf6qpnCWUmODL0DX138pUUmWP55wiB4l5XtWwRRyc/6aa89966759dbc9f7ad21a61.prettify",
+    "total_time_taken": 1.49
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Paso de los Toros Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Paso de los Toros Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Paso de los Toros - departamento de Tacuarembó",
+      "place_id": "ChIJQwtUqi9BppUR4H6s8oMi2zw",
+      "data_id": "0x95a6412faa540b43:0x3cdb2283f2ac7ee0",
+      "data_cid": "4385136612282760928",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a6412faa540b43%3A0x3cdb2283f2ac7ee0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a6412faa540b43%3A0x3cdb2283f2ac7ee0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8192734,
+        "longitude": -56.500412999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQwtUqi9BppUR4H6s8oMi2zw",
+      "provider_id": "/g/11rg55ptzj",
+      "rating": 4.5,
+      "reviews": 85,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "5FJX+7RW, Brigadier Gral. Fructuoso Rivera, 97007 Centenario, Departamento de Durazno",
+      "country": "Uruguay",
+      "phone": "091 672 084",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkSdkmmGfEhK2_O6Y1_8cOk21ob5JwpyBz_koEbYaVhVnGVZ2djBEhQYli_B34vO2p19GqMdMg2zYherW32InHY0aL-czHB0O0fEMG6owUXWEfA0C7Eylalz4efm8Ty4vzocS9W=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/amRxS3icHcRLjoIwAADQE1VKwW_iQiYN-CH4helsCJRCldKiRQm9oGfwNibzFu_z5l3X6oVlCe6MKqUqwZ6aPaiSHZPdiKrGqloNqAbaWgXH_TmpT0XdNH6J-Ral0YTY6YxGNbJVPt707eCZtFY4J1nMY-nHf6i4eZgfiLimnuO-ItTac_8eFmGFDOHskThoLQMCsx2gJvBgBEsc-hPVX34TXK7gzxQPIhPGZWUzOw_uyyh6mifL3oYQAv4_BfILQqBEKg"
+    },
+    {
+      "position": 2,
+      "title": "Parque Batlle",
+      "place_id": "ChIJWXDE1GVBppUR_4bwXL35ous",
+      "data_id": "0x95a64165d4c47059:0xeba2f9bd5cf086ff",
+      "data_cid": "16979408136843593471",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a64165d4c47059%3A0xeba2f9bd5cf086ff&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a64165d4c47059%3A0xeba2f9bd5cf086ff&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8166662,
+        "longitude": -56.500233699999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJWXDE1GVBppUR_4bwXL35ous",
+      "provider_id": "/g/11clmpfsxz",
+      "rating": 4.5,
+      "reviews": 661,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "5FMX+8WJ, de los toros, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmuXQBcTHcWrcMG_vk7qOnddbj_2s2D-BDsAdz5Qo_W4l8_QP2UWFQtEIUejL6Z0Mciegoygje1BhpzUNBt91aopUYFte_69cTqo2o0dOe38sBhVqoTI6kfWsQzlfmOFELGWYQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iAKYHHicHcTRTsIwFADQLyrrhg4w8YEGBiTAqNms-NLoXWkd3e7GLRD3g36Df2PieTi_Py6Ejp6iyLvxyCJab65kLoBtMG0YATaR7YgBMYrm65dDoXxzfZMCijWoC-xW-nae9HlbVZ-1TihZMLGgeTU8StTqwU-1PCSlymRYbkpTb9N3voMvY_Hb1iYWrhvKvQiz-AO78pgFo9MZFD0myKvcjKck3GuPxSY9nxTJwZ-aPFtuV-oon-8x55y5_4G1f6TKRWM"
+    },
+    {
+      "position": 3,
+      "title": "Monumento al Toro",
+      "place_id": "ChIJ9WjaNWRBppURhyJsoLgnpos",
+      "data_id": "0x95a6416435da68f5:0x8ba627b8a06c2287",
+      "data_cid": "10062774091324859015",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a6416435da68f5%3A0x8ba627b8a06c2287&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a6416435da68f5%3A0x8ba627b8a06c2287&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8173137,
+        "longitude": -56.5013146
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ9WjaNWRBppURhyJsoLgnpos",
+      "provider_id": "/g/11c1l9nnk7",
+      "rating": 4.5,
+      "reviews": 1214,
+      "unclaimed_listing": true,
+      "type": "Escultura",
+      "types": [
+        "Escultura"
+      ],
+      "address": "5FMX+3FF, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "4632 4671",
+      "website": "http://tacuarembo.gub.uy/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNNesLwvpSuBN2rHMCEkbO1vQGWbJdWMHxV7cxci8t6R8Np-bYQstQFiwDRuBg1UjbzKpuz-m3HKkNHeyXB7iFDRwRZv3PlekOmQiavd-Lr3cfkfvKTz6lqagESBVcpCzK6ij-1w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Bbf5ynicHcTbDoIgAADQLyI1N21tPWRZLIuSLlZviYTkjQSh_MM-ob9p6zyc7ydXSsixZZW5O2BNw0raSdqSpla0VgPSVBYTEhAJpDWFeHdIKoSoXBst9l2Ahi3czMIi3To6XibpKks28HXyyYvwkfLwCAmQXmKp4gU3c9wFzDk-0j4SXQ8qF0YFgvR9Dny-mGODr9rdlbTYVjG_6QysW5fci7uODr1XPm8s3AcnImZ95PEHcMzEOLZtg_w_AfUPXW5Grw"
+    },
+    {
+      "position": 4,
+      "title": "Letras De La Ciudad - PASO DE LOS TOROS -",
+      "place_id": "ChIJNZdTiKlBppURo4LZDuSMBD8",
+      "data_id": "0x95a641a988539735:0x3f048ce40ed982a3",
+      "data_cid": "4540909235425870499",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a641a988539735%3A0x3f048ce40ed982a3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a641a988539735%3A0x3f048ce40ed982a3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.7949096,
+        "longitude": -56.5187496
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJNZdTiKlBppURo4LZDuSMBD8",
+      "provider_id": "/g/11gfkkzgy0",
+      "rating": 4.6,
+      "reviews": 5,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "45100, Paso de los Toros, Departamento de Durazno",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkjg6dUEQGpyeLAuUk9mZLMmOI9EDPbMmkLUl_PtIjHehs0QmhLmLEd3uvEyQ_ZEBzL7r0kfZ3-51mVVucKXPpufSmOxxlklaikLsjmgXmI3gXClCUjWDVzzqAnC0YNO8ORGjLD9Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fiyKwHicHcTdboIwGADQJ6rUELexxAuERsnqADeQcWO2Wtu1_QBt6w9v6CP4Nkt2Ls7jLp0b7GsQGBlORN8Lw73lJ9Z3jnduwnoIxGARs8gG8WpTfG61Ek_7ipTL4cZp7CsdQUvXkGcRSYufNWhamV3hMrXi0uISJAVK9qE_k1u5a8lipM8nrA9tiGZTqGvP3ppi8IcPyK9Xo833r6ZWgWggC0WTmKRS27Qex2PcJfjrPX_JN0tF06icX6YYYyT_Z6j7A2B0Rn8"
+    },
+    {
+      "position": 5,
+      "title": "Monumento a la Virgen María Auxiliadora",
+      "place_id": "ChIJyxo-pkZBppURB-v8oyNxIWU",
+      "data_id": "0x95a64146a63e1acb:0x65217123a3fceb07",
+      "data_cid": "7287230069951228679",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a64146a63e1acb%3A0x65217123a3fceb07&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a64146a63e1acb%3A0x65217123a3fceb07&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8169561,
+        "longitude": -56.500616199999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJyxo-pkZBppURB-v8oyNxIWU",
+      "provider_id": "/g/11sz151s_j",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "5FMX+8JF, Dr. Luis Alberto de Herrera, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlwSd251A0MIXci7t8PV10J3de62_KnDAXNfqnqcB5ewWMC_tTu3CHbbcSwbEz9RElT2HAWWajEr9TqeSMloMdRre8OYeHaPIdyTQLYkpr2JrX00igaxlKSqUs9N7JqcNe9zrzKTg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/o1F96nicHcTbboIwGADgJ0IKxAMmu0AlQRiMQSd4ZaD8Fl3X0oNBeUMfYW9j4nfx_T97Ywa9tm3WezMqBGVw06CI4Aa4mRHxZ9NBW0Rb2g6iIscVG8vOnTsBSvc1uSzNKj84KPY6WLinhO-COjtLLslmDmOVbk8G37xt1LakHNtw8ouQYTcKqqq5hsrHEsqUibQrFKy-jhA1-b574O_P4--g3FjVCF1oc2dJKX-0ny1jSTLwJzUlmH6MDkLI6t8Ti78Ak9BFSQ"
+    },
+    {
+      "position": 6,
+      "title": "Mural urbano",
+      "place_id": "ChIJhTsPLABBppURyBG2L8sIS3U",
+      "data_id": "0x95a641002c0f3b85:0x754b08cb2fb611c8",
+      "data_cid": "8451858794462712264",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a641002c0f3b85%3A0x754b08cb2fb611c8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a641002c0f3b85%3A0x754b08cb2fb611c8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8133961,
+        "longitude": -56.5103606
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJhTsPLABBppURyBG2L8sIS3U",
+      "provider_id": "/g/11xwbjfqzr",
+      "rating": 4.5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "5FPQ+JVR, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfuS0fkWRRk_Wvw8l5SV2Qd5OO-DWCm936qTM4i5hocxY1E0Zx5cMJczcpRK9EEaYNkR3t1-6nEU3zBl6bHOo_seK41QA3JJ_4tQT27prCCN1QtK8T19RlaepDy65IFTlIprNDU0kijRrz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HTCIBXicHcTBboIwAADQL6q0ljJZsoMCi0KEUapEL0S7Cq6VdrRO5Sc972-W7B3e77NzzthXz1MdnrRat0pcrRi47p3o3YTri9caC7gF1psv6Qer5elawZOsKZVN_XObKVJtp-UnKQoQ19ElxME3W_tn0ml-36EE7u-Er1M-ckOzMEkOu1xS7BAI-mSDx4UKjstCN1ZkPirnOE0b35Vs-mKGKMpR6bIZQyFVB2HiR0BW70ytzJDHGyjPX3QY324IQgi6_zno_wD65EVv"
+    },
+    {
+      "position": 7,
+      "title": "Camping El Sauce",
+      "place_id": "ChIJXzcYSWRBppUR6W4vSbhysuM",
+      "data_id": "0x95a641644918375f:0xe3b272b8492f6ee9",
+      "data_cid": "16407302528291532521",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a641644918375f%3A0xe3b272b8492f6ee9&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a641644918375f%3A0xe3b272b8492f6ee9&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.820644699999995,
+        "longitude": -56.502145399999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJXzcYSWRBppUR6W4vSbhysuM",
+      "provider_id": "/g/11byn00c7j",
+      "rating": 4.4,
+      "reviews": 1419,
+      "unclaimed_listing": true,
+      "type": "Camping",
+      "types": [
+        "Camping"
+      ],
+      "address": "5FHX+P4X, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "phone": "4664 3503",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHoxGKj6-FNwvpiQo1WMAEVXx7yDmJIFxD66lHrFI8KwvoaY4S0Kxh6-fkkLvNGConQkW-CMumHvo7ov7TYJ0-ER7ZOlblHupoAknq9IciWfDPTtmHcq2R-u4I_6QDBzwIBQwtXska9Ic=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EYRZ-nicHcpNcoIwGADQE0Vi64S2M12giIlUK5QRddOxGQTNz4cmJNRDuu9t6rh5q_d3a6xtzVsQyOZ5UAPUsupMdeGgbaXtgIMK6tYgbpAJIpqvilJR6GfpiaBk6V17zGBYLqLpetOHv7Gas6SPCZH0krCX1DvYb0dfOO0bgg5CfLjlbAI6EyWaLDpFHYTgwmI7x2iah7tP-SNp10Ik9PmV8WN5iFeFVZSfn3LUjdg3yeLx1bNx5u3GiP39vPshxhg1DznS_1eaRzI"
+    },
+    {
+      "position": 8,
+      "title": "Oficina de Turismo",
+      "place_id": "ChIJ-3YUSWRBppURVxJqOPTu0EU",
+      "data_id": "0x95a64164491476fb:0x45d0eef4386a1257",
+      "data_cid": "5030783516458750551",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a64164491476fb%3A0x45d0eef4386a1257&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a64164491476fb%3A0x45d0eef4386a1257&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8175516,
+        "longitude": -56.5016428
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-3YUSWRBppURVxJqOPTu0EU",
+      "provider_id": "/g/11g72fkl6y",
+      "rating": 4.2,
+      "reviews": 27,
+      "unclaimed_listing": true,
+      "type": "Museo",
+      "types": [
+        "Museo"
+      ],
+      "address": "5FJX+X8H, Dr. Luis Alberto de Herrera, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "phone": "4664 3503",
+      "website": "http://municipiopasodelostoros.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBsfQW55-xcJ6DjeUSS0GimZ1WEbQcpC75ti1kmCU4MFlAiNhfrrFi_iXdinPolnFYz-LUxkjISvutcZb21MHe0ztKBiJCzJOPneVCfNGdyFNFVDTp8P4KjTYdocpXMCqwMdlb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ojvADHicHcRdboIwAADgE1XKFLeY-KDV6lAQBQR8MaEUKJS2o_VnXNAz7DZL_B6-v1dtjNIzy-L1eFRJWXF607QnUhgqzIjIzqqUBkQDbS22pyBK2qUuj4njgCdxp6uGxmEIN6y72Mk6PxKFPh3D7LZD8cTDfMH8uux7zK4sLZgIJBc4G8A-frbNd3i_GXLJP2xvS-FgdkvmosE9BIKeUelvil_s4_MqUl_BZNdEWSGJSj308_AKns8fNoQQ1O8JEP92l0Vv"
+    },
+    {
+      "position": 9,
+      "title": "Paso de los Toros",
+      "place_id": "ChIJ0bY_nAg_ppUReKR3DljXep8",
+      "data_id": "0x95a63f089c3fb6d1:0x9f7ad7580e77a478",
+      "data_cid": "11491734172389057656",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a63f089c3fb6d1%3A0x9f7ad7580e77a478&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a63f089c3fb6d1%3A0x9f7ad7580e77a478&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.709067,
+        "longitude": -56.5168094
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ0bY_nAg_ppUReKR3DljXep8",
+      "provider_id": "/g/11r8yqnx9b",
+      "address": "45100 Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxEHhH9LgZuVbqrtz6GKeGau11u1aacPspV6G4_D_4JYZ46ekdTjbopoGBOoXgrz-2ZKNqDHjb_cvhoafOsx05Q6iLTXR7oHdVRiconsb4s08qmxhEfsz4lM7SIHtkRXJQs6r0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xSG_DHicHc1BcoIwFADQE0VCTWN1xkU7OKRqqyJDKRsGYkxU4AM_KMMFPUNvo9PN276_u7G2xpnjFGY80gC6UB2qVkJlVWVHEkpH10gkEnTeRbANf8p-IYyYrnXSRXnT2oH7K-Vnnet2bpbJLdYR91nqpWz5mzCuLofwnEMN_scGYt0O5CVZfTeeOOepvBrIjhvs6euOn9ZhHExAHKLg9OwxZ0jfmrI3iyMOrPia7D-FvQTxcoe8pfObSykl5l9Jqge950XC"
+    },
+    {
+      "position": 10,
+      "title": "Camping Parador",
+      "place_id": "ChIJkSuGKGlBppURcUoYLR18IWI",
+      "data_id": "0x95a6416928862b91:0x62217c1d2d184a71",
+      "data_cid": "7071069354700851825",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a6416928862b91%3A0x62217c1d2d184a71&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a6416928862b91%3A0x62217c1d2d184a71&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8186861,
+        "longitude": -56.4993767
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJkSuGKGlBppURcUoYLR18IWI",
+      "provider_id": "/g/11trp8zqrh",
+      "rating": 4.4,
+      "reviews": 5,
+      "unclaimed_listing": true,
+      "type": "Camping",
+      "types": [
+        "Camping"
+      ],
+      "address": "5GJ2+G6H, 45100 Paso de los Toros, Departamento de Durazno",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkC53GcL0O9eDB8XVUZXybg_NxIaI-GKH110rRefEYCt9MotCun8BZriplHS6u5Oh_pYmi4b-1Ip1KYHZqVsnncWMdyz2CV-kxv7H9_neogf2VjJSnlmmMhot6GPZTwZwa45k0A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cDPRuXicHcRdDsEwAADgE9VaDJN4YGQdhvgZ68tCVcu2ttbOcEFncBuJ7-H7foS12vQdJxetBleK56wyrKRKWiZtg6rC4doAaoBxhni92u4z320FdA6XHhuPeod4Rw6vE08Xz_AYgmCGEYLlml0miW-9SFm_kr0RKa86x5tO5S5FqpPi2j4BFGo0SzC5x0ZKuo_Or3fTj0H2fHSxl0qm-KUZ36YbmRdFJJTtBCuyrUl9bLsZHA5qBCEE4j8F8gcGH0Rs"
+    },
+    {
+      "position": 11,
+      "title": "Reserva Acuario del Uruguay",
+      "place_id": "ChIJy0FNS61FppUROnBideX_m8c",
+      "data_id": "0x95a645ad4b4d41cb:0xc79bffe57562703a",
+      "data_cid": "14383371195919790138",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a645ad4b4d41cb%3A0xc79bffe57562703a&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a645ad4b4d41cb%3A0xc79bffe57562703a&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8327668,
+        "longitude": -56.427685499999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJy0FNS61FppUROnBideX_m8c",
+      "provider_id": "/g/11bxc5c2zq",
+      "rating": 4.2,
+      "reviews": 33,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "5H8C+VWW, 45100 Rincón del Bonete, Departamento de Durazno",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 4 p. m. del sáb",
+      "hours": "Cerrado · Abre a las 4 p. m. del sáb",
+      "operating_hours": {
+        "lunes": "Cerrado",
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "Cerrado",
+        "viernes": "Cerrado",
+        "sábado": "4–6 p. m.",
+        "domingo": "4–6 p. m."
+      },
+      "website": "https://www.instagram.com/reserva_acuario_del_uruguay?igsh=MTZpNmNienlxZW1obA==",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmIGxQZR7S5um-UPNsbKmW3Yoy6hdUw9ZrinmLqMgHsm8B1yymAJbquOJGRrpKFHHKHz7afMEveflD3lylJuXVcSCZE-oZgtn_kE9oMJaR53BNtcLTAKmUExaxc85Ac8aHfCl8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/82s2nHicHcRdEoFAAADgE60yTYoZDyGtUpISvZis2oz9qXajHNAd3MaM7-H7fiopazFTFFJpI8w5JkUnihZxJgsmR4hTBdcCIAGEYsEojFO6cfp9FhkHvaMgCQNx9WiqnfkwqW7Ja5q1d0a3jY-hoOZiPAzUcq9Nt3OdqK29NYQefBt56dvPoiQrjQzE7U5HdFhmNuAZluzysKfcd_NI1xaBRNvY8mhi93mPTN1CZg7LJTHnr7GqqqD6jwD7AXVERPQ"
+    },
+    {
+      "position": 12,
+      "title": "Midland Hotel & Resort All Inclusive",
+      "place_id": "ChIJwWZLmalBppURJ6cnAxmlaco",
+      "data_id": "0x95a641a9994b66c1:0xca69a5190327a727",
+      "data_cid": "14585370395061757735",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a641a9994b66c1%3A0xca69a5190327a727&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a641a9994b66c1%3A0xca69a5190327a727&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.806152499999996,
+        "longitude": -56.549694499999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJwWZLmalBppURJ6cnAxmlaco",
+      "provider_id": "/g/11nx3c1lvr",
+      "rating": 4.4,
+      "reviews": 589,
+      "price": "US$ 189",
+      "extracted_price": 189,
+      "type": "Hotel",
+      "types": [
+        "Hotel"
+      ],
+      "address": "Continuacion Ismael Cortina S/N, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "phone": "093 900 500",
+      "website": "http://www.midlandhotel.com.uy/",
+      "amenities": [
+        "Aire acondicionado"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDhchKjvkGLWbAag42SlXABSJPcwBq9XadB-L4PX24xZAvhA9nskaeu6oaiRfrMhHrkK6gnbycgKnsN78q9hfMM10oKRTL_Y-s_s9AAVbno4VQK2l_M10kpVXCB7j28AkD__77HA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZzIAK3icHclLDoIwFADAE1UQiYiJi4cmEgsG0SC6aaBiq8UWefg7okfwNho3s5nPW3Zdg2PLquWgJ4wRdXXDquVGd5XuetxcLNEg4UjQgjBNNls1k1zS813No20JhXCddZ1DsF4k_BFc_bw4BCRyk9xxn3u4S_A1qqK6DU1xSo9tLMNW0aHQ5YsLqnHpja6-PMZx3zY03URsR5ChD5CV2rjZijo1-51qsnwaeGdnBGrGmOeFMHn0bdsm8i8n-gvoTERp"
+    },
+    {
+      "position": 13,
+      "title": "Monumento Natural Grutas Del Palacio",
+      "place_id": "ChIJgcZBoeEypJURe0IDaylivO8",
+      "data_id": "0x95a432e1a141c681:0xefbc62296b03427b",
+      "data_cid": "17274790200714936955",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a432e1a141c681%3A0xefbc62296b03427b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a432e1a141c681%3A0xefbc62296b03427b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.280124799999996,
+        "longitude": -57.1432128
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJgcZBoeEypJURe0IDaylivO8",
+      "provider_id": "/m/0jl077q",
+      "rating": 4.5,
+      "reviews": 1698,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "trazado antiguo km 235, 85000 Trinidad, Departamento de Flores",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 9:30 a. m. del jue",
+      "hours": "Cerrado · Abre a las 9:30 a. m. del jue",
+      "operating_hours": {
+        "lunes": "Cerrado",
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "9:30 a. m.–4:30 p. m.",
+        "viernes": "9:30 a. m.–4:30 p. m.",
+        "sábado": "9:30 a. m.–4:30 p. m.",
+        "domingo": "9:30 a. m.–4:30 p. m."
+      },
+      "phone": "4360 4473",
+      "website": "http://www.geoparque.uy/index.php",
+      "description": "Formaciones de arenisca y museo. Área protegida de cuevas de arenisca con pilares erosionados, un centro de visitantes y un museo pequeño.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnjoxKuvzj8VpcbWkmjnx0Rqq3BUtzOwFP2MeKNPHSe27sS7KIdVeEgnGn04jViH9bTqZc6sy3uxX5Yi7mHHR8GQUA4s3Q5VCp2Jt7a7OxjXHlGzOohJUqHvHR1UV_7PjzQwlLckQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rkjorXicHcTbEoFAAADQL0qrZGPGA4aW0IXW5cVo7ZStdstuSn_oE_yNGefhfD-pUqUc63qemr1EiCSntaRPIriiXPWIKPSklBqRmtSnKPQPR85E69avjtm4JPExKxhvQVhV5ixSndcsfWNL3Z2P9tSAcg_d1R3TRcIdDgYMP9AoPlQXMpRvs25P1vkBC4RC2wmi6UCagYXnpbFW8Aa9lp1Q7nSeSNdRhV4o7Ef4Cn3WBU2-IVkwafoAAC39TzT-A2FVRg4"
+    },
+    {
+      "position": 14,
+      "title": "Parque Eólica",
+      "place_id": "ChIJf0yxHQA7ppUR0B-9gG55Yqw",
+      "data_id": "0x95a63b001db14c7f:0xac62796e80bd1fd0",
+      "data_cid": "12421624237754490832",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a63b001db14c7f%3A0xac62796e80bd1fd0&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a63b001db14c7f%3A0xac62796e80bd1fd0&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.571905099999995,
+        "longitude": -56.412875799999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJf0yxHQA7ppUR0B-9gG55Yqw",
+      "provider_id": "/g/11z8hqtn6z",
+      "rating": 5,
+      "reviews": 1,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "CHHP+6R, 45100 Cardozo, Departamento de Tacuarembó",
+      "country": "Uruguay"
+    },
+    {
+      "position": 15,
+      "title": "Tarde en Cardozo Grande",
+      "place_id": "ChIJFbU-m4E3ppURNIoeeCB7uDk",
+      "data_id": "0x95a637819b3eb515:0x39b87b20781e8a34",
+      "data_cid": "4159209635261090356",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a637819b3eb515%3A0x39b87b20781e8a34&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a637819b3eb515%3A0x39b87b20781e8a34&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.63988,
+        "longitude": -56.3309906
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFbU-m4E3ppURNIoeeCB7uDk",
+      "provider_id": "/g/11h6yrxf1l",
+      "rating": 4.8,
+      "reviews": 30,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "9M69+2JR, Cardozo, 45100 Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "098 448 618",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSKHkY6BLI2VD_1k9g2rJ-aAWJ2rxWbAk8lUsTj4tpQ-CqlRwHWD-lhx17DYu2oTuO2_FtOx4s-yhwUmWvvEpBdWd82zRjc4L0FDRbj1Q5xKV43tvQU_h4qLl3MN-MK76Cqs5q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/a-Fz53icHcRJDoIwFADQE32BUsfEBYgGBQcQbFwRrYQGKgVaBr2gZ_A2Jr7F-36YUpVcaBpn5igTIuNpK9OGilKlpRpR8dSySgKVIDXLDU8RKc-eW1wntr9FFycxinmGmh3cLLJDzUDuVjHjsYxyrKoAVjUPe5c4wNlgTJ1ri0TUHlGyUccBS3ixPn6SrltX9oM8Zugd5hT7-sYJ77kRjAfvgk3VBXHCcO1zc3-AvTedrGo5rpe9oes6sP8Uyh_7BENr"
+    },
+    {
+      "position": 16,
+      "title": "Lagarto De Piedra",
+      "place_id": "ChIJtWp77zrPpZURTmPZV8peM8A",
+      "data_id": "0x95a5cf3aef7b6ab5:0xc0335eca57d9634e",
+      "data_cid": "13849517502244676430",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a5cf3aef7b6ab5%3A0xc0335eca57d9634e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a5cf3aef7b6ab5%3A0xc0335eca57d9634e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.135011,
+        "longitude": -57.178179099999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJtWp77zrPpZURTmPZV8peM8A",
+      "provider_id": "/g/11f5j27zfb",
+      "rating": 4.5,
+      "reviews": 62,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Lugar de interés histórico"
+      ],
+      "address": "VR7C+XPW, 85000 Departamento de Soriano",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmkryreLX41EmYvMkTbILZOdZdjyMSveJpoZgsp4374mrhxkAqwjT9N1GzIf7vlU_CmUuB0lOZ7TiEg18XrGPyVsb4JmTyTpaH3GeFxFPhtCFN75_6qR8jiA8oFw6E2OdYhL2F-gQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fJnm0HicHcRLcoIwAADQE0W-FXTGBXUI6iCgRqtsnAppIhASk8jHG_YIvU1nfIv390u1FmpuGA11JoRz0uCnwrLgrcatnhScGUQoUCigjGC1z9AXq-UocXx2rZBdum2Nbus4T8u8rMbtocMbwXOihOt4LpN0qINHX6FZYkWv9Y_XNcfrkh2fn2aT5h66h8TyzzLKxpO6uRuGRiS-V06E4QAzqpcw8T6u08fer-6Bz2E_De20vNDYhoDsFr1lmiag7wvQ_gNzMEWr"
+    },
+    {
+      "position": 17,
+      "title": "Parque Centenario",
+      "place_id": "ChIJ-bKDs2mgppURN_VGmlF42m4",
+      "data_id": "0x95a6a069b383b2f9:0x6eda78519a46f537",
+      "data_cid": "7987829180971021623",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a6a069b383b2f9%3A0x6eda78519a46f537&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a6a069b383b2f9%3A0x6eda78519a46f537&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.533011699999996,
+        "longitude": -56.899167999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-bKDs2mgppURN_VGmlF42m4",
+      "provider_id": "/g/1tnst2w6",
+      "rating": 4.6,
+      "reviews": 3543,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "Antonio J. Caorsi, 85000 Trinidad, Departamento de Flores",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "phone": "4364 2008",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlo76_kjxLFbJzoVd-l_UvQYnyFywxcuDbLYiIaY6i3EyQN4dQrwVqwpjVMoCzF9UgWDswZ1MDmPt92JWEqI_tUJw53GDVQ9pPCgkBbfWmFtXShQRJM4BbnhU80LcvjgwQoJ3p=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UFIsQHicHcTvEoEwAADwJ5oi_3LnAxJ25Roq-dJpsklt05bJC3oGb-PO78Pv-6FKCTkxjJJaHcI5KfNG5jXmTOVMdTCvDCIkwBJIY7beBYe4KvlomN6Ll-dm8M2jCyjT8IkS1rqtfuHGybzktjknw5u1bNG2f0G1jh5aFJHPF2_XDknsSH3q-k4VKLsH4-Vjk6oQ6oG1ciJki2BB7vPsGleuOu4p2kG_P88YDcemh58F0YhDS0x11zRNQP9jwH4UeEYa"
+    },
+    {
+      "position": 18,
+      "title": "Hotel FK Paso de los Toros - HOTEL BOUTIQUE",
+      "place_id": "ChIJQdRfZlZBppURIK-otX6beAg",
+      "data_id": "0x95a64156665fd441:0x8789b7eb5a8af20",
+      "data_cid": "610408718024617760",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a64156665fd441%3A0x8789b7eb5a8af20&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a64156665fd441%3A0x8789b7eb5a8af20&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.8126637,
+        "longitude": -56.511835
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJQdRfZlZBppURIK-otX6beAg",
+      "provider_id": "/g/11fmz9bc3q",
+      "rating": 4.7,
+      "reviews": 250,
+      "price": "US$ 100",
+      "extracted_price": 100,
+      "type": "Hotel",
+      "types": [
+        "Hotel",
+        "Boutique"
+      ],
+      "address": "Rómulo Mangini 333, 45100 Paso de los Toros, Departamento de Tacuarembó",
+      "country": "Uruguay",
+      "phone": "092 903 041",
+      "amenities": [
+        "Piscina",
+        "Estacionamiento gratuito",
+        "Desayuno incluido",
+        "Wi-Fi gratis"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_rCMJwz_aJzn9fxyJe_p-faNBHwkPkS0xnWtCkKGwjKbITIHbQjlDW8jGA8RZ67nAdtwpQLNw7a6iHB3RHZMQ5NyU8Bivn42yp6rAJCyNHCz2uOpiG_mwqu_IbkiRGuWK27K9Dw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/s1hdm3icHcRJDoIwAADAF1UQlcXEA2BCAUFBDQmXBhBZLZUWa_mhT_A3Js5hvp-aMUK3ktTXq0U1DFVfTrQciwGzErNFMTykilBQUEAlE8anS9Kj0Q48PqPMm7FxfwuvRATcs9CCvDt1Z_mNE2Z3vsNbP3cvLsyjtt8neuuYepyqGjZvjJPoEHItUxtorWKYBtEmFFfdal54rQiijqZnixDaszIdSeOgB39OyM27JnamxFc039jzHV_Ksgzq_wXAP1--RhI"
+    },
+    {
+      "position": 19,
+      "title": "Pozo de los Deseos",
+      "place_id": "ChIJFdpnSE3rppURBcQKu0ACZXo",
+      "data_id": "0x95a6eb4d4867da15:0x7a650240bb0ac405",
+      "data_cid": "8819457922314191877",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a6eb4d4867da15%3A0x7a650240bb0ac405&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a6eb4d4867da15%3A0x7a650240bb0ac405&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.3570165,
+        "longitude": -56.515748699999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJFdpnSE3rppURBcQKu0ACZXo",
+      "provider_id": "/g/11hf659ck5",
+      "rating": 4,
+      "reviews": 104,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "Irisarry 9001, 97000 Santa Bernardina, Departamento de Durazno",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8I_b4cg2gbzMMrgArS5pGyYrHh-13WZllIRknOyTJfYWHC993HWFVa2ohbJOMz3MTepfyGBonZ4WrpwziVclLxACoRqQZH35uQL84yzKexJZmxcJ3jonIcqO73jmXm3XT8eHD6w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J07p2HicHcTbboIwAADQL6qAxYlL9sBctKAERWKVl0Wa0k57s8Vw-UM_wb8x2Xk4rydvW-M-PU9wOGFaM0EfjlqiVUtVOyFaesw4QBxwXoyKXYlllPzWIWFTVo9ZZllsDzOzHs4WcRBAXAmRFDeVD2XanDFaLhYQ4dXxMtW8TvNshFlJTTOsv7WqQmxNN_4didj28VIX932F4Oyx30bhMG5on1ayJym8apWQez6HV3mS8FRGFP18dF9d4Ps-4P8ToN4b60Xz"
+    },
+    {
+      "position": 20,
+      "title": "Zooilógico del Futuro",
+      "place_id": "ChIJJdDqxtigppURLebCRAs0RQ0",
+      "data_id": "0x95a6a0d8c6ead025:0xd45340b44c2e62d",
+      "data_cid": "956227718889006637",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a6a0d8c6ead025%3A0xd45340b44c2e62d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a6a0d8c6ead025%3A0xd45340b44c2e62d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -33.562885699999995,
+        "longitude": -56.877762499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJJdDqxtigppURLebCRAs0RQ0",
+      "provider_id": "/g/125_cznhb",
+      "rating": 4.4,
+      "reviews": 263,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "C4PC+RVX, 85000 Trinidad, Departamento de Flores",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "lunes": "Abierto las 24 horas",
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnf78F5ztGPtXWOsOoUfUHWAJ9YJDQrWDskcNKLxXqImhPOHuB_-nRDl-vly_CL2qOVgdm9L78_IF-rGW9ygbMTQL0PCdKdEoTqD5fUw3VSWvYepnqq-ivSdAM7oMsgvTOzh__x=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/G771PHicHcRRDoIgAADQE6FWc2ZbH5aVmYaVSn2xhQotBRGy7IKdodu09T7e98O0btXMNGs2MagQtC4fquyI4Lrk2iCiMWmrAFFAmV5wTFLEK2e6tt96k-gzggqKrMoC5IXuJfQPHfLVnex30esstw1LYPBYYMCPfg36esDLaCxhTovGjZwp3q5Bt0HuQK9xeoisZFnsipVIpW9X2XOSn1B_KVsuJbj1p8KLHREr2qfwzTB-zZ8jy7IA-08A_wFrTEVX"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Paso+de+los+Toros+Uruguay&start=20&type=search"
+  }
+}

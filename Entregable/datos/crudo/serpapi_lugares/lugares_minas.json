@@ -1,0 +1,822 @@
+{
+  "search_metadata": {
+    "id": "6aa95f178c8a7e8d84daf72f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Tjt8BN6DAkhDLaRe2L3SJwhiRYxoUoko_LX0xgON238/6aa95f178c8a7e8d84daf72f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Tjt8BN6DAkhDLaRe2L3SJwhiRYxoUoko_LX0xgON238/6aa95f178c8a7e8d84daf72f.md",
+    "created_at": "2026-09-15 15:07:03 UTC",
+    "processed_at": "2026-09-15 15:07:03 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+Minas+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/Tjt8BN6DAkhDLaRe2L3SJwhiRYxoUoko_LX0xgON238/6aa95f178c8a7e8d84daf72f.html",
+    "prettify_html_file": "https://serpapi.com/searches/Tjt8BN6DAkhDLaRe2L3SJwhiRYxoUoko_LX0xgON238/6aa95f178c8a7e8d84daf72f.prettify",
+    "total_time_taken": 5.59
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades Minas Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades Minas Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Parque Rodó",
+      "place_id": "ChIJUbSRU4C5CpUR33MUoruPmYU",
+      "data_id": "0x950ab9805391b451:0x85998fbba21473df",
+      "data_cid": "9626883714522051551",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ab9805391b451%3A0x85998fbba21473df&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ab9805391b451%3A0x85998fbba21473df&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.362891499999996,
+        "longitude": -55.221499599999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJUbSRU4C5CpUR33MUoruPmYU",
+      "provider_id": "/g/11cs1w0td2",
+      "rating": 4.5,
+      "reviews": 6477,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "JQPH+RCR, Ruta 8, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "8:30 a. m.–10 p. m.",
+        "miércoles": "8:30 a. m.–10 p. m.",
+        "jueves": "8:30 a. m.–10 p. m.",
+        "viernes": "8:30 a. m.–10 p. m.",
+        "sábado": "10 a. m.–8 p. m.",
+        "domingo": "10 a. m.–8 p. m.",
+        "lunes": "8:30 a. m.–10 p. m."
+      },
+      "website": "http://lavalleja.uy/bienestar-y-espiritualidad/parque-rodo/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlVn-kwkHTDCivAxNtNLNMUneoE1TBsts4qaC-XbbNtRuKiSrs72aXF0-HMgAC8dzrW__3BPvNnKu7_Y2EF_VulYnqLb21lzdn3CBcrOKVjao2nd2o4b4zNfPQgMo3fBwFzAU_B=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Ha2sAnicHcRRCoIwGADgEy11CkXQg7NEMJeVaT0NnTar9a_czPCCnaHbBH0P3_fTGvPQc8uSrTsRSgnZ9LrpuALTgJlwdbfEQyOukbb8aJdmhcwB3YZblC2Dy8t_U0PXNDlAo1ZORrTR3rMM0LGqqNn18WXf6Skuj6GNokT4waweu4Ixl6QvCnE_ZSe8ClneyxM81xV25FiDGxDebeL8WioMNVZe5Y30nG5FotwzGcLRPzCyGBzbtlH7nyP4AYzWRPk"
+    },
+    {
+      "position": 2,
+      "title": "Cerro Artigas",
+      "place_id": "ChIJJUngdY65CpURr4xGYRNgz8c",
+      "data_id": "0x950ab98e75e04925:0xc7cf601361468caf",
+      "data_cid": "14397832170079423663",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ab98e75e04925%3A0xc7cf601361468caf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ab98e75e04925%3A0xc7cf601361468caf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.374753999999996,
+        "longitude": -55.216599599999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJJUngdY65CpURr4xGYRNgz8c",
+      "provider_id": "/g/1vh_9jsh",
+      "rating": 4.5,
+      "reviews": 1211,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "JQFM+XC4, Escalera al Monumento, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 8 p. m.",
+      "hours": "Abierto · Cierra a las 8 p. m.",
+      "operating_hours": {
+        "martes": "7 a. m.–8 p. m.",
+        "miércoles": "7 a. m.–8 p. m.",
+        "jueves": "7 a. m.–8 p. m.",
+        "viernes": "7 a. m.–8 p. m.",
+        "sábado": "7 a. m.–8 p. m.",
+        "domingo": "7 a. m.–8 p. m.",
+        "lunes": "7 a. m.–8 p. m."
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvdGMC2K7CoRPh7aQaUntoeGHuP6_AQXGe-CoVBmVdS0ehJM5RNwSLT8_OJFN-7wLCHV_PT3hQ1DIrN4nVzwnE1DYfWW2bgk6vyKWvBPkufgICHmOks1GwuuBHoMohyJV6XW_-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xvTFgXicHcRRboIwGADgE1VANzBL9iB1o6JgQda6J-KwtgnS39iWRi_oGbyNyb6H7_lQ1l7MRxCc1WwiAeRZOCOuHWgrtJ10MATyYlBnkAkWpKYN78djVuDpOsFQU5UcqsOPtiAy4mjcLqp9JhAGlg7suAuFyov3uvS7TTNvt_l3iRK_wYS1tJmpKlquruWbZnevv6Ll74nz6Z_s4_G25mNKe3eSK0yGbW-izDuXEihA3XIW73mLPn0UhiFS_3dIvwAC_EQH"
+    },
+    {
+      "position": 3,
+      "title": "Parque de Ose",
+      "place_id": "ChIJTRiEHfe5CpURBcDMbpLST9Y",
+      "data_id": "0x950ab9f71d84184d:0xd64fd2926eccc005",
+      "data_cid": "15442793173642690565",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ab9f71d84184d%3A0xd64fd2926eccc005&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ab9f71d84184d%3A0xd64fd2926eccc005&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3891138,
+        "longitude": -55.222269399999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJTRiEHfe5CpURBcDMbpLST9Y",
+      "provider_id": "/g/11ggvvp1_6",
+      "rating": 4.3,
+      "reviews": 656,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "JQ6H+935, Unnamed Road, Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6:30 p. m.",
+      "hours": "Abierto · Cierra a las 6:30 p. m.",
+      "operating_hours": {
+        "martes": "8 a. m.–6:30 p. m.",
+        "miércoles": "8 a. m.–6:30 p. m.",
+        "jueves": "8 a. m.–6:30 p. m.",
+        "viernes": "8 a. m.–6:30 p. m.",
+        "sábado": "8 a. m.–6:30 p. m.",
+        "domingo": "8 a. m.–6:30 p. m.",
+        "lunes": "8 a. m.–6:30 p. m."
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnA6JPgD6QId2Ol_egj0nUCKvA6MiTIQ9KpiIoP2-CplC-BiChfLkMJkkQMM-FD6Qa3FCQ_Toym0tT8LalnZNwNbSPdpcdffFLC44zhVKVOyUIVp256ZfkB5SdNzEfAr6NqBXBCKA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YoWoynicHcvNksEwAADgJ4pGkcGMQ5rdjuqPdlUZF0PaJNVIQmINb-gRvI2dvXy37_0Szhk79TwpBj2uNZfNzTZXqpVrlOtRffa4sYBaYD08_8nLjcJokfMvVES1v5T7hp-gWpP4F6O0LaNiEps20rkPiJEEBC0RLOnSRdcVaQrCv3YYhKTYl_pxhq4cJwepdtk9O67y2tCasTAhw-FTVHG1fKyjyvgjtGNdMFrV2fOb4SvKLsE2IDGe3fsQQiD-pUB9AFY2Q7A"
+    },
+    {
+      "position": 4,
+      "title": "Laguna De Los Cuervos",
+      "place_id": "ChIJT5ueHl-7CpURusAShMcqOeI",
+      "data_id": "0x950abb5f1e9e9b4f:0xe2392ac78412c0ba",
+      "data_cid": "16301107362646900922",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950abb5f1e9e9b4f%3A0xe2392ac78412c0ba&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950abb5f1e9e9b4f%3A0xe2392ac78412c0ba&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.2752269,
+        "longitude": -55.256678199999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJT5ueHl-7CpURusAShMcqOeI",
+      "provider_id": "/g/11h353jbqs",
+      "rating": 4.4,
+      "reviews": 1451,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Camping"
+      ],
+      "address": "Arequita, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "phone": "099 912 596",
+      "website": "http://www.lagunadeloscuervos.com.uy/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGgEBOz1kf1FgkWkp_XaKKV0puykREV1n0Yl1-6NOUSlZ79swQk19oIuPtGA_D5jb8ZAMLiXfG-ZX94No5fIVc8cJJ3VZ0_5d7z1uQ0l0RYEolmtFCS9kJ9-G8TZ6lSH0lFR1B=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/qzdAPHicHcRLDoIwFADAE1Veoyg1cYEKKP5BEbshWqFoCyW2xOgFPYO3MXEW8_2UxjR6aFmy7Ha4Ulzmrc4fTNUmr02HqcrijUZMI225s2i7P1YB98abNxYF9rk4iiZLz4tFAk37EpGX4BpOEqP-enOIJR0Q_dwJTNS83ZrAzab2_eJQd7W8pUWAaEp6a2UX84Q5LAy7CYXMvg7euN2BhOjkKVkZfxITERIUOHval_EMpB_h8eiJAQCV_xmqf9TZQhk"
+    },
+    {
+      "position": 5,
+      "title": "Salto del Penitente",
+      "place_id": "ChIJvTd7SMzICpURuGzV9EM5ptU",
+      "data_id": "0x950ac8cc487b37bd:0xd5a63943f4d56cb8",
+      "data_cid": "15395055340245839032",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac8cc487b37bd%3A0xd5a63943f4d56cb8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac8cc487b37bd%3A0xd5a63943f4d56cb8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3721919,
+        "longitude": -55.0524778
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJvTd7SMzICpURuGzV9EM5ptU",
+      "provider_id": "/m/0wzrjbl",
+      "rating": 4.6,
+      "reviews": 8238,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "JWHX+42C, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "10 a. m.–6 p. m."
+      },
+      "phone": "4440 3096",
+      "website": "http://www.saltodelpenitente.com/",
+      "description": "Cascada popular y ocio al aire libre. Cascada en un parque estatal. Tiene estanques minerales y cristalinos, senderos, restaurante y actividades.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnPYh2AYa8qeKVLFRO4v3JzdzfhubZOJ-__I0ygWMZEaxrqzrchH4Ygp7Fa5K6x0w7s-Quet98APelqdcWZiryoAo6QgVYSfqo-VleevZWjyImzbs8QnpIm88pFL8PY7FMeAPvpjQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/K1CiV3icHcRLjoIwGADgE1XqY6RO4qKLIeAjFp1AysZg_WnHQFtoQeGGc4S5jcl8i-_vV3lv3WcQ1Go5k8bIGnoHnTDag_YzYZpAWoeEQy6g8Zl955pxtaC8JC3ss0N0Pq2G5W66T5Xqb8Vph67XBI8yPxZf5atrp06oeMWlDaPyY79-4WfoUNqD3xDKoG7vIi9-utFQs05lxi9Va1BWAwxF_hiTZro5kmqbNITY6EAYD6MjUDbYR7p9zjHGSP0vkH4DWcNG0A"
+    },
+    {
+      "position": 6,
+      "title": "Minas",
+      "place_id": "ChIJ4dLPtzC6CpURz9eky7XVeZw",
+      "data_id": "0x950aba30b7cfd2e1:0x9c79d5b5cba4d7cf",
+      "data_cid": "11275278118881122255",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950aba30b7cfd2e1%3A0x9c79d5b5cba4d7cf&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950aba30b7cfd2e1%3A0x9c79d5b5cba4d7cf&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3771984,
+        "longitude": -55.2419434
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ4dLPtzC6CpURz9eky7XVeZw",
+      "provider_id": "/g/11ck8g8yj_",
+      "rating": 4.7,
+      "reviews": 427,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "J. Batlle y Ordóñez 704, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWluu9GZGd1BZ5IpJHMYQ02rKEO4ccFq3oXj5bP3bUI_6BU8FEPhW1y8fUlSApc71MIr6MQwkKJvFFmwC5gX-KIFJfRifhGSjrOxmJPLkhIiLZ--pLKClOqlcOJHZepyNflXDR8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oW3YBHicHcThEoEwAADgJ5pKIu78UKy2SolO-uPOVMNq00p6Qe_gbdz5fnzfD21bIReKwqg-KjkvWd7JvCG8bvO6HRFeKaWQgEgglZUbR4cj67q5kzlXzcoMJLAbnHbquPE24YQQ-NR5ejcukX5J0HlqJSbcRPSoDWaRsP1KkJkWoGYa7PqHh18QVr1tlCnwEMRFfCuos7834bvCkf-g6OZnAAjfs1n4ZCTEbpaLYVuwdB2by15TVRXQ_wTUP3Y1Qws"
+    },
+    {
+      "position": 7,
+      "title": "Minas",
+      "place_id": "ChIJmcUQNwC7CpUR42YpYLkZXBc",
+      "data_id": "0x950abb003710c599:0x175c19b9602966e3",
+      "data_cid": "1683248644702693091",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950abb003710c599%3A0x175c19b9602966e3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950abb003710c599%3A0x175c19b9602966e3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.375635599999995,
+        "longitude": -55.2368996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJmcUQNwC7CpUR42YpYLkZXBc",
+      "provider_id": "/g/11njcmqv9k",
+      "rating": 4.8,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "JQF7+P6X, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmhJVqTpgII1X-N9NUC1Z4mZXQlObi3qTPEL1sLdhsFrxbd8hq3meeh84zn5LXMdwcz_fU4OcpH_Zn8xrulu3D6wr2jdCAIW0uUc9l21Kw8WbDQF8-EkVQRAVEbfaOW5qXABc-8gw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tUftrnicHcRJDoIwAADAFxWooKkmHlAxoshi2MLFSCmtWspSSI0_9An-xsQ5zPfDxrGTK13nzNRo21JOJkkG3IqRiFHDbaPTTgIsgdTtwyWMs4Yd0z7uqOvCHPhLP9nCwmqKPOJBeTf7OHQ8KL2Kyf3wKivEerMhhCHrLeZefq4Ufl_rxApwd7gWAr2GiU_mbqGG2aPa2m5mTAle8hk8KZSVu2iPgPNMo4udOmV9C7J5n9sbDBBVawUNwwDsPwbiB-XnRNA"
+    },
+    {
+      "position": 8,
+      "title": "Plaza Libertad",
+      "place_id": "ChIJe5Gzmzq6CpURE1L253Eij08",
+      "data_id": "0x950aba3a9bb3917b:0x4f8f2271e7f65213",
+      "data_cid": "5732838723284259347",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950aba3a9bb3917b%3A0x4f8f2271e7f65213&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950aba3a9bb3917b%3A0x4f8f2271e7f65213&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3775946,
+        "longitude": -55.238094399999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJe5Gzmzq6CpURE1L253Eij08",
+      "provider_id": "/g/1tvr_wy6",
+      "rating": 4.6,
+      "reviews": 2082,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "address": "JQC6+XQ6, Plaza Libertad, Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "4442 2328",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkHA5IhNwyLvuo1J_v23PSyxq0_3WFmsj9gEg53_rR-pf_qKRryGH3HDymTTPBWb5RDyb9RB4qCdy9qv-vQvBwF8OTKbHks3r1cbbZvpGUe1I71_8Qrty0mxj0LkUjQogVGZHHf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/s3gYDXicHcRRboIwAADQE1XadWRi4odMpU7joIOR-NOkFUtAKLS12BN6Bm9j4vt4z0dt7WAWQXCt8UwqJa_VzVRaqN5WvZ0J1QVyMEAYYIIVoWletmQV7urj5A_uptAPcx84_fP3ETJcbjvTRHIjQ8w0BcOFjXuqfUIwWfsuz9O45CFdex7R-HP8PvtodMBlLp628998z0lrsEaC85MbkqJCuy_E5pm2Hnb3Bh7aosmU_E9OhFyWE4IQgvq9AP0LcqdE5Q"
+    },
+    {
+      "position": 9,
+      "title": "Fuente del Puma",
+      "place_id": "ChIJj1CzolKlCpURquTfw0NRhBY",
+      "data_id": "0x950aa552a2b3508f:0x16845143c3dfe4aa",
+      "data_cid": "1622511117251110058",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950aa552a2b3508f%3A0x16845143c3dfe4aa&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950aa552a2b3508f%3A0x16845143c3dfe4aa&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.422087999999995,
+        "longitude": -55.3158664
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJj1CzolKlCpURquTfw0NRhBY",
+      "provider_id": "/g/1q5bfh61f",
+      "rating": 4.2,
+      "reviews": 4049,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Fuente de agua potable"
+      ],
+      "address": "HMHM+5M6, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "4442 4713",
+      "description": "Fuente de agua mineral en un parque. Escultura de un puma en el parque Salus del que fluye una corriente constante de agua mineral.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYAQqUM7oRzNJk9vrXEP5iQbnqPh7tZBQghmsyVv3PtB9Cla8Jf9lDindM_oZekr3wQJJtDQMaVyPbAPcDgnt67NDhB-WGGxUGdtNpPpUAxZyqQOp5-Bg-UVmovL8xZkxf5MAi=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lftzynicHcRBjoIwFADQE1UwBJFJZlHEYIhgawZUNkYrtgRoC_2D4AU9g7cx8S3e-yUAtPmxrEY4M64Ub8p_U_ZMSSglzJhqLa4NYgYZC2_25O_QnjDtssRT-2ca1_7QH9fErehVdkR4UASUi9ZM-eAQCPxVc1nGd78JK3lLzqoo69550DiGkCaXfCJXTFjIJSy8NBQBOkTRmEU3SDXRGR6LqaM77aKAoyxv1bBdjkU93t0EV7-PuW3bSHxnSH4Az8lF0g"
+    },
+    {
+      "position": 10,
+      "title": "Catedral de la Inmaculada Concepción de Minas",
+      "place_id": "ChIJfZ98LiW6CpURN3WzPm_qDPk",
+      "data_id": "0x950aba252e7c9f7d:0xf90cea6f3eb37537",
+      "data_cid": "17945976378678801719",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950aba252e7c9f7d%3A0xf90cea6f3eb37537&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950aba252e7c9f7d%3A0xf90cea6f3eb37537&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.378750499999995,
+        "longitude": -55.236370099999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJfZ98LiW6CpURN3WzPm_qDPk",
+      "provider_id": "/m/0t_dnw2",
+      "rating": 4.6,
+      "reviews": 701,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Iglesia",
+        "Catedral"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "church",
+        "cathedral"
+      ],
+      "address": "JQC7+FFR, José Enrique Rodó, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 4 p. m.",
+      "hours": "Cerrado · Abre a las 4 p. m.",
+      "operating_hours": {
+        "martes": "9–11 a. m., 4–7:30 p. m.",
+        "miércoles": "9–11 a. m., 4–7:30 p. m.",
+        "jueves": "9–11 a. m., 4–7:30 p. m.",
+        "viernes": "9–11 a. m., 4–7:30 p. m.",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "9–11 a. m., 4–7:30 p. m."
+      },
+      "phone": "4442 2074",
+      "website": "https://catedraldeminas.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        },
+        {
+          "recycling": [
+            "Ropa"
+          ]
+        }
+      ],
+      "user_review": "\"Una de las catedrales mas antiguas y hermosas de uruguay\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmsxMhymXRMz2Iww2rcdr5x1MoN5qIdlpaj61GmVOSvKymU-tCdnL5Er7s4CYXdLBssh3Vwun_pKvlEEBJQ2FlB4kfSaDRlMXdNgJ0UBPqAKmybhz4lsyh5u_C1KpdyQJkJKQMuA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2TG4D3icHcTbToMwGADgJ-o4DDQx2QUg6ui6DZCJVwu2SON6Gn8Z695wj-DbmPhdfL93bq2BJ88TfLkYtB5EP0E_Uq1sr-yCaukNBhAFBF7yVu3fP5SEK-FOthW5het5DkfKxvgaEL2Nz2smTPfzELzKw66-YCcbZDOmNnE-PkKUfbZskwLw5WGe1NHgi8jztCjDF5FGp--6e64Eadl2KPwm3Z8TLN0Xv0UCHI-nYxZgw1xZnApckilZzYHv-4j_T5H6A5LXRsw"
+    },
+    {
+      "position": 11,
+      "title": "Parque de Minas - Hotel Vacacional",
+      "place_id": "ChIJfdx_QRu3CpUR86YVhUyPTL8",
+      "data_id": "0x950ab71b417fdc7d:0xbf4c8f4c8515a6f3",
+      "data_cid": "13784550118287320819",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ab71b417fdc7d%3A0xbf4c8f4c8515a6f3&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ab71b417fdc7d%3A0xbf4c8f4c8515a6f3&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4254375,
+        "longitude": -55.1933125
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJfdx_QRu3CpUR86YVhUyPTL8",
+      "provider_id": "/g/1hh_nxm34",
+      "rating": 4.5,
+      "reviews": 8160,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Complejo hotelero"
+      ],
+      "address": "HRF4+RMG, Ent. al Parque, 30000 San Francisco de las Sierras, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "phone": "4443 0000",
+      "website": "http://www.parquedeminas.uy/",
+      "description": "Hotel informal, restaurante y piscinas. Parque vacacional rural con habitaciones sencillas, un restaurante, 2 piscinas y spa.",
+      "amenities": [
+        "Desayuno"
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEBEkqNPN1kAlz91HRoBvPl-PlnJFOEBzKdhGb6Dgm_B79v0fm-pOaugfD4x2KgxBYtMwNMG4JtwL6bV9daWRGNkSTn6KjqdhmNeTrmiXrc72ADzT6EctcdkbfigJEcMOO-D3MFmbOSd05R-yG-Xq9HqpnEkybLZp3PJZ6W_zUAbejOwcycUwM=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3ldZyXicHcTbboIwAADQL6qAMAxL9gChYriVoE7ni7EttAottyqXP_VL9rpk5-G8f7lS7fCpaTU3V6xpWF08h6InjVSFVCvSCI21A2j7Zpo1N6aWz6EHqy7NUqNy68UxdnnjvbIaZLUMtwh6S0R5gG2fiau3cV56KUCLbk9W-ta0jtjk_ahkTJPACtUY2_jbobdTHqTV_iDt6NFRLtLi0Iv7uSebtesvBxsSRWiFyzsLIUkQAr6ZbAVGe6p_5GAOwLlzdl0rYTXj-NKaWXixT9fl6OLigUYyk-OYfI2GruuA_0-A_ANoAVWe"
+    },
+    {
+      "position": 12,
+      "title": "Reserva Natural Salus",
+      "place_id": "ChIJJSb99i-lCpURq6HJ7E3ajiE",
+      "data_id": "0x950aa52ff6fd2625:0x218eda4decc9a1ab",
+      "data_cid": "2418110078164509099",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950aa52ff6fd2625%3A0x218eda4decc9a1ab&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950aa52ff6fd2625%3A0x218eda4decc9a1ab&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.404365999999996,
+        "longitude": -55.3252636
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJJSb99i-lCpURq6HJ7E3ajiE",
+      "provider_id": "/g/11b5m2pgt5",
+      "rating": 4.2,
+      "reviews": 1132,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Reserva natural"
+      ],
+      "address": "Ruta 8 km 109, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 10 a. m. del mié",
+      "hours": "Cerrado · Abre a las 10 a. m. del mié",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "Cerrado"
+      },
+      "phone": "098 175 099",
+      "website": "https://reservanaturalsalus.com.uy/",
+      "description": "Reserva natural para excursiones. Extensa área natural conocida por excursiones, observación de aves y fauna, y visitas guiadas a la reserva.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlfbizAf1q-EMr_p7auR8yGEH6Nv3ZfwikzUZLa2mtSeL2vTr0YklBKfhbu5hk6G8uD07pCOW1sfxCE2cVEwVGq6isCbtHtVKox9YVTaZ1Ngd9dPzSs65GTuky4DUTJf6QGAzXG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QTce3HicHcRJDoIwAADAF1UKal0SDwikxH2pKFwMVEoJSJG2onzQN_gbE-cw3w9XqpZTwyh5v5cJkZWplmlDRaXSSvWouBtZLQGVQBq2f9iRc8mSvLOZ-QDeurnWo1gfxm_s-Wjz7EeszYvuFK1i666O6cp6kgaGRTlfMp7oIS8QHmsXjmpnezYlezmeRQOvDfAD5dJJlK-CpXhNwoDEkbnJbpPbrjtKNMREF--BeyILhvbY7i541poQQsD_U1D9AJowRO8"
+    },
+    {
+      "position": 13,
+      "title": "Monte De Ombúes",
+      "place_id": "ChIJERQ1Dai9CpURGN-laBI6VyA",
+      "data_id": "0x950abda80d351411:0x20573a1268a5df18",
+      "data_cid": "2330395182927044376",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950abda80d351411%3A0x20573a1268a5df18&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950abda80d351411%3A0x20573a1268a5df18&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.289901,
+        "longitude": -55.2687484
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJERQ1Dai9CpURGN-laBI6VyA",
+      "provider_id": "/g/11hd1p3qdb",
+      "rating": 4.7,
+      "reviews": 291,
+      "unclaimed_listing": true,
+      "type": "Parque estatal",
+      "types": [
+        "Parque estatal"
+      ],
+      "address": "PP6J+2GJ, 30000 Vejigas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "9 a. m.–6 p. m.",
+        "miércoles": "9 a. m.–6 p. m.",
+        "jueves": "9 a. m.–6 p. m.",
+        "viernes": "9 a. m.–6 p. m.",
+        "sábado": "9 a. m.–6 p. m.",
+        "domingo": "9 a. m.–6 p. m.",
+        "lunes": "9 a. m.–6 p. m."
+      },
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlm_9cYSc5GOrFrNUnmkCByDos4wlTWa7UkK5EoBCOPjBkrtug9HH_aVEbDlsQ-YGKDdVeeesgNXs714DcVXcOC6V4rFip5SFECBO8-SJ37NXiSa-wjlqeD_R5KzvA6NpZ1KobW=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2eQvk3icHcRLDoIwFADAE1UggqiJC6F8IgmoKKAbArUpSqHYVyV6Qc_gbUycxXw_jVIDLDWNN9MJE4Jx-gAqiegV7dWEiE5jAyACCLR1uN8ect6VC3JKiRUk0pfxse9a13lhAebID3llH9vI8oTjJtub00r1YIswLKvMqzGHHToFEb5klFJgcQG2YWKSFSRxZ5kp_etgpb7nOskcpZupHRfXtELjjd8pLvdW9H6uZ_FwNiJR56vR0HUdNf8J6n9YhUPz"
+    },
+    {
+      "position": 14,
+      "title": "Río Santa Lucía",
+      "place_id": "ChIJg5jCyxK9CpURf0ompW8cbh4",
+      "data_id": "0x950abd12cbc29883:0x1e6e1c6fa5264a7f",
+      "data_cid": "2192721334413707903",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950abd12cbc29883%3A0x1e6e1c6fa5264a7f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950abd12cbc29883%3A0x1e6e1c6fa5264a7f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.2842416,
+        "longitude": -55.2834777
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJg5jCyxK9CpURf0ompW8cbh4",
+      "provider_id": "/g/1tdg4csc",
+      "rating": 4.3,
+      "reviews": 28,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "PP88+8J2, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 6 p. m.",
+      "hours": "Abierto · Cierra a las 6 p. m.",
+      "operating_hours": {
+        "martes": "10 a. m.–6 p. m.",
+        "miércoles": "10 a. m.–6 p. m.",
+        "jueves": "10 a. m.–6 p. m.",
+        "viernes": "10 a. m.–6 p. m.",
+        "sábado": "10 a. m.–6 p. m.",
+        "domingo": "10 a. m.–6 p. m.",
+        "lunes": "10 a. m.–6 p. m."
+      },
+      "phone": "4442 9796",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWla960yRsMat6Ibtld07MrnpyhxqkADURpf4hmwn8_7zevldiTQx6juBKWH9S6_q6P7wbn7YMRX-6_eZylAUfH7nbhwewIz9nZU3d-G-dGdgjHoHSf1xee_SxWlcnUORr0CZlX_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HaXPaHicHcRRbsIgGADgE2ExLmCX7KHbEjGmmaM2dX0hFmhR8acWlNYLeobdZsm-h-_3aULo_WuSWLOYdc51Vt-8HqSDoCHMpLskXe-R9MgnGePbXWUPKcET9_khkHUTrMI0H6CfzHg9Z58l79sXc4mwFPSh71Ydd98jOd3eNxVLCyKuZEtjA_Qn53tEhK4nm5Uto9CYqOP6kUJdLhRaIbVS3Yk5VrTzUWtRjJWVUH7xAX_Udi_e4hxjjMz_EsEf66ZGKw"
+    },
+    {
+      "position": 15,
+      "title": "Letras Monumentales MINAS",
+      "place_id": "ChIJ3TRNJAC7CpURuFL3E37-240",
+      "data_id": "0x950abb00244d34dd:0x8ddbfe7e13f752b8",
+      "data_cid": "10222043596701782712",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950abb00244d34dd%3A0x8ddbfe7e13f752b8&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950abb00244d34dd%3A0x8ddbfe7e13f752b8&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3911125,
+        "longitude": -55.2995978
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ3TRNJAC7CpURuFL3E37-240",
+      "provider_id": "/g/11x2qv5vc6",
+      "rating": 4.1,
+      "reviews": 93,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "8 Bdier. Gral. Lavalleja 207, 30000 Departamento de Lavalleja",
+      "country": "Uruguay",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRThfz0fgzqIrq63Mbkk8fdZ3-e7HRMP5t-1lhEM5JPfc2fw3Ep21Ezxtu7hj7qwYXmGZ0OEiEjD12KvZIgGYRUklFKnYT9vye2Q_80bOXI48PJLzYQNLX5Cj9BOHoL9Kpr49Bq6BMesjT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WsxaVHicHcTbboIwAADQL6oUEIEle5DZCQLjEpYBLyZ2vYxbgVaZ_OSe_RuTnYfz-ONKjfJF0zpubpgQrCNXSWYsBkUGtcGi19goAZZAans_T4uvPi84XSFl6xTM086ML23r0O_aBMT28zi1FNA7jmLrlFJs0MVEo6Gj9Vddbd7Y01KV_bGGCfpBzUE3wlsdsGOVf7bdezhUhXu7EyM7O_CSlMHWSU_RWmUfUWm9Na6X-CJyw3Heut6082Iim-J10SGEgP-PwfAEVv1F7w"
+    },
+    {
+      "position": 16,
+      "title": "Valle de Domos - MINAS",
+      "place_id": "ChIJTSRchUC4CpURJm__AImzLRM",
+      "data_id": "0x950ab840855c244d:0x132db38900ff6f26",
+      "data_cid": "1381958061681241894",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ab840855c244d%3A0x132db38900ff6f26&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ab840855c244d%3A0x132db38900ff6f26&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.361999499999996,
+        "longitude": -55.163016
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJTSRchUC4CpURJm__AImzLRM",
+      "provider_id": "/g/11g6_czxdr",
+      "rating": 4.3,
+      "reviews": 316,
+      "price": "US$ 82",
+      "extracted_price": 82,
+      "unclaimed_listing": true,
+      "type": "Estancia en granjas",
+      "types": [
+        "Estancia en granjas"
+      ],
+      "address": "JRQP+6Q5, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "phone": "099 241 932",
+      "website": "http://www.vallededomos.uy/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGYIIpsg9HISAoNvkyYZNu4I5fAciCvnsM7ncJPJwdWIbINU6gDI0c0b00iU4i9aoPklu7yKQrTijwaaMRXQameCv_UIQa7DeStHcXj5Gev9VOsWaymHZWsLfqiy4LJ_v6FeKbcSN-a8WRAs0e1diCl4d0R2aGEusqnIhTGQ4t4NOrRRBoyOWTwLQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/etKd-XicHcRLcoIwAADQEyGxjVI60wWFFoII8ivqxgkhQhQIkgDNUXuVrjrTt3g_v42Ug3jV9bZ5XtWc1y2dBB0J7yXt5YrwTq8HoQ0j_1a6FVTQadwTQoOoTQ-lFg_nuzqdwwmizdUizJ57sTd64h_8pSpQicJ8WzsIEFACwHLITMwP93Yy1C4eM3ZbMN4nxxh31J4vOYqx4dBUeuR427h0Nr8iUWDVeedCBNcHUzDwL_P2k-5KkoYafikSSwC6rpjdwgokT9j9mMSjR03mxlDCMBqT5J2rqMiWIH5b1gAArfmfaP0f35pW8w"
+    },
+    {
+      "position": 17,
+      "title": "Represa Stewart Vargas",
+      "place_id": "ChIJ33Nv4GPFCpURBMv9ickXsM8",
+      "data_id": "0x950ac563e06f73df:0xcfb017c989fdcb04",
+      "data_cid": "14965487716123134724",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ac563e06f73df%3A0xcfb017c989fdcb04&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ac563e06f73df%3A0xcfb017c989fdcb04&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.320812499999995,
+        "longitude": -54.9889375
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ33Nv4GPFCpURBMv9ickXsM8",
+      "provider_id": "/g/1tcys_bf",
+      "rating": 4.6,
+      "reviews": 1659,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque"
+      ],
+      "address": "12300, 30000 Villa Serrana, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Cerrado · Abre a las 12 a. m. del vie",
+      "hours": "Cerrado · Abre a las 12 a. m. del vie",
+      "operating_hours": {
+        "martes": "Cerrado",
+        "miércoles": "Cerrado",
+        "jueves": "Cerrado",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "099 367 835",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOERT0mmF0WlJ6A_ybdUkAuTVqfaiXtE8eXIExcTB6d6yUW-wdIFNUhEesMyfkNAEBz65s_yh4FLO_RYw_SWA1MR_ffwOEqd0A14RnL1bLRwWRvvb3BmGvjeNHBvYxQMKbo5u8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iz9_zXicHcRLjoIwAADQE1VKVGImmUVJij8-WmGqq0ZKoTNCq7ZQ8YKewduYzFu890taezVfntfK6aTRumlFb8Sda2WFshOuO6-5GsANMB5akV1OVYZJDrsugrTdBIiNZVVcUJ__3Orz79HihTiu8YPnYVAFY0GBq9ZRWkgsTDLWlxTh8BnMDRvlLIozRk6OHSjyE8Lq2mX4VkHkz4iK_TImjpJhKKdhtxz-RLoKh9Njn2xLPe8X386HEAL5PwfqA2tyRMo"
+    },
+    {
+      "position": 18,
+      "title": "Cartel de Minas",
+      "place_id": "ChIJW5ONaQC7CpURVnBCaNEEKEo",
+      "data_id": "0x950abb00698d935b:0x4a2804d168427056",
+      "data_cid": "5343526255318954070",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950abb00698d935b%3A0x4a2804d168427056&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950abb00698d935b%3A0x4a2804d168427056&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.3910881,
+        "longitude": -55.2996148
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJW5ONaQC7CpURVnBCaNEEKEo",
+      "provider_id": "/g/11xlh4h6gj",
+      "rating": 3.8,
+      "reviews": 53,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "JP52+H56, 30000 Minas, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmjcNfJrBLUyaJrEFyru4zYc99ZDDBy-7BEOx8YekT_VizSNlYeKbIueyaQ16IYfxDoVpqOeOO_PtDEEGqlKi6gntfUMMGdIkzMsBo7-cMpZ0iImF1mSNJkPlj4IsW6oODpdFIrHCxZhweS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WtvZ3XicHcRLjoIwAADQE1UgGhwnmYVY0OJAURQCG-PU8pFCa1sicEnX3sZk3uK9X5XWQn0bBqvms5LzktFeUUl4p2mnZ4S3RikUIAooY707Rqe0vZOw8KXzex6vvnS9UfaLKSOrVQ6hM4Kl4-LhK6PN6ZLUUxyyjO7_UE_H68GyUVYMkCfigSnGl0hD190-2L62y04X5yDY3lAzBcrhS0ACkZs1aj2rjUO_idh9gVRqcwzFzUNytxny6knjn6dlmiao_ieg-wAQq0iP"
+    },
+    {
+      "position": 19,
+      "title": "Reloj del Parque de Minas - Hotel Vacacional",
+      "place_id": "ChIJHbeqNRq3CpURTu5cXle5igw",
+      "data_id": "0x950ab71a35aab71d:0xc8ab9575e5cee4e",
+      "data_cid": "903738460137647694",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ab71a35aab71d%3A0xc8ab9575e5cee4e&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ab71a35aab71d%3A0xc8ab9575e5cee4e&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.4246824,
+        "longitude": -55.197095499999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJHbeqNRq3CpURTu5cXle5igw",
+      "provider_id": "/g/11c1r6fc7x",
+      "rating": 4.4,
+      "reviews": 118,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "HRG3+45C, 30000 San Francisco de las Sierras, Departamento de Lavalleja",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 8 p. m.",
+      "hours": "Abierto · Cierra a las 8 p. m.",
+      "operating_hours": {
+        "martes": "9:30 a. m.–8 p. m.",
+        "miércoles": "9:30 a. m.–8 p. m.",
+        "jueves": "9:30 a. m.–8 p. m.",
+        "viernes": "9:30 a. m.–8 p. m.",
+        "sábado": "9:30 a. m.–8 p. m.",
+        "domingo": "9:30 a. m.–8 p. m.",
+        "lunes": "9:30 a. m.–8 p. m."
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkCfAwcQ8aZr-_nsdRtz5_dk5P7MCT5f5eE_eTWMjcNfl3xEQjCGqtbt5V946BX5iFwuPC212lY61VK8kqZ5C1_Cdr3NHuvld7aFbFIH3zvrCptui9S2v6EUZw0toLvlGpPh1W33g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/F0DeJHicHcRLDoIwFADAE1UotfhJXGgDYvwEFUXZEC0FlEqRPsB4Q4_gbUycxXw_OUClx4Yhc9LLlMqkaLSouSpBlNDj6mFklUZcI21MvZ0fhAVLpx3fDi9RjeJSJzt40zgpqD9Ys4CmVDixCML1nW9SSV7O9s7mT7gCPY769uxEb27X-MzCljzb-LgcFs-IMhyzpCYbr2llMri4V3fhkXdbswqa22hvtbZziDoT1KqV88rPcUhINumwaZoo_89R-QO5wkSV"
+    },
+    {
+      "position": 20,
+      "title": "Rincón Indígena - Cascada Escondida",
+      "place_id": "ChIJc0_aehq3CpURb8FJ35mONHo",
+      "data_id": "0x950ab71a7ada4f73:0x7a348e99df49c16f",
+      "data_cid": "8805819962943455599",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950ab71a7ada4f73%3A0x7a348e99df49c16f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950ab71a7ada4f73%3A0x7a348e99df49c16f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.422639,
+        "longitude": -55.196090999999996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJc0_aehq3CpURb8FJ35mONHo",
+      "provider_id": "/g/11g9f5m4y6",
+      "rating": 4.4,
+      "reviews": 129,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "address": "HRG3+WHV, Ent. al Parque, 30000 Departamento de Lavalleja",
+      "country": "Uruguay",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWklNA4KmMnz6OrR9ii3i33WNXLUR695XMYONV_cLsgv7SaukoAmusaBlOUhGWTdpgAh3pzP9EqAwOyDTI9GYvqkI9ND9EIAdGfWV0n6IfW5gXGVfqRRLXlx4X9_R4lpmRMFYZmk=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2lcus3icHcRLjoIwAADQEyGYIqaTzKJGB4l8TEVaZmNMhZbQHxbU8YJzBm9j4lu8178YR-u-fF8KMOPGcNlMrrkyo8dGjzNmlM-t85jznI-2eF-SXuYo3KlMP6PiimHXgQ4AktP0iCO4oFld5NWJpY7flofz1BukJndeyeIoYlJeLEcC2OcebgZ0L_7WZQLj-jb0CczXcJOgS9ySKtBR0pIFp3HVDhinVD5CCk84lFbh7Kf-Vf33fR4EgSc-M0-_AUTWRHA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+Minas+Uruguay&start=20&type=search"
+  }
+}

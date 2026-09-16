@@ -1,0 +1,31 @@
+[
+  {
+    "place_id": 16051141,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 2562628,
+    "lat": "-34.3223672",
+    "lon": "-54.9893614",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.18670166857404435,
+    "addresstype": "village",
+    "name": "Villa Serrana",
+    "display_name": "Villa Serrana, Lavalleja, 30000, Uruguay",
+    "address": {
+      "village": "Villa Serrana",
+      "state": "Lavalleja",
+      "ISO3166-2-lvl4": "UY-LA",
+      "postcode": "30000",
+      "country": "Uruguay",
+      "country_code": "uy"
+    },
+    "boundingbox": [
+      "-34.3384685",
+      "-34.3050784",
+      "-55.0119769",
+      "-54.9689166"
+    ]
+  }
+]

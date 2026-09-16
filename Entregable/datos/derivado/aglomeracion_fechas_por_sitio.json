@@ -1,0 +1,3761 @@
+{
+  "metadata": {
+    "fecha_analisis": "2026-09-15 18:16:14",
+    "anio_actual": 2026,
+    "anios_analizados": [
+      2024,
+      2025,
+      2026
+    ],
+    "total_destinos": 18,
+    "fuente": "SerpApi (Google Trends Engine) + Nager.Date"
+  },
+  "destinos": [
+    {
+      "nombre": "Colonia del Sacramento",
+      "departamento": "Colonia",
+      "termino": "Colonia del Sacramento"
+    },
+    {
+      "nombre": "Punta del Este",
+      "departamento": "Maldonado",
+      "termino": "Punta del Este"
+    },
+    {
+      "nombre": "Piriápolis",
+      "departamento": "Maldonado",
+      "termino": "Piriápolis"
+    },
+    {
+      "nombre": "Cabo Polonio",
+      "departamento": "Rocha",
+      "termino": "Cabo Polonio"
+    },
+    {
+      "nombre": "Punta Ballena",
+      "departamento": "Maldonado",
+      "termino": "Punta Ballena"
+    },
+    {
+      "nombre": "La Paloma",
+      "departamento": "Rocha",
+      "termino": "La Paloma Rocha"
+    },
+    {
+      "nombre": "La Pedrera",
+      "departamento": "Rocha",
+      "termino": "La Pedrera Rocha"
+    },
+    {
+      "nombre": "Minas",
+      "departamento": "Lavalleja",
+      "termino": "Minas Lavalleja"
+    },
+    {
+      "nombre": "Villa Serrana",
+      "departamento": "Lavalleja",
+      "termino": "Villa Serrana"
+    },
+    {
+      "nombre": "Las Termas de Guaviyú",
+      "departamento": "Paysandú",
+      "termino": "Termas de Guaviyú"
+    },
+    {
+      "nombre": "Las Termas del Daymán",
+      "departamento": "Salto",
+      "termino": "Termas del Daymán"
+    },
+    {
+      "nombre": "Paso de los Toros",
+      "departamento": "Tacuarembó",
+      "termino": "Paso de los Toros"
+    },
+    {
+      "nombre": "Montevideo",
+      "departamento": "Montevideo",
+      "termino": "Montevideo"
+    },
+    {
+      "nombre": "Atlántida",
+      "departamento": "Canelones",
+      "termino": "Atlántida Canelones"
+    },
+    {
+      "nombre": "La Floresta",
+      "departamento": "Canelones",
+      "termino": "La Floresta Canelones"
+    },
+    {
+      "nombre": "Salinas",
+      "departamento": "Canelones",
+      "termino": "Salinas Canelones"
+    },
+    {
+      "nombre": "Punta del Diablo",
+      "departamento": "Rocha",
+      "termino": "Punta del Diablo"
+    },
+    {
+      "nombre": "Santa Teresa",
+      "departamento": "Rocha",
+      "termino": "Santa Teresa Rocha"
+    }
+  ],
+  "aglomeraciones_por_año": {
+    "2024": [
+      {
+        "inicio": "2023-12-30",
+        "fin": "2024-01-01",
+        "duracion_dias": 3,
+        "feriados": "Año Nuevo",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 9.0,
+            "max_interes": 12,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 94.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 4.3,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 1.0,
+            "max_interes": 3,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 3.7,
+            "max_interes": 4,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 73.7,
+            "max_interes": 89,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 58.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.3,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 95.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 80.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2024-02-10",
+        "fin": "2024-02-13",
+        "duracion_dias": 4,
+        "feriados": "Carnaval, Carnaval",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 11.5,
+            "max_interes": 14,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 92.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 6.0,
+            "max_interes": 8,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 5.2,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 4.2,
+            "max_interes": 6,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 37.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 38.5,
+            "max_interes": 87,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 27.2,
+            "max_interes": 55,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.5,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 93.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 84.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2024-03-28",
+        "fin": "2024-03-31",
+        "duracion_dias": 4,
+        "feriados": "Semana de Turismo, Semana de Turismo",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 15.2,
+            "max_interes": 18,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 83.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 3.0,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 3.5,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 3.2,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 65.8,
+            "max_interes": 97,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 82.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.0,
+            "max_interes": 1,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 96.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 77.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2024-04-19",
+        "fin": "2024-04-21",
+        "duracion_dias": 3,
+        "feriados": "Desembarco de los 33 Orientales",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 24.0,
+            "max_interes": 27,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 96.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 2.3,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 50.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 23.0,
+            "max_interes": 69,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.0,
+            "max_interes": 1,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 96.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 62.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2024-07-18",
+        "fin": "2024-07-21",
+        "duracion_dias": 4,
+        "feriados": "Jura de la Constitución",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 22.2,
+            "max_interes": 24,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 89.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 63.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 48.5,
+            "max_interes": 83,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.2,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 94.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 25.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      }
+    ],
+    "2025": [
+      {
+        "inicio": "2025-01-04",
+        "fin": "2025-01-06",
+        "duracion_dias": 3,
+        "feriados": "Día de los Niños",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 7.0,
+            "max_interes": 9,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 87.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 4.7,
+            "max_interes": 6,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 3.7,
+            "max_interes": 4,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 4.0,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 85.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 29.3,
+            "max_interes": 88,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 22.3,
+            "max_interes": 67,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 96.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 88.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2025-03-01",
+        "fin": "2025-03-04",
+        "duracion_dias": 4,
+        "feriados": "Carnaval, Carnaval",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 13.8,
+            "max_interes": 17,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 90.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 5.8,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 2.5,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 2.0,
+            "max_interes": 4,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 44.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 38.2,
+            "max_interes": 90,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 41.2,
+            "max_interes": 83,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.0,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 95.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 80.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2025-04-17",
+        "fin": "2025-04-20",
+        "duracion_dias": 4,
+        "feriados": "Semana de Turismo, Semana de Turismo, Desembarco de los 33 Orientales",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 16.0,
+            "max_interes": 18,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 83.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 4.5,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 1.2,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 3.0,
+            "max_interes": 6,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 71.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 16.5,
+            "max_interes": 66,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.5,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 95.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.2,
+            "max_interes": 1,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 79.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2025-05-01",
+        "fin": "2025-05-04",
+        "duracion_dias": 4,
+        "feriados": "Día de los Trabajadores",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 19.8,
+            "max_interes": 24,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 88.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 5.0,
+            "max_interes": 13,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 25.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.0,
+            "max_interes": 1,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 87.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 41.3,
+            "max_interes": 51,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 20.7,
+            "max_interes": 30,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 30.4,
+            "max_interes": 40,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2025-06-19",
+        "fin": "2025-06-22",
+        "duracion_dias": 4,
+        "feriados": "Natalicio de Artigas y Día del Nunca Más",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 26.0,
+            "max_interes": 34,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 86.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 2.8,
+            "max_interes": 11,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 25.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 0.5,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 93.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 39.1,
+            "max_interes": 49,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 37.1,
+            "max_interes": 47,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 37.5,
+            "max_interes": 47,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2025-07-18",
+        "fin": "2025-07-20",
+        "duracion_dias": 3,
+        "feriados": "Jura de la Constitución",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 23.3,
+            "max_interes": 28,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 88.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 3.3,
+            "max_interes": 10,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 33.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.3,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 97.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 33.3,
+            "max_interes": 43,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 30.8,
+            "max_interes": 40,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 42.9,
+            "max_interes": 52,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2025-08-23",
+        "fin": "2025-08-25",
+        "duracion_dias": 3,
+        "feriados": "Día de la Independencia",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 18.7,
+            "max_interes": 21,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 94.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 2.3,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 2.7,
+            "max_interes": 8,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 56.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 21.3,
+            "max_interes": 64,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 0.3,
+            "max_interes": 1,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 99.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 64.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2025-12-25",
+        "fin": "2025-12-28",
+        "duracion_dias": 4,
+        "feriados": "Día de la Familia",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 7.2,
+            "max_interes": 8,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 79.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 4.0,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 3.5,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 2.2,
+            "max_interes": 4,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 18.2,
+            "max_interes": 73,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 35.5,
+            "max_interes": 80,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 25.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.5,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 93.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 9.0,
+            "max_interes": 36,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 81.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      }
+    ],
+    "2026": [
+      {
+        "inicio": "2026-01-01",
+        "fin": "2026-01-04",
+        "duracion_dias": 4,
+        "feriados": "Año Nuevo",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 6.2,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 91.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 4.5,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 3.5,
+            "max_interes": 4,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 3.5,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 68.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 16.5,
+            "max_interes": 66,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 16.0,
+            "max_interes": 64,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.5,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 95.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 89.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-01-03",
+        "fin": "2026-01-06",
+        "duracion_dias": 4,
+        "feriados": "Día de los Niños",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 7.8,
+            "max_interes": 9,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 89.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 4.8,
+            "max_interes": 6,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 3.5,
+            "max_interes": 4,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 2.2,
+            "max_interes": 3,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 83.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 30.5,
+            "max_interes": 66,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.5,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 95.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 79.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-02-14",
+        "fin": "2026-02-17",
+        "duracion_dias": 4,
+        "feriados": "Carnaval, Carnaval",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 10.2,
+            "max_interes": 11,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 83.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 6.2,
+            "max_interes": 8,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 3.8,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 3.8,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 63.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 39.5,
+            "max_interes": 91,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 21.5,
+            "max_interes": 86,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 2.2,
+            "max_interes": 3,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 97.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.2,
+            "max_interes": 1,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 4.8,
+            "max_interes": 19,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 75.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-04-02",
+        "fin": "2026-04-05",
+        "duracion_dias": 4,
+        "feriados": "Semana de Turismo, Semana de Turismo",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 18.8,
+            "max_interes": 24,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 86.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 7.0,
+            "max_interes": 11,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 1.2,
+            "max_interes": 5,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 3.2,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 41.0,
+            "max_interes": 89,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 42.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 2.0,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 96.2,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 73.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-05-01",
+        "fin": "2026-05-03",
+        "duracion_dias": 3,
+        "feriados": "Día de los Trabajadores",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 20.3,
+            "max_interes": 24,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 90.7,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 2.3,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 3.3,
+            "max_interes": 10,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 33.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 0.7,
+            "max_interes": 1,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 93.7,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 51.7,
+            "max_interes": 100,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-05-16",
+        "fin": "2026-05-18",
+        "duracion_dias": 3,
+        "feriados": "Batalla de las Piedras",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 16.0,
+            "max_interes": 18,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 76.7,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 2.3,
+            "max_interes": 7,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 33.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 0.7,
+            "max_interes": 1,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 96.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 47.8,
+            "max_interes": 57,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 27.2,
+            "max_interes": 37,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 49.3,
+            "max_interes": 59,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-06-19",
+        "fin": "2026-06-21",
+        "duracion_dias": 3,
+        "feriados": "Natalicio de Artigas y Día del Nunca Más",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 31.0,
+            "max_interes": 41,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 89.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 33.3,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.3,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 89.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 23.5,
+            "max_interes": 33,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 43.3,
+            "max_interes": 53,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 35.5,
+            "max_interes": 45,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-08-22",
+        "fin": "2026-08-25",
+        "duracion_dias": 4,
+        "feriados": "Día de la Independencia",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 18.2,
+            "max_interes": 25,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 93.5,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 4.5,
+            "max_interes": 10,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 3.5,
+            "max_interes": 14,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 21.0,
+            "max_interes": 84,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 49.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 1.0,
+            "max_interes": 2,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 97.8,
+            "max_interes": 100,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 41.0,
+            "max_interes": 100,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 0.0,
+            "max_interes": 0,
+            "nivel_afluencia": "Baja 🟢",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-10-10",
+        "fin": "2026-10-12",
+        "duracion_dias": 3,
+        "feriados": "Día de la Raza",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 69.8,
+            "max_interes": 79,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 65.2,
+            "max_interes": 75,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 55.5,
+            "max_interes": 65,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 69.9,
+            "max_interes": 79,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 61.2,
+            "max_interes": 71,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 41.4,
+            "max_interes": 51,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 48.9,
+            "max_interes": 58,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 49.2,
+            "max_interes": 59,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 40.5,
+            "max_interes": 50,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 41.4,
+            "max_interes": 51,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 45.3,
+            "max_interes": 55,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 57.2,
+            "max_interes": 67,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 61.3,
+            "max_interes": 71,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 52.6,
+            "max_interes": 62,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 69.5,
+            "max_interes": 79,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 66.4,
+            "max_interes": 76,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 41.4,
+            "max_interes": 51,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 55.0,
+            "max_interes": 65,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-10-31",
+        "fin": "2026-11-02",
+        "duracion_dias": 3,
+        "feriados": "Día de los Difuntos",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 63.5,
+            "max_interes": 73,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 59.7,
+            "max_interes": 69,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 55.3,
+            "max_interes": 65,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 43.5,
+            "max_interes": 53,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 68.6,
+            "max_interes": 78,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 40.2,
+            "max_interes": 50,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 69.5,
+            "max_interes": 79,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 46.8,
+            "max_interes": 56,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 46.8,
+            "max_interes": 56,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 65.1,
+            "max_interes": 75,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 69.9,
+            "max_interes": 79,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 64.9,
+            "max_interes": 74,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 68.7,
+            "max_interes": 78,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 69.3,
+            "max_interes": 79,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 58.8,
+            "max_interes": 68,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 40.6,
+            "max_interes": 50,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 64.9,
+            "max_interes": 74,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 40.2,
+            "max_interes": 50,
+            "nivel_afluencia": "Moderada 🟡",
+            "datos_disponibles": true
+          }
+        }
+      },
+      {
+        "inicio": "2026-12-25",
+        "fin": "2026-12-27",
+        "duracion_dias": 3,
+        "feriados": "Día de la Familia",
+        "aglomeracion_por_destino": {
+          "Colonia del Sacramento": {
+            "departamento": "Colonia",
+            "termino_busqueda": "Colonia del Sacramento",
+            "promedio_interes": 83.6,
+            "max_interes": 93,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Punta del Este": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta del Este",
+            "promedio_interes": 60.6,
+            "max_interes": 70,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Piriápolis": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Piriápolis",
+            "promedio_interes": 61.8,
+            "max_interes": 71,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Cabo Polonio": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Cabo Polonio",
+            "promedio_interes": 84.9,
+            "max_interes": 94,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Punta Ballena": {
+            "departamento": "Maldonado",
+            "termino_busqueda": "Punta Ballena",
+            "promedio_interes": 82.6,
+            "max_interes": 92,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "La Paloma": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Paloma Rocha",
+            "promedio_interes": 61.6,
+            "max_interes": 71,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "La Pedrera": {
+            "departamento": "Rocha",
+            "termino_busqueda": "La Pedrera Rocha",
+            "promedio_interes": 55.1,
+            "max_interes": 65,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Minas": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Minas Lavalleja",
+            "promedio_interes": 84.3,
+            "max_interes": 94,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Villa Serrana": {
+            "departamento": "Lavalleja",
+            "termino_busqueda": "Villa Serrana",
+            "promedio_interes": 81.4,
+            "max_interes": 91,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Las Termas de Guaviyú": {
+            "departamento": "Paysandú",
+            "termino_busqueda": "Termas de Guaviyú",
+            "promedio_interes": 83.6,
+            "max_interes": 93,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Las Termas del Daymán": {
+            "departamento": "Salto",
+            "termino_busqueda": "Termas del Daymán",
+            "promedio_interes": 82.9,
+            "max_interes": 92,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "Paso de los Toros": {
+            "departamento": "Tacuarembó",
+            "termino_busqueda": "Paso de los Toros",
+            "promedio_interes": 74.7,
+            "max_interes": 84,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Montevideo": {
+            "departamento": "Montevideo",
+            "termino_busqueda": "Montevideo",
+            "promedio_interes": 55.6,
+            "max_interes": 65,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Atlántida": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Atlántida Canelones",
+            "promedio_interes": 83.5,
+            "max_interes": 93,
+            "nivel_afluencia": "Muy Alta / Saturado 🔴",
+            "datos_disponibles": true
+          },
+          "La Floresta": {
+            "departamento": "Canelones",
+            "termino_busqueda": "La Floresta Canelones",
+            "promedio_interes": 72.5,
+            "max_interes": 82,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Salinas": {
+            "departamento": "Canelones",
+            "termino_busqueda": "Salinas Canelones",
+            "promedio_interes": 73.8,
+            "max_interes": 83,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Punta del Diablo": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Punta del Diablo",
+            "promedio_interes": 57.7,
+            "max_interes": 67,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          },
+          "Santa Teresa": {
+            "departamento": "Rocha",
+            "termino_busqueda": "Santa Teresa Rocha",
+            "promedio_interes": 69.9,
+            "max_interes": 79,
+            "nivel_afluencia": "Alta 🟠",
+            "datos_disponibles": true
+          }
+        }
+      }
+    ]
+  }
+}

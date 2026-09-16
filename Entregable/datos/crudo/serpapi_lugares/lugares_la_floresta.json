@@ -1,0 +1,1108 @@
+{
+  "search_metadata": {
+    "id": "6aa95f23bd1c20dcbdeb82e2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-Rb3zcrxZ5n-iqMiUllEbOyPxutdHioaANUWUN34Imo/6aa95f23bd1c20dcbdeb82e2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-Rb3zcrxZ5n-iqMiUllEbOyPxutdHioaANUWUN34Imo/6aa95f23bd1c20dcbdeb82e2.md",
+    "created_at": "2026-09-15 15:07:15 UTC",
+    "processed_at": "2026-09-15 15:07:15 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/lugares+turisticos+atracciones+para+todas+las+edades+La+Floresta+Uruguay//data=!3m1!4b1!4m2!2m1!6e5?hl=es&gl=uy",
+    "raw_html_file": "https://serpapi.com/searches/-Rb3zcrxZ5n-iqMiUllEbOyPxutdHioaANUWUN34Imo/6aa95f23bd1c20dcbdeb82e2.html",
+    "prettify_html_file": "https://serpapi.com/searches/-Rb3zcrxZ5n-iqMiUllEbOyPxutdHioaANUWUN34Imo/6aa95f23bd1c20dcbdeb82e2.prettify",
+    "total_time_taken": 0.99
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "lugares turisticos atracciones para todas las edades La Floresta Uruguay",
+    "google_domain": "google.com",
+    "hl": "es",
+    "gl": "uy"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "lugares turisticos atracciones para todas las edades La Floresta Uruguay"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Playa La Floresta",
+      "place_id": "ChIJTShZZbL3n5URtSOqZCF0cdU",
+      "data_id": "0x959ff7b26559284d:0xd571742164aa23b5",
+      "data_cid": "15380201889218569141",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff7b26559284d%3A0xd571742164aa23b5&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff7b26559284d%3A0xd571742164aa23b5&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.762347,
+        "longitude": -55.676454199999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJTShZZbL3n5URtSOqZCF0cdU",
+      "provider_id": "/g/11h5rgwqrk",
+      "rating": 4.7,
+      "reviews": 780,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "68QF+3C7, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Formas que invitan a admirar  ,  a palpar, a contemplar.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqWieVT0if1ITeVTd0XuGZcsDMvnUWRLwmiSNJAmsyyxSgmFcl4Rx58MwE1V-yp22pjUDE-l2X4gyIdotvhCXI0Pft3dbmWlLXXQlADgI6lsvVa9Qs6BT87GZZ0qyXK5x7e0w2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dTGbtnicHcZJDoIwFADQE1UK4pi4QHHAKYoIDTsttWBaiv4K9ISewdto3Ly8zzvXuoKxZYm82-FKccFewJ5UlZqVukOVtHgFiAICy1uFhyiRj6RgcYSLmx1Ev2SYvJYpBX9Xl-ck3DayOO3XngRj2hOXCyrcsO0Nd83cjpGpHKe6n_05Eg5xuQkypet8RgJ8uOludpWJ2BJyFJ7Pg76AOr6MjtCfRsPBMk3xw5BNrx0w3DiTxsYYo_wvReUXtjhE9g"
+    },
+    {
+      "position": 2,
+      "title": "Mirador de la Bicicasa",
+      "place_id": "ChIJwzDnRVn3n5URMO5dpxeXxa4",
+      "data_id": "0x959ff75945e730c3:0xaec59717a75dee30",
+      "data_cid": "12593638060859452976",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff75945e730c3%3A0xaec59717a75dee30&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff75945e730c3%3A0xaec59717a75dee30&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.763567699999996,
+        "longitude": -55.6704185
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJwzDnRVn3n5URMO5dpxeXxa4",
+      "provider_id": "/g/11vdx2wt8g",
+      "rating": 4.9,
+      "reviews": 10,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "68PH+HRG, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "user_review": "\"Amé este lugar, totalmente enamorada del paisaje de la Floresta.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlnvIcz4xNkBpfcSYpy3WHT81DyO04PBEXiAVj4wFvkssCxdpX3jxaVjdOSA-_0ghricxzDIs2nY6wXbAbaWnD8Az4eSnNzaWl4B1hs3tXuQevMPqeD-clof8EHaav8iiTPWKOg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TaVlfHicHcRRboIwGADgE1XKaBZisocyNJhlwgax-GRqrS3YtdW_AnLBnWG3WeL38P396hA8LKPI6GShnFNG3kHehLNB2rAQ7idSHpAABBEtvquGGTtsxEym7SXzZ1Hv_SNhRZPG-aPEpMpWbUd3PRnXwwXgfTr5NuknvutPZU3RASt968Q05xt4sfvXsT3SI2c2T-lMZG23M2eGZLGGJLT3Lzl8VleZI2HcOV0VnA9p1zUV-yjV2xhjjJF-LpD9B90ORgk"
+    },
+    {
+      "position": 3,
+      "title": "Zona de pescadores y playa",
+      "place_id": "ChIJlT45kAn3n5URCQM4dnEYR-8",
+      "data_id": "0x959ff70990393e95:0xef47187176380309",
+      "data_cid": "17241776574004986633",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff70990393e95%3A0xef47187176380309&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff70990393e95%3A0xef47187176380309&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.761818999999996,
+        "longitude": -55.692001999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJlT45kAn3n5URCQM4dnEYR-8",
+      "provider_id": "/g/11p55zyp8x",
+      "rating": 4.3,
+      "reviews": 39,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Sebastian Elcano 145, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "user_review": "\"Limpia y con concurrencia razonable\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXfYUaDF7jbqpBnBkpzh4jDGJjEzNJLpnCI3tEeOUBrhPY2TVsVYfCvRxvL5jQ8v1F7o3XdoTjrteTaAUhBg8-rnGpqtEijIItA-UgjFDnsmiAJFdxnPV5g5wcqrWJCLeVjgnG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/piX8o3icHcRLDoIwFADAE1VQJBoTF_yFEEUDKEsstbXKa2krGi_oGbyNibOY74cZI_XKsu7MmVAh6J08NFFYgCFgJlj0FpUaYY205W0ORXnsT5emasN4wc-D9MG_yTeb8zDJePTeZrmEIHVMRHaVr1jRzMpa180lGA-vMXf5fjlO44VwTp0ouTKkbL2K-XSJFCRyMNGVp6nxUEV5HILur14Wdy8oape6TzyoYxbkpOYUkvVzats2Yv8xgh_MF0YS"
+    },
+    {
+      "position": 4,
+      "title": "Rambla del Arroyo Sarandí",
+      "place_id": "ChIJnxGf5eP5n5URQC4jcoB20wk",
+      "data_id": "0x959ff9e3e59f119f:0x9d3768072232e40",
+      "data_cid": "708039860470099520",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff9e3e59f119f%3A0x9d3768072232e40&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff9e3e59f119f%3A0x9d3768072232e40&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7635812,
+        "longitude": -55.6642934
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJnxGf5eP5n5URQC4jcoB20wk",
+      "provider_id": "/g/11bx8g_s3j",
+      "rating": 4.3,
+      "reviews": 807,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "68PP+H78, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "amenities": [
+            "Columpios",
+            "Toboganes"
+          ]
+        },
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "user_review": "\"Hermoso paseo al aire libre que tiene atardeceres bellísimos.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnHgH6BJi6LcL6vgj6JMTpn1UrtpZ0MVwXSuVD7gnfh1oQLhKe1k512E1zUyCE3AtqXAfRjJw8ED2ll43czcJojOdDIv2-euLsMXIpwPmyzKtlRsieECnAdsxRhwWOU3SMw7bCHlQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nq4ST3icHcRRDoIgAADQE5GiZa2tD1M3M12paa7PiCAjoEBJb9gRuk1b7-N9P1RrqZaWxag7IUIQhjuFX0hwjbmeIPGwiFQAKaAsPy72hyOPSeytk5uXotTrSesl2UFyWL20PNlZbZqyq8M54VcKRZ7SLYb3GXQiOFZDELm-fjb-tWgTs4hCh7Gpi0aUiHZ3CTe9A3CXqqzZSLN_DONWs0LdcBRw_6LeBTXHXeWWmZmfg5jlKwNt2wb0PwL8B9sJRbY"
+    },
+    {
+      "position": 5,
+      "title": "Camping Municipal",
+      "place_id": "ChIJBz3AOw75n5URBOvemo9FuTM",
+      "data_id": "0x959ff90e3bc03d07:0x33b9458f9adeeb04",
+      "data_cid": "3727086649706736388",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff90e3bc03d07%3A0x33b9458f9adeeb04&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff90e3bc03d07%3A0x33b9458f9adeeb04&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.763555499999995,
+        "longitude": -55.6646132
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJBz3AOw75n5URBOvemo9FuTM",
+      "provider_id": "/g/11l1p1wp3l",
+      "rating": 4.7,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "Sarandi 1512, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto ahora",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm3gXPnR2X2Vy-RnnSbRscctu_nna--o31l12vHNkQ50w-Ga6vp3Cf7AOvRUXYCTf2Rwr4LkOijaHGLQIt5N06-8h2SRuU4l0780hDTQO8tb1Od1KraYFBXC8JQa5SdNAdRXeS_dcQbrDlr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/thgqDXicHcTBToMwGADgJ_pHW8ZGTDwgi0NdYC1Mu9NSCqO6riVtgfiUnn0bE7_D9_ujQhj9QxRpFa8GawfdT7530prQm7CS9h4NowfpwUdZwY7Nxz0e-NEwwsn7NzBj6pZ5KcN0MUYA2BhrTOaivNEELbAXm3mM8-s2q2Z24ue8uRK2uPXhVn1-iWJ_oC8hKdEGUkVqNp3WGm1TpHYNrdLQ4qrDb06cn594nr5SkdRdmXWM9_Wlk7R1O-0eF4wQAvW_BPMH_XZFRg"
+    },
+    {
+      "position": 6,
+      "title": "Plazoleta del Leonismo",
+      "place_id": "ChIJHVBJ_9_5n5URUV92SZLD51Q",
+      "data_id": "0x959ff9dfff49501d:0x54e7c39249765f51",
+      "data_cid": "6118073651871244113",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff9dfff49501d%3A0x54e7c39249765f51&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff9dfff49501d%3A0x54e7c39249765f51&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7596322,
+        "longitude": -55.667895599999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJHVBJ_9_5n5URUV92SZLD51Q",
+      "provider_id": "/g/11g8v17tbj",
+      "rating": 4.6,
+      "reviews": 27,
+      "unclaimed_listing": true,
+      "type": "Centro de ocio infantil",
+      "types": [
+        "Centro de ocio infantil"
+      ],
+      "type_id": "children_amusement_center",
+      "type_ids": [
+        "children_amusement_center"
+      ],
+      "address": "68RJ+4RX, Av. 18 de Julio, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "extensions": [
+        {
+          "children": [
+            "Actividades para niños",
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkbc9xDFFXOUvSY3gdwt2czHlVeo2W9oZqyGcQ8RCQTUxdKF7zCPvt87s_zKYx8IvfMoHbWllotNwCu-ySc0ohetLvT2NfztTb_8eMN9Nahz-RQZeb_t6eScmdHLJVSfOBE-F4NXQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/o93yJHicHcRbboJAFADQFY1QNAom_WhRpFVHeSjqD5HLwCSOXHWugLPDLqG7adLzcX5_JNFNTy1LyeGgRqyVeGrxAGxINDQAvFr1TTPQTFsfYbxNs0sBXj8LgsNm1ybHYV125IAJ1V6gk3l4ur8WELmxH6W7vlwGE-NvW3InOjfLY-9-tdUawyJTCol3_pO9ErBRClq1qcMrQ2mRu2LNPX6WhsXRSRQ5jUUC1zJcfe-TavM5Z8GIH6L37s22bSb_B9b8AXyRRoI"
+    },
+    {
+      "position": 7,
+      "title": "Playa Las Vegas",
+      "place_id": "ChIJf_VH6z33n5URjQILPxtrmpI",
+      "data_id": "0x959ff73deb47f57f:0x929a6b1b3f0b028d",
+      "data_cid": "10563873640716894861",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff73deb47f57f%3A0x929a6b1b3f0b028d&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff73deb47f57f%3A0x929a6b1b3f0b028d&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7629483,
+        "longitude": -55.6959995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJf_VH6z33n5URjQILPxtrmpI",
+      "provider_id": "/g/11j9487_0z",
+      "rating": 4.5,
+      "reviews": 15,
+      "unclaimed_listing": true,
+      "type": "Parque",
+      "types": [
+        "Parque"
+      ],
+      "type_id": "park",
+      "type_ids": [
+        "park"
+      ],
+      "address": "68P3+RJC, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        },
+        {
+          "pets": [
+            "Se permiten perros"
+          ]
+        }
+      ],
+      "user_review": "\"No dejan circular por las dunas y estan tratando de preservarlas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuLERF40HxC1tiMC0hJgTeWLMJZs3-KEEDag6-PkAFp0eEu8GslHY2SqC2-oIw-aNgVMC8q-lssMouDPf_uwnTRNa_IsCt4z5d6_PLJlRBYvynC9RUICMa3grOu1yeOCy99nnSkg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/R5ZV2nicHcTRboIwFADQL7pSRI2Y-KAVB4wqqWxGXwhhXVmsLXpbEf9wn-DfmHgezvO_sbbFmeepJhhIY6QSDsW1NtoKbQe1OXuyRagR0FvEPC_2Z5dFfD0i8Z369o9R0qSyEPuMpUcM4DOKVpWcQH5arFsiIjf9QBUfhrsLHYJJOqg28pvR6QUUIjNulf-WrtMF31RlgtSOHuOfSZlnqeLLw63XNORfCWVVIK9b5_diS_sw1Hp3kvPOJ4RA874G_QJapURw"
+    },
+    {
+      "position": 8,
+      "title": "Parque de los Pájaros",
+      "place_id": "ChIJZQ3wdhH1n5URIgGRGyXgbBE",
+      "data_id": "0x959ff51176f00d65:0x116ce0251b910122",
+      "data_cid": "1255624846110425378",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff51176f00d65%3A0x116ce0251b910122&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff51176f00d65%3A0x116ce0251b910122&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.773354399999995,
+        "longitude": -55.8164259
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJZQ3wdhH1n5URIgGRGyXgbBE",
+      "provider_id": "/g/11c74ynwtp",
+      "rating": 4.6,
+      "reviews": 558,
+      "unclaimed_listing": true,
+      "type": "Parque temático",
+      "types": [
+        "Parque temático",
+        "Parque"
+      ],
+      "type_id": "theme_park",
+      "type_ids": [
+        "theme_park",
+        "park"
+      ],
+      "address": "65GM+MC4, 15100 Marindia, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "children": [
+            "Área de juegos",
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante",
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Lugar mágico, donde nos mezclamos entre naturaleza y casas.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk3XyXS5t6TiWGJIhKCP-WcjBwMbeA_VrYZ2-yftZgj4lOps4hZPJ7u60-6iBHUuCaHfZWqt8h6Y3IWy9B2YjMj0pnrJSBu09poMW31DRUvMokdpl7HDqIyP_t5U1GKmZ0GVrVpPQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xB8D23icHcRJDoIwAADAFxWKIKiJB9GELcSKQqUXoxUoi7TSouGJPsHfmDiH-X6YUkKudL1jplZxXnXFKIuB8l4VvdIof-iVkIBKIPWNn6ATbs3zdD7OlX2qsRcGLNoigGnjvuNbsblkQ05mYCoVqRqr2wtpMYJCZ7QhsGvXT8ft1S8JfqoFs3MzwNPSneVN3EDRD-HRHeFS8Bibxi5JXzFv76Jz_N0zmNBFzVPDix4EetmQCXRYvw0IIWD_Keh_pnJEfg"
+    },
+    {
+      "position": 9,
+      "title": "Refugio del Solís",
+      "place_id": "ChIJiXTNYAj3n5URW1JisV_0QCg",
+      "data_id": "0x959ff70860cd7489:0x2840f45fb162525b",
+      "data_cid": "2900586851861680731",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff70860cd7489%3A0x2840f45fb162525b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff70860cd7489%3A0x2840f45fb162525b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7528608,
+        "longitude": -55.7012517
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJiXTNYAj3n5URW1JisV_0QCg",
+      "provider_id": "/g/1tx4qjk0",
+      "rating": 4.4,
+      "reviews": 853,
+      "price": "US$ 126",
+      "extracted_price": 126,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero",
+        "Alojamiento"
+      ],
+      "type_id": "resort_hotel",
+      "type_ids": [
+        "resort_hotel",
+        "lodging"
+      ],
+      "address": "Av. Sur, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "phone": "4373 8326",
+      "website": "http://www.refugiodelsolis.com.uy/",
+      "description": "Complejo turístico ribereño con cabañas. Complejo turístico ribereño con 2 piscinas, área de juegos para niños y cabañas con cocina integrada.",
+      "amenities": [
+        "Aire acondicionado"
+      ],
+      "user_review": "\"Súper recomendable para disfrutar en pareja y/o familia.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlIM-Oj5To0I2dmF-gyH41ffgOFSM6LV5MJC6_Gohaz4rBZYcItkrRTj_N2BXzD-SUEGvty5xcWR81o_A4WEBpie04_blfrybH_ONKtPW6zKyqjRrf8ALzPAtTb9KjrV-di3bh2KA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/1-3OanicHcRJDoIwAADAF1UKAlETD8UNRIQginpppEIrIsW2LvBDn-BvTJzDfD9MqUaONK1i_R7lnFb5Q-aC8FrlteoRftNoIwGRQGrIjaMkrbwAhKWVcOgZ59sc0NY19aKg4XwT2KudFSwnNl5wdupM4RwPxFNXESclXhvOvpuCzXa2eKrWepM0HugcIzOdOc0lhybOqkK0mYvDta-i1O789l7GohigVRchlWRDvxQ7cL70M2b4aPzSIYSA_Seg_gF4hkSH"
+    },
+    {
+      "position": 10,
+      "title": "Arco de Salinas",
+      "place_id": "ChIJjVzWGDb1n5URvv4icEHeTIE",
+      "data_id": "0x959ff53618d65c8d:0x814cde417022febe",
+      "data_cid": "9317066101758295742",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff53618d65c8d%3A0x814cde417022febe&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff53618d65c8d%3A0x814cde417022febe&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.775652199999996,
+        "longitude": -55.8400197
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJjVzWGDb1n5URvv4icEHeTIE",
+      "provider_id": "/g/11b6bmqwsg",
+      "rating": 4.1,
+      "reviews": 6795,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Monumento"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "monument"
+      ],
+      "address": "65F5+PXQ, 15100 Salinas, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Viví lo mejor de mi vida hermosa en Uruguay.Gracias Uruguay Querido.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQJP5GMS73IU-cxlY2qnnQOoOYXsK1gfkeFx12WlcbtViV0GL-d8vq4CrMi3aAZl_LDXyaRNCRG6V8ty0VooP5QvOZ9jtqA4PMbNqZd8z7_xRueOjdjQEAt8iqeSPsIoZgmexKXA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7bCkmHicHcRZEoIgAADQE5GYLdZMH0yLbSZamfnTFBJqCBFU1g07Qrdppvfxvp_cmKvuWxbPnQaTknF61_RGpDBUmAaRlcWuGhANtIWmEd7sqnCO256_7jqzLSA13zeVEGEgg32iFzY7X-iktps7Tk4mLmLoLUHmPlRrePML54hSfliOktcxWg0jrxO75gVjKXE7fARprzQKtbB_Wqk0c9_dQx3daVBmZThGxi0UXWM9kymraL1I0OBpQwhB_p8A8QPN90Wy"
+    },
+    {
+      "position": 11,
+      "title": "Arroyo Solis Chico",
+      "place_id": "ChIJvZTePAb3n5UR6pZx3gPE98I",
+      "data_id": "0x959ff7063cde94bd:0xc2f7c403de7196ea",
+      "data_cid": "14048913083501483754",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff7063cde94bd%3A0xc2f7c403de7196ea&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff7063cde94bd%3A0xc2f7c403de7196ea&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7545366,
+        "longitude": -55.703047999999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJvZTePAb3n5UR6pZx3gPE98I",
+      "provider_id": "/g/11cn9lvnx9",
+      "rating": 4.6,
+      "reviews": 1436,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "67WW+5QP, 15300 Parque del Plata, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"La luna llena sobre el Solis Chico en Parque del Plata, una belleza!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnjttkDpfrpkUYKTeqD2jGQx1C-xF26PuNd76OS9wHEL6b0D_ZBld39Mjfs08sFebSUAAv2cd-3o-ypgPvaGaljdB-eWMLLTJ28KPCqajNJVQJbofLEYyTxKy-e3_6A6w_wMbw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/tPOrVXicHcRJDoIwFADQE32pkNQhcYEMGgZFRY1uCJQCqUirrRYu6B28jYlv8b6fRikh54bRNtao5rxu6UvSJ-Gdop0aEX43aiGBSJCGvd4n6bljSt1cUT3F7XgJU_pwTbba9WMHet_EyWtTTvD2MNNrL8IFcrPrsi2tWcwqiabSp8XhaNtvk5RgcRhEnbzzVd6ycgn0HEdRGpjTMHEeOdsEp11Q8CryLkPahwNQK8M21pmOC73QY4QQNP8JdD_sPUOo"
+    },
+    {
+      "position": 12,
+      "title": "Paisaje protegido Quebrada de los Cuervos y Sierras del Yerbal",
+      "place_id": "ChIJ7dvW679nCZURbzfbKFxkPIs",
+      "data_id": "0x950967bfebd6dbed:0x8b3c645c28db376f",
+      "data_cid": "10033004416859846511",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x950967bfebd6dbed%3A0x8b3c645c28db376f&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x950967bfebd6dbed%3A0x8b3c645c28db376f&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -32.9247813,
+        "longitude": -54.458661199999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ7dvW679nCZURbzfbKFxkPIs",
+      "provider_id": "/m/0wy4_wj",
+      "rating": 4.7,
+      "reviews": 1634,
+      "type": "Reserva natural",
+      "types": [
+        "Reserva natural"
+      ],
+      "type_id": "nature_preserve",
+      "type_ids": [
+        "nature_preserve"
+      ],
+      "address": "Camino Quebrada De Los Cuervos km. 25, Departamento de Treinta y Tres",
+      "country": "Uruguay",
+      "phone": "4452 2911",
+      "website": "https://turismo33.gub.uy/quebrada-delos-cuervos/",
+      "description": "Barranco con senderos y paseos a caballo. Área con un cañón, formaciones rocosas y cascadas, popular para hacer caminatas, acampar y pasear a caballo.",
+      "extensions": [
+        {
+          "highlights": [
+            "Pícnics"
+          ]
+        },
+        {
+          "activities": [
+            "Senderismo"
+          ]
+        },
+        {
+          "amenities": [
+            "Mesas de pícnic",
+            "Parrilla para barbacoa",
+            "Sanitario público"
+          ]
+        },
+        {
+          "payments": [
+            "Solo dinero en efectivo"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños",
+            "Rutas de senderismo adecuadas para niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Impresionante hay que visitar es el uruguay profundo que muchos no conocen\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnnjY0ZwApyBNqvYQHzMNPTpmqlMLItRjsmfulB8hOke6-pM_IyQeuswNWZ6mxn3RLY63C2GKmhWVjTB5WvAZyWx0VILLmpHH4QmYwlqd4VonvzsvAkWeDuBwl5jYYVdaBLQqzfsA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/eUl513icHczNboIwAADgJ6p0omRZskO7JUIsKITQlMuyYKXB_mELFd7QR9jbbNnlO34_T-G9dW9RJEW86Y3pJZ8cv3dGe679pjMq6q0DnQMuQml1rqnWA4NtQHbBxTizMl3z4lxbNcqcZL4anLpOEr-K040nwOZf2VL-laGgbaIeOq4IS-KP7eGoBG2GGu_pjNqFPmCTEaJsmu5KxYIcL7vG6Hl1M7pR_jnhIPcDY83lG5NyXK8OvYcXCCEQ_3ZA_wLB0EfK"
+    },
+    {
+      "position": 13,
+      "title": "Playa Bello Horizonte",
+      "place_id": "ChIJh7ZMcSL6n5UR9sahwsUde_4",
+      "data_id": "0x959ffa22714cb687:0xfe7b1dc5c2a1c6f6",
+      "data_cid": "18337283042980251382",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ffa22714cb687%3A0xfe7b1dc5c2a1c6f6&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ffa22714cb687%3A0xfe7b1dc5c2a1c6f6&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.778396,
+        "longitude": -55.646409899999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJh7ZMcSL6n5UR9sahwsUde_4",
+      "provider_id": "/g/11ggbmv_k9",
+      "rating": 4.6,
+      "reviews": 476,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "69C3+JCW, 15400 Bello Horizonte, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "092 390 315",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Estacionamiento accesible para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Excelente para descansar y salir del caos que es la Capital.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqjoF1gSC6Sq7Lv7i_CnYwJUHrdjccn5WZ_t74eT0YnJGoctRzwydYDbpQ4r-k0-fNaIWybzAwLPCDBVqFpmVMbT7NAp7xIkC13SPuR7SC-If4MHLGeRRapY_CGf7RzWxRbUji=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MvE6P3icHcRdDoIgAADgE5G4LLa2HgyX2swZ_s1eXBJqVoBCWV6wM3Sbtr6H7_tptZZqZRi3dj5rhGhu7KHYQAXXjOsZFXejkQpQBZRheyRKct53Yms2MV7GPQqe6FJiXoy71BvOHaV8kR9LjSyWwILvXEE1mcb3uXAqebAGcIWgDk9-_q4mewwi7Gyyfivv2b5KUGhL9PKv2JzH0YOgGAO_tvZe4DJCTrIosVsjMuUvUqXdZT2aEELQ_qeA_wCNtETF"
+    },
+    {
+      "position": 14,
+      "title": "Sendero Ñacurutú",
+      "place_id": "ChIJA3cgZQD3n5URp43YVtoLJ5M",
+      "data_id": "0x959ff70065207703:0x93270bda56d88da7",
+      "data_cid": "10603456880054930855",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff70065207703%3A0x93270bda56d88da7&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff70065207703%3A0x93270bda56d88da7&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7499349,
+        "longitude": -55.6992268
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJA3cgZQD3n5URp43YVtoLJ5M",
+      "provider_id": "/g/11y9psq5p4",
+      "rating": 5,
+      "reviews": 4,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction"
+      ],
+      "address": "7822+28C, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto las 24 horas",
+      "hours": "Abierto las 24 horas",
+      "operating_hours": {
+        "martes": "Abierto las 24 horas",
+        "miércoles": "Abierto las 24 horas",
+        "jueves": "Abierto las 24 horas",
+        "viernes": "Abierto las 24 horas",
+        "sábado": "Abierto las 24 horas",
+        "domingo": "Abierto las 24 horas",
+        "lunes": "Abierto las 24 horas"
+      },
+      "phone": "091 291 355",
+      "website": "https://www.instagram.com/proyecto.nacurutu?igsh=MTlpZWVrZnlrc3Zjdg==",
+      "extensions": [
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "amenities": [
+            "Restaurante"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm_h1osLeHDFHbbAjE0ydTM8zGtgM2j4lTf_P3UNpAlJjbrn0WZthUZiROy1Gc_tNwYib1ta8wbeCosWf5W1D3GjMd-4hnpsmwUL7yVvkgJkVDTKFTYkGn-Y9Y3LrB6Oj2ASZ4t8V5Cd653=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lwOfW3icHcTBToMwAADQL-poV5ho4gGHg0zYllkgcCG2dO0KtIRWCf6kZ__GxHd4vz_Suck-ed4g8UYYIwb-afnMjHZcuw0zoycmC5gF1ovS64VUYyuRsRlP40NKaaRe4dqRPPxOnMi3yh_Irb3g4jRFw1HRWcOqcbJo7tfzihLWutNS3ylyH-FC-d7Y6hZUKMaJyjvgSz3ZcSmyh7X86sWxL2PydiB1n2hQP9Y4m192Z7WN3hvfhWWw73YBfl4QhBDI_xnQf9ScRvk"
+    },
+    {
+      "position": 15,
+      "title": "Jardín Botánico de Montevideo Atilio Lombardo",
+      "place_id": "ChIJ8fLzh7IqoJURdpihPu8D99E",
+      "data_id": "0x95a02ab287f3f2f1:0xd1f703ef3ea19876",
+      "data_cid": "15129565799257315446",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x95a02ab287f3f2f1%3A0xd1f703ef3ea19876&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x95a02ab287f3f2f1%3A0xd1f703ef3ea19876&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.8613005,
+        "longitude": -56.1985378
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ8fLzh7IqoJURdpihPu8D99E",
+      "provider_id": "/g/1yfdrv0_m",
+      "rating": 4.6,
+      "reviews": 18838,
+      "unclaimed_listing": true,
+      "type": "Atracción turística",
+      "types": [
+        "Atracción turística",
+        "Parque",
+        "Jardín botánico"
+      ],
+      "type_id": "tourist_attraction",
+      "type_ids": [
+        "tourist_attraction",
+        "park",
+        "botanical_garden"
+      ],
+      "address": "Av. 19 de Abril 1181, 11700 Montevideo, Departamento de Montevideo",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 7 p. m.",
+      "hours": "Abierto · Cierra a las 7 p. m.",
+      "operating_hours": {
+        "martes": "7:30 a. m.–7 p. m.",
+        "miércoles": "7:30 a. m.–7 p. m.",
+        "jueves": "7:30 a. m.–7 p. m.",
+        "viernes": "7:30 a. m.–7 p. m.",
+        "sábado": "7:30 a. m.–7 p. m.",
+        "domingo": "7:30 a. m.–7 p. m.",
+        "lunes": "7:30 a. m.–7 p. m."
+      },
+      "phone": "2336 4005",
+      "website": "https://jardinbotanico.montevideo.gub.uy/",
+      "description": "Jardín botánico, exhibiciones y eventos. Jardín educativo con áreas exuberantes y colecciones de especies de plantas internacionales y nativas.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario",
+            "Sanitarios unisex"
+          ]
+        },
+        {
+          "crowd": [
+            "Amigable con LGBTQ+"
+          ]
+        },
+        {
+          "children": [
+            "Ideal para ir con niños"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Bucle magnético de asistencia"
+          ]
+        }
+      ],
+      "user_review": "\"Tranquilidad naturaleza y sobre todo mucho para explorar y recorrer .\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYJPhLX_CFsy0LzKMKay7P99pSM-sU8RNgcVLPgJskIXu2UJf0WR7DrLkRarbKrrFgniaZy7lvCdJTInWCthA0BotaT3Z6UgITgK-XQeYR6UgjB1pKZZii4_OquMtWXcjMC4gb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_RLsfnicHcdRboIwGADgExXKNKJL9qAYIhQ21oEgLwYq_kWwZW3ZghfcGXYbjS9f8v3_cWMG_WrbPZ9ZICX0zagbxaQwjTAWk1cbBo2YRtpe72iS5t0hTHhUHD1fTzi6kZhUk5usVsNXjHS2pO_A9lECoe6CYnzJwjPOqbtVUUcrVROlfBBtVU5u_-OdwjQQuWf4Gm-kqdJZucggSIGg4rM50EcuG2cgZdm28-PH9xibvGCX2JtD_fbrYIwRf8qQuANh_kTS"
+    },
+    {
+      "position": 16,
+      "title": "Club La Floresta",
+      "place_id": "ChIJ39u_umb3n5URWxYN32TM16M",
+      "data_id": "0x959ff766babfdbdf:0xa3d7cc64df0d165b",
+      "data_cid": "11806129681786017371",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff766babfdbdf%3A0xa3d7cc64df0d165b&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff766babfdbdf%3A0xa3d7cc64df0d165b&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7574903,
+        "longitude": -55.6752894
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ39u_umb3n5URWxYN32TM16M",
+      "provider_id": "/g/11c3xk4698",
+      "rating": 4.5,
+      "reviews": 57,
+      "unclaimed_listing": true,
+      "type": "Club deportivo",
+      "types": [
+        "Club deportivo"
+      ],
+      "type_id": "sports_club",
+      "type_ids": [
+        "sports_club"
+      ],
+      "address": "68VF+2V4, 15400 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "open_state": "Abierto · Cierra a las 10 p. m.",
+      "hours": "Abierto · Cierra a las 10 p. m.",
+      "operating_hours": {
+        "martes": "8 a. m.–10 p. m.",
+        "miércoles": "8 a. m.–10 p. m.",
+        "jueves": "8 a. m.–10 p. m.",
+        "viernes": "8 a. m.–10 p. m.",
+        "sábado": "8 a. m.–10 p. m.",
+        "domingo": "9 a. m.–8 p. m.",
+        "lunes": "8 a. m.–10 p. m."
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Es de los lugares q tenemos que consumir y cuidar\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksm2zBmtTcizs_FtGDGHm5s1SIT_6dgy5fpolC3dIwLroTuj2dyH9HSzSbrTA2p9PGuyv77o9BRa9UVu79_0B_jrS_jhPSsp_Pb8q2A-XfOKS4Cf4wdDUm7mymgKqmxVFwfd_M1A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GLkzNXicHcTbboIwGADgJ6ocPGBNdgESwaiR2Op210gLZYzSyl9EeMM9gm-zZN_F9_6trDWwcZymms-k1rIpeig6rltbtHbGtXKkAcQBgROml4x-_oDyp0hZyr8nYDubxEmqluCRPWUrIcdlaXSznYv9cOw07WtfjClOyUTyjoa-wVnSj88g0Di63PH11geYuRGrO8LqKiNgWJavH36IvsrzgSy25WIQ8VUFalTy8FCv224oBTt54cfgua6Lqv85av8AYZBGTA"
+    },
+    {
+      "position": 17,
+      "title": "Campamento La Floresta",
+      "place_id": "ChIJ19eYu2b3n5URMoPSEH5Lv6E",
+      "data_id": "0x959ff766bb98d7d7:0xa1bf4b7e10d28332",
+      "data_cid": "11655117365478327090",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff766bb98d7d7%3A0xa1bf4b7e10d28332&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff766bb98d7d7%3A0xa1bf4b7e10d28332&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7576514,
+        "longitude": -55.6754999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ19eYu2b3n5URMoPSEH5Lv6E",
+      "provider_id": "/g/11clwn9k1j",
+      "rating": 4.3,
+      "reviews": 79,
+      "type": "Residencia de estudiantes",
+      "types": [
+        "Residencia de estudiantes",
+        "Polideportivo"
+      ],
+      "type_id": "student_housing_center",
+      "type_ids": [
+        "student_housing_center",
+        "sports_complex"
+      ],
+      "address": "Rivera entre Artigas y Treinta y Tres, 16200 La Floresta, Departamento de Canelones",
+      "country": "Uruguay",
+      "phone": "091 775 830",
+      "website": "http://campamentolafloresta.com/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Se identifica como mujer empresaria"
+          ]
+        },
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas",
+            "Espacio accesible para personas en silla de ruedas",
+            "Sanitarios accesibles para personas en silla de ruedas"
+          ]
+        }
+      ],
+      "user_review": "\"Un buen lugar solo cambiaría a los animadores que no tienen muchas ganas\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn0GMk8zrZxdQmZObX5hcQXgTUApQ4NSzR5cWNntgBplb9mKfbTsZRII0H6ajQy746A-zAB1kssbBeTOk8Bb99xaZ92N-XqMF0BDa6r2PPUgf1NoBlzF22CpU6v7uNb_doqw5V_=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TKh32HicHcRdDoIgAADgE5FoadnWg9Ss1iI1TedLEzRcKpDQnxfsDN2mre_h-35qraWaG0Zbj0dMCNZWd1X1VHBdcT2iojOYVIAqoAxvEwVxyuF638yGPn-VYZcfSGbXNMxYnHgynODjENk0xVwzJFvidrsLiVUebbdw4xTX8D2dOB4YPGQ2ShFUxYdmhojrvorctTDIbnsfolXh9FYQJOxiYoHawbespUycx_SOybkUt6d9Oi-eJoQQ1P8p4D871kPG"
+    },
+    {
+      "position": 18,
+      "title": "Centro de Unificación Isha Judd",
+      "place_id": "ChIJ-QNTd_f5n5URA-VbEIgSq70",
+      "data_id": "0x959ff9f7775303f9:0xbdab1288105be503",
+      "data_cid": "13667037869785212163",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ff9f7775303f9%3A0xbdab1288105be503&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ff9f7775303f9%3A0xbdab1288105be503&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.772566499999996,
+        "longitude": -55.6571004
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ-QNTd_f5n5URA-VbEIgSq70",
+      "provider_id": "/g/1tgzcj82",
+      "rating": 4,
+      "reviews": 175,
+      "type": "Centro de meditación",
+      "types": [
+        "Centro de meditación"
+      ],
+      "type_id": "meditation_center",
+      "type_ids": [
+        "meditation_center"
+      ],
+      "address": "Rambla General Artigas, esquina Alfonsina Storni, Costa Azul, 16202 La Floresta",
+      "country": "Uruguay",
+      "phone": "094 196 978",
+      "website": "http://www.ishajudd.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Entrada accesible para personas en silla de ruedas"
+          ]
+        },
+        {
+          "amenities": [
+            "Sanitario"
+          ]
+        }
+      ],
+      "user_review": "\"Maravilloso este centro de retiro súper recomendable\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1qzRDFiUiUoO-_SXNB952BZObxjeliyIeYbSfzYzmFcc_PXN-Aope_XFnrau5efrFpi4gg_PebILuKqCcLZzqxh8fpq4IinENjMNSQbgTNxFiVg3zxDR5p1dg81h_FZ5qWfaQ0A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ErmtJXicHcTbboIwAADQL6rAlERN9oCXRqJWBJ3ASwO1tDXQC4WM9Q_3Cfsbk52H8_fLh0Hbtee1fD5jSrGWjpb2RMmBymFGVOcxbQGxwHrRIU1ujy4wLt1BcRd3dQE4y9FmFX5syks9vWgrfmJa1FnjCtdBQnCSIxApTXEOZV-NIW16qMWCMZzQOj6NR7Mlp9KZiS8bbRaxkHv0OqPsWrMbmqD4YnM37dJQB0-2DDiGZWgeTXX1o8_vwPd9wP8nQL4BiXtG3g"
+    },
+    {
+      "position": 19,
+      "title": "El Descubrimiento",
+      "place_id": "ChIJwVCl19r7n5URd1TQlwPdr9M",
+      "data_id": "0x959ffbdad7a550c1:0xd3afdd0397d05477",
+      "data_cid": "15253653470428812407",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ffbdad7a550c1%3A0xd3afdd0397d05477&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ffbdad7a550c1%3A0xd3afdd0397d05477&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7707409,
+        "longitude": -55.611238099999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJwVCl19r7n5URd1TQlwPdr9M",
+      "provider_id": "/g/11x9ys703",
+      "rating": 4.4,
+      "reviews": 2581,
+      "price": "US$ 98",
+      "extracted_price": 98,
+      "type": "Complejo hotelero",
+      "types": [
+        "Complejo hotelero"
+      ],
+      "type_id": "resort_hotel",
+      "type_ids": [
+        "resort_hotel"
+      ],
+      "address": "Ruta Interbalnearia Gral. Líber Seregni, 16300 Guazú-Virá, Departamento de Canelones",
+      "country": "Uruguay",
+      "phone": "4378 2141",
+      "website": "http://www.eldescubrimiento.com/",
+      "description": "Complejo frente a la playa con piscinas. Complejo turístico sereno con chalés sencillos, algunos con vista al mar, 2 piscinas y acceso a la playa.",
+      "amenities": [
+        "Aire acondicionado",
+        "Desayuno",
+        "Cocina"
+      ],
+      "user_review": "\"Lugar muy recomendable para disfrutar en pareja o en familia y con niños.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMePqz3S-nnLHqtDsG5KafXk18oBTwkz2uU-2v50BpbiiLxGaZ4qEVNGrtCKBOKz8CvQ75rBg7_god7-8aPTL2BjmqiMhnPJtqL5RJIeOWUyXL5DDH8gcEQ0OdAXwzI4p_xLH-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3LAqCHicHcThEoEwAADgJ5om7erc-WFyRaMQOn9cZlZia21EL-gZvI0734_v-ymMqfXQsm7FoMel5Df20KyhUhgmTI_Ku8VrDagG2hqH6yTdVwuWqG6wAUKQUBlfByjKL1nV9yRO26qzH1tgPxHE9aksySvID46a7pZBYyYRjqPOmzxXLmowd49cnl3g5UlKbHy9q3JRiGRuFEHr-YzF--07I8j3Q4_T6QrG53HWdjOnPr5ICEZtH0IIiv8UiB87ekPO"
+    },
+    {
+      "position": 20,
+      "title": "Balneario San Luis",
+      "place_id": "ChIJ60DI1OX7n5URl3qO8GcY4DE",
+      "data_id": "0x959ffbe5d4c840eb:0x31e01867f08e7a97",
+      "data_cid": "3593899337338223255",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x959ffbe5d4c840eb%3A0x31e01867f08e7a97&engine=google_maps_reviews&hl=es",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x959ffbe5d4c840eb%3A0x31e01867f08e7a97&engine=google_maps_photos&hl=es",
+      "gps_coordinates": {
+        "latitude": -34.7717282,
+        "longitude": -55.598965799999995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=es&place_id=ChIJ60DI1OX7n5URl3qO8GcY4DE",
+      "provider_id": "/g/11btm0tssj",
+      "rating": 4.5,
+      "reviews": 851,
+      "type": "playa",
+      "types": [
+        "playa"
+      ],
+      "type_id": "beach",
+      "type_ids": [
+        "beach"
+      ],
+      "address": "Presidente Roosevelt, 15400 San Luis, Departamento de Canelones",
+      "country": "Uruguay",
+      "phone": "097 354 287",
+      "user_review": "\"Un lugar espectacular con una vista hermosa, y una playa limpia .\"",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlyYBLz34snbOwLTs_D6N27csX7MBS95X_NoPT6O4oQv6QLiKltysow7sYIhNC11ms1AaytZ1RQYa4wC709WxRfhON2bZpKpM-QzIWtRx6V1HfVqeGhtmNnOy6CRwhLgnXExW_L=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J7V64HicHcRRDoIgGADgE5FShquth7RWLcIkl9qLK2bSpmD9FNoFO0O3aet7-L4faUwLU8ep5WhQaV3V5RPKh9DKlMoMhG6cqgUkAIEzX_N9ktZ9HtD3yAN1iSxNoFgQNvQFZP4uOEzGWcH0PiGRp-MXieltW5setPUh30gWYtwAnp97c8I8zs-eDX13knb8KiM2vJzabbtD8XuTGt6RI15fj_dyJU3DVNSTkFtJK5Utu7SgM4td10Xyv0DqB0LoRLw"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&gl=uy&google_domain=google.com&hl=es&q=lugares+turisticos+atracciones+para+todas+las+edades+La+Floresta+Uruguay&start=20&type=search"
+  }
+}

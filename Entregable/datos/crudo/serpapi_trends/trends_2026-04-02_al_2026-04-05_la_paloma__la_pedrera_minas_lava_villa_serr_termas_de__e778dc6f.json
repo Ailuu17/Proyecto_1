@@ -1,0 +1,193 @@
+{
+  "search_metadata": {
+    "id": "6aa9653bafea45de5eb94485",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/CkJPn7HBJmKtWCE57c704KHKJROoFPGdEJjltaofwWI/6aa9653bafea45de5eb94485.json",
+    "markdown_endpoint": "https://serpapi.com/searches/CkJPn7HBJmKtWCE57c704KHKJROoFPGdEJjltaofwWI/6aa9653bafea45de5eb94485.md",
+    "created_at": "2026-09-15 15:33:15 UTC",
+    "processed_at": "2026-09-15 15:33:15 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22La+Paloma+Rocha%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222026-04-02+2026-04-05%22%7D%2C%7B%22keyword%22%3A%22La+Pedrera+Rocha%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222026-04-02+2026-04-05%22%7D%2C%7B%22keyword%22%3A%22Minas+Lavalleja%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222026-04-02+2026-04-05%22%7D%2C%7B%22keyword%22%3A%22Villa+Serrana%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222026-04-02+2026-04-05%22%7D%2C%7B%22keyword%22%3A%22Termas+de+Guaviy%C3%BA%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222026-04-02+2026-04-05%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/CkJPn7HBJmKtWCE57c704KHKJROoFPGdEJjltaofwWI/6aa9653bafea45de5eb94485.html",
+    "prettify_html_file": "https://serpapi.com/searches/CkJPn7HBJmKtWCE57c704KHKJROoFPGdEJjltaofwWI/6aa9653bafea45de5eb94485.prettify",
+    "total_time_taken": 6.09
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "La Paloma Rocha, La Pedrera Rocha, Minas Lavalleja, Villa Serrana, Termas de Guaviyú",
+    "hl": "en",
+    "geo": "UY",
+    "date": "2026-04-02 2026-04-05",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "Apr 2, 2026",
+        "timestamp": "1775088000",
+        "values": [
+          {
+            "query": "La Paloma Rocha",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "La Pedrera Rocha",
+            "query_index": 1,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Minas Lavalleja",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Villa Serrana",
+            "query_index": 3,
+            "value": "100",
+            "extracted_value": 100
+          },
+          {
+            "query": "Termas de Guaviyú",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Apr 3, 2026",
+        "timestamp": "1775174400",
+        "values": [
+          {
+            "query": "La Paloma Rocha",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "La Pedrera Rocha",
+            "query_index": 1,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Minas Lavalleja",
+            "query_index": 2,
+            "value": "89",
+            "extracted_value": 89
+          },
+          {
+            "query": "Villa Serrana",
+            "query_index": 3,
+            "value": "71",
+            "extracted_value": 71
+          },
+          {
+            "query": "Termas de Guaviyú",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Apr 4, 2026",
+        "timestamp": "1775260800",
+        "values": [
+          {
+            "query": "La Paloma Rocha",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "La Pedrera Rocha",
+            "query_index": 1,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Minas Lavalleja",
+            "query_index": 2,
+            "value": "75",
+            "extracted_value": 75
+          },
+          {
+            "query": "Villa Serrana",
+            "query_index": 3,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Termas de Guaviyú",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Apr 5, 2026",
+        "timestamp": "1775347200",
+        "values": [
+          {
+            "query": "La Paloma Rocha",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "La Pedrera Rocha",
+            "query_index": 1,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Minas Lavalleja",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Villa Serrana",
+            "query_index": 3,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Termas de Guaviyú",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      }
+    ],
+    "averages": [
+      {
+        "query": "La Paloma Rocha",
+        "value": 0
+      },
+      {
+        "query": "La Pedrera Rocha",
+        "value": 0
+      },
+      {
+        "query": "Minas Lavalleja",
+        "value": 41
+      },
+      {
+        "query": "Villa Serrana",
+        "value": 43
+      },
+      {
+        "query": "Termas de Guaviyú",
+        "value": 0
+      }
+    ]
+  }
+}

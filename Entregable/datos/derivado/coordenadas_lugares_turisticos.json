@@ -1,0 +1,128 @@
+[
+  {
+    "nombre": "Colonia del Sacramento",
+    "departamento": "Colonia",
+    "latitud": -34.4698592,
+    "longitud": -57.8433679,
+    "osm_display_name": "Colonia del Sacramento, Colonia, 70000, Uruguay"
+  },
+  {
+    "nombre": "Punta del Este",
+    "departamento": "Maldonado",
+    "latitud": -34.9632342,
+    "longitud": -54.9439981,
+    "osm_display_name": "Punta Del Este, Maldonado, 20100, Uruguay"
+  },
+  {
+    "nombre": "Piriápolis",
+    "departamento": "Maldonado",
+    "latitud": -34.8689037,
+    "longitud": -55.2724472,
+    "osm_display_name": "Piriápolis, Maldonado, 20200, Uruguay"
+  },
+  {
+    "nombre": "Cabo Polonio",
+    "departamento": "Rocha",
+    "latitud": -34.4028524,
+    "longitud": -53.7825007,
+    "osm_display_name": "Cabo Polonio, Rocha, 27200, Uruguay"
+  },
+  {
+    "nombre": "Punta Ballena",
+    "departamento": "Maldonado",
+    "latitud": -34.8901438,
+    "longitud": -55.0401144,
+    "osm_display_name": "Punta Ballena, Maldonado, 20003, Uruguay"
+  },
+  {
+    "nombre": "La Paloma",
+    "departamento": "Rocha",
+    "latitud": -34.6631811,
+    "longitud": -54.155092,
+    "osm_display_name": "La Paloma, Rocha, 27001, Uruguay"
+  },
+  {
+    "nombre": "La Pedrera",
+    "departamento": "Rocha",
+    "latitud": -34.5914951,
+    "longitud": -54.126862,
+    "osm_display_name": "La Pedrera, Rocha, 27004, Uruguay"
+  },
+  {
+    "nombre": "Minas",
+    "departamento": "Lavalleja",
+    "latitud": -34.3773987,
+    "longitud": -55.2382144,
+    "osm_display_name": "Minas, Lavalleja, 30000, Uruguay"
+  },
+  {
+    "nombre": "Villa Serrana",
+    "departamento": "Lavalleja",
+    "latitud": -34.3223672,
+    "longitud": -54.9893614,
+    "osm_display_name": "Villa Serrana, Lavalleja, 30000, Uruguay"
+  },
+  {
+    "nombre": "Las Termas de Guaviyú",
+    "departamento": "Paysandú",
+    "latitud": -31.8405054,
+    "longitud": -57.8868293,
+    "osm_display_name": "Termas de Guaviyú, Paysandú, 60200, Uruguay"
+  },
+  {
+    "nombre": "Las Termas del Daymán",
+    "departamento": "Salto",
+    "latitud": -31.4525017,
+    "longitud": -57.9083609,
+    "osm_display_name": "Termas del Daymán, Salto, 50000, Uruguay"
+  },
+  {
+    "nombre": "Paso de los Toros",
+    "departamento": "Tacuarembó",
+    "latitud": -32.8108095,
+    "longitud": -56.5174948,
+    "osm_display_name": "Paso de los Toros, Tacuarembó, 45100, Uruguay"
+  },
+  {
+    "nombre": "Montevideo",
+    "departamento": "Montevideo",
+    "latitud": -34.9058916,
+    "longitud": -56.1913095,
+    "osm_display_name": "Montevideo, Uruguay"
+  },
+  {
+    "nombre": "Atlántida",
+    "departamento": "Canelones",
+    "latitud": -34.7743888,
+    "longitud": -55.7605883,
+    "osm_display_name": "Atlántida, Municipio de Parque del Plata, Canelones, 16000, Uruguay"
+  },
+  {
+    "nombre": "La Floresta",
+    "departamento": "Canelones",
+    "latitud": -34.7537689,
+    "longitud": -55.675739,
+    "osm_display_name": "La Floresta, Canelones, 16200, Uruguay"
+  },
+  {
+    "nombre": "Salinas",
+    "departamento": "Canelones",
+    "latitud": -34.7818023,
+    "longitud": -55.8370115,
+    "osm_display_name": "Salinas, Municipio de Salinas, Canelones, 15100, Uruguay"
+  },
+  {
+    "nombre": "Punta del Diablo",
+    "departamento": "Rocha",
+    "latitud": -34.0449102,
+    "longitud": -53.5398091,
+    "osm_display_name": "Punta del Diablo, Rocha, 27204, Uruguay"
+  },
+  {
+    "nombre": "Santa Teresa",
+    "departamento": "Rocha",
+    "latitud": -33.9726871,
+    "longitud": -53.5488074,
+    "osm_display_name": "Fortaleza de Santa Teresa, Circunvalación, Rocha, Uruguay"
+  }
+]

@@ -1,0 +1,193 @@
+{
+  "search_metadata": {
+    "id": "6aa9648bbca7e57e89b6cab9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/OPzoMIlpi2Qxc4x5excMvgBFvdJSwRBBOHkrr3s2gZo/6aa9648bbca7e57e89b6cab9.json",
+    "markdown_endpoint": "https://serpapi.com/searches/OPzoMIlpi2Qxc4x5excMvgBFvdJSwRBBOHkrr3s2gZo/6aa9648bbca7e57e89b6cab9.md",
+    "created_at": "2026-09-15 15:30:19 UTC",
+    "processed_at": "2026-09-15 15:30:19 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Colonia+del+Sacramento%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222024-02-10+2024-02-13%22%7D%2C%7B%22keyword%22%3A%22Punta+del+Este%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222024-02-10+2024-02-13%22%7D%2C%7B%22keyword%22%3A%22Piri%C3%A1polis%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222024-02-10+2024-02-13%22%7D%2C%7B%22keyword%22%3A%22Cabo+Polonio%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222024-02-10+2024-02-13%22%7D%2C%7B%22keyword%22%3A%22Punta+Ballena%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222024-02-10+2024-02-13%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/OPzoMIlpi2Qxc4x5excMvgBFvdJSwRBBOHkrr3s2gZo/6aa9648bbca7e57e89b6cab9.html",
+    "prettify_html_file": "https://serpapi.com/searches/OPzoMIlpi2Qxc4x5excMvgBFvdJSwRBBOHkrr3s2gZo/6aa9648bbca7e57e89b6cab9.prettify",
+    "total_time_taken": 3.22
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Colonia del Sacramento, Punta del Este, Piriápolis, Cabo Polonio, Punta Ballena",
+    "hl": "en",
+    "geo": "UY",
+    "date": "2024-02-10 2024-02-13",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "Feb 10, 2024",
+        "timestamp": "1707523200",
+        "values": [
+          {
+            "query": "Colonia del Sacramento",
+            "query_index": 0,
+            "value": "10",
+            "extracted_value": 10
+          },
+          {
+            "query": "Punta del Este",
+            "query_index": 1,
+            "value": "98",
+            "extracted_value": 98
+          },
+          {
+            "query": "Piriápolis",
+            "query_index": 2,
+            "value": "6",
+            "extracted_value": 6
+          },
+          {
+            "query": "Cabo Polonio",
+            "query_index": 3,
+            "value": "5",
+            "extracted_value": 5
+          },
+          {
+            "query": "Punta Ballena",
+            "query_index": 4,
+            "value": "6",
+            "extracted_value": 6
+          }
+        ]
+      },
+      {
+        "date": "Feb 11, 2024",
+        "timestamp": "1707609600",
+        "values": [
+          {
+            "query": "Colonia del Sacramento",
+            "query_index": 0,
+            "value": "13",
+            "extracted_value": 13
+          },
+          {
+            "query": "Punta del Este",
+            "query_index": 1,
+            "value": "100",
+            "extracted_value": 100
+          },
+          {
+            "query": "Piriápolis",
+            "query_index": 2,
+            "value": "8",
+            "extracted_value": 8
+          },
+          {
+            "query": "Cabo Polonio",
+            "query_index": 3,
+            "value": "5",
+            "extracted_value": 5
+          },
+          {
+            "query": "Punta Ballena",
+            "query_index": 4,
+            "value": "6",
+            "extracted_value": 6
+          }
+        ]
+      },
+      {
+        "date": "Feb 12, 2024",
+        "timestamp": "1707696000",
+        "values": [
+          {
+            "query": "Colonia del Sacramento",
+            "query_index": 0,
+            "value": "14",
+            "extracted_value": 14
+          },
+          {
+            "query": "Punta del Este",
+            "query_index": 1,
+            "value": "92",
+            "extracted_value": 92
+          },
+          {
+            "query": "Piriápolis",
+            "query_index": 2,
+            "value": "5",
+            "extracted_value": 5
+          },
+          {
+            "query": "Cabo Polonio",
+            "query_index": 3,
+            "value": "4",
+            "extracted_value": 4
+          },
+          {
+            "query": "Punta Ballena",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Feb 13, 2024",
+        "timestamp": "1707782400",
+        "values": [
+          {
+            "query": "Colonia del Sacramento",
+            "query_index": 0,
+            "value": "9",
+            "extracted_value": 9
+          },
+          {
+            "query": "Punta del Este",
+            "query_index": 1,
+            "value": "79",
+            "extracted_value": 79
+          },
+          {
+            "query": "Piriápolis",
+            "query_index": 2,
+            "value": "5",
+            "extracted_value": 5
+          },
+          {
+            "query": "Cabo Polonio",
+            "query_index": 3,
+            "value": "7",
+            "extracted_value": 7
+          },
+          {
+            "query": "Punta Ballena",
+            "query_index": 4,
+            "value": "5",
+            "extracted_value": 5
+          }
+        ]
+      }
+    ],
+    "averages": [
+      {
+        "query": "Colonia del Sacramento",
+        "value": 12
+      },
+      {
+        "query": "Punta del Este",
+        "value": 92
+      },
+      {
+        "query": "Piriápolis",
+        "value": 6
+      },
+      {
+        "query": "Cabo Polonio",
+        "value": 5
+      },
+      {
+        "query": "Punta Ballena",
+        "value": 4
+      }
+    ]
+  }
+}

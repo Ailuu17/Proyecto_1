@@ -1,0 +1,32 @@
+[
+  {
+    "place_id": 15990610,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 2527673,
+    "lat": "-34.7743888",
+    "lon": "-55.7605883",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.39877480132620163,
+    "addresstype": "town",
+    "name": "Atlántida",
+    "display_name": "Atlántida, Municipio de Parque del Plata, Canelones, 16000, Uruguay",
+    "address": {
+      "town": "Atlántida",
+      "county": "Municipio de Parque del Plata",
+      "state": "Canelones",
+      "ISO3166-2-lvl4": "UY-CA",
+      "postcode": "16000",
+      "country": "Uruguay",
+      "country_code": "uy"
+    },
+    "boundingbox": [
+      "-34.7819534",
+      "-34.7440515",
+      "-55.7731740",
+      "-55.7430253"
+    ]
+  }
+]

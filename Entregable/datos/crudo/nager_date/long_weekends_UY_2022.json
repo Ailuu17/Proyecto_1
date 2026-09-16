@@ -1,0 +1,43 @@
+[
+  {
+    "startDate": "2022-01-06",
+    "endDate": "2022-01-09",
+    "dayCount": 4,
+    "needBridgeDay": true,
+    "bridgeDays": [
+      "2022-01-07"
+    ]
+  },
+  {
+    "startDate": "2022-02-26",
+    "endDate": "2022-03-01",
+    "dayCount": 4,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2022-04-14",
+    "endDate": "2022-04-19",
+    "dayCount": 6,
+    "needBridgeDay": true,
+    "bridgeDays": [
+      "2022-04-18"
+    ]
+  },
+  {
+    "startDate": "2022-07-16",
+    "endDate": "2022-07-18",
+    "dayCount": 3,
+    "needBridgeDay": false,
+    "bridgeDays": []
+  },
+  {
+    "startDate": "2022-08-25",
+    "endDate": "2022-08-28",
+    "dayCount": 4,
+    "needBridgeDay": true,
+    "bridgeDays": [
+      "2022-08-26"
+    ]
+  }
+]

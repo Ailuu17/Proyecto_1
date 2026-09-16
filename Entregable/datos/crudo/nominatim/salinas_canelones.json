@@ -1,0 +1,32 @@
+[
+  {
+    "place_id": 15968962,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 2578280,
+    "lat": "-34.7818023",
+    "lon": "-55.8370115",
+    "class": "boundary",
+    "type": "administrative",
+    "place_rank": 16,
+    "importance": 0.38867939096549164,
+    "addresstype": "city",
+    "name": "Salinas",
+    "display_name": "Salinas, Municipio de Salinas, Canelones, 15100, Uruguay",
+    "address": {
+      "city": "Salinas",
+      "county": "Municipio de Salinas",
+      "state": "Canelones",
+      "ISO3166-2-lvl4": "UY-CA",
+      "postcode": "15100",
+      "country": "Uruguay",
+      "country_code": "uy"
+    },
+    "boundingbox": [
+      "-34.7901847",
+      "-34.7595976",
+      "-55.8524151",
+      "-55.8270998"
+    ]
+  }
+]

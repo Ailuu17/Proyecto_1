@@ -1,0 +1,113 @@
+{
+  "search_metadata": {
+    "id": "6aa9650c5922f4fb6f8defff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/K01pTis_a3zuKWyLkvo3d0CV_mmOZv9I5gDxkB-N6YY/6aa9650c5922f4fb6f8defff.json",
+    "markdown_endpoint": "https://serpapi.com/searches/K01pTis_a3zuKWyLkvo3d0CV_mmOZv9I5gDxkB-N6YY/6aa9650c5922f4fb6f8defff.md",
+    "created_at": "2026-09-15 15:32:28 UTC",
+    "processed_at": "2026-09-15 15:32:28 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Salinas+Canelones%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222025-08-23+2025-08-25%22%7D%2C%7B%22keyword%22%3A%22Punta+del+Diablo%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222025-08-23+2025-08-25%22%7D%2C%7B%22keyword%22%3A%22Santa+Teresa+Rocha%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222025-08-23+2025-08-25%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/K01pTis_a3zuKWyLkvo3d0CV_mmOZv9I5gDxkB-N6YY/6aa9650c5922f4fb6f8defff.html",
+    "prettify_html_file": "https://serpapi.com/searches/K01pTis_a3zuKWyLkvo3d0CV_mmOZv9I5gDxkB-N6YY/6aa9650c5922f4fb6f8defff.prettify",
+    "total_time_taken": 1.3
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Salinas Canelones, Punta del Diablo, Santa Teresa Rocha",
+    "hl": "en",
+    "geo": "UY",
+    "date": "2025-08-23 2025-08-25",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "Aug 23, 2025",
+        "timestamp": "1755907200",
+        "values": [
+          {
+            "query": "Salinas Canelones",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Punta del Diablo",
+            "query_index": 1,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Santa Teresa Rocha",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Aug 24, 2025",
+        "timestamp": "1755993600",
+        "values": [
+          {
+            "query": "Salinas Canelones",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Punta del Diablo",
+            "query_index": 1,
+            "value": "92",
+            "extracted_value": 92
+          },
+          {
+            "query": "Santa Teresa Rocha",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "Aug 25, 2025",
+        "timestamp": "1756080000",
+        "values": [
+          {
+            "query": "Salinas Canelones",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Punta del Diablo",
+            "query_index": 1,
+            "value": "100",
+            "extracted_value": 100
+          },
+          {
+            "query": "Santa Teresa Rocha",
+            "query_index": 2,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      }
+    ],
+    "averages": [
+      {
+        "query": "Salinas Canelones",
+        "value": 0
+      },
+      {
+        "query": "Punta del Diablo",
+        "value": 64
+      },
+      {
+        "query": "Santa Teresa Rocha",
+        "value": 0
+      }
+    ]
+  }
+}

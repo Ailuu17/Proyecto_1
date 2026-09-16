@@ -1,0 +1,193 @@
+{
+  "search_metadata": {
+    "id": "6aa964e7c986af01b55ab05c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Z3PzQxqqVASQ07TbBk_YPm9-sszH3HGttlIJQDZrQrI/6aa964e7c986af01b55ab05c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Z3PzQxqqVASQ07TbBk_YPm9-sszH3HGttlIJQDZrQrI/6aa964e7c986af01b55ab05c.md",
+    "created_at": "2026-09-15 15:31:51 UTC",
+    "processed_at": "2026-09-15 15:31:51 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Termas+del+Daym%C3%A1n%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222025-05-01+2025-05-04%22%7D%2C%7B%22keyword%22%3A%22Paso+de+los+Toros%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222025-05-01+2025-05-04%22%7D%2C%7B%22keyword%22%3A%22Montevideo%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222025-05-01+2025-05-04%22%7D%2C%7B%22keyword%22%3A%22Atl%C3%A1ntida+Canelones%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222025-05-01+2025-05-04%22%7D%2C%7B%22keyword%22%3A%22La+Floresta+Canelones%22%2C%22geo%22%3A%22UY%22%2C%22time%22%3A%222025-05-01+2025-05-04%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/Z3PzQxqqVASQ07TbBk_YPm9-sszH3HGttlIJQDZrQrI/6aa964e7c986af01b55ab05c.html",
+    "prettify_html_file": "https://serpapi.com/searches/Z3PzQxqqVASQ07TbBk_YPm9-sszH3HGttlIJQDZrQrI/6aa964e7c986af01b55ab05c.prettify",
+    "total_time_taken": 6.12
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Termas del Daymán, Paso de los Toros, Montevideo, Atlántida Canelones, La Floresta Canelones",
+    "hl": "en",
+    "geo": "UY",
+    "date": "2025-05-01 2025-05-04",
+    "tz": "420",
+    "data_type": "TIMESERIES"
+  },
+  "interest_over_time": {
+    "timeline_data": [
+      {
+        "date": "May 1, 2025",
+        "timestamp": "1746057600",
+        "values": [
+          {
+            "query": "Termas del Daymán",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Paso de los Toros",
+            "query_index": 1,
+            "value": "1",
+            "extracted_value": 1
+          },
+          {
+            "query": "Montevideo",
+            "query_index": 2,
+            "value": "82",
+            "extracted_value": 82
+          },
+          {
+            "query": "Atlántida Canelones",
+            "query_index": 3,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "La Floresta Canelones",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "May 2, 2025",
+        "timestamp": "1746144000",
+        "values": [
+          {
+            "query": "Termas del Daymán",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Paso de los Toros",
+            "query_index": 1,
+            "value": "1",
+            "extracted_value": 1
+          },
+          {
+            "query": "Montevideo",
+            "query_index": 2,
+            "value": "85",
+            "extracted_value": 85
+          },
+          {
+            "query": "Atlántida Canelones",
+            "query_index": 3,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "La Floresta Canelones",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "May 3, 2025",
+        "timestamp": "1746230400",
+        "values": [
+          {
+            "query": "Termas del Daymán",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Paso de los Toros",
+            "query_index": 1,
+            "value": "1",
+            "extracted_value": 1
+          },
+          {
+            "query": "Montevideo",
+            "query_index": 2,
+            "value": "81",
+            "extracted_value": 81
+          },
+          {
+            "query": "Atlántida Canelones",
+            "query_index": 3,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "La Floresta Canelones",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      },
+      {
+        "date": "May 4, 2025",
+        "timestamp": "1746316800",
+        "values": [
+          {
+            "query": "Termas del Daymán",
+            "query_index": 0,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "Paso de los Toros",
+            "query_index": 1,
+            "value": "1",
+            "extracted_value": 1
+          },
+          {
+            "query": "Montevideo",
+            "query_index": 2,
+            "value": "100",
+            "extracted_value": 100
+          },
+          {
+            "query": "Atlántida Canelones",
+            "query_index": 3,
+            "value": "0",
+            "extracted_value": 0
+          },
+          {
+            "query": "La Floresta Canelones",
+            "query_index": 4,
+            "value": "0",
+            "extracted_value": 0
+          }
+        ]
+      }
+    ],
+    "averages": [
+      {
+        "query": "Termas del Daymán",
+        "value": 0
+      },
+      {
+        "query": "Paso de los Toros",
+        "value": 1
+      },
+      {
+        "query": "Montevideo",
+        "value": 87
+      },
+      {
+        "query": "Atlántida Canelones",
+        "value": 0
+      },
+      {
+        "query": "La Floresta Canelones",
+        "value": 0
+      }
+    ]
+  }
+}

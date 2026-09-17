@@ -1,4 +1,4 @@
-#Integrantes del proyecto:
+# Integrantes del proyecto:
 - Lara Canío
 - Julieta Fernandez
 - Sabrina Pereira
